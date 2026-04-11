@@ -1,0 +1,24 @@
+rss_feeds:
+  - name: "arxiv-cs-ai-cl-lg"
+    url: "https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG"
+    type: "arxiv"
+
+  - name: "anthropic-blog"
+    url: "http://localhost:1200/anthropic/blog"
+    type: "blog"
+
+  - name: "openai-blog"
+    url: "http://localhost:1200/openai/blog"
+    type: "blog"
+
+  - name: "deepmind-blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    type: "blog"
+
+  - name: "import-ai"
+    url: "https://importai.substack.com/feed"
+    type: "newsletter"
+
+hackernews:
+  enabled: true
+  keywords_file: "config/filter_rules.yaml"

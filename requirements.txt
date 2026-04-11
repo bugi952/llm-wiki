@@ -1,0 +1,32 @@
+# Claude API
+anthropic>=0.40
+
+# RSS
+feedparser>=6.0
+
+# HTTP
+requests>=2.31
+beautifulsoup4>=4.12
+
+# arXiv
+arxiv>=2.1
+PyMuPDF>=1.24
+
+# 경제 데이터
+fredapi>=0.5
+
+# 텔레그램
+python-telegram-bot>=21.0
+
+# 설정
+pyyaml>=6.0
+python-dotenv>=1.0
+
+# Git (sync)
+gitpython>=3.1
+
+# 시스템
+schedule>=1.2
+
+# 테스트
+pytest>=8.0

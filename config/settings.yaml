@@ -1,0 +1,34 @@
+scheduler:
+  interval_hours: 6
+  timezone: "Asia/Seoul"
+
+filter:
+  topic_confidence_threshold: 0.5
+  quality_score_threshold: 3.0
+  max_content_length_topic: 500
+  max_content_length_quality: 1000
+
+wiki:
+  archive_after_days: 30
+  remove_from_index_after_days: 90
+  max_index_items: 50
+
+claude:
+  model: "claude-haiku-4-5-20251001"
+
+hackernews:
+  min_score: 50
+  top_n: 100
+
+arxiv:
+  categories: ["cs.AI", "cs.CL", "cs.LG"]
+  full_text_on_pass: true
+
+sync:
+  auto_push: true
+  remote: "origin"
+  branch: "main"
+
+telegram:
+  notify_on_urgent: true
+  weekly_report: true

@@ -1,0 +1,30 @@
+fred:
+  series:
+    - id: "GDP"
+      name: "미국 GDP"
+    - id: "CPIAUCSL"
+      name: "미국 CPI"
+    - id: "UNRATE"
+      name: "미국 실업률"
+    - id: "FEDFUNDS"
+      name: "연방기금금리"
+    - id: "T10Y2Y"
+      name: "10Y-2Y 스프레드"
+    - id: "DGS10"
+      name: "10년 국채금리"
+
+ecos:
+  series:
+    - code: "722Y001"
+      name: "기준금리"
+    - code: "901Y009"
+      name: "소비자물가지수"
+
+finnhub:
+  countries: ["US", "KR"]
+  min_impact: "medium"
+
+rss_feeds:
+  - name: "stlouis-fed"
+    url: "https://www.stlouisfed.org/rss"
+    type: "central_bank"
