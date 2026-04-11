@@ -162,6 +162,31 @@ async def notify_urgent(app, title, summary):
         await app.bot.send_message(chat_id=CHAT_ID, text=msg)
 
 
+async def send_weekly_report(app):
+    """Send weekly report via Telegram. Called from scheduler on Sundays."""
+    if not CHAT_ID:
+        return
+
+    conn = get_db()
+    init_db(conn)
+    stats = _get_weekly_stats(conn)
+
+    from wiki.linter import lint_vault, format_report
+    lint_report = lint_vault()
+    lint_text = format_report(lint_report)
+
+    conn.close()
+
+    msg = (
+        f"📊 주간 리포트\n"
+        f"수집: {stats['collected']}건\n"
+        f"필터 통과: {stats['quality_passed']}건\n"
+        f"Wiki 추가: {stats['ingested']}건\n\n"
+        f"{lint_text}"
+    )
+    await app.bot.send_message(chat_id=CHAT_ID, text=msg)
+
+
 def main():
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(name)s %(levelname)s %(message)s")
 

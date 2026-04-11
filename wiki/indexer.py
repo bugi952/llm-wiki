@@ -1,6 +1,8 @@
 import logging
 import os
-from datetime import datetime
+from datetime import datetime, date, timedelta
+
+from config import get_config
 
 logger = logging.getLogger(__name__)
 
@@ -28,20 +30,42 @@ def _parse_frontmatter(filepath):
     return fields
 
 
+def _classify_by_age(entries):
+    """Split entries into active, archive, and expired based on date."""
+    cfg = get_config()
+    archive_days = cfg["wiki"]["archive_after_days"]
+    remove_days = cfg["wiki"]["remove_from_index_after_days"]
+
+    today = date.today()
+    archive_cutoff = (today - timedelta(days=archive_days)).isoformat()
+    remove_cutoff = (today - timedelta(days=remove_days)).isoformat()
+
+    active = []
+    archive = []
+    for e in entries:
+        entry_date = e.get("date", "")
+        if not entry_date or entry_date < remove_cutoff:
+            continue  # 90+ days: remove from index (file kept)
+        elif entry_date < archive_cutoff:
+            archive.append(e)  # 30-90 days: archive section
+        else:
+            active.append(e)
+    return active, archive
+
+
 def _build_index_content(domain, entries):
-    """Build index.md content from a list of entries sorted by importance."""
+    """Build index.md content from entries, with archive section for old items."""
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     parts = [f"# {domain.upper()} 인덱스", f"최종 갱신: {now}", ""]
 
-    urgent = [e for e in entries if e["importance"] == "urgent"]
-    other = [e for e in entries if e["importance"] != "urgent"]
+    active, archive = _classify_by_age(entries)
 
-    # Sort each group by date descending
+    urgent = [e for e in active if e["importance"] == "urgent"]
+    other = [e for e in active if e["importance"] != "urgent"]
+
     urgent.sort(key=lambda e: e.get("date", ""), reverse=True)
     other.sort(key=lambda e: (IMPORTANCE_ORDER.get(e["importance"], 3), e.get("date", "")),
                reverse=False)
-    # Re-sort: importance first, then date descending within same importance
-    other.sort(key=lambda e: (IMPORTANCE_ORDER.get(e["importance"], 3), ""), reverse=False)
 
     if urgent:
         parts.append("## 긴급")
@@ -52,6 +76,13 @@ def _build_index_content(domain, entries):
     if other:
         parts.append("## 주제별")
         for e in other:
+            parts.append(f"- [{e['title']}]({e['filename']})")
+        parts.append("")
+
+    if archive:
+        archive.sort(key=lambda e: e.get("date", ""), reverse=True)
+        parts.append("## 아카이브")
+        for e in archive:
             parts.append(f"- [{e['title']}]({e['filename']})")
         parts.append("")
 

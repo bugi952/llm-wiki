@@ -1,0 +1,11 @@
+# LLM Wiki crontab (bugi)
+# 설치: crontab crontab.txt
+
+# SQLite 백업 (매일 05:50 UTC)
+50 5 * * * cp /home/bugi/llm-wiki/data/wiki.db /home/bugi/llm-wiki/data/wiki.db.bak
+
+# 메인 수집+필터+인제스트+동기화 (6시간 간격: 00, 06, 12, 18 UTC)
+0 0,6,12,18 * * * cd /home/bugi/llm-wiki && .venv/bin/python scheduler.py auto >> data/logs/cron.log 2>&1
+
+# 주간 점검 (일요일 04:00 UTC)
+0 4 * * 0 cd /home/bugi/llm-wiki && .venv/bin/python -m wiki.linter >> data/logs/lint.log 2>&1

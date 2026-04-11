@@ -1,8 +1,9 @@
 import os
+from datetime import date, timedelta
 from unittest.mock import patch
 import pytest
 from db import get_db, init_db
-from wiki.indexer import update_index
+from wiki.indexer import update_index, _classify_by_age
 
 
 @pytest.fixture
@@ -181,3 +182,18 @@ def test_update_index_creates_global_index(db, vault_dir):
     content = open(global_index).read()
     assert "Scaling Laws v2" in content
     assert "ai/" in content  # relative path includes domain
+
+
+def test_classify_by_age():
+    today = date.today()
+    entries = [
+        {"title": "Fresh", "date": today.isoformat(), "importance": "insight"},
+        {"title": "Old 45d", "date": (today - timedelta(days=45)).isoformat(), "importance": "background"},
+        {"title": "Ancient 100d", "date": (today - timedelta(days=100)).isoformat(), "importance": "background"},
+    ]
+    active, archive = _classify_by_age(entries)
+    assert len(active) == 1
+    assert active[0]["title"] == "Fresh"
+    assert len(archive) == 1
+    assert archive[0]["title"] == "Old 45d"
+    # Ancient (100d) should be removed entirely
