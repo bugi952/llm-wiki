@@ -6,7 +6,8 @@ Obsidian vault로 건재에게 전달, 건재가 선별해 Think Tank에 수동 
 ## 환경
 - 작업 디렉토리: /home/bugi/llm-wiki/
 - Python venv: .venv/
-- 시크릿: .env (ANTHROPIC_API_KEY, FRED_API_KEY, ECOS_API_KEY, FINNHUB_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+- 시크릿: .env (FRED_API_KEY, ECOS_API_KEY, FINNHUB_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+- Claude: API 키 불필요. Claude Code CLI + Max 구독 (VPS에서 `claude login` 완료)
 - GitHub: SSH 키 또는 PAT (vault 레포 push용)
 
 ## Owner Profile
@@ -16,17 +17,17 @@ Obsidian vault로 건재에게 전달, 건재가 선별해 Think Tank에 수동 
 - Wiki는 중간 저장소. Think Tank과 중복되는 지식 축적 금지
 
 ## Tech Stack
-Python 3.12+ / Claude API (Haiku) / SQLite / feedparser / Telegram Bot API / GitPython / crontab + systemd
+Python 3.12+ / Claude Code CLI (Haiku, Max 구독) / SQLite / feedparser / Telegram Bot API / GitPython / crontab + systemd
 
 ## Hard Rules
 
 ### Tier 0 -- 절대 불변 (어떤 상황에서도 위반 금지)
 - **설계 문서가 진리.** docs/의 설계가 모든 구현 결정의 근거. 임의 변경/확장 금지
-- **LLM 호출 최소화.** domain 고정 소스는 Filter A LLM 스킵. indexer는 증분만
+- **CLI 호출 최소화.** domain 고정 소스는 Filter A CLI 스킵. indexer는 증분만. 모든 LLM 호출은 `claude -p --model haiku` subprocess
 - **vault/raw/는 Git에 안 올림.** .gitignore 필수. PDF는 VPS에만 보관
 - **수동 인풋은 즉시 처리.** 건재가 텔레그램으로 던지면 크론 대기 없이 즉시 파이프라인
-- **추가 비용 $0.** 무료 API만 사용 (Claude API 제외)
-- **일일 Haiku 300회 한도.** 초과 시 파이프라인 중단 + 텔레그램 알림
+- **추가 비용 $0.** 무료 API만 사용. Claude는 Max 구독 CLI로 $0
+- **일일 CLI 300회 한도.** 초과 시 파이프라인 중단 + 텔레그램 알림. rate limit 시 60초 대기 후 재시도
 - **no hardcoded secrets.** 모든 credential은 환경변수
 - **idempotent.** 같은 소스 두 번 수집해도 중복 생성 안 됨
 
@@ -58,7 +59,7 @@ Python 3.12+ / Claude API (Haiku) / SQLite / feedparser / Telegram Bot API / Git
 
 ### 예외 -- 멈추고 건재에게 확인
 - 설계 문서 간 모순 발견
-- API 인증 변경 (FRED, ECOS, Finnhub, Claude, Telegram)
+- API 인증 변경 (FRED, ECOS, Finnhub, Telegram)
 - DB 스키마 변경 (기존 데이터 영향)
 - 새 외부 의존성 추가 필요
 - RSSHub 라우트 변경 필요

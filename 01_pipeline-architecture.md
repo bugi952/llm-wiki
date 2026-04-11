@@ -69,7 +69,7 @@ llm-wiki/
 매 6시간 (크론):
   1. 락 파일 확인 → 있으면 중단 (1시간+ 스테일 → 삭제 + 알림)
   2. 락 파일 생성
-  3. 일일 API 호출 카운터 확인 → 300회 초과 시 중단 + 알림
+  3. 일일 CLI 호출 카운터 확인 → 300회 초과 시 중단 + 알림
   4. collector 전체 실행 → 새 소스 수집
   5. filter/topic → 주제 분류 (혼합 소스만 LLM, 나머지는 config 고정)
   6. filter/quality → 품질 채점 (통과분만)
@@ -267,17 +267,15 @@ def process_telegram_input(message):
    - FRED/ECOS/Finnhub/StLouis Fed → domain='macro', 바로 topic_pass
    - Anthropic/OpenAI/DeepMind 블로그 → domain='ai', 바로 topic_pass
    - 수동 인풋 (건재가 직접 넣은 것) → domain='ai' 또는 'macro' 건재에게 물음
-3. 혼합 소스만 Claude Haiku 호출:
+3. 혼합 소스만 Claude CLI 호출 (claude -p --model haiku):
    - Hacker News (AI/기타 혼재)
    - 기타 일반 RSS
-   System: "분류기. 주어진 텍스트가 AI, Macro, 또는 무관한지 판별."
-   User: "제목: {title}\n내용: {content[:500]}"
-   응답: {"domain": "ai" | "macro" | "irrelevant", "confidence": 0.0~1.0}
+   프롬프트: "분류기. 주어진 텍스트가 AI, Macro, 또는 무관한지 판별.\n\n제목: {title}\n내용: {content[:500]}\n\nJSON만 출력: {\"domain\": \"ai\"|\"macro\"|\"irrelevant\", \"confidence\": 0.0~1.0}"
 4. irrelevant → status='topic_fail'
 5. ai/macro + confidence >= threshold → status='topic_pass'
 
-# 비용 절약: 혼합 소스만 LLM 호출 → 하루 ~20건 (HN 위주)
-# 나머지 ~130건은 config 기반 자동 분류 → LLM 비용 $0
+# 비용 절약: 혼합 소스만 CLI 호출 → 하루 ~20건 (HN 위주)
+# 나머지 ~130건은 config 기반 자동 분류 → CLI 호출 $0
 ```
 
 ### 2-8. filter/quality.py — Filter B: 품질+신규성 채점
@@ -289,9 +287,10 @@ def process_telegram_input(message):
 # 로직
 1. DB에서 status='topic_pass' 조회
 2. 해당 domain의 index.md 로드 (기존 지식 맥락)
-3. 각 소스에 대해 Claude Haiku 호출:
-   System: "품질 평가기. 기존 Wiki 지식 대비 새로운 가치가 있는지 판별."
-   User: """
+3. 각 소스에 대해 Claude CLI 호출 (claude -p --model haiku):
+   프롬프트: """
+     품질 평가기. 기존 Wiki 지식 대비 새로운 가치가 있는지 판별.
+
      기존 Wiki 인덱스:
      {index_md_content}
 
@@ -299,19 +298,9 @@ def process_telegram_input(message):
      제목: {title}
      내용: {content[:1000]}
 
-     평가:
-     1. 신규성 (1-5): 기존 지식에 없는 새 정보?
-     2. 중요도 (1-5): 건재의 의사결정/사고에 영향?
-     3. 신뢰도 (1-5): 출처 신뢰할 수 있는가?
+     평가 후 JSON만 출력:
+     {"novelty": 1-5, "importance": 1-5, "reliability": 1-5, "average": float, "importance_tag": "urgent|insight|connection|background", "reason": "한줄"}
    """
-   응답: {
-     "novelty": 4,
-     "importance": 3,
-     "reliability": 5,
-     "average": 4.0,
-     "importance_tag": "insight",
-     "reason": "스케일링 법칙에 대한 새로운 실험 결과"
-   }
 4. average >= 3.0 → status='quality_pass'
 5. average < 3.0 → status='quality_fail'
 
@@ -321,7 +310,7 @@ def process_telegram_input(message):
 # - "connection": 기존 Wiki 주제와 교차
 # - "background": 급하지 않지만 참고할 만함
 
-# 하루 ~30건 (80% 탈락 후) × Haiku → 매우 저렴
+# 하루 ~30건 (80% 탈락 후) × CLI Haiku → Max 구독 내
 ```
 
 ### 2-9. wiki/ingest.py — 요약 생성
@@ -336,30 +325,18 @@ def process_telegram_input(message):
    - arxiv 패키지 → PDF 다운로드 → vault/raw/에 저장 (VPS만, .gitignore)
    - PyMuPDF로 텍스트 추출
    - 추출 실패 시: 초록 기반 요약으로 폴백 + 로그 "pdf_extract_failed"
-3. Claude Haiku 호출:
-   System: "지식 요약기. 핵심 내용을 간결하게 정리."
-   User: """
+3. Claude CLI 호출 (claude -p --model haiku):
+   프롬프트: """
+     지식 요약기. 핵심 내용을 간결하게 정리.
+
      출처: {source_type} / {feed_name}
      제목: {title}
      URL: {url}
      내용:
      {content}
 
-     요약 형식:
-     ---
-     title: (제목)
-     source: (출처 이름)
-     url: (원본 URL)
-     date: (발행일)
-     domain: (ai/macro)
-     importance: (urgent/insight/connection/background)
-     ---
-
-     ## 핵심
-     (3~5줄 요약)
-
-     ## 새로운 점
-     (기존 지식 대비 뭐가 새로운지)
+     아래 형식의 JSON만 출력:
+     {"summary": "3~5줄 요약", "whats_new": "기존 지식 대비 뭐가 새로운지"}
    """
 4. vault/{domain}/{slug}.md로 저장
 5. DB status='ingested' + 파일 경로 기록
@@ -380,7 +357,7 @@ def process_telegram_input(message):
 3. 새 파일 각각에 대해:
    a. 프론트매터에서 importance, date 추출
    b. 기존 그룹 중 매칭되는 주제 있으면 → 해당 그룹에 추가
-   c. 매칭 안 되면 → Claude Haiku 호출: "이 소스의 주제 그룹 제안"
+   c. 매칭 안 되면 → Claude CLI 호출 (claude -p --model haiku): "이 소스의 주제 그룹 제안"
       → 새 그룹 생성 또는 기존 그룹에 매칭
 4. importance 기준 정렬:
    - 1차: importance (urgent > insight > connection > background)
@@ -411,9 +388,9 @@ def process_telegram_input(message):
 # - 30일 지난 항목 → "아카이브" 섹션으로 이동
 # - 90일 지난 항목 → index에서 제거 (파일은 유지)
 
-# LLM 호출 최소화:
-# - 기존 그룹 매칭은 키워드 기반 (LLM 불필요)
-# - 새 그룹 생성 시만 Haiku 호출
+# CLI 호출 최소화:
+# - 기존 그룹 매칭은 키워드 기반 (CLI 불필요)
+# - 새 그룹 생성 시만 CLI Haiku 호출
 # - 핵심 흐름 재생성은 변경된 그룹만
 ```
 
@@ -446,7 +423,7 @@ def process_telegram_input(message):
 - 긴급(urgent) 소스 발견 시 즉시 알림
 - 주간 리포트: 수집 N건 → 필터 통과 N건 → Wiki 추가 N건
 - RSSHub 장애 1일+ 지속 시 알림
-- 일일 API 호출 한도 초과 시 알림
+- 일일 CLI 호출 한도 초과 시 알림
 - 스테일 락 (1시간+) 감지 시 알림
 
 # 수동 인풋 처리
@@ -528,14 +505,15 @@ CREATE TABLE system_log (
 
 ### 비용/한도
 ```
-일일 Haiku 호출 한도:  300회 (Filter A ~20 + Filter B ~30 + Ingest ~15 + Indexer ~5 = 여유 있음)
+일일 CLI 호출 한도:   300회 (Filter A ~20 + Filter B ~30 + Ingest ~15 + Indexer ~5 = 여유 있음)
 초과 시:             파이프라인 중단 + 텔레그램 알림
-카운터:              DB system_log에서 당일 LLM 호출 건수 집계
+카운터:              DB system_log에서 당일 CLI 호출 건수 집계
+호출 방식:           subprocess → claude -p --model haiku (Max 구독)
 ```
 
 ### 장애 대응
 ```
-Claude API 실패:     지수 백오프 (1s → 2s → 4s → 8s), 최대 5회 재시도
+Claude CLI 실패:     지수 백오프 (1s → 2s → 4s → 8s), 최대 5회 재시도. rate limit 시 60초 대기
 RSS 피드 실패:       해당 피드 스킵, 다음 크론에서 재시도
 RSSHub 장애:        커뮤니티 RSS 폴백 URL로 전환. 1일+ 지속 시 알림
 FRED/ECOS API 실패:  스킵 + 로그. 경제지표는 지연돼도 소실 안 됨
@@ -582,8 +560,8 @@ wiki:
   max_index_items: 50                  # index.md 최대 항목 수
 
 claude:
-  model: "claude-haiku-4-5-20251001"   # 전부 Haiku
-  # ANTHROPIC_API_KEY는 환경 변수
+  model: "haiku"                        # claude -p --model haiku (Max 구독, API 키 불필요)
+  cli_timeout: 120                      # subprocess 타임아웃 (초)
 
 hackernews:
   min_score: 50                        # 최소 점수
@@ -704,8 +682,8 @@ macro_keywords:
 ## 5. 환경 변수 (.env, gitignore)
 
 ```bash
-# Claude API
-ANTHROPIC_API_KEY=sk-ant-...
+# Claude: API 키 불필요 (Claude Code CLI + Max 구독)
+# VPS에서 `claude login` 완료 필요
 
 # FRED
 FRED_API_KEY=...
@@ -731,8 +709,8 @@ TELEGRAM_CHAT_ID=123456789
 ```txt
 # requirements.txt
 
-# Claude API
-anthropic>=0.40
+# Claude: CLI 사용 (pip 의존성 없음, npm으로 별도 설치)
+# npm install -g @anthropic-ai/claude-code
 
 # RSS
 feedparser>=6.0
@@ -812,8 +790,8 @@ __pycache__/
 Phase 1: MVP — 첫 자동 수집 + Wiki 페이지
   1. DB 스키마 생성 (SQLite)
   2. collector/rss.py — arXiv + DeepMind RSS 수집
-  3. filter/topic.py — 주제 분류 (Haiku)
-  4. filter/quality.py — 품질 채점 (Haiku)
+  3. filter/topic.py — 주제 분류 (Claude CLI Haiku)
+  4. filter/quality.py — 품질 채점 (Claude CLI Haiku)
   5. wiki/ingest.py — 요약 생성
   6. wiki/indexer.py — index.md 생성
   7. sync.py — Git push

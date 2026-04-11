@@ -2,8 +2,7 @@ import json
 import logging
 import os
 
-import anthropic
-from db import increment_api_count
+from llm import claude_call
 
 logger = logging.getLogger(__name__)
 
@@ -20,29 +19,20 @@ def _load_index_md(domain):
 
 
 def call_haiku_quality(title, content, index_context, conn):
-    """Call Claude Haiku to score quality + novelty. Returns dict."""
-    client = anthropic.Anthropic()
-    increment_api_count(conn)
+    """Call Claude CLI to score quality + novelty. Returns dict."""
+    prompt = f"""품질 평가기. 기존 Wiki 지식 대비 새로운 가치가 있는지 판별.
 
-    resp = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=300,
-        system="품질 평가기. 기존 Wiki 지식 대비 새로운 가치가 있는지 판별. JSON으로 응답.",
-        messages=[{"role": "user", "content": f"""기존 Wiki 인덱스:
+기존 Wiki 인덱스:
 {index_context}
 
 새 소스:
 제목: {title}
 내용: {content[:1000]}
 
-평가 (JSON):
-{{"novelty": 1-5, "importance": 1-5, "reliability": 1-5, "average": float, "importance_tag": "urgent"|"insight"|"connection"|"background", "reason": "한줄"}}"""}],
-    )
+평가 후 JSON만 출력:
+{{"novelty": 1-5, "importance": 1-5, "reliability": 1-5, "average": float, "importance_tag": "urgent"|"insight"|"connection"|"background", "reason": "한줄"}}"""
 
-    text = resp.content[0].text.strip()
-    if "{" in text:
-        text = text[text.index("{"):text.rindex("}") + 1]
-    return json.loads(text)
+    return claude_call(prompt, conn=conn, expect_json=True)
 
 
 def filter_quality(conn, threshold=QUALITY_SCORE_THRESHOLD):

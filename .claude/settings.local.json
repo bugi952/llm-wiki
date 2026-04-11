@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(/home/bugi/llm-wiki/.venv/bin/pip install:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(dpkg -l gh)",
+      "Bash(snap list:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(.venv/bin/python -m pytest tests/test_db.py -v)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(claude:*)"
+    ]
+  }
+}

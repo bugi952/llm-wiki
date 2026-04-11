@@ -14,7 +14,8 @@ wiki:
   max_index_items: 50
 
 claude:
-  model: "claude-haiku-4-5-20251001"
+  model: "haiku"                        # claude -p --model haiku (Max 구독, API 키 불필요)
+  cli_timeout: 120                      # subprocess 타임아웃 (초)
 
 hackernews:
   min_score: 50

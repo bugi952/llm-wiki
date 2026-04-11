@@ -1,10 +1,8 @@
-import json
 import logging
 import os
 import re
 
-import anthropic
-from db import increment_api_count
+from llm import claude_call
 
 logger = logging.getLogger(__name__)
 
@@ -19,21 +17,13 @@ def _make_slug(title):
 
 
 def call_haiku_ingest(title, content, source_type, feed_name, conn):
-    """Call Haiku to generate summary. Returns dict with summary + whats_new."""
-    client = anthropic.Anthropic()
-    increment_api_count(conn)
-
-    resp = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=500,
-        system="지식 요약기. 핵심 내용을 간결하게 정리. JSON으로 응답: {\"summary\": \"3~5줄 요약\", \"whats_new\": \"기존 지식 대비 새로운 점\"}",
-        messages=[{"role": "user", "content": f"출처: {source_type} / {feed_name}\n제목: {title}\n내용:\n{content}"}],
+    """Call Claude CLI to generate summary. Returns dict with summary + whats_new."""
+    prompt = (
+        "지식 요약기. 핵심 내용을 간결하게 정리.\n\n"
+        f"출처: {source_type} / {feed_name}\n제목: {title}\n내용:\n{content}\n\n"
+        'JSON만 출력: {"summary": "3~5줄 요약", "whats_new": "기존 지식 대비 새로운 점"}'
     )
-
-    text = resp.content[0].text.strip()
-    if "{" in text:
-        text = text[text.index("{"):text.rindex("}") + 1]
-    return json.loads(text)
+    return claude_call(prompt, conn=conn, expect_json=True)
 
 
 def ingest(conn, vault_dir="vault"):
