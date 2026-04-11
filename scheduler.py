@@ -77,7 +77,7 @@ def run_auto(conn):
 
         # 1. Collect
         feeds = _load_feeds()
-        collected = collect_rss(conn, feeds, delay=0)
+        collected = collect_rss(conn, feeds, delay=3)
         result["collected"] = collected
         log_event(conn, "collect", json.dumps({"count": collected}))
 
@@ -102,6 +102,9 @@ def run_auto(conn):
         sync_result = sync_vault()
         result["sync"] = sync_result
 
+        # 7. Update filter_stats
+        _update_filter_stats(conn, result)
+
         log_event(conn, "pipeline", json.dumps(result))
         logger.info("Pipeline complete: %s", result)
 
@@ -109,6 +112,37 @@ def run_auto(conn):
         release_lock()
 
     return result
+
+
+def _update_filter_stats(conn, result):
+    """Insert or update today's filter_stats row."""
+    from datetime import date
+    today = date.today().isoformat()
+    try:
+        conn.execute(
+            """INSERT INTO filter_stats (date, total_collected, topic_passed, topic_failed,
+               quality_passed, quality_failed, ingested)
+               VALUES (?, ?, ?, ?, ?, ?, ?)""",
+            (today, result.get("collected", 0), result.get("topic_passed", 0),
+             result.get("topic_failed", 0), result.get("quality_passed", 0),
+             result.get("quality_failed", 0), result.get("ingested", 0)),
+        )
+    except Exception:
+        # Date already exists — accumulate
+        conn.execute(
+            """UPDATE filter_stats SET
+               total_collected = total_collected + ?,
+               topic_passed = topic_passed + ?,
+               topic_failed = topic_failed + ?,
+               quality_passed = quality_passed + ?,
+               quality_failed = quality_failed + ?,
+               ingested = ingested + ?
+               WHERE date = ?""",
+            (result.get("collected", 0), result.get("topic_passed", 0),
+             result.get("topic_failed", 0), result.get("quality_passed", 0),
+             result.get("quality_failed", 0), result.get("ingested", 0), today),
+        )
+    conn.commit()
 
 
 def run_status(conn):

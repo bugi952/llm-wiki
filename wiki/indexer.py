@@ -28,13 +28,68 @@ def _parse_frontmatter(filepath):
     return fields
 
 
+def _build_index_content(domain, entries):
+    """Build index.md content from a list of entries sorted by importance."""
+    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    parts = [f"# {domain.upper()} 인덱스", f"최종 갱신: {now}", ""]
+
+    urgent = [e for e in entries if e["importance"] == "urgent"]
+    other = [e for e in entries if e["importance"] != "urgent"]
+
+    # Sort each group by date descending
+    urgent.sort(key=lambda e: e.get("date", ""), reverse=True)
+    other.sort(key=lambda e: (IMPORTANCE_ORDER.get(e["importance"], 3), e.get("date", "")),
+               reverse=False)
+    # Re-sort: importance first, then date descending within same importance
+    other.sort(key=lambda e: (IMPORTANCE_ORDER.get(e["importance"], 3), ""), reverse=False)
+
+    if urgent:
+        parts.append("## 긴급")
+        for e in urgent:
+            parts.append(f"- [{e['title']}]({e['filename']})")
+        parts.append("")
+
+    if other:
+        parts.append("## 주제별")
+        for e in other:
+            parts.append(f"- [{e['title']}]({e['filename']})")
+        parts.append("")
+
+    return "\n".join(parts)
+
+
+def _collect_all_entries(domain, vault_dir):
+    """Scan all .md files in vault/{domain}/ and extract entry info from frontmatter."""
+    domain_dir = os.path.join(vault_dir, domain)
+    entries = []
+
+    if not os.path.isdir(domain_dir):
+        return entries
+
+    for fname in os.listdir(domain_dir):
+        if fname == "index.md" or not fname.endswith(".md"):
+            continue
+        filepath = os.path.join(domain_dir, fname)
+        fm = _parse_frontmatter(filepath)
+        entries.append({
+            "title": fm.get("title", fname),
+            "importance": fm.get("importance", "background"),
+            "date": fm.get("date", ""),
+            "filename": fname,
+            "domain": domain,
+        })
+
+    return entries
+
+
 def update_index(conn, vault_dir="vault"):
-    """Incrementally update index.md for each domain.
+    """Incrementally update index.md for each domain + global index.
 
     Only processes sources with status='ingested' and indexed=false.
+    Rebuilds index from frontmatter to preserve importance.
     """
     cursor = conn.execute(
-        """SELECT id, domain, title, importance, vault_path
+        """SELECT id, domain, vault_path
            FROM sources WHERE status = 'ingested' AND indexed = 0"""
     )
     new_sources = cursor.fetchall()
@@ -43,107 +98,39 @@ def update_index(conn, vault_dir="vault"):
         logger.info("No new sources to index")
         return
 
-    # Group by domain
-    by_domain = {}
-    for source_id, domain, title, importance, vault_path in new_sources:
-        by_domain.setdefault(domain, []).append({
-            "id": source_id,
-            "title": title,
-            "importance": importance or "background",
-            "vault_path": vault_path,
-            "filename": os.path.basename(vault_path) if vault_path else "",
-        })
+    # Collect affected domains
+    affected_domains = set()
+    for source_id, domain, vault_path in new_sources:
+        affected_domains.add(domain)
 
-    for domain, sources in by_domain.items():
+    # Rebuild index for each affected domain from frontmatter
+    all_domain_entries = {}
+    for domain in affected_domains:
+        entries = _collect_all_entries(domain, vault_dir)
+        all_domain_entries[domain] = entries
+
         index_path = os.path.join(vault_dir, domain, "index.md")
-
-        # Load existing entries from index
-        existing_entries = []
-        if os.path.exists(index_path):
-            with open(index_path) as f:
-                existing_content = f.read()
-            # Parse existing entries (lines starting with "- [")
-            for line in existing_content.split("\n"):
-                stripped = line.strip()
-                if stripped.startswith("- ["):
-                    existing_entries.append(stripped)
-
-        # Build new entries
-        new_entries = []
-        for src in sources:
-            filename = src["filename"]
-            entry_line = f"- [{src['title']}]({filename})"
-            # Avoid duplicates
-            if not any(filename in e for e in existing_entries):
-                new_entries.append({
-                    "line": entry_line,
-                    "importance": src["importance"],
-                    "filename": filename,
-                })
-
-        # Merge all entries
-        all_entries = []
-        for line in existing_entries:
-            # Try to determine importance from existing content
-            imp = "background"
-            all_entries.append({"line": line, "importance": imp, "existing": True})
-        all_entries.extend(new_entries)
-
-        # Separate by importance
-        urgent = []
-        other = []
-        for entry in all_entries:
-            if entry.get("importance") == "urgent":
-                urgent.append(entry["line"])
-            else:
-                other.append(entry["line"])
-
-        # Also add existing entries that were under ## 긴급
-        if os.path.exists(index_path):
-            with open(index_path) as f:
-                lines = f.readlines()
-            in_urgent = False
-            for line in lines:
-                stripped = line.strip()
-                if stripped == "## 긴급":
-                    in_urgent = True
-                    continue
-                elif stripped.startswith("## "):
-                    in_urgent = False
-                    continue
-                if in_urgent and stripped.startswith("- ["):
-                    if stripped not in urgent:
-                        urgent.append(stripped)
-                        # Remove from other if present
-                        other = [e for e in other if e != stripped]
-
-        # For new urgent entries, move from other to urgent
-        for entry in new_entries:
-            if entry["importance"] == "urgent" and entry["line"] in other:
-                other.remove(entry["line"])
-
-        # Build index content
-        now = datetime.now().strftime("%Y-%m-%d %H:%M")
-        parts = [f"# {domain.upper()} 인덱스", f"최종 갱신: {now}", ""]
-
-        if urgent:
-            parts.append("## 긴급")
-            parts.extend(urgent)
-            parts.append("")
-
-        if other:
-            parts.append("## 주제별")
-            parts.extend(other)
-            parts.append("")
-
-        index_content = "\n".join(parts)
-
+        content = _build_index_content(domain, entries)
         with open(index_path, "w") as f:
-            f.write(index_content)
+            f.write(content)
+        logger.info("Updated %s/index.md (%d entries)", domain, len(entries))
 
-        # Mark as indexed
-        for src in sources:
-            conn.execute("UPDATE sources SET indexed = 1 WHERE id = ?", (src["id"],))
+    # Build global vault/index.md
+    global_entries = []
+    for domain in sorted(all_domain_entries.keys()):
+        for e in all_domain_entries[domain]:
+            global_entries.append({
+                **e,
+                "filename": f"{domain}/{e['filename']}",
+            })
+    if global_entries:
+        global_path = os.path.join(vault_dir, "index.md")
+        global_content = _build_index_content("전체", global_entries)
+        with open(global_path, "w") as f:
+            f.write(global_content)
+        logger.info("Updated vault/index.md (%d entries)", len(global_entries))
 
-        conn.commit()
-        logger.info("Updated %s/index.md (+%d entries)", domain, len(new_entries))
+    # Mark as indexed
+    for source_id, domain, vault_path in new_sources:
+        conn.execute("UPDATE sources SET indexed = 1 WHERE id = ?", (source_id,))
+    conn.commit()

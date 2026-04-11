@@ -2,11 +2,10 @@ import json
 import logging
 import os
 
+from config import get_config
 from llm import claude_call
 
 logger = logging.getLogger(__name__)
-
-QUALITY_SCORE_THRESHOLD = 3.0
 
 
 def _load_index_md(domain):
@@ -20,6 +19,8 @@ def _load_index_md(domain):
 
 def call_haiku_quality(title, content, index_context, conn):
     """Call Claude CLI to score quality + novelty. Returns dict."""
+    cfg = get_config()
+    max_len = cfg["filter"]["max_content_length_quality"]
     prompt = f"""품질 평가기. 기존 Wiki 지식 대비 새로운 가치가 있는지 판별.
 
 기존 Wiki 인덱스:
@@ -27,7 +28,7 @@ def call_haiku_quality(title, content, index_context, conn):
 
 새 소스:
 제목: {title}
-내용: {content[:1000]}
+내용: {content[:max_len]}
 
 평가 후 JSON만 출력:
 {{"novelty": 1-5, "importance": 1-5, "reliability": 1-5, "average": float, "importance_tag": "urgent"|"insight"|"connection"|"background", "reason": "한줄"}}"""
@@ -35,11 +36,14 @@ def call_haiku_quality(title, content, index_context, conn):
     return claude_call(prompt, conn=conn, expect_json=True)
 
 
-def filter_quality(conn, threshold=QUALITY_SCORE_THRESHOLD):
+def filter_quality(conn, threshold=None):
     """Run Filter B on all topic_pass sources.
 
     Returns (passed_count, failed_count).
     """
+    if threshold is None:
+        threshold = get_config()["filter"]["quality_score_threshold"]
+
     cursor = conn.execute(
         "SELECT id, domain, title, content FROM sources WHERE status = 'topic_pass'"
     )

@@ -15,7 +15,11 @@
       "Bash(git push:*)",
       "Bash(.venv/bin/python -m pytest tests/test_db.py -v)",
       "Bash(.venv/bin/python:*)",
-      "Bash(claude:*)"
+      "Bash(claude:*)",
+      "Skill(build-phase)",
+      "Bash(kill 130893)",
+      "Bash(ls vault/ai/*.md)",
+      "Skill(review-code)"
     ]
   }
 }

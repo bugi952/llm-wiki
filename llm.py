@@ -11,7 +11,7 @@ MAX_RETRIES = 5
 RATE_LIMIT_WAIT = 60
 
 
-def claude_call(prompt, conn=None, timeout=120, expect_json=False):
+def claude_call(prompt, conn=None, timeout=None, expect_json=False):
     """Claude CLI로 LLM 호출. Max 구독 사용, API 키 불필요.
 
     Args:
@@ -23,6 +23,13 @@ def claude_call(prompt, conn=None, timeout=120, expect_json=False):
     Returns:
         str or dict (expect_json=True)
     """
+    if timeout is None:
+        try:
+            from config import get_config
+            timeout = get_config()["claude"]["cli_timeout"]
+        except Exception:
+            timeout = 120
+
     last_error = None
 
     for attempt in range(MAX_RETRIES):

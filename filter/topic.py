@@ -1,6 +1,7 @@
 import json
 import logging
 
+from config import get_config
 from llm import claude_call
 
 logger = logging.getLogger(__name__)
@@ -11,24 +12,27 @@ KNOWN_DOMAIN_FEEDS = {
 }
 KNOWN_MACRO_TYPES = {"fred", "ecos", "finnhub"}
 
-TOPIC_CONFIDENCE_THRESHOLD = 0.5
-
 
 def call_haiku(title, content, conn):
     """Call Claude CLI to classify topic. Returns dict with domain + confidence."""
+    cfg = get_config()
+    max_len = cfg["filter"]["max_content_length_topic"]
     prompt = (
         "분류기. 주어진 텍스트가 AI, Macro, 또는 무관한지 판별.\n\n"
-        f"제목: {title}\n내용: {content[:500]}\n\n"
+        f"제목: {title}\n내용: {content[:max_len]}\n\n"
         'JSON만 출력: {"domain": "ai"|"macro"|"irrelevant", "confidence": 0.0~1.0}'
     )
     return claude_call(prompt, conn=conn, expect_json=True)
 
 
-def filter_topic(conn, confidence_threshold=TOPIC_CONFIDENCE_THRESHOLD):
+def filter_topic(conn, confidence_threshold=None):
     """Run Filter A on all collected sources.
 
     Returns (passed_count, failed_count).
     """
+    if confidence_threshold is None:
+        confidence_threshold = get_config()["filter"]["topic_confidence_threshold"]
+
     cursor = conn.execute(
         "SELECT id, source_type, feed_name, domain, title, content FROM sources WHERE status = 'collected'"
     )

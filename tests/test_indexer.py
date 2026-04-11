@@ -123,3 +123,61 @@ New model.
     urgent_pos = content.index("GPT-5 Released")
     insight_pos = content.index("Scaling Laws v2")
     assert urgent_pos < insight_pos
+
+
+def test_update_index_preserves_importance_on_rebuild(db, vault_dir):
+    """After first index, adding new entries should preserve existing importance."""
+    vault_path1 = os.path.join(vault_dir, "ai", "2026-04-10_scaling-laws-v2.md")
+    _insert_ingested(db, vault_path1, title="Scaling Laws v2", importance="insight")
+    update_index(db, vault_dir)
+
+    # Add a new urgent file
+    urgent_page = """---
+title: Claude 6 Released
+source: anthropic-blog
+url: https://anthropic.com/claude6
+date: 2026-04-12
+domain: ai
+importance: urgent
+---
+
+## 핵심
+Claude 6 released.
+
+## 새로운 점
+Major upgrade.
+"""
+    with open(os.path.join(vault_dir, "ai", "2026-04-12_claude-6-released.md"), "w") as f:
+        f.write(urgent_page)
+    db.execute(
+        """INSERT INTO sources (source_type, feed_name, domain, title, url, content,
+           published_at, status, importance, vault_path, indexed)
+           VALUES ('rss', 'anthropic-blog', 'ai', 'Claude 6 Released', 'https://anthropic.com/claude6',
+           'content', '2026-04-12', 'ingested', 'urgent', ?, 0)""",
+        (os.path.join(vault_dir, "ai", "2026-04-12_claude-6-released.md"),),
+    )
+    db.commit()
+
+    update_index(db, vault_dir)
+
+    index_path = os.path.join(vault_dir, "ai", "index.md")
+    content = open(index_path).read()
+    # Scaling Laws should still be in 주제별, not urgent
+    assert "## 긴급" in content
+    assert "Claude 6 Released" in content
+    # insight entry should be under 주제별
+    urgent_section = content.split("## 주제별")[0]
+    assert "Scaling Laws v2" not in urgent_section
+
+
+def test_update_index_creates_global_index(db, vault_dir):
+    """update_index should also create vault/index.md."""
+    vault_path = os.path.join(vault_dir, "ai", "2026-04-10_scaling-laws-v2.md")
+    _insert_ingested(db, vault_path)
+    update_index(db, vault_dir)
+
+    global_index = os.path.join(vault_dir, "index.md")
+    assert os.path.exists(global_index)
+    content = open(global_index).read()
+    assert "Scaling Laws v2" in content
+    assert "ai/" in content  # relative path includes domain
