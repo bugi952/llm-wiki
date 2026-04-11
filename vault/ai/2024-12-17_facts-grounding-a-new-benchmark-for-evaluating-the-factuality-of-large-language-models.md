@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/facts-grounding-a-new-benchmark-for-evaluating
 date: 2024-12-17
 domain: ai
 importance: urgent
+score: 4.33
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
 date: 2026-03-25
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

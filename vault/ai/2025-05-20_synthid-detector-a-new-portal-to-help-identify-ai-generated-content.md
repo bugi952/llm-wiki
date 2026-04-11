@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/synthid-detector--a-new-portal-to-help-identif
 date: 2025-05-20
 domain: ai
 importance: insight
+score: 4.17
 ---
 
 ## 핵심

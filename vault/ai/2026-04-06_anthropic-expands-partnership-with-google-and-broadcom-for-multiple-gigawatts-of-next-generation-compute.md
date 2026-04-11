@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/google-broadcom-partnership-compute
 date: 2026-04-06
 domain: ai
 importance: urgent
+score: 4.67
 ---
 
 ## 핵심

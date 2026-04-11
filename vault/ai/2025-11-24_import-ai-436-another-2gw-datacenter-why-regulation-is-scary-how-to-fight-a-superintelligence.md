@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-436-another-2gw-datacenter
 date: 2025-11-24
 domain: ai
 importance: insight
+score: 4.17
 ---
 
 ## 핵심

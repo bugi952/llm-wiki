@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming
 date: 2025-12-04
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

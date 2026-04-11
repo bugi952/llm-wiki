@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research
 date: 2026-02-12
 domain: ai
 importance: insight
+score: 4.7
 ---
 
 ## 핵심

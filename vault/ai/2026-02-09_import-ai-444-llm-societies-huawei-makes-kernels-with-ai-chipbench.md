@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-444-llm-societies-huawei
 date: 2026-02-09
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

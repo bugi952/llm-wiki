@@ -163,11 +163,11 @@ Major upgrade.
 
     index_path = os.path.join(vault_dir, "ai", "index.md")
     content = open(index_path).read()
-    # Scaling Laws should still be in 주제별, not urgent
-    assert "## 긴급" in content
+    # New format uses importance headings with emoji
+    assert "### 🔴 Urgent" in content
     assert "Claude 6 Released" in content
-    # insight entry should be under 주제별
-    urgent_section = content.split("## 주제별")[0]
+    # insight entry should be under Insight, not Urgent
+    urgent_section = content.split("### 🟡 Insight")[0]
     assert "Scaling Laws v2" not in urgent_section
 
 

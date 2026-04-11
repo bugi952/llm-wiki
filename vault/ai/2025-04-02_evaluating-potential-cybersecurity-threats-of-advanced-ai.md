@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/evaluating-potential-cybersecurity-threats-of-
 date: 2025-04-02
 domain: ai
 importance: urgent
+score: 4.67
 ---
 
 ## 핵심

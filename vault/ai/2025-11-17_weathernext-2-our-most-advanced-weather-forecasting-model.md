@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-foreca
 date: 2025-11-17
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

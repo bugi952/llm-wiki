@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/
 date: 2025-11-11
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

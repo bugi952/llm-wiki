@@ -79,6 +79,19 @@ def ingest(conn, vault_dir="vault"):
         summary = result.get("summary", "")
         whats_new = result.get("whats_new", "")
 
+        # Get score from filter_b_result
+        score_row = conn.execute(
+            "SELECT filter_b_result FROM sources WHERE id = ?", (source_id,)
+        ).fetchone()
+        score = ""
+        if score_row and score_row[0]:
+            try:
+                import json
+                fb = json.loads(score_row[0])
+                score = fb.get("average", "")
+            except Exception:
+                pass
+
         page = f"""---
 title: {title}
 source: {feed_name}
@@ -86,6 +99,7 @@ url: {url}
 date: {date_str}
 domain: {domain}
 importance: {importance}
+score: {score}
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-ge
 date: 2025-06-25
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

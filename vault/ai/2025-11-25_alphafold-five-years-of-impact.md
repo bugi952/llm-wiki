@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/alphafold-five-years-of-impact/
 date: 2025-11-25
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

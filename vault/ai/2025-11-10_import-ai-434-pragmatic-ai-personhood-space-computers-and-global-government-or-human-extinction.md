@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-434-pragmatic-ai-personhood
 date: 2025-11-10
 domain: ai
 importance: urgent
+score: 3.67
 ---
 
 ## 핵심

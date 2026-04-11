@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-in
 date: 2025-10-29
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

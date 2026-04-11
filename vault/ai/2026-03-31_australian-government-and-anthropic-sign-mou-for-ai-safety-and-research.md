@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/australia-MOU
 date: 2026-03-31
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

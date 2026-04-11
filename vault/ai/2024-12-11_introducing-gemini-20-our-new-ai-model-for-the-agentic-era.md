@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-gemini-20-our-new-ai-model-for-the
 date: 2024-12-11
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

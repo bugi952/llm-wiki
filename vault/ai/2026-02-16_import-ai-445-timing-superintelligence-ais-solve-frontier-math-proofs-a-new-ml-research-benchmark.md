@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-445-timing-superintelligence
 date: 2026-02-16
 domain: ai
 importance: urgent
+score: 4.33
 ---
 
 ## 핵심

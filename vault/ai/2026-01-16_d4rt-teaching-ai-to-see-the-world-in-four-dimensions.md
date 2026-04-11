@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dime
 date: 2026-01-16
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

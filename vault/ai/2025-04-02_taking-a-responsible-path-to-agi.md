@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/taking-a-responsible-path-to-agi/
 date: 2025-04-02
 domain: ai
 importance: urgent
+score: 3.83
 ---
 
 ## 핵심

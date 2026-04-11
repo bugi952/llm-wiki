@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-se
 date: 2025-10-23
 domain: ai
 importance: insight
+score: 3.5
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in
 date: 2025-10-24
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

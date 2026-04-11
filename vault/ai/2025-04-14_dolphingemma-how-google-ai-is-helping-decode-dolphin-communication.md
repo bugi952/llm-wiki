@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-d
 date: 2025-04-14
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

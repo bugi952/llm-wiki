@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-439-ai-kernels-decentralized
 date: 2026-01-05
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

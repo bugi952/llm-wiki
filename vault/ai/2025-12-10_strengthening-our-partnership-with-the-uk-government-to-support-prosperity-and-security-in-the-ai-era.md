@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-gove
 date: 2025-12-10
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

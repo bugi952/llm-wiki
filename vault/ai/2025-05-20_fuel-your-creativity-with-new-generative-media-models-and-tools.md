@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media
 date: 2025-05-20
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

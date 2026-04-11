@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgra
 date: 2025-10-23
 domain: ai
 importance: background
+score: 3.0
 ---
 
 ## 핵심

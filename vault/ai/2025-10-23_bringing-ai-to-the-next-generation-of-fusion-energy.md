@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-e
 date: 2025-10-23
 domain: ai
 importance: connection
+score: 4.33
 ---
 
 ## 핵심

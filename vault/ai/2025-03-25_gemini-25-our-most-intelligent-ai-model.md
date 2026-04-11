@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/
 date: 2025-03-25
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

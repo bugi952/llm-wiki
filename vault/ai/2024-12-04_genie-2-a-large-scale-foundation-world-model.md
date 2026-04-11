@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/
 date: 2024-12-04
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

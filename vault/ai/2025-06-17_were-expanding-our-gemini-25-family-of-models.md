@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/
 date: 2025-06-17
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

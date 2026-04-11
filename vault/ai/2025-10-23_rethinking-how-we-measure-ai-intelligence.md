@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/
 date: 2025-10-23
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

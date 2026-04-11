@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-441-my-agents-are-working
 date: 2026-01-19
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

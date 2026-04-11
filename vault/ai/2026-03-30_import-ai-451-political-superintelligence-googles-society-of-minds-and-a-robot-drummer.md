@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-451-political-superintelligence
 date: 2026-03-30
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

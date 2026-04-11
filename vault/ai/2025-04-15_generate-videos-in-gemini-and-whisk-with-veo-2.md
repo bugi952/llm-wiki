@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2
 date: 2025-04-15
 domain: ai
 importance: background
+score: 3.0
 ---
 
 ## 핵심

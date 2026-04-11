@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-heal
 date: 2025-10-25
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

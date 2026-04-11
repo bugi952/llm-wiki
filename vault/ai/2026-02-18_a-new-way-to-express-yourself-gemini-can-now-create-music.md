@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-c
 date: 2026-02-18
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

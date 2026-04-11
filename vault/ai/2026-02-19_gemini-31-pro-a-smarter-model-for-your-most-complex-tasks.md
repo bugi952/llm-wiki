@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-c
 date: 2026-02-19
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potent
 date: 2025-10-23
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

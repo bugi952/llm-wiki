@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/acquires-vercept
 date: 2026-02-25
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

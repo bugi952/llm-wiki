@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas
 date: 2026-02-23
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

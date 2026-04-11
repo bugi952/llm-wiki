@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-b
 date: 2025-12-23
 domain: ai
 importance: urgent
+score: 4.3
 ---
 
 ## 핵심

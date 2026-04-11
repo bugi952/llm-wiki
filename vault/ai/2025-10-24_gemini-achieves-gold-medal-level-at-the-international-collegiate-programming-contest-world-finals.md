@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-intern
 date: 2025-10-24
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

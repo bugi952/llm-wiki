@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-p
 date: 2025-10-24
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

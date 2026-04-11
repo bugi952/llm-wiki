@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-mo
 date: 2025-06-17
 domain: ai
 importance: insight
+score: 3.0
 ---
 
 ## 핵심

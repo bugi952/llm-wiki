@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/
 date: 2025-11-25
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

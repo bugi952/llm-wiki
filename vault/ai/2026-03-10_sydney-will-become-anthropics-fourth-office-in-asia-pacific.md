@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/sydney-fourth-office-asia-pacific
 date: 2026-03-10
 domain: ai
 importance: background
+score: 3.0
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/strengthening-our-frontier-safety-framework/
 date: 2025-10-23
 domain: ai
 importance: urgent
+score: 4.5
 ---
 
 ## 핵심

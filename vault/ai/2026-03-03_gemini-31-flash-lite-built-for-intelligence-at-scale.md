@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-a
 date: 2026-03-03
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

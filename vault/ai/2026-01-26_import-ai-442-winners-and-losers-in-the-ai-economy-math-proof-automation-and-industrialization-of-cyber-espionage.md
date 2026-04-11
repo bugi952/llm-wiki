@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-442-winners-and-losers
 date: 2026-01-26
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

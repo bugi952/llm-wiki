@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for
 date: 2025-12-17
 domain: ai
 importance: insight
+score: 3.0
 ---
 
 ## 핵심

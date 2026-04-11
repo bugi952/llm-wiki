@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-438-cyber-capability-overhang
 date: 2025-12-22
 domain: ai
 importance: insight
+score: 3.0
 ---
 
 ## 핵심

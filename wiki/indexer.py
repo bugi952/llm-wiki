@@ -7,6 +7,8 @@ from config import get_config
 logger = logging.getLogger(__name__)
 
 IMPORTANCE_ORDER = {"urgent": 0, "insight": 1, "connection": 2, "background": 3}
+IMPORTANCE_EMOJI = {"urgent": "🔴", "insight": "🟡", "connection": "🔗", "background": "⚪"}
+IMPORTANCE_HEADING = {"urgent": "Urgent", "insight": "Insight", "connection": "Connection", "background": "Background"}
 
 
 def _parse_frontmatter(filepath):
@@ -21,12 +23,26 @@ def _parse_frontmatter(filepath):
     if not lines or lines[0].strip() != "---":
         return fields
 
+    in_frontmatter = True
     for line in lines[1:]:
         if line.strip() == "---":
             break
         if ":" in line:
             key, val = line.split(":", 1)
             fields[key.strip()] = val.strip()
+
+    # Extract first sentence of ## 핵심 section as one-line summary
+    in_summary = False
+    for line in lines:
+        if line.strip() == "## 핵심":
+            in_summary = True
+            continue
+        if in_summary and line.startswith("##"):
+            break  # Hit next section, no content found
+        if in_summary and line.strip():
+            fields["one_liner"] = line.strip().split("。")[0].split(". ")[0].rstrip(".")
+            break
+
     return fields
 
 
@@ -53,37 +69,43 @@ def _classify_by_age(entries):
     return active, archive
 
 
+def _format_entry(e):
+    """Format a single index entry with emoji, score, summary, and source link."""
+    emoji = IMPORTANCE_EMOJI.get(e["importance"], "⚪")
+    score = e.get("score", "")
+    score_str = f" ★{score}" if score else ""
+    one_liner = e.get("one_liner", "")
+    url = e.get("url", "")
+    summary_str = f" — {one_liner}" if one_liner else ""
+    source_str = f" [(원문)]({url})" if url else ""
+    return f"- {emoji} **[[{e['filename']}|{e['title']}]]**{score_str}{summary_str}{source_str}"
+
+
 def _build_index_content(domain, entries):
-    """Build index.md content from entries, with archive section for old items."""
+    """Build index.md content with importance grouping and inline summaries."""
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    parts = [f"# {domain.upper()} 인덱스", f"최종 갱신: {now}", ""]
+    parts = [f"# {domain.upper()} Daily", f"최종 갱신: {now}", ""]
 
     active, archive = _classify_by_age(entries)
 
-    urgent = [e for e in active if e["importance"] == "urgent"]
-    other = [e for e in active if e["importance"] != "urgent"]
-
-    urgent.sort(key=lambda e: e.get("date", ""), reverse=True)
-    other.sort(key=lambda e: (IMPORTANCE_ORDER.get(e["importance"], 3), e.get("date", "")),
-               reverse=False)
-
-    if urgent:
-        parts.append("## 긴급")
-        for e in urgent:
-            parts.append(f"- [{e['title']}]({e['filename']})")
-        parts.append("")
-
-    if other:
-        parts.append("## 주제별")
-        for e in other:
-            parts.append(f"- [{e['title']}]({e['filename']})")
+    # Group by importance
+    for imp in ["urgent", "insight", "connection", "background"]:
+        group = [e for e in active if e["importance"] == imp]
+        if not group:
+            continue
+        group.sort(key=lambda e: e.get("date", ""), reverse=True)
+        heading = IMPORTANCE_HEADING[imp]
+        emoji = IMPORTANCE_EMOJI[imp]
+        parts.append(f"### {emoji} {heading}")
+        for e in group:
+            parts.append(_format_entry(e))
         parts.append("")
 
     if archive:
         archive.sort(key=lambda e: e.get("date", ""), reverse=True)
-        parts.append("## 아카이브")
+        parts.append("### 📦 아카이브")
         for e in archive:
-            parts.append(f"- [{e['title']}]({e['filename']})")
+            parts.append(_format_entry(e))
         parts.append("")
 
     return "\n".join(parts)
@@ -106,6 +128,9 @@ def _collect_all_entries(domain, vault_dir):
             "title": fm.get("title", fname),
             "importance": fm.get("importance", "background"),
             "date": fm.get("date", ""),
+            "score": fm.get("score", ""),
+            "url": fm.get("url", ""),
+            "one_liner": fm.get("one_liner", ""),
             "filename": fname,
             "domain": domain,
         })
@@ -146,20 +171,44 @@ def update_index(conn, vault_dir="vault"):
             f.write(content)
         logger.info("Updated %s/index.md (%d entries)", domain, len(entries))
 
-    # Build global vault/index.md
-    global_entries = []
+    # Build global vault/index.md with domain sections
+    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    global_parts = [f"# Wiki Daily", f"최종 갱신: {now}", ""]
+
     for domain in sorted(all_domain_entries.keys()):
-        for e in all_domain_entries[domain]:
-            global_entries.append({
-                **e,
-                "filename": f"{domain}/{e['filename']}",
-            })
-    if global_entries:
+        domain_entries = all_domain_entries[domain]
+        if not domain_entries:
+            continue
+        # Add domain-relative paths for global index
+        adjusted = [{**e, "filename": f"{domain}/{e['filename']}"} for e in domain_entries]
+        active, archive = _classify_by_age(adjusted)
+
+        global_parts.append(f"## {domain.upper()}")
+        global_parts.append("")
+        for imp in ["urgent", "insight", "connection", "background"]:
+            group = [e for e in active if e["importance"] == imp]
+            if not group:
+                continue
+            group.sort(key=lambda e: e.get("date", ""), reverse=True)
+            heading = IMPORTANCE_HEADING[imp]
+            emoji = IMPORTANCE_EMOJI[imp]
+            global_parts.append(f"### {emoji} {heading}")
+            for e in group:
+                global_parts.append(_format_entry(e))
+            global_parts.append("")
+
+        if archive:
+            archive.sort(key=lambda e: e.get("date", ""), reverse=True)
+            global_parts.append("### 📦 아카이브")
+            for e in archive:
+                global_parts.append(_format_entry(e))
+            global_parts.append("")
+
+    if len(global_parts) > 3:
         global_path = os.path.join(vault_dir, "index.md")
-        global_content = _build_index_content("전체", global_entries)
         with open(global_path, "w") as f:
-            f.write(global_content)
-        logger.info("Updated vault/index.md (%d entries)", len(global_entries))
+            f.write("\n".join(global_parts))
+        logger.info("Updated vault/index.md")
 
     # Mark as indexed
     for source_id, domain, vault_path in new_sources:

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-pow
 date: 2026-02-17
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

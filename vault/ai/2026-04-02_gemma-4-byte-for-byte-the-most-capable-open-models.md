@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-mo
 date: 2026-04-02
 domain: ai
 importance: urgent
+score: 4.67
 ---
 
 ## 핵심

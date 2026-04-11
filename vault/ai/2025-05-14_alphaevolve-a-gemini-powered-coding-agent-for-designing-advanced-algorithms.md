@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-
 date: 2025-05-14
 domain: ai
 importance: connection
+score: 4.0
 ---
 
 ## 핵심

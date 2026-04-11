@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-
 date: 2026-01-13
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

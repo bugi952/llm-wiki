@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assista
 date: 2025-05-20
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-ad
 date: 2025-11-18
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

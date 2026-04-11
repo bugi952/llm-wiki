@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-r
 date: 2025-06-24
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-
 date: 2025-12-16
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

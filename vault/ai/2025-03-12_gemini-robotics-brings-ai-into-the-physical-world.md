@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-wo
 date: 2025-03-12
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

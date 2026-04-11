@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-gemma-3/
 date: 2025-03-12
 domain: ai
 importance: background
+score: 3.33
 ---
 
 ## 핵심

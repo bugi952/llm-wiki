@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-pr
 date: 2025-06-12
 domain: ai
 importance: urgent
+score: 4.33
 ---
 
 ## 핵심

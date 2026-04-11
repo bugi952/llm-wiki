@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/claude-partner-network
 date: 2026-03-12
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

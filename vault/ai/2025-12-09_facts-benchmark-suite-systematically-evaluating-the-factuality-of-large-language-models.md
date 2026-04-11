@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluatin
 date: 2025-12-09
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

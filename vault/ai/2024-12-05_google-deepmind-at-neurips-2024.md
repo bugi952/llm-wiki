@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/google-deepmind-at-neurips-2024/
 date: 2024-12-05
 domain: ai
 importance: connection
+score: 3.33
 ---
 
 ## 핵심

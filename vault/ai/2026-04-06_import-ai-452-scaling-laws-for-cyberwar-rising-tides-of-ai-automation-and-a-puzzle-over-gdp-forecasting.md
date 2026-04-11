@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar
 date: 2026-04-06
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

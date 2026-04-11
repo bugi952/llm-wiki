@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-447-the-agi-economy-testing
 date: 2026-03-02
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

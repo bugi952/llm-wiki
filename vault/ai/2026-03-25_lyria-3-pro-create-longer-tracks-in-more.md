@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/
 date: 2026-03-25
 domain: ai
 importance: background
+score: 3.33
 ---
 
 ## 핵심

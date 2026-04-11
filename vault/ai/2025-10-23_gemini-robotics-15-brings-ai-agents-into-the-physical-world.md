@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-p
 date: 2025-10-23
 domain: ai
 importance: insight
+score: 4.67
 ---
 
 ## 핵심

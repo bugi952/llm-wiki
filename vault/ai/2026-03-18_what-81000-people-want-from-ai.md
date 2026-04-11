@@ -5,6 +5,7 @@ url: https://www.anthropic.com/81k-interviews
 date: 2026-03-18
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with
 date: 2025-11-05
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

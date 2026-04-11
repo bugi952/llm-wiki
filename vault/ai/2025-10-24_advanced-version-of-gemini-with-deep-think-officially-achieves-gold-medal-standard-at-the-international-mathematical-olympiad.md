@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-off
 date: 2025-10-24
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-ge
 date: 2025-10-25
 domain: ai
 importance: urgent
+score: 4.0
 ---
 
 ## 핵심

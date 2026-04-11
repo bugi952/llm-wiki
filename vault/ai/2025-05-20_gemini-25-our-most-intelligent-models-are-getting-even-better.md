@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-25-our-world-leading-model-is-getting-e
 date: 2025-05-20
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

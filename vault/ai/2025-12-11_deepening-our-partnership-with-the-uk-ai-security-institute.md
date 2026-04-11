@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-secur
 date: 2025-12-11
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

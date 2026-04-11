@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-437-co-improving-ai-rl
 date: 2025-12-08
 domain: ai
 importance: background
+score: 3.0
 ---
 
 ## 핵심

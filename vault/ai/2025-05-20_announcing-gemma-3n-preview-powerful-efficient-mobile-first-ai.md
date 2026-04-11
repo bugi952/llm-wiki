@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/announcing-gemma-3n-preview-powerful-efficient
 date: 2025-05-20
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

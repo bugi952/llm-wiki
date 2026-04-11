@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/project-genie-experimenting-with-infinite-inte
 date: 2026-01-29
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

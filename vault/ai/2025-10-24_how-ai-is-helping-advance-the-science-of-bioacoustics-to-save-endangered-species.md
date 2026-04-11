@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioac
 date: 2025-10-24
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-
 date: 2025-11-13
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

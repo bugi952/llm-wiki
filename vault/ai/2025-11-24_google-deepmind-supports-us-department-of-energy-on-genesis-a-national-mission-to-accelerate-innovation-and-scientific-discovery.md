@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/google-deepmind-supports-us-department-of-ener
 date: 2025-11-24
 domain: ai
 importance: connection
+score: 4.33
 ---
 
 ## 핵심

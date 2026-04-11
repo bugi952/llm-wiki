@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-fram
 date: 2026-03-17
 domain: ai
 importance: urgent
+score: 4.33
 ---
 
 ## 핵심

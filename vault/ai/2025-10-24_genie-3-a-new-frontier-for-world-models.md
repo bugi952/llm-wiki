@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/
 date: 2025-10-24
 domain: ai
 importance: insight
+score: 4.0
 ---
 
 ## 핵심

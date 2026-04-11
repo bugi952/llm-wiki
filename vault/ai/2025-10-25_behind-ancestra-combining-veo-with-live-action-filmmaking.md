@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action
 date: 2025-10-25
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

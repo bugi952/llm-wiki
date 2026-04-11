@@ -5,6 +5,7 @@ url: https://www.anthropic.com/news/statement-department-of-war
 date: 2026-02-26
 domain: ai
 importance: urgent
+score: 4.67
 ---
 
 ## 핵심

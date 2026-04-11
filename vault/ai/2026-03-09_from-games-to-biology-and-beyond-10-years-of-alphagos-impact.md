@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/10-years-of-alphago/
 date: 2026-03-09
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

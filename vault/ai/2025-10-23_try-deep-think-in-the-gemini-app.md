@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/try-deep-think-in-the-gemini-app/
 date: 2025-10-23
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook
 date: 2026-02-02
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

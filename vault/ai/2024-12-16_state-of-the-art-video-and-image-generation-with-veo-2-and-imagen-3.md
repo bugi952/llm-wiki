@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/state-of-the-art-video-and-image-generation-wi
 date: 2024-12-16
 domain: ai
 importance: background
+score: 3.33
 ---
 
 ## 핵심

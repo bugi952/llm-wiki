@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/
 date: 2025-02-05
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

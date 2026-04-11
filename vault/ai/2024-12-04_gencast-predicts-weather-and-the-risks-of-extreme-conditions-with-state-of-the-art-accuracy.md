@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extr
 date: 2024-12-04
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

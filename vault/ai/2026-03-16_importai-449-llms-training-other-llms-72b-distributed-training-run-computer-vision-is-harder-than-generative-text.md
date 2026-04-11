@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/importai-449-llms-training-other
 date: 2026-03-16
 domain: ai
 importance: insight
+score: 3.3
 ---
 
 ## 핵심

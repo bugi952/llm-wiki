@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-435-100k-training-runs
 date: 2025-11-17
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

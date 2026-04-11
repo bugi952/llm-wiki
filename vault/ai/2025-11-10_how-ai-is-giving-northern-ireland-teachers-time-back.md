@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-tim
 date: 2025-11-10
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

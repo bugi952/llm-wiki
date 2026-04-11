@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/
 date: 2025-10-23
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

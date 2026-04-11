@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-
 date: 2025-02-25
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

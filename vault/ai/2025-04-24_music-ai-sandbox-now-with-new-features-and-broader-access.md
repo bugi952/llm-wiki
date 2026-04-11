@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/music-ai-sandbox-now-with-new-features-and-bro
 date: 2025-04-24
 domain: ai
 importance: connection
+score: 3.0
 ---
 
 ## 핵심

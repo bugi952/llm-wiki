@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/vaultgemma-the-worlds-most-capable-differentia
 date: 2025-10-23
 domain: ai
 importance: insight
+score: 4.33
 ---
 
 ## 핵심

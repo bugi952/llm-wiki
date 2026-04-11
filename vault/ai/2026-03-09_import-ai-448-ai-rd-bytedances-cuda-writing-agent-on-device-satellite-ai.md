@@ -5,6 +5,7 @@ url: https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances
 date: 2026-03-09
 domain: ai
 importance: insight
+score: 3.33
 ---
 
 ## 핵심

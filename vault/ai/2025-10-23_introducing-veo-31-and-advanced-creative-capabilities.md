@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capab
 date: 2025-10-23
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

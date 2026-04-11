@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/introducing-gemini-2-5-flash/
 date: 2025-04-17
 domain: ai
 importance: background
+score: 3.3
 ---
 
 ## 핵심

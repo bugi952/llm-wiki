@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/exploring-the-context-of-online-images-with-ba
 date: 2025-10-24
 domain: ai
 importance: connection
+score: 3.67
 ---
 
 ## 핵심

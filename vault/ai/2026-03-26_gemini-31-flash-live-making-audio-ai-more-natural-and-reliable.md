@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-nat
 date: 2026-03-26
 domain: ai
 importance: insight
+score: 3.67
 ---
 
 ## 핵심

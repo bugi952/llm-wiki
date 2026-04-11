@@ -5,6 +5,7 @@ url: https://deepmind.google/blog/discovering-new-solutions-to-century-old-probl
 date: 2025-10-24
 domain: ai
 importance: insight
+score: 3.0
 ---
 
 ## 핵심
