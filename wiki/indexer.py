@@ -73,12 +73,14 @@ def _format_entry(e):
     """Format a single index entry with emoji, score, summary, and source link."""
     emoji = IMPORTANCE_EMOJI.get(e["importance"], "⚪")
     score = e.get("score", "")
+    date = e.get("date", "")
+    date_str = f" ({date[5:7]}/{date[8:10]})" if len(date) >= 10 else ""
     score_str = f" ★{score}" if score else ""
     one_liner = e.get("one_liner", "")
     url = e.get("url", "")
     summary_str = f" — {one_liner}" if one_liner else ""
     source_str = f" [(원문)]({url})" if url else ""
-    return f"- {emoji} **[[{e['filename']}|{e['title']}]]**{score_str}{summary_str}{source_str}"
+    return f"- {emoji} **[[{e['filename']}|{e['title']}]]**{score_str}{date_str}{summary_str}{source_str}"
 
 
 def _build_index_content(domain, entries):
