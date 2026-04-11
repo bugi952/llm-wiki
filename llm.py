@@ -56,10 +56,19 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
 
             if expect_json:
                 start = output.find("{")
-                end = output.rfind("}") + 1
-                if start >= 0 and end > start:
-                    output = output[start:end]
-                return json.loads(output)
+                if start < 0:
+                    raise json.JSONDecodeError(
+                        "No JSON object found in output",
+                        output[:200], 0)
+                # Find matching closing brace by counting depth
+                depth = 0
+                for i, ch in enumerate(output[start:], start):
+                    if ch == "{":
+                        depth += 1
+                    elif ch == "}":
+                        depth -= 1
+                        if depth == 0:
+                            return json.loads(output[start:i + 1])
 
             return output
 
