@@ -8,6 +8,10 @@ import yaml
 
 from db import get_db, init_db, log_event, get_daily_api_count
 from collector.rss import collect_rss
+from collector.hackernews import collect_hackernews
+from collector.fred import collect_fred
+from collector.ecos import collect_ecos
+from collector.finnhub import collect_finnhub
 from filter.topic import filter_topic
 from filter.quality import filter_quality
 from wiki.ingest import ingest
@@ -75,11 +79,20 @@ def run_auto(conn):
             result["error"] = "api_limit_exceeded"
             return result
 
-        # 1. Collect
+        # 1. Collect — all sources
         feeds = _load_feeds()
-        collected = collect_rss(conn, feeds, delay=3)
+        rss_count = collect_rss(conn, feeds, delay=3)
+        hn_count = collect_hackernews(conn)
+        fred_count = collect_fred(conn)
+        ecos_count = collect_ecos(conn)
+        finnhub_count = collect_finnhub(conn)
+        collected = rss_count + hn_count + fred_count + ecos_count + finnhub_count
         result["collected"] = collected
-        log_event(conn, "collect", json.dumps({"count": collected}))
+        result["collected_detail"] = {
+            "rss": rss_count, "hackernews": hn_count, "fred": fred_count,
+            "ecos": ecos_count, "finnhub": finnhub_count,
+        }
+        log_event(conn, "collect", json.dumps(result["collected_detail"]))
 
         # 2. Filter A: topic
         topic_passed, topic_failed = filter_topic(conn)
@@ -168,8 +181,12 @@ def main():
         run_auto(conn)
     elif mode == "collect":
         feeds = _load_feeds()
-        count = collect_rss(conn, feeds)
-        print(f"Collected: {count}")
+        rss = collect_rss(conn, feeds)
+        hn = collect_hackernews(conn)
+        fred = collect_fred(conn)
+        ecos = collect_ecos(conn)
+        finnhub = collect_finnhub(conn)
+        print(f"Collected: RSS={rss} HN={hn} FRED={fred} ECOS={ecos} Finnhub={finnhub}")
     elif mode == "filter":
         tp, tf = filter_topic(conn)
         qp, qf = filter_quality(conn)

@@ -79,3 +79,21 @@ def test_collect_rss_handles_bozo_feed(mock_parse, db):
     feeds = [{"name": "bad-feed", "url": "https://example.com/bad", "type": "blog"}]
     count = collect_rss(db, feeds)
     assert count == 0
+
+
+@patch("collector.rss.feedparser.parse")
+def test_collect_rss_fallback_on_rsshub_failure(mock_parse, db):
+    """When RSSHub feed fails, should try community fallback URL."""
+    fallback_entries = [
+        {"title": "Anthropic Update", "link": "https://anthropic.com/update/1",
+         "summary": "New feature", "published": "2026-04-10"},
+    ]
+    # First call (RSSHub) fails, second call (fallback) succeeds
+    mock_parse.side_effect = [
+        {"bozo": True, "bozo_exception": Exception("connection refused"), "entries": []},
+        {"bozo": False, "entries": fallback_entries},
+    ]
+    feeds = [{"name": "anthropic-blog", "url": "http://localhost:1200/anthropic/blog", "type": "blog"}]
+    count = collect_rss(db, feeds)
+    assert count == 1
+    assert mock_parse.call_count == 2

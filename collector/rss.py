@@ -6,13 +6,42 @@ import feedparser
 
 logger = logging.getLogger(__name__)
 
-# Domain mapping for known feed types (LLM skip per design)
+# Domain mapping for known feed types (CLI skip per design)
 DOMAIN_BY_TYPE = {
     "arxiv": "ai",
     "blog": "ai",       # Anthropic/OpenAI/DeepMind blogs
     "newsletter": "ai",  # Import AI
     "central_bank": "macro",
 }
+
+# Fallback URLs for RSSHub feeds (per 01_pipeline-architecture.md)
+FALLBACK_URLS = {
+    "anthropic-blog": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+    "openai-blog": "https://raw.githubusercontent.com/capjamesg/openai-blog-rss/main/feed.xml",
+}
+
+
+def _fetch_feed(name, url):
+    """Fetch and parse a feed. Falls back to community RSS if RSSHub fails."""
+    parsed = feedparser.parse(url)
+
+    # Check if feed failed and fallback exists
+    is_failed = (parsed.get("bozo") and not parsed.get("entries")) or len(parsed.get("entries", [])) == 0
+    if is_failed and name in FALLBACK_URLS:
+        fallback_url = FALLBACK_URLS[name]
+        logger.warning("Feed %s failed, trying fallback: %s", name, fallback_url)
+        parsed = feedparser.parse(fallback_url)
+        if parsed.get("bozo") and not parsed.get("entries"):
+            logger.warning("Fallback also failed for %s", name)
+            return None
+        logger.info("Fallback succeeded for %s (%d entries)", name, len(parsed.get("entries", [])))
+        return parsed
+
+    if is_failed:
+        logger.warning("Bad feed %s: %s", name, parsed.get("bozo_exception", "no entries"))
+        return None
+
+    return parsed
 
 
 def collect_rss(conn, feeds, delay=3):
@@ -32,9 +61,8 @@ def collect_rss(conn, feeds, delay=3):
 
         logger.info("Fetching feed: %s (%s)", name, url)
 
-        parsed = feedparser.parse(url)
-        if parsed.get("bozo") and not parsed.get("entries"):
-            logger.warning("Bad feed %s: %s", name, parsed.get("bozo_exception"))
+        parsed = _fetch_feed(name, url)
+        if not parsed:
             continue
 
         domain = DOMAIN_BY_TYPE.get(feed_type)
@@ -57,7 +85,6 @@ def collect_rss(conn, feeds, delay=3):
                 )
                 total_new += 1
             except sqlite3.IntegrityError:
-                # Duplicate URL, skip
                 pass
 
         conn.commit()
