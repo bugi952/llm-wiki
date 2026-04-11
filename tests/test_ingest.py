@@ -4,7 +4,7 @@ import tempfile
 from unittest.mock import patch
 import pytest
 from db import get_db, init_db
-from wiki.ingest import ingest, _make_slug
+from wiki.ingest import ingest, _make_slug, _parse_date
 
 
 @pytest.fixture
@@ -31,6 +31,21 @@ def _insert_quality_pass(db, title="Scaling Laws v2", url="https://arxiv.org/abs
         (domain, title, url, content, importance),
     )
     db.commit()
+
+
+def test_parse_date_iso():
+    assert _parse_date("2026-04-10") == "2026-04-10"
+    assert _parse_date("2026-04-10T12:00:00Z") == "2026-04-10"
+
+
+def test_parse_date_rfc2822():
+    assert _parse_date("Thu, 02 Apr 2026 12:00:00 GMT") == "2026-04-02"
+    assert _parse_date("Mon, 09 Mar 2026 00:00:00 +0000") == "2026-03-09"
+
+
+def test_parse_date_empty():
+    assert _parse_date(None) == "unknown"
+    assert _parse_date("") == "unknown"
 
 
 def test_make_slug():

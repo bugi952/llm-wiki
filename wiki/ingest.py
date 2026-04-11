@@ -1,6 +1,7 @@
 import logging
 import os
 import re
+from email.utils import parsedate_to_datetime
 
 from llm import claude_call
 
@@ -14,6 +15,22 @@ def _make_slug(title):
     slug = re.sub(r"[\s]+", "-", slug).strip("-")
     slug = re.sub(r"-+", "-", slug)
     return slug or "untitled"
+
+
+def _parse_date(published_at):
+    """Extract YYYY-MM-DD from various date formats."""
+    if not published_at:
+        return "unknown"
+    # Already ISO format (2026-04-10 or 2026-04-10T...)
+    if re.match(r"\d{4}-\d{2}-\d{2}", published_at):
+        return published_at[:10]
+    # RFC 2822 format (Thu, 02 Apr 2026 12:00:00 GMT)
+    try:
+        dt = parsedate_to_datetime(published_at)
+        return dt.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    return "unknown"
 
 
 def call_haiku_ingest(title, content, source_type, feed_name, conn):
@@ -42,7 +59,7 @@ def ingest(conn, vault_dir="vault"):
     for row in rows:
         source_id, source_type, feed_name, domain, title, url, content, published_at, importance = row
 
-        date_str = (published_at or "")[:10] or "unknown"
+        date_str = _parse_date(published_at)
         slug = _make_slug(title)
         filename = f"{date_str}_{slug}.md"
         filepath = os.path.join(vault_dir, domain, filename)
