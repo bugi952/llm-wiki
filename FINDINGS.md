@@ -22,3 +22,11 @@
 ### St. Louis Fed RSS 파싱 실패
 - `stlouisfed.org/rss` 응답이 malformed XML
 - Phase 2 macro 소스 작업 시 대안 URL 확인 필요
+
+## Phase 2 (2026-04-11)
+
+### RSSHub 미설치 — Docker 패키지 충돌
+- VPS에서 `apt install docker.io` 실패 (held packages 충돌)
+- `curl -fsSL https://get.docker.com | sh`도 실패
+- Anthropic/OpenAI 블로그는 폴백 URL로 수집 가능하므로 당장 영향 없음
+- VPS apt 문제 해결 또는 재설치 시 Docker + RSSHub 설치 예정
