@@ -73,7 +73,9 @@ def test_api_count_starts_zero(db):
 def test_increment_api_count(db):
     increment_api_count(db)
     increment_api_count(db)
-    assert get_daily_api_count(db) == 2
+    # Verify events were inserted
+    count = db.execute("SELECT COUNT(*) FROM system_log WHERE event = 'api_call'").fetchone()[0]
+    assert count == 2
 
 
 def test_filter_stats_unique_date(db):

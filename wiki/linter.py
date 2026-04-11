@@ -2,9 +2,28 @@ import logging
 import os
 import re
 
-from wiki.indexer import _parse_frontmatter
-
 logger = logging.getLogger(__name__)
+
+
+def _parse_frontmatter(filepath):
+    """Extract frontmatter fields from a markdown file."""
+    fields = {}
+    try:
+        with open(filepath) as f:
+            lines = f.readlines()
+    except FileNotFoundError:
+        return fields
+
+    if not lines or lines[0].strip() != "---":
+        return fields
+
+    for line in lines[1:]:
+        if line.strip() == "---":
+            break
+        if ":" in line:
+            key, val = line.split(":", 1)
+            fields[key.strip()] = val.strip()
+    return fields
 
 REQUIRED_FRONTMATTER = {"title", "date", "domain", "importance"}
 LINK_PATTERN = re.compile(r'\[.*?\]\(([^)]+\.md)\)')

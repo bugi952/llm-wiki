@@ -1,6 +1,4 @@
-import json
 import os
-import tempfile
 from unittest.mock import patch
 import pytest
 from db import get_db, init_db
@@ -17,8 +15,8 @@ def db():
 
 @pytest.fixture
 def vault_dir(tmp_path):
-    (tmp_path / "ai").mkdir()
-    (tmp_path / "macro").mkdir()
+    for d in ["ai/entities", "ai/concepts", "ai/weekly", "macro/indicators", "macro/weekly"]:
+        (tmp_path / d).mkdir(parents=True)
     return str(tmp_path)
 
 
@@ -44,8 +42,11 @@ def test_parse_date_rfc2822():
 
 
 def test_parse_date_empty():
-    assert _parse_date(None) == "unknown"
-    assert _parse_date("") == "unknown"
+    # Now returns today's date instead of "unknown"
+    from datetime import date
+    today = date.today().isoformat()
+    assert _parse_date(None) == today
+    assert _parse_date("") == today
 
 
 def test_make_slug():
@@ -54,57 +55,74 @@ def test_make_slug():
     assert _make_slug("한글 제목 Test") == "test"
 
 
-@patch("wiki.ingest.call_haiku_ingest")
-def test_ingest_creates_file(mock_haiku, db, vault_dir):
+@patch("wiki.ingest.route_source")
+def test_ingest_routes_and_creates_pages(mock_route, db, vault_dir, monkeypatch):
+    monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
+
     _insert_quality_pass(db)
-    mock_haiku.return_value = {
-        "summary": "Scaling laws show predictable performance gains.",
-        "whats_new": "First empirical validation at 10T parameter scale."
+    mock_route.return_value = {
+        "entities": ["arXiv"],
+        "concepts": ["Scaling Laws"],
+        "new_pages": [],
+        "facts": [
+            {"page": "Scaling Laws", "entry": "10T 파라미터 스케일 검증 완료", "date": "2026-04-10"}
+        ],
+        "summary_ko": "스케일링 법칙의 10T 파라미터 규모 검증.",
+        "whats_new": "최초 10T 규모 실증",
     }
+
+    # Pre-create target pages
+    from wiki.pages import create_page
+    create_page(db, "ai/concepts/Scaling Laws", "Scaling Laws", "concept", "ai")
+
     count = ingest(db, vault_dir)
     assert count == 1
 
-    # Check file exists
-    files = os.listdir(os.path.join(vault_dir, "ai"))
-    assert len(files) == 1
-    assert files[0].endswith(".md")
-    assert "scaling-laws" in files[0]
+    # Check page was updated
+    concept_path = os.path.join(vault_dir, "ai", "concepts", "Scaling Laws.md")
+    content = open(concept_path).read()
+    assert "10T 파라미터" in content
 
 
-@patch("wiki.ingest.call_haiku_ingest")
-def test_ingest_file_has_frontmatter(mock_haiku, db, vault_dir):
+@patch("wiki.ingest.route_source")
+def test_ingest_updates_db_status(mock_route, db, vault_dir, monkeypatch):
+    monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
+
     _insert_quality_pass(db)
-    mock_haiku.return_value = {
-        "summary": "Summary text.",
-        "whats_new": "New findings."
+    mock_route.return_value = {
+        "entities": [], "concepts": [], "new_pages": [],
+        "facts": [], "summary_ko": "요약", "whats_new": "새로운 점",
+    }
+    ingest(db, vault_dir)
+    cursor = db.execute("SELECT status FROM sources LIMIT 1")
+    assert cursor.fetchone()[0] == "ingested"
+
+
+@patch("wiki.ingest.route_source")
+def test_ingest_idempotent(mock_route, db, vault_dir, monkeypatch):
+    monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
+
+    _insert_quality_pass(db)
+    mock_route.return_value = {
+        "entities": [], "concepts": [], "new_pages": [],
+        "facts": [], "summary_ko": "요약", "whats_new": "",
+    }
+    ingest(db, vault_dir)
+    count = ingest(db, vault_dir)
+    assert count == 0  # nothing new
+
+
+@patch("wiki.ingest.route_source")
+def test_ingest_creates_weekly_digest(mock_route, db, vault_dir, monkeypatch):
+    monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
+
+    _insert_quality_pass(db)
+    mock_route.return_value = {
+        "entities": [], "concepts": [], "new_pages": [],
+        "facts": [], "summary_ko": "스케일링 법칙 요약", "whats_new": "",
     }
     ingest(db, vault_dir)
 
-    files = os.listdir(os.path.join(vault_dir, "ai"))
-    with open(os.path.join(vault_dir, "ai", files[0])) as f:
-        content = f.read()
-    assert "---" in content
-    assert "title:" in content
-    assert "importance: insight" in content
-    assert "## 핵심" in content
-    assert "## 새로운 점" in content
-
-
-@patch("wiki.ingest.call_haiku_ingest")
-def test_ingest_updates_db_status(mock_haiku, db, vault_dir):
-    _insert_quality_pass(db)
-    mock_haiku.return_value = {"summary": "S", "whats_new": "N"}
-    ingest(db, vault_dir)
-    cursor = db.execute("SELECT status, vault_path FROM sources LIMIT 1")
-    row = cursor.fetchone()
-    assert row[0] == "ingested"
-    assert row[1] is not None
-
-
-@patch("wiki.ingest.call_haiku_ingest")
-def test_ingest_idempotent(mock_haiku, db, vault_dir):
-    _insert_quality_pass(db)
-    mock_haiku.return_value = {"summary": "S", "whats_new": "N"}
-    ingest(db, vault_dir)
-    count = ingest(db, vault_dir)  # second run
-    assert count == 0  # nothing new to ingest
+    # Weekly digest should exist
+    weekly_files = os.listdir(os.path.join(vault_dir, "ai", "weekly"))
+    assert len(weekly_files) >= 1

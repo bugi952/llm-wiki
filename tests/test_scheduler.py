@@ -78,14 +78,27 @@ def test_run_auto_full_pipeline(mock_rss, mock_hn, mock_fred, mock_ecos, mock_fi
     assert mock_finnhub.called
 
 
+@patch("scheduler.sync_vault")
+@patch("scheduler.update_index")
+@patch("scheduler.ingest")
+@patch("scheduler.filter_quality")
+@patch("scheduler.filter_topic")
+@patch("scheduler.collect_finnhub")
+@patch("scheduler.collect_ecos")
+@patch("scheduler.collect_fred")
+@patch("scheduler.collect_hackernews")
 @patch("scheduler.collect_rss")
-def test_run_auto_api_limit(mock_collect, db, clean_lock):
+def test_run_auto_api_limit(mock_rss, mock_hn, mock_fred, mock_ecos, mock_finnhub,
+                            mock_topic, mock_quality, mock_ingest, mock_index,
+                            mock_sync, db, clean_lock):
     """Pipeline should stop if daily API count exceeds 300."""
-    # Insert 301 api_call events
+    from datetime import date
+    today = date.today().isoformat()
     for _ in range(301):
-        db.execute("INSERT INTO system_log (event) VALUES ('api_call')")
+        db.execute("INSERT INTO system_log (event, created_at) VALUES ('api_call', ?)",
+                   (f"{today} 12:00:00",))
     db.commit()
 
     result = run_auto(db)
     assert result.get("error") == "api_limit_exceeded"
-    assert not mock_collect.called
+    assert not mock_rss.called

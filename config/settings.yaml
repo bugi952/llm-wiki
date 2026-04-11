@@ -12,6 +12,11 @@ wiki:
   archive_after_days: 30
   remove_from_index_after_days: 90
   max_index_items: 50
+  page_types:
+    - entity
+    - concept
+    - indicator
+    - weekly
 
 claude:
   model: "haiku"                        # claude -p --model haiku (Max 구독, API 키 불필요)

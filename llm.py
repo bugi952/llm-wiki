@@ -32,10 +32,13 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
 
     last_error = None
 
+    counted = False
+
     for attempt in range(MAX_RETRIES):
         try:
-            if conn:
+            if conn and not counted:
                 increment_api_count(conn)
+                counted = True
 
             result = subprocess.run(
                 ["claude", "-p", prompt, "--model", "haiku"],

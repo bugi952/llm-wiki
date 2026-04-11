@@ -1,46 +1,27 @@
 # Wiki Daily
-최종 갱신: 2026-04-11 23:36
+최종 갱신: 2026-04-12 00:55
 
 ## AI
 
-### 🔴 Urgent
-- 🔴 **[[ai/2026-04-06_anthropic-expands-partnership-with-google-and-broadcom-for-multiple-gigawatts-of-next-generation-compute.md|Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute]]** ★4.67 (04/06) — Anthropic이 Google, Broadcom과의 파트너십을 확대하여 다기가와트 규모의 차세대 컴퓨팅 인프라 확보 [(원문)](https://www.anthropic.com/news/google-broadcom-partnership-compute)
-- 🔴 **[[ai/2026-04-02_gemma-4-byte-for-byte-the-most-capable-open-models.md|Gemma 4: Byte for byte, the most capable open models]]** ★4.67 (04/02) — Gemma 4는 DeepMind의 최신 오픈 모델로, 고급 추론 능력과 에이전트 워크플로우를 위해 최적화되었다 [(원문)](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/)
-- 🔴 **[[ai/2026-03-17_measuring-progress-toward-agi-a-cognitive-framework.md|Measuring progress toward AGI: A cognitive framework]]** ★4.33 (03/17) — DeepMind가 AGI 진전도를 측정하기 위한 인지 프레임워크를 제시하고 Kaggle 해커톤을 통해 관련 평가 메커니즘을 개발 중입니다 [(원문)](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/)
+### 🏢 엔티티
+- [[ai/entities/Anthropic|Anthropic]]
+- [[ai/entities/Google DeepMind|Google DeepMind]]
 
-### 🟡 Insight
-- 🟡 **[[ai/2026-04-06_import-ai-452-scaling-laws-for-cyberwar-rising-tides-of-ai-automation-and-a-puzzle-over-gdp-forecasting.md|Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting]]** ★3.33 (04/06) — Import AI 452는 AI의 경제적 영향을 세 가지 관점에서 분석합니다 [(원문)](https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar)
-- 🟡 **[[ai/2026-03-31_australian-government-and-anthropic-sign-mou-for-ai-safety-and-research.md|Australian government and Anthropic sign MOU for AI safety and research]]** ★4.33 (03/31) — 호주 정부와 Anthropic이 AI 안전과 연구에 관한 양해각서(MOU)를 체결했다 [(원문)](https://www.anthropic.com/news/australia-MOU)
-- 🟡 **[[ai/2026-03-30_import-ai-451-political-superintelligence-googles-society-of-minds-and-a-robot-drummer.md|Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer]]** ★4.0 (03/30) — Political superintelligence의 위험성, Google의 분산 AI 아키텍처, 로봇 드러머 기술 [(원문)](https://importai.substack.com/p/import-ai-451-political-superintelligence)
-- 🟡 **[[ai/2026-03-26_gemini-31-flash-live-making-audio-ai-more-natural-and-reliable.md|Gemini 3.1 Flash Live: Making audio AI more natural and reliable]]** ★3.67 (03/26) — Google이 음성 AI의 정밀도를 개선하고 지연 시간을 감소시킨 Gemini 3.1 Flash Live 모델을 발표했다 [(원문)](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/)
-- 🟡 **[[ai/2026-03-25_protecting-people-from-harmful-manipulation.md|Protecting people from harmful manipulation]]** ★3.33 (03/25) — Google DeepMind는 AI 시스템의 해로운 조작(harmful manipulation) 위험을 연구하고 있다 [(원문)](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)
-- 🟡 **[[ai/2026-03-18_what-81000-people-want-from-ai.md|What 81,000 people want from AI]]** ★4.0 (03/18) [(원문)](https://www.anthropic.com/81k-interviews)
-- 🟡 **[[ai/2026-03-16_importai-449-llms-training-other-llms-72b-distributed-training-run-computer-vision-is-harder-than-generative-text.md|ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text]]** ★3.3 (03/16) — LLM이 다른 LLM을 학습시키는 자동 교육 프로세스 소개 [(원문)](https://importai.substack.com/p/importai-449-llms-training-other)
+### 💡 개념
+- [[ai/concepts/AGI|AGI]]
+- [[ai/concepts/AI Infrastructure|AI Infrastructure]]
+- [[ai/concepts/AI Regulation|AI Regulation]]
+- [[ai/concepts/AI Safety|AI Safety]]
+- [[ai/concepts/Agentic AI|Agentic AI]]
+- [[ai/concepts/Multimodal AI|Multimodal AI]]
+- [[ai/concepts/Open Source Models|Open Source Models]]
+- [[ai/concepts/Scaling Laws|Scaling Laws]]
 
-### 🔗 Connection
-- 🔗 **[[ai/2026-03-12_anthropic-invests-100-million-into-the-claude-partner-network.md|Anthropic invests $100 million into the Claude Partner Network]]** ★3.33 (03/12) — Anthropic이 Claude Partner Network에 1억 달러를 투자하여 글로벌 개발자와 기업 파트너십을 강화 [(원문)](https://www.anthropic.com/news/claude-partner-network)
+## MACRO
 
-### ⚪ Background
-- ⚪ **[[ai/2026-03-25_lyria-3-pro-create-longer-tracks-in-more.md|Lyria 3 Pro: Create longer tracks in more]]** ★3.33 (03/25) — Google DeepMind이 Lyria 3 Pro를 출시했다 [(원문)](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/)
-
-### 📦 아카이브
-- ⚪ **[[ai/2026-03-10_sydney-will-become-anthropics-fourth-office-in-asia-pacific.md|Sydney will become Anthropic’s fourth office in Asia-Pacific]]** ★3.0 (03/10) — Anthropic이 호주 시드니에 새 사무실을 개설하여 아태 지역 4번째 거점을 확보 [(원문)](https://www.anthropic.com/news/sydney-fourth-office-asia-pacific)
-- 🟡 **[[ai/2026-03-09_from-games-to-biology-and-beyond-10-years-of-alphagos-impact.md|From games to biology and beyond: 10 years of AlphaGo’s impact]]** ★3.67 (03/09) — AlphaGo 10년의 발전과 영향을 회고하는 글 [(원문)](https://deepmind.google/blog/10-years-of-alphago/)
-- 🟡 **[[ai/2026-03-09_import-ai-448-ai-rd-bytedances-cuda-writing-agent-on-device-satellite-ai.md|Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI]]** ★3.33 (03/09) — AI R&D 트렌드를 다루며, ByteDance가 CUDA 코드를 자동 작성하는 에이전트 개발, 위성 데이터 처리용 온디바이스 AI 기술 발전을 보도 [(원문)](https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances)
-- 🟡 **[[ai/2026-03-03_gemini-31-flash-lite-built-for-intelligence-at-scale.md|Gemini 3.1 Flash-Lite: Built for intelligence at scale]]** ★4.0 (03/03) — DeepMind가 Gemini 3.1 Flash-Lite 모델을 공개했으며, Gemini 3 시리즈 중 가장 빠르고 비용 효율적인 모델이다 [(원문)](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/)
-- 🟡 **[[ai/2026-03-02_import-ai-447-the-agi-economy-testing-ais-with-generated-games-and-agent-ecologies.md|Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies]]** ★3.67 (03/02) — AGI 경제의 출현과 초지능 아콜로지(superintelligence arcology)의 개념을 다룬다 [(원문)](https://importai.substack.com/p/import-ai-447-the-agi-economy-testing)
-- 🔴 **[[ai/2026-02-26_statement-from-dario-amodei-on-our-discussions-with-the-department-of-war.md|Statement from Dario Amodei on our discussions with the Department of War]]** ★4.67 (02/26) [(원문)](https://www.anthropic.com/news/statement-department-of-war)
-- 🟡 **[[ai/2026-02-25_anthropic-acquires-vercept-to-advance-claudes-computer-use-capabilities.md|Anthropic acquires Vercept to advance Claude's computer use capabilities]]** ★4.33 (02/25) — Anthropic이 Vercept를 인수하여 Claude의 컴퓨터 사용(computer use) 능력을 강화 [(원문)](https://www.anthropic.com/news/acquires-vercept)
-- 🟡 **[[ai/2026-02-23_import-ai-446-nuclear-llms-chinas-big-ai-benchmark-measurement-and-ai-policy.md|Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy]]** ★4.33 (02/23) — Import AI 446은 최신 LLM 기술 발전, 중국의 AI 벤치마크 경쟁, 그리고 AI 성능 측정을 통한 정책 수립 방향을 다룬다 [(원문)](https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas)
-- 🟡 **[[ai/2026-02-19_gemini-31-pro-a-smarter-model-for-your-most-complex-tasks.md|Gemini 3.1 Pro: A smarter model for your most complex tasks]]** ★4.0 (02/19) — Google DeepMind가 발표한 Gemini 3.1 Pro는 단순한 답변으로는 불충분한 복잡한 작업 처리에 특화된 고급 모델 [(원문)](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/)
-- 🟡 **[[ai/2026-02-18_a-new-way-to-express-yourself-gemini-can-now-create-music.md|A new way to express yourself: Gemini can now create music]]** ★4.0 (02/18) — Gemini 앱에 최고 성능의 음악 생성 모델 Lyria 3이 탑재되었다 [(원문)](https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/)
-- 🟡 **[[ai/2026-02-17_accelerating-discovery-in-india-through-ai-powered-science-and-education.md|Accelerating discovery in India through AI-powered science and education]]** ★3.67 (02/17) — Google DeepMind가 National Partnerships for AI 이니셔티브를 인도에 확대하여 과학 및 교육 분야에서 AI 활용을 가속화하고 있다 [(원문)](https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/)
-- 🔴 **[[ai/2026-02-16_import-ai-445-timing-superintelligence-ais-solve-frontier-math-proofs-a-new-ml-research-benchmark.md|Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark]]** ★4.33 (02/16) — 2026이 초지능 관련 의사결정의 분기점이 될 수 있는 해로 평가될 가능성을 제기 [(원문)](https://importai.substack.com/p/import-ai-445-timing-superintelligence)
-- 🟡 **[[ai/2026-02-12_gemini-3-deep-think-advancing-science-research-and-engineering.md|Gemini 3 Deep Think: Advancing science, research and engineering]]** ★4.7 (02/12) — DeepMind의 Gemini 3 Deep Think 모드가 업데이트되어 과학, 연구, 엔지니어링 분야의 복잡한 문제 해결에 특화된 추론 기능을 강화했습니다 [(원문)](https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/)
-- 🟡 **[[ai/2026-02-09_import-ai-444-llm-societies-huawei-makes-kernels-with-ai-chipbench.md|Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench]]** ★4.0 (02/09) — LLM 다중 에이전트 시스템(societies)의 협력 메커니즘, Huawei의 AI 기반 커널 개발, AI 칩 성능 벤치마크 표준화(ChipBench), 그리고 LLM의 창의성을 정량화하는 방법론에 대한 내용 [(원문)](https://importai.substack.com/p/import-ai-444-llm-societies-huawei)
-- 🟡 **[[ai/2026-02-02_import-ai-443-into-the-mist-moltbook-agent-ecologies-and-the-internet-in-transition.md|Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition]]** ★3.33 (02/02) — AI 에이전트 생태계가 확장되면서 인터넷 환경이 급변하고 있다 [(원문)](https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook)
-- 🟡 **[[ai/2026-01-29_project-genie-experimenting-with-infinite-interactive-worlds.md|Project Genie: Experimenting with infinite, interactive worlds]]** ★4.0 (01/29) — Google의 Project Genie는 AI Ultra 구독자(미국)를 대상으로 한 실험적 연구 프로토타입으로, 사용자가 무한하고 상호작용 가능한 가상 세계를 생성하고 탐험할 수 있도록 한다 [(원문)](https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/)
-- 🟡 **[[ai/2026-01-26_import-ai-442-winners-and-losers-in-the-ai-economy-math-proof-automation-and-industrialization-of-cyber-espionage.md|Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage]]** ★3.67 (01/26) — Import AI #442는 AI 경제에서의 승자와 패자 분석, 수학 증명 자동화 기술 발전, 사이버 첩보 산업화 현상을 다룬다 [(원문)](https://importai.substack.com/p/import-ai-442-winners-and-losers)
-- 🟡 **[[ai/2026-01-19_import-ai-441-my-agents-are-working-are-yours.md|Import AI 441: My agents are working. Are yours?]]** ★4.0 (01/19) — 3~5줄 요약 [(원문)](https://importai.substack.com/p/import-ai-441-my-agents-are-working)
-- 🟡 **[[ai/2026-01-16_d4rt-teaching-ai-to-see-the-world-in-four-dimensions.md|D4RT: Teaching AI to see the world in four dimensions]]** ★3.67 (01/16) — DeepMind의 D4RT는 4D 재구성 및 추적 기술로, 3D 공간에 시간 축을 통합하여 동적 장면을 효율적으로 모델링한다 [(원문)](https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/)
-- 🟡 **[[ai/2026-01-13_veo-31-ingredients-to-video-more-consistency-creativity-and-control.md|Veo 3.1 Ingredients to Video: More consistency, creativity and control]]** ★4.33 (01/13) — Google DeepMind의 Veo 3.1 업데이트는 더욱 자연스럽고 역동적인 비디오 생성을 지원합니다 [(원문)](https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/)
+### 📊 지표
+- [[macro/indicators/Korea Inflation|Korea Inflation]]
+- [[macro/indicators/Korea Interest Rates|Korea Interest Rates]]
+- [[macro/indicators/US Employment|US Employment]]
+- [[macro/indicators/US Inflation|US Inflation]]
+- [[macro/indicators/US Interest Rates|US Interest Rates]]

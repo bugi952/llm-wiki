@@ -50,6 +50,25 @@ def init_db(conn):
             details TEXT,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
         );
+
+        CREATE TABLE IF NOT EXISTS wiki_pages (
+            id INTEGER PRIMARY KEY,
+            slug TEXT UNIQUE NOT NULL,
+            title TEXT NOT NULL,
+            page_type TEXT NOT NULL,
+            domain TEXT NOT NULL,
+            source_count INTEGER DEFAULT 0,
+            last_updated DATETIME,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+        );
+
+        CREATE TABLE IF NOT EXISTS page_updates (
+            id INTEGER PRIMARY KEY,
+            page_id INTEGER REFERENCES wiki_pages(id),
+            source_id INTEGER REFERENCES sources(id),
+            update_type TEXT,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+        );
     """)
     conn.commit()
 

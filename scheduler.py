@@ -5,6 +5,9 @@ import sys
 import time
 
 import yaml
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from db import get_db, init_db, log_event, get_daily_api_count
 from collector.rss import collect_rss
@@ -198,11 +201,15 @@ def main():
     elif mode == "sync":
         result = sync_vault()
         print(f"Sync: {result}")
+    elif mode == "migrate":
+        from wiki.migrate import migrate
+        stats = migrate(conn)
+        print(f"Migration complete: {stats}")
     elif mode == "status":
         run_status(conn)
     else:
         print(f"Unknown mode: {mode}")
-        print("Usage: python scheduler.py [auto|collect|filter|ingest|sync|status]")
+        print("Usage: python scheduler.py [auto|collect|filter|ingest|sync|status|migrate]")
         sys.exit(1)
 
     conn.close()

@@ -37,12 +37,16 @@ def collect_finnhub(conn):
     from_date = today.isoformat()
     to_date = (today + timedelta(days=7)).isoformat()
 
-    resp = requests.get(
-        FINNHUB_API_URL,
-        params={"from": from_date, "to": to_date, "token": api_key},
-        timeout=15,
-    )
-    resp.raise_for_status()
+    try:
+        resp = requests.get(
+            FINNHUB_API_URL,
+            params={"from": from_date, "to": to_date, "token": api_key},
+            timeout=15,
+        )
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        logger.warning("Finnhub API error (may require premium): %s", e)
+        return 0
     data = resp.json()
 
     events = data.get("economicCalendar", [])
