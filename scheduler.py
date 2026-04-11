@@ -1,0 +1,161 @@
+import json
+import logging
+import os
+import sys
+import time
+
+import yaml
+
+from db import get_db, init_db, log_event, get_daily_api_count
+from collector.rss import collect_rss
+from filter.topic import filter_topic
+from filter.quality import filter_quality
+from wiki.ingest import ingest
+from wiki.indexer import update_index
+from sync import sync_vault
+
+logger = logging.getLogger(__name__)
+
+LOCK_FILE = "data/pipeline.lock"
+API_DAILY_LIMIT = 300
+STALE_LOCK_SECONDS = 3600  # 1 hour
+
+
+def acquire_lock():
+    """Try to acquire pipeline lock. Returns True if acquired."""
+    if os.path.exists(LOCK_FILE):
+        mtime = os.path.getmtime(LOCK_FILE)
+        age = time.time() - mtime
+        if age > STALE_LOCK_SECONDS:
+            logger.warning("Stale lock removed (age: %ds)", int(age))
+            os.remove(LOCK_FILE)
+        else:
+            logger.warning("Pipeline already running (lock age: %ds)", int(age))
+            return False
+
+    os.makedirs(os.path.dirname(LOCK_FILE), exist_ok=True)
+    with open(LOCK_FILE, "w") as f:
+        f.write(str(os.getpid()))
+    return True
+
+
+def release_lock():
+    if os.path.exists(LOCK_FILE):
+        os.remove(LOCK_FILE)
+
+
+def _load_feeds():
+    """Load RSS feed configs from YAML files."""
+    feeds = []
+    for path in ["config/sources/ai.yaml", "config/sources/macro.yaml"]:
+        if not os.path.exists(path):
+            continue
+        with open(path) as f:
+            cfg = yaml.safe_load(f)
+        for feed in cfg.get("rss_feeds", []):
+            feeds.append(feed)
+    return feeds
+
+
+def run_auto(conn):
+    """Run full pipeline: collect → filter → ingest → index → sync.
+
+    Returns dict with step counts.
+    """
+    result = {}
+
+    # Lock
+    if not acquire_lock():
+        return {"error": "locked"}
+
+    try:
+        # API limit check
+        if get_daily_api_count(conn) >= API_DAILY_LIMIT:
+            logger.error("Daily API limit exceeded (%d)", API_DAILY_LIMIT)
+            result["error"] = "api_limit_exceeded"
+            return result
+
+        # 1. Collect
+        feeds = _load_feeds()
+        collected = collect_rss(conn, feeds, delay=0)
+        result["collected"] = collected
+        log_event(conn, "collect", json.dumps({"count": collected}))
+
+        # 2. Filter A: topic
+        topic_passed, topic_failed = filter_topic(conn)
+        result["topic_passed"] = topic_passed
+        result["topic_failed"] = topic_failed
+
+        # 3. Filter B: quality
+        quality_passed, quality_failed = filter_quality(conn)
+        result["quality_passed"] = quality_passed
+        result["quality_failed"] = quality_failed
+
+        # 4. Ingest
+        ingested = ingest(conn)
+        result["ingested"] = ingested
+
+        # 5. Index
+        update_index(conn)
+
+        # 6. Sync
+        sync_result = sync_vault()
+        result["sync"] = sync_result
+
+        log_event(conn, "pipeline", json.dumps(result))
+        logger.info("Pipeline complete: %s", result)
+
+    finally:
+        release_lock()
+
+    return result
+
+
+def run_status(conn):
+    """Print DB status summary."""
+    for status in ["collected", "topic_pass", "topic_fail", "quality_pass", "quality_fail", "ingested"]:
+        cursor = conn.execute("SELECT COUNT(*) FROM sources WHERE status = ?", (status,))
+        count = cursor.fetchone()[0]
+        print(f"  {status}: {count}")
+
+    api_count = get_daily_api_count(conn)
+    print(f"  API calls today: {api_count}/{API_DAILY_LIMIT}")
+
+
+def main():
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(name)s %(levelname)s %(message)s")
+
+    conn = get_db()
+    init_db(conn)
+
+    mode = sys.argv[1] if len(sys.argv) > 1 else "auto"
+
+    if mode == "auto":
+        run_auto(conn)
+    elif mode == "collect":
+        feeds = _load_feeds()
+        count = collect_rss(conn, feeds)
+        print(f"Collected: {count}")
+    elif mode == "filter":
+        tp, tf = filter_topic(conn)
+        qp, qf = filter_quality(conn)
+        print(f"Topic: {tp} passed, {tf} failed. Quality: {qp} passed, {qf} failed.")
+    elif mode == "ingest":
+        count = ingest(conn)
+        update_index(conn)
+        print(f"Ingested: {count}")
+    elif mode == "sync":
+        result = sync_vault()
+        print(f"Sync: {result}")
+    elif mode == "status":
+        run_status(conn)
+    else:
+        print(f"Unknown mode: {mode}")
+        print("Usage: python scheduler.py [auto|collect|filter|ingest|sync|status]")
+        sys.exit(1)
+
+    conn.close()
+
+
+if __name__ == "__main__":
+    main()
