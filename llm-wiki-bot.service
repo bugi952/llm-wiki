@@ -1,0 +1,14 @@
+[Unit]
+Description=LLM Wiki Telegram Bot
+After=network.target
+
+[Service]
+User=bugi
+WorkingDirectory=/home/bugi/llm-wiki
+ExecStart=/home/bugi/llm-wiki/.venv/bin/python bot.py
+Restart=always
+RestartSec=10
+EnvironmentFile=/home/bugi/llm-wiki/.env
+
+[Install]
+WantedBy=multi-user.target
