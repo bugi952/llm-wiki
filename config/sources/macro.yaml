@@ -1,5 +1,6 @@
 fred:
   series:
+    # US Economy
     - id: "GDP"
       name: "미국 GDP"
     - id: "CPIAUCSL"
@@ -12,6 +13,16 @@ fred:
       name: "10Y-2Y 스프레드"
     - id: "DGS10"
       name: "10년 국채금리"
+    # Commodities
+    - id: "DCOILWTICO"
+      name: "WTI 유가"
+    # FX
+    - id: "DEXUSEU"
+      name: "EUR/USD"
+    - id: "DEXJPUS"
+      name: "JPY/USD"
+    - id: "DEXCHUS"
+      name: "CNY/USD"
 
 ecos:
   series:
@@ -29,6 +40,26 @@ rss_feeds:
   - name: "fed-press"
     url: "https://www.federalreserve.gov/feeds/press_all.xml"
     type: "central_bank"
+
+  - name: "ecb-press"
+    url: "https://www.ecb.europa.eu/rss/press.html"
+    type: "central_bank"
+
+  - name: "boj-news"
+    url: "https://www.boj.or.jp/en/rss/whatsnew.xml"
+    type: "central_bank"
+
+  - name: "bis-press"
+    url: "https://www.bis.org/doclist/all_pressrels.rss"
+    type: "central_bank"
+
+  - name: "bis-speeches"
+    url: "https://www.bis.org/doclist/cbspeeches.rss"
+    type: "central_bank"
+
+  - name: "pboc-news"
+    url: "https://news.google.com/rss/search?q=PBOC+%22People%27s+Bank+of+China%22&hl=en-US&gl=US&ceid=US:en"
+    type: "news"
 
   # === Macro Analysis ===
   - name: "fred-blog"

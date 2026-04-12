@@ -48,6 +48,11 @@ MACRO_INDICATORS = {
     "US Employment": ["미국 실업률"],
     "Korea Interest Rates": ["기준금리"],
     "Korea Inflation": ["소비자물가지수"],
+    "Oil (WTI)": ["WTI 유가"],
+    "Gold": ["금 시세"],
+    "EUR-USD": ["EUR/USD"],
+    "JPY-USD": ["JPY/USD"],
+    "CNY-USD": ["CNY/USD"],
 }
 
 

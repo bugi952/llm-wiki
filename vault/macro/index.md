@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-12 00:55
+최종 갱신: 2026-04-12 02:34
 
 ## 📊 지표
 - [[indicators/Korea Inflation|Korea Inflation]]

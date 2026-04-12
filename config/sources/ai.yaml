@@ -60,6 +60,19 @@ rss_feeds:
     url: "https://www.aitimes.com/rss/allArticle.xml"
     type: "news"
 
+  # === Company Tracking ===
+  - name: "bmnr-news"
+    url: "https://news.google.com/rss/search?q=BMNR+BitMine&hl=en-US&gl=US&ceid=US:en"
+    type: "news"
+
+  - name: "mstr-news"
+    url: "https://news.google.com/rss/search?q=Strategy+MSTR+MicroStrategy&hl=en-US&gl=US&ceid=US:en"
+    type: "news"
+
+  - name: "iren-news"
+    url: "https://news.google.com/rss/search?q=IREN+%22Iris+Energy%22&hl=en-US&gl=US&ceid=US:en"
+    type: "news"
+
 hackernews:
   enabled: true
   keywords_file: "config/filter_rules.yaml"
