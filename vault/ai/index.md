@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-12 03:18
+최종 갱신: 2026-04-12 03:40
 
 ## 🏢 엔티티
 - [[entities/Anthropic|Anthropic]]
