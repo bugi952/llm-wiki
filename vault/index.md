@@ -1,11 +1,17 @@
 # Wiki Daily
-최종 갱신: 2026-04-12 00:55
+최종 갱신: 2026-04-12 02:34
 
 ## AI
 
 ### 🏢 엔티티
 - [[ai/entities/Anthropic|Anthropic]]
+- [[ai/entities/Apple|Apple]]
 - [[ai/entities/Google DeepMind|Google DeepMind]]
+- [[ai/entities/Hugging Face|Hugging Face]]
+- [[ai/entities/Meta AI|Meta AI]]
+- [[ai/entities/Microsoft|Microsoft]]
+- [[ai/entities/Nvidia|Nvidia]]
+- [[ai/entities/OpenAI|OpenAI]]
 
 ### 💡 개념
 - [[ai/concepts/AGI|AGI]]

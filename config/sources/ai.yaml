@@ -1,23 +1,64 @@
 rss_feeds:
-  - name: "arxiv-cs-ai-cl-lg"
-    url: "https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG"
-    type: "arxiv"
-
-  - name: "anthropic-blog"
-    url: "http://localhost:1200/anthropic/blog"
-    type: "blog"
-
-  - name: "openai-blog"
-    url: "http://localhost:1200/openai/blog"
-    type: "blog"
-
+  # === AI Lab Blogs ===
   - name: "deepmind-blog"
     url: "https://deepmind.google/blog/rss.xml"
     type: "blog"
 
+  - name: "anthropic-blog"
+    url: "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml"
+    type: "blog"
+
+  - name: "openai-blog"
+    url: "https://openai.com/blog/rss.xml"
+    type: "blog"
+
+  - name: "google-research"
+    url: "https://blog.research.google/atom.xml"
+    type: "blog"
+
+  - name: "microsoft-ai"
+    url: "https://blogs.microsoft.com/ai/feed/"
+    type: "blog"
+
+  - name: "meta-engineering-ml"
+    url: "https://engineering.fb.com/category/ml-applications/feed/"
+    type: "blog"
+
+  - name: "apple-ml"
+    url: "https://machinelearning.apple.com/rss.xml"
+    type: "blog"
+
+  # === Research ===
+  - name: "arxiv-cs-ai-cl-lg"
+    url: "https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG"
+    type: "arxiv"
+
+  - name: "huggingface-blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    type: "blog"
+
+  - name: "the-gradient"
+    url: "https://thegradient.pub/rss/"
+    type: "blog"
+
+  - name: "sebastian-raschka"
+    url: "https://magazine.sebastianraschka.com/feed"
+    type: "newsletter"
+
+  # === Newsletters ===
   - name: "import-ai"
     url: "https://importai.substack.com/feed"
     type: "newsletter"
+
+  # === AI Safety / Policy ===
+  - name: "alignment-forum"
+    url: "https://www.alignmentforum.org/feed.xml"
+    type: "blog"
+
+  # === Korean AI ===
+  - name: "aitimes-kr"
+    url: "https://www.aitimes.com/rss/allArticle.xml"
+    type: "news"
 
 hackernews:
   enabled: true

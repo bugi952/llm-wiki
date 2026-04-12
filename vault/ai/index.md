@@ -1,9 +1,15 @@
 # AI Wiki
-최종 갱신: 2026-04-12 00:55
+최종 갱신: 2026-04-12 02:34
 
 ## 🏢 엔티티
 - [[entities/Anthropic|Anthropic]]
+- [[entities/Apple|Apple]]
 - [[entities/Google DeepMind|Google DeepMind]]
+- [[entities/Hugging Face|Hugging Face]]
+- [[entities/Meta AI|Meta AI]]
+- [[entities/Microsoft|Microsoft]]
+- [[entities/Nvidia|Nvidia]]
+- [[entities/OpenAI|OpenAI]]
 
 ## 💡 개념
 - [[concepts/AGI|AGI]]

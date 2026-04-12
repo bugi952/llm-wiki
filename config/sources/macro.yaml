@@ -25,6 +25,20 @@ finnhub:
   min_impact: "medium"
 
 rss_feeds:
-  - name: "stlouis-fed"
-    url: "https://www.stlouisfed.org/rss"
+  # === Central Bank ===
+  - name: "fed-press"
+    url: "https://www.federalreserve.gov/feeds/press_all.xml"
     type: "central_bank"
+
+  # === Macro Analysis ===
+  - name: "fred-blog"
+    url: "https://fredblog.stlouisfed.org/feed/"
+    type: "blog"
+
+  - name: "calculated-risk"
+    url: "https://www.calculatedriskblog.com/feeds/posts/default?alt=rss"
+    type: "blog"
+
+  - name: "econbrowser"
+    url: "https://econbrowser.com/feed"
+    type: "blog"
