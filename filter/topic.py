@@ -9,12 +9,20 @@ logger = logging.getLogger(__name__)
 # Feed names where domain is already known (no CLI needed)
 KNOWN_DOMAIN_FEEDS = {
     "arxiv-cs-ai-cl-lg", "anthropic-blog", "openai-blog", "deepmind-blog", "import-ai",
+    "google-research", "microsoft-ai", "meta-engineering-ml", "apple-ml",
+    "huggingface-blog", "the-gradient", "sebastian-raschka", "alignment-forum",
+    "aitimes-kr",
 }
 KNOWN_MACRO_TYPES = {"fred", "ecos", "finnhub"}
+KNOWN_MACRO_FEEDS = {
+    "fed-press", "ecb-press", "boj-news", "bis-press", "bis-speeches",
+    "pboc-news", "fred-blog", "calculated-risk", "econbrowser",
+}
 KNOWN_CRYPTO_TYPES = {"coingecko"}
 KNOWN_CRYPTO_FEEDS = {
     "bitcoin-magazine", "ethereum-foundation", "hyperliquid-medium", "hype-news",
     "coindesk", "cointelegraph", "decrypt", "the-defiant",
+    "bmnr-news", "mstr-news", "iren-news",
 }
 
 
@@ -50,9 +58,11 @@ def filter_topic(conn, confidence_threshold=None):
         source_id, source_type, feed_name, domain, title, content = row
 
         # Known domain sources: skip CLI
-        if feed_name in KNOWN_DOMAIN_FEEDS or source_type in KNOWN_MACRO_TYPES or feed_name in KNOWN_CRYPTO_FEEDS or source_type in KNOWN_CRYPTO_TYPES:
+        if (feed_name in KNOWN_DOMAIN_FEEDS or source_type in KNOWN_MACRO_TYPES
+                or feed_name in KNOWN_MACRO_FEEDS or feed_name in KNOWN_CRYPTO_FEEDS
+                or source_type in KNOWN_CRYPTO_TYPES):
             if not domain:
-                if source_type in KNOWN_MACRO_TYPES:
+                if source_type in KNOWN_MACRO_TYPES or feed_name in KNOWN_MACRO_FEEDS:
                     domain = "macro"
                 elif feed_name in KNOWN_CRYPTO_FEEDS or source_type in KNOWN_CRYPTO_TYPES:
                     domain = "crypto"

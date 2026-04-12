@@ -1,5 +1,5 @@
 import sqlite3
-from datetime import date
+from datetime import date, datetime
 
 
 def get_db(path="data/wiki.db"):
@@ -74,9 +74,10 @@ def init_db(conn):
 
 
 def log_event(conn, event, details=None):
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     conn.execute(
-        "INSERT INTO system_log (event, details) VALUES (?, ?)",
-        (event, details),
+        "INSERT INTO system_log (event, details, created_at) VALUES (?, ?, ?)",
+        (event, details, now),
     )
     conn.commit()
 
