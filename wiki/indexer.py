@@ -122,79 +122,54 @@ def _read_recent_entries(vault_dir, slug, limit=3):
     return entries[:limit]
 
 
+def _truncate(text, max_len=80):
+    """Truncate text to max_len characters."""
+    if len(text) <= max_len:
+        return text
+    return text[:max_len].rstrip() + "…"
+
+
 def _build_dashboard(conn, domains, vault_dir):
-    """Build vault/index.md as a rich dashboard."""
+    """Build vault/index.md as a rich Obsidian dashboard with callouts."""
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    parts = ["# 📡 Wiki Dashboard", f"최종 갱신: {now}", ""]
+    parts = ["---", "cssclasses: [wide-page]", "---", "", "# Wiki Dashboard", ""]
 
-    # === Prices section (crypto + macro indicators) ===
-    crypto_prices = []
-    for slug_suffix in ["BTC Price", "ETH Price", "HYPE Price"]:
+    # === 1. Summary callout — one-line key figures ===
+    summary_items = []
+
+    # Crypto prices
+    for slug_suffix, label in [("BTC Price", "BTC"), ("ETH Price", "ETH"), ("HYPE Price", "HYPE")]:
         rows = _read_indicator_table(vault_dir, f"crypto/indicators/{slug_suffix}")
-        for r in rows:
-            crypto_prices.append(r)
+        if rows:
+            summary_items.append(f"**{label}** {rows[0]['value']}")
 
-    macro_prices = []
-    for slug_suffix in ["Oil (WTI)", "EUR-USD", "JPY-USD", "CNY-USD"]:
-        rows = _read_indicator_table(vault_dir, f"macro/indicators/{slug_suffix}")
-        for r in rows:
-            macro_prices.append(r)
-
+    # Key macro
     us_rates = _read_indicator_table(vault_dir, "macro/indicators/US Interest Rates")
+    for r in us_rates:
+        if "10년" in r["name"]:
+            summary_items.append(f"**10Y** {r['value']}")
+            break
 
-    if crypto_prices or macro_prices or us_rates:
-        parts.append("## 💹 시세")
-        parts.append("")
+    for slug_suffix, label in [("Oil (WTI)", "WTI"), ("EUR-USD", "EUR")]:
+        rows = _read_indicator_table(vault_dir, f"macro/indicators/{slug_suffix}")
+        if rows:
+            summary_items.append(f"**{label}** {rows[0]['value']}")
 
-        if crypto_prices:
-            parts.append("**Crypto**")
-            parts.append("")
-            parts.append("| 코인 | 가격 | 날짜 |")
-            parts.append("|------|------|------|")
-            for r in crypto_prices:
-                parts.append(f"| {r['name']} | {r['value']} | {r['date']} |")
-            parts.append("")
+    # Update count
+    update_count = conn.execute(
+        """SELECT COUNT(DISTINCT page_id) FROM page_updates
+           WHERE date(created_at) = date('now')"""
+    ).fetchone()[0]
 
-        if us_rates or macro_prices:
-            parts.append("**Macro**")
-            parts.append("")
-            parts.append("| 지표 | 값 | 날짜 |")
-            parts.append("|------|-----|------|")
-            for r in us_rates:
-                parts.append(f"| {r['name']} | {r['value']} | {r['date']} |")
-            for r in macro_prices:
-                parts.append(f"| {r['name']} | {r['value']} | {r['date']} |")
-            parts.append("")
+    parts.append("> [!summary] 한눈에 보기")
+    if summary_items:
+        parts.append(f"> {' · '.join(summary_items)}")
+    parts.append(f"> 최종 갱신: {now} · 오늘 업데이트 {update_count}건")
+    parts.append("")
+    parts.append("---")
+    parts.append("")
 
-    # === Recent updates section ===
-    recent_rows = conn.execute(
-        """SELECT pu.created_at, wp.title, wp.slug, wp.domain, pu.update_type, s.title
-           FROM page_updates pu
-           JOIN wiki_pages wp ON pu.page_id = wp.id
-           LEFT JOIN sources s ON pu.source_id = s.id
-           ORDER BY pu.created_at DESC
-           LIMIT 15"""
-    ).fetchall()
-
-    if recent_rows:
-        parts.append("## 🔔 최근 업데이트")
-        parts.append("")
-        seen = set()
-        for created_at, page_title, slug, domain, update_type, source_title in recent_rows:
-            if page_title in seen:
-                continue
-            seen.add(page_title)
-            date_str = created_at[:10] if created_at else ""
-            emoji = DOMAIN_EMOJI.get(domain, "")
-            source_info = f" — {source_title}" if source_title else ""
-            subdir = SUBDIR_MAP.get(
-                conn.execute("SELECT page_type FROM wiki_pages WHERE slug = ?", (slug,)).fetchone()[0],
-                "entities"
-            )
-            parts.append(f"- {emoji} **[[{slug}|{page_title}]]** ({date_str}){source_info}")
-        parts.append("")
-
-    # === Recent timeline entries from key entities ===
+    # === 2. Recent updates — always visible ===
     key_entities = [
         ("ai", "ai/entities/Anthropic"),
         ("ai", "ai/entities/OpenAI"),
@@ -204,25 +179,56 @@ def _build_dashboard(conn, domains, vault_dir):
         ("crypto", "crypto/entities/Hyperliquid"),
     ]
 
-    has_timeline = False
+    update_lines = []
     for domain, slug in key_entities:
-        entries = _read_recent_entries(vault_dir, slug, limit=2)
+        entries = _read_recent_entries(vault_dir, slug, limit=1)
         if entries:
-            if not has_timeline:
-                parts.append("## 📰 주요 엔티티 최신")
-                parts.append("")
-                has_timeline = True
             emoji = DOMAIN_EMOJI.get(domain, "")
             title = slug.split("/")[-1]
-            parts.append(f"**{emoji} [[{slug}|{title}]]**")
-            for e in entries:
-                parts.append(f"- ({e['date']}) {e['text']}")
-            parts.append("")
+            e = entries[0]
+            text = _truncate(e["text"])
+            update_lines.append(f"> - {emoji} **[[{slug}|{title}]]** ({e['date']}) — {text}")
 
-    # === Domain overview ===
-    parts.append("## 📂 도메인")
-    parts.append("")
+    if update_lines:
+        parts.append("> [!note] 📰 최근 소식")
+        parts.extend(update_lines)
+        parts.append("")
 
+    # === 3. Price detail — collapsed callout ===
+    crypto_prices = []
+    for slug_suffix in ["BTC Price", "ETH Price", "HYPE Price"]:
+        rows = _read_indicator_table(vault_dir, f"crypto/indicators/{slug_suffix}")
+        crypto_prices.extend(rows)
+
+    macro_prices = []
+    for slug_suffix in ["Oil (WTI)", "EUR-USD", "JPY-USD", "CNY-USD"]:
+        rows = _read_indicator_table(vault_dir, f"macro/indicators/{slug_suffix}")
+        macro_prices.extend(rows)
+
+    us_rates = _read_indicator_table(vault_dir, "macro/indicators/US Interest Rates")
+    kr_rates = _read_indicator_table(vault_dir, "macro/indicators/Korea Interest Rates")
+
+    if crypto_prices or macro_prices or us_rates:
+        parts.append("> [!quote]- 💹 시세 상세")
+        parts.append(">")
+        if crypto_prices:
+            parts.append("> **Crypto**")
+            parts.append(">")
+            parts.append("> | 코인 | 가격 | 날짜 |")
+            parts.append("> |------|------|------|")
+            for r in crypto_prices:
+                parts.append(f"> | {r['name']} | {r['value']} | {r['date']} |")
+            parts.append(">")
+        if us_rates or kr_rates or macro_prices:
+            parts.append("> **Macro**")
+            parts.append(">")
+            parts.append("> | 지표 | 값 | 날짜 |")
+            parts.append("> |------|-----|------|")
+            for r in us_rates + kr_rates + macro_prices:
+                parts.append(f"> | {r['name']} | {r['value']} | {r['date']} |")
+        parts.append("")
+
+    # === 4. Domain catalogs — collapsed callouts ===
     for domain in ["ai", "crypto", "macro"]:
         if domain not in domains:
             continue
@@ -240,8 +246,8 @@ def _build_dashboard(conn, domains, vault_dir):
         if indicator_count:
             counts.append(f"{indicator_count} 지표")
 
-        parts.append(f"### {emoji} [[{domain}/index|{domain.upper()}]] ({' · '.join(counts)})")
-        parts.append("")
+        parts.append(f"> [!abstract]- {emoji} [[{domain}/index|{domain.upper()}]] ({' · '.join(counts)})")
+        parts.append(">")
 
         for ptype in ["entity", "concept", "indicator"]:
             group = [p for p in pages if p["page_type"] == ptype]
@@ -249,7 +255,7 @@ def _build_dashboard(conn, domains, vault_dir):
                 continue
             group.sort(key=lambda p: p["title"])
             links = " · ".join(f"[[{domain}/{SUBDIR_MAP[ptype]}/{p['title']}|{p['title']}]]" for p in group)
-            parts.append(f"{TYPE_EMOJI[ptype]} {links}")
+            parts.append(f"> {TYPE_EMOJI[ptype]} {links}")
         parts.append("")
 
     global_path = os.path.join(vault_dir, "index.md")
