@@ -15,6 +15,7 @@ from collector.hackernews import collect_hackernews
 from collector.fred import collect_fred
 from collector.ecos import collect_ecos
 from collector.finnhub import collect_finnhub
+from collector.coingecko import collect_coingecko
 from filter.topic import filter_topic
 from filter.quality import filter_quality
 from wiki.ingest import ingest
@@ -54,7 +55,7 @@ def release_lock():
 def _load_feeds():
     """Load RSS feed configs from YAML files."""
     feeds = []
-    for path in ["config/sources/ai.yaml", "config/sources/macro.yaml"]:
+    for path in ["config/sources/ai.yaml", "config/sources/macro.yaml", "config/sources/crypto.yaml"]:
         if not os.path.exists(path):
             continue
         with open(path) as f:
@@ -89,11 +90,12 @@ def run_auto(conn):
         fred_count = collect_fred(conn)
         ecos_count = collect_ecos(conn)
         finnhub_count = collect_finnhub(conn)
-        collected = rss_count + hn_count + fred_count + ecos_count + finnhub_count
+        coingecko_count = collect_coingecko(conn)
+        collected = rss_count + hn_count + fred_count + ecos_count + finnhub_count + coingecko_count
         result["collected"] = collected
         result["collected_detail"] = {
             "rss": rss_count, "hackernews": hn_count, "fred": fred_count,
-            "ecos": ecos_count, "finnhub": finnhub_count,
+            "ecos": ecos_count, "finnhub": finnhub_count, "coingecko": coingecko_count,
         }
         log_event(conn, "collect", json.dumps(result["collected_detail"]))
 

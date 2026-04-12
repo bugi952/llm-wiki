@@ -52,13 +52,14 @@ def test_stale_lock_auto_removed(clean_lock):
 @patch("scheduler.ingest")
 @patch("scheduler.filter_quality")
 @patch("scheduler.filter_topic")
+@patch("scheduler.collect_coingecko", return_value=3)
 @patch("scheduler.collect_finnhub", return_value=1)
 @patch("scheduler.collect_ecos", return_value=1)
 @patch("scheduler.collect_fred", return_value=2)
 @patch("scheduler.collect_hackernews", return_value=3)
 @patch("scheduler.collect_rss")
 def test_run_auto_full_pipeline(mock_rss, mock_hn, mock_fred, mock_ecos, mock_finnhub,
-                                 mock_topic, mock_quality,
+                                 mock_coingecko, mock_topic, mock_quality,
                                  mock_ingest, mock_index, mock_sync, db, clean_lock):
     mock_rss.return_value = 5
     mock_topic.return_value = (3, 2)
@@ -67,7 +68,7 @@ def test_run_auto_full_pipeline(mock_rss, mock_hn, mock_fred, mock_ecos, mock_fi
     mock_sync.return_value = {"changed": True, "committed": True, "pushed": False}
 
     result = run_auto(db)
-    assert result["collected"] == 12  # 5+3+2+1+1
+    assert result["collected"] == 15  # 5+3+2+1+1+3
     assert result["topic_passed"] == 3
     assert result["quality_passed"] == 2
     assert result["ingested"] == 2

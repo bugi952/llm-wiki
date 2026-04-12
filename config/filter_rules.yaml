@@ -49,6 +49,31 @@ ai_keywords:
     - optimization
     - performance
 
+crypto_keywords:
+  high:
+    - Bitcoin
+    - BTC
+    - Ethereum
+    - ETH
+    - Hyperliquid
+    - HYPE
+    - DeFi
+    - DEX
+    - staking
+    - halving
+    - Layer 2
+    - L2
+    - rollup
+  medium:
+    - blockchain
+    - crypto
+    - token
+    - NFT
+    - web3
+    - smart contract
+    - mining
+    - wallet
+
 macro_keywords:
   high:
     - FOMC

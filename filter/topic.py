@@ -11,6 +11,11 @@ KNOWN_DOMAIN_FEEDS = {
     "arxiv-cs-ai-cl-lg", "anthropic-blog", "openai-blog", "deepmind-blog", "import-ai",
 }
 KNOWN_MACRO_TYPES = {"fred", "ecos", "finnhub"}
+KNOWN_CRYPTO_TYPES = {"coingecko"}
+KNOWN_CRYPTO_FEEDS = {
+    "bitcoin-magazine", "ethereum-foundation", "hyperliquid-medium", "hype-news",
+    "coindesk", "cointelegraph", "decrypt", "the-defiant",
+}
 
 
 def call_haiku(title, content, conn):
@@ -18,9 +23,9 @@ def call_haiku(title, content, conn):
     cfg = get_config()
     max_len = cfg["filter"]["max_content_length_topic"]
     prompt = (
-        "분류기. 주어진 텍스트가 AI, Macro, 또는 무관한지 판별.\n\n"
+        "분류기. 주어진 텍스트가 AI, Macro, Crypto, 또는 무관한지 판별.\n\n"
         f"제목: {title}\n내용: {content[:max_len]}\n\n"
-        'JSON만 출력: {"domain": "ai"|"macro"|"irrelevant", "confidence": 0.0~1.0}'
+        'JSON만 출력: {"domain": "ai"|"macro"|"crypto"|"irrelevant", "confidence": 0.0~1.0}'
     )
     return claude_call(prompt, conn=conn, expect_json=True)
 
@@ -45,9 +50,14 @@ def filter_topic(conn, confidence_threshold=None):
         source_id, source_type, feed_name, domain, title, content = row
 
         # Known domain sources: skip CLI
-        if feed_name in KNOWN_DOMAIN_FEEDS or source_type in KNOWN_MACRO_TYPES:
+        if feed_name in KNOWN_DOMAIN_FEEDS or source_type in KNOWN_MACRO_TYPES or feed_name in KNOWN_CRYPTO_FEEDS or source_type in KNOWN_CRYPTO_TYPES:
             if not domain:
-                domain = "macro" if source_type in KNOWN_MACRO_TYPES else "ai"
+                if source_type in KNOWN_MACRO_TYPES:
+                    domain = "macro"
+                elif feed_name in KNOWN_CRYPTO_FEEDS or source_type in KNOWN_CRYPTO_TYPES:
+                    domain = "crypto"
+                else:
+                    domain = "ai"
             conn.execute(
                 "UPDATE sources SET status = 'topic_pass', domain = ?, filter_a_result = ? WHERE id = ?",
                 (domain, json.dumps({"domain": domain, "confidence": 1.0, "method": "config"}), source_id),
@@ -68,7 +78,7 @@ def filter_topic(conn, confidence_threshold=None):
         result_domain = result.get("domain", "irrelevant")
         confidence = result.get("confidence", 0.0)
 
-        if result_domain in ("ai", "macro") and confidence >= confidence_threshold:
+        if result_domain in ("ai", "macro", "crypto") and confidence >= confidence_threshold:
             conn.execute(
                 "UPDATE sources SET status = 'topic_pass', domain = ?, filter_a_result = ? WHERE id = ?",
                 (result_domain, json.dumps(result), source_id),

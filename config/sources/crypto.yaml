@@ -1,0 +1,36 @@
+rss_feeds:
+  # === Deep Coverage: BTC ===
+  - name: "bitcoin-magazine"
+    url: "https://bitcoinmagazine.com/feed"
+    type: "news"
+
+  # === Deep Coverage: ETH ===
+  - name: "ethereum-foundation"
+    url: "https://blog.ethereum.org/feed.xml"
+    type: "blog"
+
+  # === Deep Coverage: HYPE ===
+  - name: "hyperliquid-medium"
+    url: "https://medium.com/feed/@hyperliquid"
+    type: "blog"
+
+  - name: "hype-news"
+    url: "https://news.google.com/rss/search?q=Hyperliquid+HYPE&hl=en-US&gl=US&ceid=US:en"
+    type: "news"
+
+  # === General Crypto News ===
+  - name: "coindesk"
+    url: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    type: "news"
+
+  - name: "cointelegraph"
+    url: "https://cointelegraph.com/rss"
+    type: "news"
+
+  - name: "decrypt"
+    url: "https://decrypt.co/feed"
+    type: "news"
+
+  - name: "the-defiant"
+    url: "https://thedefiant.io/feed"
+    type: "news"
