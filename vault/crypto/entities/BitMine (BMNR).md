@@ -1,6 +1,6 @@
 ---
 type: entity
-domain: ai
+domain: crypto
 last_updated: 2026-04-12
 source_count: 0
 ---
