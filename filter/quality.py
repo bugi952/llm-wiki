@@ -67,7 +67,10 @@ def filter_quality(conn, threshold=None):
             failed += 1
             continue
 
-        average = result.get("average") or 0.0
+        try:
+            average = float(result.get("average", 0))
+        except (TypeError, ValueError):
+            average = 0.0
         importance_tag = result.get("importance_tag", "background")
 
         if average >= threshold:

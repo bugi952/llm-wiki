@@ -5,6 +5,7 @@ import re
 from datetime import date
 from email.utils import parsedate_to_datetime
 
+from db import get_daily_api_count
 from wiki.router import route_source
 from wiki.pages import (
     page_exists, create_page, append_timeline_entry, append_to_weekly,
@@ -83,8 +84,14 @@ def ingest(conn, vault_dir="vault"):
     )
     rows = cursor.fetchall()
     count = 0
+    API_LIMIT = 300
 
     for row in rows:
+        # Stop if approaching daily API limit (reserve 10 for other steps)
+        if get_daily_api_count(conn) >= API_LIMIT - 10:
+            logger.warning("Approaching API limit, stopping ingest (%d done, %d remaining)",
+                           count, len(rows) - count)
+            break
         source_id, source_type, feed_name, domain, title, url, content, published_at, importance = row
         date_str = _parse_date(published_at)
 

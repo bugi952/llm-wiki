@@ -105,9 +105,13 @@ def run_auto(conn):
         result["topic_failed"] = topic_failed
 
         # 3. Filter B: quality
-        quality_passed, quality_failed = filter_quality(conn)
-        result["quality_passed"] = quality_passed
-        result["quality_failed"] = quality_failed
+        try:
+            quality_passed, quality_failed = filter_quality(conn)
+            result["quality_passed"] = quality_passed
+            result["quality_failed"] = quality_failed
+        except Exception as e:
+            logger.error("Filter quality crashed, continuing to ingest: %s", e)
+            result["quality_error"] = str(e)
 
         # 4. Ingest
         ingested = ingest(conn)
