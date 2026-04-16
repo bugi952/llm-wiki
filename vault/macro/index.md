@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-16 23:17
+최종 갱신: 2026-04-17 01:28
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -18,3 +18,6 @@
 - [[indicators/US Employment|US Employment]]
 - [[indicators/US Inflation|US Inflation]]
 - [[indicators/US Interest Rates|US Interest Rates]]
+
+## 📅 주간 다이제스트
+- [[weekly/2026-W16|2026-W16]]

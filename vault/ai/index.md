@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-16 23:17
+최종 갱신: 2026-04-17 01:28
 
 ## 🏢 엔티티
 - [[entities/Anthropic|Anthropic]]
@@ -20,3 +20,6 @@
 - [[concepts/Multimodal AI|Multimodal AI]]
 - [[concepts/Open Source Models|Open Source Models]]
 - [[concepts/Scaling Laws|Scaling Laws]]
+
+## 📅 주간 다이제스트
+- [[weekly/2026-W16|2026-W16]]

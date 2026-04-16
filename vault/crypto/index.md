@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-16 23:17
+최종 갱신: 2026-04-17 01:28
 
 ## 🏢 엔티티
 - [[entities/BitMine (BMNR)|BitMine (BMNR)]]
@@ -18,3 +18,6 @@
 - [[indicators/BTC Price|BTC Price]]
 - [[indicators/ETH Price|ETH Price]]
 - [[indicators/HYPE Price|HYPE Price]]
+
+## 📅 주간 다이제스트
+- [[weekly/2026-W16|2026-W16]]
