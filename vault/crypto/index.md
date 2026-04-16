@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-16 12:26
+최종 갱신: 2026-04-16 23:17
 
 ## 🏢 엔티티
 - [[entities/BitMine (BMNR)|BitMine (BMNR)]]
