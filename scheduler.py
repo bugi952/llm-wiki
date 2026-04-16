@@ -137,9 +137,9 @@ def run_auto(conn):
 
 
 def _update_filter_stats(conn, result):
-    """Insert or update today's filter_stats row."""
-    from datetime import date
-    today = date.today().isoformat()
+    """Insert or update today's filter_stats row (UTC date)."""
+    from datetime import datetime, timezone
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     try:
         conn.execute(
             """INSERT INTO filter_stats (date, total_collected, topic_passed, topic_failed,

@@ -32,14 +32,8 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
 
     last_error = None
 
-    counted = False
-
     for attempt in range(MAX_RETRIES):
         try:
-            if conn and not counted:
-                increment_api_count(conn)
-                counted = True
-
             result = subprocess.run(
                 ["claude", "-p", prompt, "--model", "haiku"],
                 capture_output=True, text=True, timeout=timeout,
@@ -58,7 +52,18 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
             output = result.stdout.strip()
 
             if expect_json:
+                # Try top-level object first
                 start = output.find("{")
+                # Also check for array response (batch mode)
+                arr_start = output.find("[")
+                if expect_json == "array" and arr_start >= 0 and (start < 0 or arr_start < start):
+                    end = output.rfind("]")
+                    if end > arr_start:
+                        parsed = json.loads(output[arr_start:end + 1])
+                        # Count as 1 API call on success
+                        if conn:
+                            increment_api_count(conn)
+                        return parsed
                 if start < 0:
                     raise json.JSONDecodeError(
                         "No JSON object found in output",
@@ -71,8 +76,14 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
                     elif ch == "}":
                         depth -= 1
                         if depth == 0:
+                            # Count as 1 API call on success
+                            if conn:
+                                increment_api_count(conn)
                             return json.loads(output[start:i + 1])
 
+            # Count as 1 API call on success
+            if conn:
+                increment_api_count(conn)
             return output
 
         except subprocess.TimeoutExpired:

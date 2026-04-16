@@ -1,12 +1,15 @@
-"""Ingest sources into the wiki using the router + mechanical update pattern."""
+"""Ingest sources into the wiki using pre-computed routing from Filter B.
 
+No LLM calls here — all routing info comes from filter_b_result
+which was computed during the batch quality evaluation.
+"""
+
+import json
 import logging
 import re
 from datetime import date
 from email.utils import parsedate_to_datetime
 
-from db import get_daily_api_count
-from wiki.router import route_source
 from wiki.pages import (
     page_exists, create_page, append_timeline_entry, append_to_weekly,
     update_indicator_row, update_cross_references, increment_source_count,
@@ -66,60 +69,59 @@ def _ensure_page(conn, title, page_type, domain):
     return slug
 
 
+def _extract_routing(filter_b_result_str):
+    """Extract routing info from filter_b_result JSON string.
+
+    Returns dict with entities, concepts, new_pages, facts, summary_ko, whats_new.
+    Falls back to empty values if parsing fails.
+    """
+    empty = {
+        "entities": [], "concepts": [], "new_pages": [],
+        "facts": [], "summary_ko": "", "whats_new": "",
+    }
+    if not filter_b_result_str:
+        return empty
+    try:
+        data = json.loads(filter_b_result_str) if isinstance(filter_b_result_str, str) else filter_b_result_str
+    except (json.JSONDecodeError, TypeError):
+        return empty
+
+    for key in empty:
+        if key not in data:
+            data[key] = empty[key]
+    return data
+
+
 def ingest(conn, vault_dir="vault"):
     """Ingest quality_pass sources into the wiki.
 
-    For each source:
-    1. Route: determine target pages (1 LLM call)
-    2. Mechanical updates: append facts to pages (0 LLM calls)
-    3. Create new pages if needed (0 LLM calls, template-based)
-    4. Add to weekly digest (0 LLM calls)
+    Routing info is read from filter_b_result (pre-computed by Filter B).
+    No LLM calls — purely mechanical updates.
 
     Returns number of sources ingested.
     """
     cursor = conn.execute(
         """SELECT id, source_type, feed_name, domain, title, url, content,
-                  published_at, importance
+                  published_at, importance, filter_b_result
            FROM sources WHERE status = 'quality_pass'"""
     )
     rows = cursor.fetchall()
     count = 0
-    API_LIMIT = 300
 
     for row in rows:
-        # Stop if approaching daily API limit (reserve 10 for other steps)
-        if get_daily_api_count(conn) >= API_LIMIT - 10:
-            logger.warning("Approaching API limit, stopping ingest (%d done, %d remaining)",
-                           count, len(rows) - count)
-            break
-        source_id, source_type, feed_name, domain, title, url, content, published_at, importance = row
+        source_id, source_type, feed_name, domain, title, url, content, \
+            published_at, importance, filter_b_result = row
         date_str = _parse_date(published_at)
 
-        source = {
-            "id": source_id,
-            "source_type": source_type,
-            "feed_name": feed_name,
-            "domain": domain,
-            "title": title,
-            "url": url,
-            "content": content,
-            "published_at": date_str,
-            "importance": importance,
-        }
+        # Extract routing from filter_b_result (no CLI call needed)
+        routing = _extract_routing(filter_b_result)
 
-        # Step 1: Route (1 LLM call)
-        try:
-            routing = route_source(source, conn)
-        except Exception as e:
-            logger.error("Route failed for source %d: %s", source_id, e)
-            continue
-
-        # Step 2: Create new pages if needed (template-based, 0 LLM calls)
+        # Step 1: Create new pages if needed (template-based, 0 LLM calls)
         for new_page in routing.get("new_pages", []):
             ptype = new_page.get("type", "entity")
             _ensure_page(conn, new_page["title"], ptype, domain)
 
-        # Step 3: Mechanical updates - append facts to timeline (0 LLM calls)
+        # Step 2: Mechanical updates - append facts to timeline (0 LLM calls)
         updated_slugs = set()
         for fact in routing.get("facts", []):
             page_title = fact["page"]
@@ -144,7 +146,7 @@ def ingest(conn, vault_dir="vault"):
                 record_update(conn, slug, source_id, "create")
                 updated_slugs.add(slug)
 
-        # Step 4: Update cross-references (0 LLM calls)
+        # Step 3: Update cross-references (0 LLM calls)
         all_mentioned = routing.get("entities", []) + routing.get("concepts", [])
         for slug in updated_slugs:
             related = [p for p in all_mentioned if _page_slug(p, "entity", domain) != slug
@@ -152,7 +154,7 @@ def ingest(conn, vault_dir="vault"):
             if related:
                 update_cross_references(slug, related[:5])
 
-        # Step 5: Add to weekly digest (0 LLM calls)
+        # Step 4: Add to weekly digest (0 LLM calls)
         week_slug = _week_slug(domain)
         if not page_exists(conn, week_slug):
             today = date.today()

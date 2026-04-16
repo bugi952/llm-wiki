@@ -1,5 +1,5 @@
 import sqlite3
-from datetime import date, datetime
+from datetime import datetime, timezone
 
 
 def get_db(path="data/wiki.db"):
@@ -73,19 +73,24 @@ def init_db(conn):
     conn.commit()
 
 
+def _utcnow():
+    """UTC now as string. Single source of truth for all timestamps."""
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+
+
 def log_event(conn, event, details=None):
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     conn.execute(
         "INSERT INTO system_log (event, details, created_at) VALUES (?, ?, ?)",
-        (event, details, now),
+        (event, details, _utcnow()),
     )
     conn.commit()
 
 
 def get_daily_api_count(conn):
+    today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     cursor = conn.execute(
         "SELECT COUNT(*) FROM system_log WHERE event = 'api_call' AND date(created_at) = ?",
-        (date.today().isoformat(),),
+        (today_utc,),
     )
     return cursor.fetchone()[0]
 

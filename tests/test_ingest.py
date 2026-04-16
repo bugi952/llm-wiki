@@ -1,5 +1,5 @@
+import json
 import os
-from unittest.mock import patch
 import pytest
 from db import get_db, init_db
 from wiki.ingest import ingest, _make_slug, _parse_date
@@ -21,12 +21,19 @@ def vault_dir(tmp_path):
 
 
 def _insert_quality_pass(db, title="Scaling Laws v2", url="https://arxiv.org/abs/2401.00001",
-                         domain="ai", importance="insight", content="Novel scaling results"):
+                         domain="ai", importance="insight", content="Novel scaling results",
+                         routing=None):
+    """Insert a quality_pass source with pre-computed routing in filter_b_result."""
+    if routing is None:
+        routing = {
+            "entities": [], "concepts": [], "new_pages": [],
+            "facts": [], "summary_ko": "요약", "whats_new": "",
+        }
     db.execute(
         """INSERT INTO sources (source_type, feed_name, domain, title, url, content,
-           published_at, status, importance)
-           VALUES ('rss', 'arxiv-cs-ai-cl-lg', ?, ?, ?, ?, '2026-04-10', 'quality_pass', ?)""",
-        (domain, title, url, content, importance),
+           published_at, status, importance, filter_b_result)
+           VALUES ('rss', 'arxiv-cs-ai-cl-lg', ?, ?, ?, ?, '2026-04-10', 'quality_pass', ?, ?)""",
+        (domain, title, url, content, importance, json.dumps(routing)),
     )
     db.commit()
 
@@ -42,7 +49,6 @@ def test_parse_date_rfc2822():
 
 
 def test_parse_date_empty():
-    # Now returns today's date instead of "unknown"
     from datetime import date
     today = date.today().isoformat()
     assert _parse_date(None) == today
@@ -55,12 +61,10 @@ def test_make_slug():
     assert _make_slug("한글 제목 Test") == "test"
 
 
-@patch("wiki.ingest.route_source")
-def test_ingest_routes_and_creates_pages(mock_route, db, vault_dir, monkeypatch):
+def test_ingest_uses_routing_from_filter_b(db, vault_dir, monkeypatch):
     monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
 
-    _insert_quality_pass(db)
-    mock_route.return_value = {
+    routing = {
         "entities": ["arXiv"],
         "concepts": ["Scaling Laws"],
         "new_pages": [],
@@ -70,6 +74,7 @@ def test_ingest_routes_and_creates_pages(mock_route, db, vault_dir, monkeypatch)
         "summary_ko": "스케일링 법칙의 10T 파라미터 규모 검증.",
         "whats_new": "최초 10T 규모 실증",
     }
+    _insert_quality_pass(db, routing=routing)
 
     # Pre-create target pages
     from wiki.pages import create_page
@@ -84,45 +89,43 @@ def test_ingest_routes_and_creates_pages(mock_route, db, vault_dir, monkeypatch)
     assert "10T 파라미터" in content
 
 
-@patch("wiki.ingest.route_source")
-def test_ingest_updates_db_status(mock_route, db, vault_dir, monkeypatch):
+def test_ingest_updates_db_status(db, vault_dir, monkeypatch):
     monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
-
     _insert_quality_pass(db)
-    mock_route.return_value = {
-        "entities": [], "concepts": [], "new_pages": [],
-        "facts": [], "summary_ko": "요약", "whats_new": "새로운 점",
-    }
     ingest(db, vault_dir)
     cursor = db.execute("SELECT status FROM sources LIMIT 1")
     assert cursor.fetchone()[0] == "ingested"
 
 
-@patch("wiki.ingest.route_source")
-def test_ingest_idempotent(mock_route, db, vault_dir, monkeypatch):
+def test_ingest_idempotent(db, vault_dir, monkeypatch):
     monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
-
     _insert_quality_pass(db)
-    mock_route.return_value = {
-        "entities": [], "concepts": [], "new_pages": [],
-        "facts": [], "summary_ko": "요약", "whats_new": "",
-    }
     ingest(db, vault_dir)
     count = ingest(db, vault_dir)
     assert count == 0  # nothing new
 
 
-@patch("wiki.ingest.route_source")
-def test_ingest_creates_weekly_digest(mock_route, db, vault_dir, monkeypatch):
+def test_ingest_creates_weekly_digest(db, vault_dir, monkeypatch):
     monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
-
     _insert_quality_pass(db)
-    mock_route.return_value = {
-        "entities": [], "concepts": [], "new_pages": [],
-        "facts": [], "summary_ko": "스케일링 법칙 요약", "whats_new": "",
-    }
     ingest(db, vault_dir)
 
     # Weekly digest should exist
     weekly_files = os.listdir(os.path.join(vault_dir, "ai", "weekly"))
     assert len(weekly_files) >= 1
+
+
+def test_ingest_handles_missing_filter_b_result(db, vault_dir, monkeypatch):
+    """Sources with NULL filter_b_result should still be ingested (empty routing)."""
+    monkeypatch.setattr("wiki.pages.VAULT_DIR", vault_dir)
+    db.execute(
+        """INSERT INTO sources (source_type, feed_name, domain, title, url, content,
+           published_at, status, importance, filter_b_result)
+           VALUES ('rss', 'test', 'ai', 'Test', 'https://x.com/1', 'content',
+           '2026-04-10', 'quality_pass', 'background', NULL)""",
+    )
+    db.commit()
+    count = ingest(db, vault_dir)
+    assert count == 1
+    cursor = db.execute("SELECT status FROM sources LIMIT 1")
+    assert cursor.fetchone()[0] == "ingested"

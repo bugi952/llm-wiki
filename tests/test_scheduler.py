@@ -93,11 +93,11 @@ def test_run_auto_api_limit(mock_rss, mock_hn, mock_fred, mock_ecos, mock_finnhu
                             mock_topic, mock_quality, mock_ingest, mock_index,
                             mock_sync, db, clean_lock):
     """Pipeline should stop if daily API count exceeds 300."""
-    from datetime import date
-    today = date.today().isoformat()
+    from datetime import datetime, timezone
+    today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     for _ in range(301):
         db.execute("INSERT INTO system_log (event, created_at) VALUES ('api_call', ?)",
-                   (f"{today} 12:00:00",))
+                   (f"{today_utc} 12:00:00",))
     db.commit()
 
     result = run_auto(db)
