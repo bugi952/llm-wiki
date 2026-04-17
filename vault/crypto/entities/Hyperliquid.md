@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 중동 분쟁으로 오일 거래 물량 급증, 실시간 가격 연동성 입증 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmpGYXp6eEVGREZsSUJ5eUN5bEp5eFdjRmwtQVNuQU94TVRKSnFQUWRPZXpETkJ3SndIYW51UnJvekNqdExhbWpFbUQyS084YnY1ZGt2ZlhyRUZRS0dQaXpBWFV0TTN4RmczMjRnbFdHeHJNNktJbDlLM2c0YWE0c002dzlyMTJGUTdCR3dDaFRfVWh3bTdzX244alQ5ZTZhTml2cWl0bTZ1VkxlaXVGdlRDcGlfUjJNUE1QNzJB?oc=5)
+- **2026-04-17**: $12B 자본 유입, HYPE 연간 25% 상승율 달성 [(원문)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVJrbThvNGRtenI3cGg4T0R6enVQcFVlc2dTRFM2VXJnMDdCNkxPY2xZZDJzYVV3MFl4UTkySWl3dGxOTlBpUzBHX3VEaXlxZnJSNHJ4bks2WnNBMGo4ZjJramZaYVBYYTRBaHBadFVCMGM4bjg4cGdFS1dUMFlTSHRqU2VyUlJiR3FlcGZQMGxZUFlRQXJzNkpn0gGfAUFVX3lxTE13VU9WdnBReVprN3VCMmdUbmROUjJKTXdMaXF5YUFGand0QlJQenRhSnNrZmVaS3A2cDZNT1I5c1o5SVdkRElxdHFxMnE1WHZiYnh5UXpNeWpoZ0hxVkNuS25zTG1ZcDNQSFBJWDM2b3JqTG1MXzUyWHMzY2Zxd2d6YWVoSFVlSy1XOUtTbXh0T3NCbEt6cEM1VW9jNjlWRQ?oc=5)
+- **2026-04-17**: S&P 500 선물 계약 출시로 전통금융 상품 지원 확대 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlHUGh6c3JHSU5PSEtoUFd2ZW05R3NBRk5XbE1adjJnX2tJcHdfS2YzbzVoa1BFYjdtR3NFZjFqbUxrcTVJVUNuNzZfd1psT3l5WGpGTkQzMGw5NDRFbDlWVVQ3Y3J3RU1hWjFFTWZJdzNCNE5SNDA3Y0ZEOEJpM1NYOTNjQ0hhWmVsZnZhQjlaSjZTTDFTY2hMdkJWWHlVYng1eVFDd2Y4ZldSeE04OW1NMmxhejJZMnc?oc=5)
 - **2026-04-17**: CFTC 의장 국회 청문회에서 암호화폐 영구선물(perps) 규제 필요성 공식 언급 [(원문)](https://decrypt.co/364611/cftc-chair-mike-selig-bipartisan-pushback-prediction-markets-hyperliquid)
 - **2026-04-17**: HYPE 토큰이 Cardano(ADA)의 마켓캡 추월 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCamZ5UHUxOWs0cGlVVFF1c21OR3A0MDZIeVgza3pDdHM1aDhBbjlpRXo0bjAzUU1EaWpyUUYxOW1QSlVFS1Yxd1ZuYjFCUzN6UXNtUnh2bFEya2ctYVRzOHphNA?oc=5)
 - **2026-04-17**: 21Shares가 Hyperliquid ETF 신청 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkZhcjljRDVmUzNlMDlQNE5ERFpUaG1RNHVBWS02RlJTMlhZN2ZBOG5UYmdwaWt3RjVvQjR2OE5tRUtrRVp2NEdnY2dMd00zdmVqN1NvTUFpUDVyLVlUSjNDOFNUVGpKeDJsLVBoeWhtckVRMVpTaWNlN2xrTTg2WDBsRGF0eENHRnFwX0Nn?oc=5)
@@ -22,5 +25,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Crypto Regulation]] | [[Prediction Markets]]
+[[JPMorgan]] | [[Geopolitical Security Threats]] | [[Traditional Finance Integration]]
 

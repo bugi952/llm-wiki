@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: NYSE 상장 발표 + $4B 주식 재매입 프로그램 확대 (Nasdaq) [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGJGeDR6TklaemM2RWdrVmFneEE4SF82VVowN0JsOEFTWmgwdUc5WmNqc1llUjNEb1liMjhJU1BtbXJ5QXBoVVktY01xTUFfYXhFV0VEcE9zSHhBUEtUdW56MEFYdVExV2ppcVVYcVlfRTZfZ2JLMnVhM0tuQ1NQUGtRT18wT3VuWDNmdjhOMC1CWWQyX2VabDNVVmhZZ2xYSVUtMVJDbzJObEdFWXIzblZ5cFkyeGotSWVucUNB?oc=5)
+- **2026-04-17**: 주가 10.5% 상승 (GuruFocus) [(원문)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2F5dk9TU19QRWU4YXJsUXlFOXJBdG03ekZYN3JzSUJsVGo2bjlpWk9EMlF1MlJtZ3VwbjRwNzVfQ1kxc1h6c19zOXRVUDZ3dHJZSjFzSDd4cFlmNGxFN094Q1hacWstZ1lWT05HU2RuVHlSckRUeTVuT3V6NmQ4TV9XaWxoV0xFY09qeEhFWkpsQ0lNV1p2eFpR?oc=5)
 - **2026-04-17**: 채굴 회사들 중 일부는 운영비 충당을 위해 BTC 청산, 일부는 미래 성장을 위해 BTC 보유 [(원문)](https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: Beast Industries에 2억 달러 투자 발표. 암호화폐 관련 사업 포트폴리오 확장 [(원문)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHl0OFJIUGFsVDBrUHFFTXlkckN3cEQ2NHl5YkRUMm92cGEyMXBoMUVnbjNCYmFfQ2psbi1OVjFic0FVdHR2bHBaS3J2dnRXYjUxRUVnckRva1g2SHpwZkl3WFFPbUpXdTZIc1NwQk42X19IaElHeDJjbVhuQ0pXRFVFc1BUM3djOVVVQ3owRXd4WS1nM1B1YVl4R3JvSVBmMERUVzQ2WVhZQTVIV01MdDQzY0phakJQU3RQS21vQ2dxYnRvZkp5VGRld09wR0NhRUtnNWV5cS03cmZXY0tKcjJTSQ?oc=5)
 - **2026-04-17**: 분기 손실 공시. 운영 수익성 악화 지속 [(원문)](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHltTFlza3V1ejFucENISEd3RU1NcDFkWDczNC1FeHduZXpXN2FyWF92Y2pELUQyS1lSNGFhbVExTVI2US1oMDdqeTYzZFVyc2JJbGs2a0o1QnRqR0ktZmNXTy1ZbGN6QUZMY0p1TTRUeGpWdlNpd1Zvbno0NzNVZzlUUnN0X2xFVVVFb2FRUk8yYm5lUnlXSTJxZnlKWkYwV0wxak9ncw?oc=5)

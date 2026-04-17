@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 구글이 미국 국방부와 Gemini의 기밀 환경 활용 방안을 협상 중 (정책 기조 변화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
+- **2026-04-17**: Demis Hassabis CEO가 'Google for Korea' 행사 참석 및 AlphaGo 10주년 기념 (2026-04-29) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209404)
+- **2026-04-16**: 크롬 데스크톱 AI 모드 확대: 웹페이지-검색 결과 동시 표시로 멀티탭 워크플로우 통합 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209394)
+- **2026-04-16**: Gemini Personal Intelligence에 'Nano Banana' 이미지 생성 모델 통합, 개인화 이미지 생성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209400)
 - **2026-04-15**: Gemini 3.1 Flash TTS 출시. 표현력과 제어력 강화한 차세대 텍스트 음성 변환(TTS) 모델 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209335)
 - **2026-04-17**: Gemini macOS 네이티브 앱 출시: Option+Space 단축키로 항상 접근 가능, 작업 흐름 유지 강조 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209325)
 - **2026-04-17**: LongCoT 벤치마크: Gemini 3 Pro 장시간 추론 정확도 6.1% [(원문)](https://arxiv.org/abs/2604.14140)
@@ -99,5 +103,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Multimodal AI]]
+[[AI Regulation]] | [[AI Deployment]] | [[AI Safety]]
 

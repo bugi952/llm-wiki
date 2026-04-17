@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: BTC 상승으로 포트폴리오 수익성 회복 (BTC $77,000 도달) [(원문)](https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300)
+- **2026-04-17**: 이란 긴장 완화로 비트코인 $77K 도달, MSTR 12% 상승 [(원문)](https://bitcoinmagazine.com/markets/strategy-mstr-jumps-over-12-bitcoin-mstr)
+- **2026-04-17**: 주간 주가 15.8% 상승 후 밸류에이션 재평가 (simplywall.st) [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnpfRmdnbEJ4NHFPaUJZazRpdXBfc1BoMjlIdk8yU3hfN243MGxGS2VLR0VQLUVLSm5ZY1JkZm84d3kxbXI4djdaUTNkblg4eUJoS19PcEtVQVVQS1I1MW5lX3MzUVFqV0FibmJVVENBZkE4bTZIZzhnenIxazBrbHk2ZER6MkhoaXpRMjlaU3hZUlZpNVBsbjl4U3FxQjBKWmtBOUhFRTZHTFN1THgyWVJOT3ZCNElBSDhwYnJGZ3hwbUlH0gHKAUFVX3lxTFA4VG52Z1V5NFpPMFZYR0xSbDFENlpQemNFWEtCRVNsNkRYWDVvWDBTaXFwbWk0UURVSHNyYURvMjJNYUZDV2FIcG5Zc190WjBpc1lqMHhxaVMtOXpTZlFqRDBxdUUwUlFCVzJGSGd3c3JwbWVWeDVMYkxOa0lxQ3kzcFNFWTFsZjZHdk8zTGtodTFGN3huY0ZwX29oWWFldldRby1HMGFBbHpHS2VtR0ExYWFHT2NocHY0TzFGVnhOWHhnZ2Zqc1NuUWc?oc=5)
 - **2026-04-17**: 유럽 기업들이 Bitcoin Treasury 도입, 미국보다 자본시장 제약과 규제 강화로 인한 별도 전략 필요 [(원문)](https://cointelegraph.com/news/europe-bitcoin-treasury-model-not-copy-strategy-pbw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 마이크로스트래티지(MSTR) 주가가 2024년 9월 이후 최저가 기록 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmRxVmNaOG16U1hpRy1ocmxVMWw4aHNPWDhfQ1RNV3YtYWNRY1dXejFNRTdTYkVONlg0ZWptOVJDQ244bUU1SEliVnVyOUk2WndaSGRzRl83emVTcnk2bGllandEVVVQUGlPVTd0WUg2QmpIMWVROU5sMVJRNzBxYUNWclg1akFBbk9ETnd5cjhzRkpBOER2ODh4eFE5U2RtbUxLN2ZkX1Y0UkNUeGc?oc=5)
 - **2026-04-17**: JPMorgan, 주요 주식지수 상장폐지 위험 경고 발표 [(원문)](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTd3SjFKdkZ2bF80N3dHOERwZ3NDQ2NsUkdpOTBCVWZNVlROWFc1MUdhbnZuUGxNVkRodjk3bzNIamRNMER3N1BYaFdUSmdESGNkTVhVeWhudVVUTlZjQVVVTVZ0WkM3WGxad19pMmpIWHdQanpxeG1ZQ0xlVkFPYjgxemJHU241V2cxYjRrVG9Nd3M?oc=5)
@@ -18,4 +21,5 @@ source_count: 0
 
 
 ## 연관 페이지
+[[Bitcoin]] | [[Asset Allocation]]
 

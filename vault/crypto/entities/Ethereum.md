@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: Ethereum Foundation 펀드 Ketman Project가 암호업계에 고용된 북한 IT 근로자 100명 적발, 53개 프로젝트 관여 확인 [(원문)](https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: Ethereum NFT 플랫폼 Foundation, Blackdove 인수 실패로 종료. 2021년 설립 이후 $230M 규모 NFT 1차 판매 처리 [(원문)](https://cointelegraph.com/news/foundation-nft-marketplace-shutdown-failed-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: Charles Schwab이 소매 투자자용 현물 ETH 거래 서비스 단계적 롤아웃 개시 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch)
 - **2026-04-17**: Charles Schwab CEO, 예측 시장 지원 검토 중 (주류 금융의 암호 예측 시장 진입) [(원문)](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)
 - **2026-04-17**: Ethereum Foundation 6개월 조사로 53개 프로젝트에 침투한 북한 IT 노동자 약 100명 적발 [(원문)](https://decrypt.co/364671/ethereum-foundation-helps-expose-north-korean-workers-crypto-firms)
@@ -21,5 +23,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Crypto Regulation]]
+[[Geopolitical Security Threats]] | [[Government Digital Asset Policy]]
 

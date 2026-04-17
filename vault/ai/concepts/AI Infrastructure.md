@@ -11,6 +11,31 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: 한국 우주청, 2030년까지 우주 데이터센터 기술 검증 목표 - 우주방사선 견딘 반도체, 고효율 태양전지 핵심기술 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209399)
+- **2025-12**: LLM 기반 NAS로 computationally intensive search 대체 가능. Task-agnostic 아키텍처 자동 생성 [(원문)](https://arxiv.org/abs/2512.24120)
+- **2026-04-17**: 신경 물리 프레임워크로 육지-표면 모델의 시간 의존 매개변수를 미분 가능 형태로 표현, 수동 adjoint 유도 없이 그래디언트 기반 최적화 가능 [(원문)](https://arxiv.org/abs/2505.02979)
+- **2026-01-07**: prefilling 단계에서 task 난이도별로 KV cache 감소 스케줄 자동 조절 [(원문)](https://arxiv.org/abs/2601.07667)
+- **2025-12-01**: 페더레이션 다중작업 클러스터링(FMTC), 프라이버시 보존 분산 클러스터링 프레임워크 [(원문)](https://arxiv.org/abs/2512.22897)
+- **2025-12-14**: Cornfigurator: Any-to-Any 멀티모달 모델 추론 서빙 배치 형태(colocate/disaggregate) 자동 최적화 [(원문)](https://arxiv.org/abs/2512.14098)
+- **2025-11-15**: AccelOpt는 LLM 에이전트가 AWS Trainium 가속기 커널을 자동 최적화하는 시스템. 최적화 메모리로 학습하며 NKIBench 벤치마크에서 처리량을 49→61%, 45→59% 개선 [(원문)](https://arxiv.org/abs/2511.15915)
+- **2026-04-17**: MoE 서빙의 stall-free 스케줄링: 토큰 차원 대신 트랜스포머 레이어 그룹을 스케줄링 단위로 변경하여 전력소비 최적화 [(원문)](https://arxiv.org/abs/2510.08055)
+- **2026-04-17**: 벡터 강인성: GPT-2 임베딩에서도 안정적, dot product 성능 저하 시 우수 [(원문)](https://arxiv.org/abs/2510.02539)
+- **2026-04-17**: MoE 배포: 레이어별 예측(LLaPor) + 글로벌 스케줄(PreSched) + 비동기 I/O 최적화 [(원문)](https://arxiv.org/abs/2509.23638)
+- **2026-04-17**: KNO의 차원별 인수분해 알고리즘으로 고차원 저주(curse of dimensionality) 완화 가능 [(원문)](https://arxiv.org/abs/2407.00809)
+- **2026-04-17**: Symbolic superoptimization으로 tensor 프로그램 자동 최적화 및 하드웨어 제약 통합 [(원문)](https://arxiv.org/abs/2604.15272)
+- **2026-04-17**: 프로파일링 기반 GPU 할당으로 분기/병렬화/재귀형 워크플로우 효율적 서빙 [(원문)](https://arxiv.org/abs/2604.15186)
+- **2026-04-15**: LLM 기반 자동 코드 진화로 EDA 인프라 자동 최적화. 기존 바이너리 인터페이스 유지. [(원문)](https://arxiv.org/abs/2604.15082)
+- **2026-04-17**: Nautilus: 수학 표현식에서 FlashAttention-3 수준의 GPU 커널 자동 발견 [(원문)](https://arxiv.org/abs/2604.14825)
+- **2026-04-17**: Federated Learning 통신 최적화: structural, temporal, spatial correlations 기반 compression 기법 분류 [(원문)](https://arxiv.org/abs/2604.14751)
+- **2026-04-17**: 스트리밍 시스템의 핵심 추상화(shared log)에 에이전트 전용 포킹 프리미티브 추가로 멀티테넌시 격리 지원 [(원문)](https://arxiv.org/abs/2604.14590)
+- **2026-04-17**: streaming data와 agents의 tight coupling으로 iterative queries, multi-source reasoning, external knowledge 모두 처리 가능한 data platform 아키텍처 [(원문)](https://arxiv.org/abs/2604.15233)
+- **2026-04-17**: 희소 어텐션(AdaSplash-2): 히스토그램 SRAM 캐시로 정규화(τ) 계산 1-2회 만에 수렴, 장문맥 훈련 가속 [(원문)](https://arxiv.org/abs/2604.15180)
+- **2026-04-17**: Latent embedding 공간에서의 토큰 압축으로 LLM 계산 비용 감소 [(원문)](https://arxiv.org/abs/2604.15153)
+- **2026-04-17**: 비독립동일분포 데이터 환경에서 다중 조직의 지속 참여를 위한 생성 및 인센티브 프레임워크 [(원문)](https://arxiv.org/abs/2604.14886)
+- **2026-04-17**: G-RSSM(graph structured RNN)으로 MANET/VANET/FANET/WSN 등 ad hoc 네트워크의 노드 동역학 모델링 - 30~1000 노드 규모 [(원문)](https://arxiv.org/abs/2604.14811)
+- **2026-04-17**: 하이브리드 본딩 기반 HW-SW 협설계로 배치별 추론 성능 통일화 [(원문)](https://arxiv.org/abs/2604.14626)
+- **2026-04-17**: AutoML 에이전트의 실제 구현: 전문화된 하위 에이전트 협력 구조로 ML 개발 전 과정 자동화 [(원문)](https://arxiv.org/abs/2604.14455)
+- **2026-04-17**: 계층적 RAG(H-TechniqueRAG): MITRE ATT&CK 프레임워크의 전술-기법 계층구조를 활용하여 사이버 위협 텍스트를 효율적·정확하게 기법 ID로 매핑. 2단계 검색(전술 → 기법)으로 검색공간 축소 [(원문)](https://arxiv.org/abs/2604.14166)
 - **2026-04-17**: 엣지 컴퓨팅 기반 개인 정보 보호 추론이 새로운 인프라 트렌드로 부상 [(원문)](https://news.ycombinator.com/item?id=47788542)
 - **2026-04-17**: Cloudflare, 에이전트 중심의 AI 추론 플랫폼 출시 (2026-04-17) [(원문)](https://news.ycombinator.com/item?id=47792538)
 - **2026-04-15**: Tesla AI5 칩 테이프아웃 완료, AI4 대비 최대 40배 성능 향상 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209328)
@@ -45,7 +70,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Apple]]
+[[AI Semiconductors]]
 
 
 ## 모순/논쟁

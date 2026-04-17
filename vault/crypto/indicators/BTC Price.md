@@ -14,6 +14,15 @@ last_updated: 2026-04-17
 
 
 ## 이력
+- **2026-04-17**: 펀딩 레이트 음수 유지로 약한 현물 수요 신호 ($75K 이상에서도) [(원문)](https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 숏 스퀴즈로 청산액 $283M, $73K-$75K 범위 통합 [(원문)](https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 비트코인 10주 신고점 경신 ($77K), 단기 목표가 $88K, S&P 500 신고점과 동행 [(원문)](https://cointelegraph.com/news/bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 미국-이란 평화 협상으로 위험 회피 심리 완화, 비트코인 강세장 전개, 목표가 $125K [(원문)](https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood)
+- **2026-04-17**: 온체인 데이터 분석에 따른 비트코인 사이클 저점 신호 감지 [(원문)](https://www.coindesk.com/markets/2026/04/17/the-4-5-signal-why-glassnode-s-rhodl-ratio-says-the-bitcoin-bottom-may-be-in)
+- **2026-04-17**: 비트코인 $76,000 아래로 하락, 매도 벽 형성 중 [(원문)](https://www.coindesk.com/markets/2026/04/17/bitcoin-stalls-below-usd76-000-as-sell-wall-caps-rally-despite-rising-derivatives-activity)
+- **2026-04-17**: 비트코인 휴전 부스트 약화, 실물 성과 요구 [(원문)](https://www.coindesk.com/daybook-us/2026/04/17/bitcoin-s-ceasefire-boost-is-starting-to-fizzle-out-as-investors-look-for-real-world-results)
+- **2026-04-17**: 이란 호르무즈 해협 개방 선언으로 위험자산 선호, $77,000 돌파 [(원문)](https://bitcoinmagazine.com/news/bitcoin-price-charges-past-77000)
+- **2026-04-17**: 이란-미국 긴장 완화로 위험자산 선호, $77,000 돌파 [(원문)](https://bitcoinmagazine.com/markets/strategy-mstr-jumps-over-12-bitcoin-mstr)
 - **2026-04-17**: BTC ~$75,000 (2026-04-17) [(원문)](https://thedefiant.io/news/markets/altcoins-surge-as-bitcoin-drifts-near-usd75-000)
 - **2026-04-17**: 거래소 유입 다월 고점 수준 급증, $76K 저항선 확인, 매도 압박 신호 [(원문)](https://decrypt.co/364565/exchange-inflows-spike-as-bitcoin-faces-76k-headwinds)
 - **2026-04-17**: BTC $75K 근처. Nasdaq 24016, S&P500 7022 사상 최고 기록 [(원문)](https://cointelegraph.com/news/tech-stocks-push-nasdaq-sp500-record-highs-as-bitcoin-taps-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

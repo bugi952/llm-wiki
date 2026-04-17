@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-06-13**: 고차원 등가(High-dimensional Equivalent) 프레임워크: RMT를 비선형 DNN으로 확장, Proportional regime에서 데이터 차원·표본·파라미터 상호작용 분석 [(원문)](https://arxiv.org/abs/2506.13139)
+- **2026-01-14**: LLMOrbit: 브루트포스 스케일링 한계(scaling wall) 정의 — 데이터 고갈 9-27T, 비용 $3M→$300M+/5년, 에너지 22배 증가 [(원문)](https://arxiv.org/abs/2601.14053)
+- **2026-01-12**: Threshold Differential Attention (TDA)는 Row-wise extreme-value thresholding으로 소프트맥스의 sink 문제 해결 [(원문)](https://arxiv.org/abs/2601.12145)
+- **2026-01-07**: ORBIT: 다단계 강화학습으로 각 reasoning budget 수준에서 Pareto-optimal 정책 발견 [(원문)](https://arxiv.org/abs/2601.08310)
+- **2026-04-17**: LLM 일반화: 공간적 전이(unseen maps)는 강하나 길이 스케일링(longer horizons)에서 재귀적 불안정성으로 실패 [(원문)](https://arxiv.org/abs/2604.15306)
+- **2026-04-17**: Looped transformers: 테스트 타임 반복으로 어려운 문제에 더 많은 계산 할당 가능. 재귀+정규화 조합으로 입력 의존성 확보 [(원문)](https://arxiv.org/abs/2604.15259)
+- **2026-04-17**: Inference 단계 계산량 증가도 모델 성능의 주요 스케일링 축 [(원문)](https://arxiv.org/abs/2604.14853)
+- **2026-04-17**: 사전학습 후 크기별 가중치 합성으로 스케일 적응, 배포 시점의 모델 크기 자유도 확보 [(원문)](https://arxiv.org/abs/2604.14769)
+- **2026-04-17**: MoE 모델에서 expert routing의 specialization 동역학이 정보-기하학적 프레임워크로 분석 가능, 실패 예측(FSI) 정의 [(원문)](https://arxiv.org/abs/2604.14500)
 - **2026-04-17**: Claude Opus 4.7은 향상된 스케일링 효율성 보유 [(원문)](https://news.ycombinator.com/item?id=47793546)
 - **2026-04-17**: In-context operator learning: 단일 연산자 모델 대비 공간-시간 예측에서 우수한 성능 입증 (GICON, arXiv:2603.12725) [(원문)](https://arxiv.org/abs/2603.12725)
 - **2026-04-17**: LLM 계산 밀도: 주로 밀집, 입력에 따라 희소-밀집 간 동적 전환 (입력별 패턴 상관도 높음) [(원문)](https://arxiv.org/abs/2601.22795)
@@ -30,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Anthropic]] | [[Multimodal AI]] | [[AI Safety]]
+[[Model Efficiency]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: SEC 의장 Paul Atkins, enforcement 중심에서 정책 기조 전환 발표 [(원문)](https://decrypt.co/364720/sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode)
+- **2026-04-17**: 미국 CFTC 라이선스 크립토 파생상품 거래소 진입 가속화 [(원문)](https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million)
+- **2026-04-17**: Payward/Kraken의 Bitnomial 인수로 미국 규제 파생상품 플랫폼 통합 가속 [(원문)](https://bitcoinmagazine.com/news/kraken-owner-payward-to-acquire-bitnomial)
+- **2026-04-17**: 상원의원 Blumenthal이 바이낸스 DOJ/FinCEN 감시 상황 요청 (이란 AML 우려) [(원문)](https://bitcoinmagazine.com/news/u-s-senator-probes-status-of-binance)
 - **2026-04-17**: 한국 정부가 9개 은행과 함께 구매 카드를 블록체인 기반 프로그래머블 결제 토큰으로 대체 (Q4 개시) [(원문)](https://thedefiant.io/news/regulation/south-korea-to-test-deposit-tokens-for-government-spending)
 - **2026-04-17**: 12조 달러 미국 브로커 Schwab이 암호화폐 거래 서비스(Schwab Crypto) 공식 출범 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch)
 - **2026-04-17**: Gibbs Mura Law Group, Circle Internet Financial 상대 집단소송 제기: Drift Protocol $280M 해킹(2026-04-01) 후 $230M USDC 동결 실패, North Korea 공격자 연루 추정 [(원문)](https://thedefiant.io/news/hacks/class-action-drift-protocol-circle-usdc-bridge-2o1poy)
@@ -34,7 +38,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Ethereum]]
+[[Paul Atkins]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

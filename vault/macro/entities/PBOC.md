@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: RMB500M 역레포 진행, RMB1.5B 순인출 [(원문)](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXFab1N4M0xva2FQY0dwYmFMUXY5WlJTUGVDT2l0b2Z6WFF5dDZqM0lwbTlXNW8yalhpR1p2eGdGa2RtZEpSQnE4VFIxZ1FGVHZzS1VWYWplWGVHZmw2NGd6b1c1SzlpeDB6V2dydndaNmRUTHUxV2F6VWVzLUlKMU05dXc?oc=5)
 - **2026-04-17**: 디지털 위안(e-CNY)에 저축 기능 추가 예정 (2026년부터) [(원문)](https://news.google.com/rss/articles/CBMifEFVX3lxTE9NNEk2YUFreFh3TF9wY0VMSXJ0NTQ0M00zbFJyTXplcUZnSFl1Ykl4em5vTXE0aG9paFZKRHAzNUpsLXExcmdmcHZvcEUyX1ZSMFZxUEk1WmIwdk1EaUIxT2x5bm1oOW42aE5WbFVnNVpWenk0dUNhMl9kbzA?oc=5)
 - **2026-04-17**: 2026년 온건하고 느슨한(moderately loose) 통화정책 유지 기조 재확인 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnoza0lLRkkxaDZVdjR1b2FuT0JGcm1ITlFKNUU0cjlvUEZjN3hidk9UcG5Fc3pLMkNVNFhGZlFRbng1cFRuRy1yeTdTdEluQnEyUTBPTlRpYzlSRkdVRVFoU0o4STFzUDVDSk0zRDJqbXpnN1F5Q0NIZDZPcXdkT2d4VGR1RkNGN1RfSkJIUG9ud1lpVEJFSnJ5d0dnaVhBQzZzVjY4dUxQLXpPa19JV1plaTNjeHVDRXc?oc=5)
 - **2026-04-17**: 절강상업은행(Zheshang Bank)을 체계적으로 중요한 대출기관으로 지정 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkd3MmNMeDRfQlFwQlBEU0tna3hGRnhYaHJTTEhOX040NFZjWHZiaF8xdmZpOE5NV1d2VWF0UWFmbGVLVmtXZzU5V3I4NGZiRjA2TjZhUlZDYmhhOEVVSjJHZURWUEx2VkkxOTUzMUVqVUFfcXp4WW1maGhmU3A1OGk2alhnZ2FHdEpGc3JxbW5HR0xpbVJpVHhNV01mSjFQb21fQWUwcEZPS25aTkg3OEVzMW1PWkhCZUE?oc=5)

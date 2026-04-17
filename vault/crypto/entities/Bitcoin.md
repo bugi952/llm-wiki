@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 이란 호르무즈 해협 개방 뉴스로 BTC $77K 상회 (휴전 중) [(원문)](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)
+- **2026-04-17**: 이란 호르무즈 해협 재개 선언 후 BTC $76k 돌파, 지정학 리스크 감소 영향 [(원문)](https://cointelegraph.com/news/bitcoin-rallies-76k-iran-strait-of-hormuz-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 미국 정부, 2016년 Bitfinex 해킹 관련 비트코인 606,000달러를 코인베이스로 이동 (정부 자산 관리) [(원문)](https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase)
+- **2026-04-17**: BTC $76,000 돌파, 이란 관계 완화 신호와 유가 하락 연동 [(원문)](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)
 - **2026-04-17**: Charles Schwab이 소매 투자자용 현물 BTC 거래 서비스 단계적 롤아웃 개시 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch)
 - **2026-04-17**: Adam Back(Blockstream CEO)가 양자 내성 업그레이드를 선택적 방식으로 제안 (BIP-361의 의무 동결과 대비) [(원문)](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 - **2026-04-17**: BIP-361 양자 공격 대응 솔루션 제안, 개발 커뮤니티 검토 중 [(원문)](https://decrypt.co/364570/morning-minute-bitcoin-devs-propose-new-quantum-solution)
@@ -38,5 +42,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Crypto Regulation]]
+[[Geopolitical Security Threats]]
 

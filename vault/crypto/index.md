@@ -1,13 +1,15 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-17 15:19
+최종 갱신: 2026-04-17 20:28
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
 - [[entities/Arthur Hayes|Arthur Hayes]]
 - [[entities/Avalanche|Avalanche]]
 - [[entities/Beast Industries|Beast Industries]]
+- [[entities/Binance|Binance]]
 - [[entities/BitMine (BMNR)|BitMine (BMNR)]]
 - [[entities/Bitcoin|Bitcoin]]
+- [[entities/Bitnomial|Bitnomial]]
 - [[entities/Cardano|Cardano]]
 - [[entities/Charles Schwab|Charles Schwab]]
 - [[entities/Circle|Circle]]
@@ -15,14 +17,23 @@
 - [[entities/Drift|Drift]]
 - [[entities/Drift Protocol|Drift Protocol]]
 - [[entities/Ethereum|Ethereum]]
+- [[entities/Flow Capital|Flow Capital]]
 - [[entities/Grayscale|Grayscale]]
+- [[entities/Grinex|Grinex]]
 - [[entities/HIVE|HIVE]]
 - [[entities/Hyperliquid|Hyperliquid]]
 - [[entities/Iris Energy (IREN)|Iris Energy (IREN)]]
 - [[entities/JPMorgan|JPMorgan]]
+- [[entities/Ketman Project|Ketman Project]]
+- [[entities/Kraken|Kraken]]
 - [[entities/Lido|Lido]]
+- [[entities/Mitsui|Mitsui]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
 - [[entities/Naver-Dunamu|Naver-Dunamu]]
+- [[entities/Optimism|Optimism]]
+- [[entities/Paul Atkins|Paul Atkins]]
+- [[entities/Payward|Payward]]
+- [[entities/Ramp Network|Ramp Network]]
 - [[entities/Ripple|Ripple]]
 - [[entities/Sky|Sky]]
 - [[entities/Solana|Solana]]
@@ -30,6 +41,7 @@
 - [[entities/Tempo|Tempo]]
 - [[entities/Tether|Tether]]
 - [[entities/World Liberty Financial|World Liberty Financial]]
+- [[entities/Zipangcoin|Zipangcoin]]
 - [[entities/Zonda|Zonda]]
 
 ## 💡 개념
@@ -42,6 +54,7 @@
 - [[concepts/Cross-chain Bridge|Cross-chain Bridge]]
 - [[concepts/Crypto Regulation|Crypto Regulation]]
 - [[concepts/DeFi|DeFi]]
+- [[concepts/Euro Stablecoin|Euro Stablecoin]]
 - [[concepts/Exchange Security Incidents|Exchange Security Incidents]]
 - [[concepts/Geopolitical Security Threats|Geopolitical Security Threats]]
 - [[concepts/Government AI Policy|Government AI Policy]]

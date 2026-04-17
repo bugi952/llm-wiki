@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: AI 에이전트가 DeFi 활동의 약 1/5 차지, 복잡한 거래에서는 인간 트레이더가 우월 [(원문)](https://decrypt.co/364727/ai-agents-already-run-a-fifth-of-defi-but-still-lose-to-humans-at-trading)
+- **2026-04-17**: 2026년 상위 10개 DeFi 프로젝트 벤치마킹 분석 공개 [(원문)](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9Yckt0aVlhMGFWZEgxUzVaOEVsSWhEQXhXbFVvUFNxLWhUb2ctS1g5aE9YWVRxc0w1UHZ4VGtfLVRqSjZuS21fdXJrcXZENjU3MEk0bmd0RUwzX0M0Z3pSQU5TMFJXcFJHWnltcmNvckZCdE9MczNyV2s2c1ZmMldIUkhvOEF6MFdreVBveWVWTnVUSE8wRlVHczdQOVpsbnJTRtIBsgFBVV95cUxQTXZMcEg1VkRXODRnV2xwUS1Td1E5dlh5Z0tOZGhXaHZfd0o1NDNWQ3RxSlVxVS1CMDN5eUpTWDJEdGhpLVE1YmVyZk4ySjhRR2w5OGVrMUU2bVpvSENwNVdLcFpXMk1EWGM0eGN0U1hVV0lrM0FQcGxrd0NDaTRkZDZRTlpOaFdpQkl6Smo0RmlxN0ZjUzRvVUVzOFE0d1VadGJ6OGVNUzRBRWRxakFaVDJR?oc=5)
 - **2026-04-17**: Tempo가 엔터프라이즈 스테이블코인 거래용 프라이버시 기능 'Zones' 공개 [(원문)](https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions)
 - **2026-04-17**: Sky의 USDS, sUSDS가 Skylink(LayerZero 기반)를 통해 Avalanche에 배포 [(원문)](https://thedefiant.io/news/defi/sky-announces-first-native-deployment-of-usds-susds-on-avalanche)
 - **2026-04-17**: Lido (LDO) 30% 월간 상승, DAO 바이백 프로그램($20M)으로 DeFi 저항 선도 [(원문)](https://thedefiant.io/news/defi/ldo-bucks-defi-downturn-with-30-monthly-rally-after-dao-passes-buyback-scheme)
@@ -21,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Layer 2]]
+[[Hyperliquid]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: Google의 Gemini가 국방부 기밀 영역 도입을 논의 중 (주요 기업의 국방 AI 진출 가속화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
+- **2026-04-17**: 미국 정부가 Anthropic Claude Miso의 연방 기관 테스트 승인 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209386)
+- **2026-02-01**: 모니터의 FPR 민감도가 TPR보다 높아, 거짓 긍정률 조율이 안전성에 핵심 [(원문)](https://arxiv.org/abs/2602.04930)
+- **2026-01-01**: Double-blind 리뷰 등 익명성 기반 시스템이 LLM 저자 식별로 위협받음 [(원문)](https://arxiv.org/abs/2601.12407)
+- **2026-04-17**: 74개 규제/정책 기반 100K 규모 안전 준수 데이터셋 OmniCompliance-100K (보안, 개인정보, 금융, 의료, 교육) [(원문)](https://arxiv.org/abs/2603.13933)
+- **2026-04-17**: Controlling Authority Retrieval(CAR): 법률, 의약품 규제, 소프트웨어 보안 도메인에서 이전 문서 무효화를 의미 유사성이 아닌 '공식 권한 폐기(authority closure)' 기반으로 검색해야 함을 정형화 [(원문)](https://arxiv.org/abs/2604.14488)
 - **2026-04-15**: 저작권 논란으로 미국 시장 제외하고 시댄스 2.0을 100개 이상 국가에 출시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209345)
 - **2026-04-14**: 미국 메인주, 20MW 이상 데이터센터 신설 금지 법안 통과 (2027년 11월부터 적용) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209363)
 - **2026-02**: 미국 뉴욕 연방법원 판사, Claude와의 대화 기록 31건을 법정 증거로 채택. 변호사-의뢰인 특권 미인정으로 프라이버시 이슈 부각 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209365)
@@ -25,7 +31,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[ByteDance]] | [[Multimodal AI]]
+[[Google DeepMind]] | [[AI Deployment]] | [[AI Safety]]
 
 
 ## 모순/논쟁

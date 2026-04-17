@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 공개 모델을 활용해 Mythos 활성화 조정 연구 결과 재현 가능함을 입증 [(원문)](https://news.ycombinator.com/item?id=47806116)
+- **2026-04-17**: 미국 정부가 Claude Miso를 연방 기관 테스트에 승인 (Trump 행정부의 금지 철회, 사이버 보안 강화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209386)
+- **2025-02-04**: Claude-Opus-4.6에서 Intentional Analysis 적용 시 다중 작업 성능 지속 개선 [(원문)](https://arxiv.org/abs/2502.04689)
+- **2026-04-17**: Claude Haiku 대상 프롬프트 최적화 연구, TextGrad/DSPy 같은 end-to-end 도구의 신뢰성 한계 규명 [(원문)](https://arxiv.org/abs/2604.14585)
 - **2026-04-17**: Claude Opus 4.7 모델 출시 (2026-04-17) [(원문)](https://news.ycombinator.com/item?id=47793546)
 - **2026-04-17**: Claude Opus 4.7 발표 (HN 1268점) [(원문)](https://news.ycombinator.com/item?id=47793411)
 - **2026-04-15**: Claude Miso 모델 공개 - 공급망 위험 관련 정부 소송, 미국·캐나다·영국·한국 정부의 AI 규제 검토 회의 개최 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209272)
@@ -28,5 +32,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Scaling Laws]] | [[Multimodal AI]] | [[AI Safety]]
+[[AI Safety]] | [[Activation Steering]]
 

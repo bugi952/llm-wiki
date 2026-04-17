@@ -11,9 +11,16 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: 중동 긴장 완화가 암호화폐 및 주식 시장에 긍정적 영향 [(원문)](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)
+- **2026-04-17**: 북한 정부 지원 해킹 조직의 암호산업 침투 확인, 에코시스템 전반의 보안 위협 [(원문)](https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 중국 마켓플레이스에서 위조 레저 하드웨어 지갑 유포, Espressif Systems 반도체 연관성 확인 [(원문)](https://cointelegraph.com/news/fake-ledger-device-sold-chinese-market-place?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 중동 군사 충돌 완화 시 BTC 가격 상승 연관성 확인, 위험 자산 수요 증가 [(원문)](https://cointelegraph.com/news/bitcoin-rallies-76k-iran-strait-of-hormuz-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: 중동 분쟁이 암호화폐 오일 선물에 직접 영향 미치는 사례 기록 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmpGYXp6eEVGREZsSUJ5eUN5bEp5eFdjRmwtQVNuQU94TVRKSnFQUWRPZXpETkJ3SndIYW51UnJvekNqdExhbWpFbUQyS084YnY1ZGt2ZlhyRUZRS0dQaXpBWFV0TTN4RmczMjRnbFdHeHJNNktJbDlLM2c0YWE0c002dzlyMTJGUTdCR3dDaFRfVWh3bTdzX244alQ5ZTZhTml2cWl0bTZ1VkxlaXVGdlRDcGlfUjJNUE1QNzJB?oc=5)
+- **2026-04-17**: 이란-미국 긴장 완화가 암호화폐 시장에 긍정적 영향 [(원문)](https://bitcoinmagazine.com/news/bitcoin-price-charges-past-77000)
 
 
 ## 핵심 주체
+[[Bitcoin]]
 
 
 ## 모순/논쟁

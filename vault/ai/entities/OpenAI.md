@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-16**: Codex 데스크톱 앱 주간 300만명 활동, 종합 개발 플랫폼으로 재편성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209392)
+- **2025-02-04**: GPT-5에서 Intentional Analysis 벤치마크 성능 검증 [(원문)](https://arxiv.org/abs/2502.04689)
 - **2026-04-17**: ChatGPT를 Microsoft Excel에 통합하여 비즈니스 생산성 도구로 확대 [(원문)](https://news.ycombinator.com/item?id=47785397)
 - **2026-04-15**: Agents SDK에 모델 네이티브 하네스(harness) 구조와 샌드박스 실행 환경 추가 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209332)
 - **2025-12-24**: GenAI의 뉴스 산업 영향 실증 데이터: 출판사 차단 전략의 예상 밖의 부작용 [(원문)](https://arxiv.org/abs/2512.24968)
