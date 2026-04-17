@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-12
+last_updated: 2026-04-17
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: Claude Opus 4.7 모델 출시 (2026-04-17) [(원문)](https://news.ycombinator.com/item?id=47793546)
+- **2026-04-17**: Claude Opus 4.7 발표 (HN 1268점) [(원문)](https://news.ycombinator.com/item?id=47793411)
+- **2026-04-15**: Claude Miso 모델 공개 - 공급망 위험 관련 정부 소송, 미국·캐나다·영국·한국 정부의 AI 규제 검토 회의 개최 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209272)
+- **2026-04-15**: 최대 8000억달러 기업 가치 평가받으며 신규 투자 제안 (2월 대비 2배 이상 상승, 제안 거절) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209323)
+- **2026-04-14**: Claude Code에 반복 자동화 기능 'Routines' 추가 (연구 프리뷰). 시간 단위·일간·주간 실행 또는 API 호출/이벤트 트리거 설정 가능 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209352)
+- **2025-12-18**: Sonnet 모델이 VeruSAGE-Bench 정형검증 벤치마크에서 80% 이상 성공률 달성 [(원문)](https://arxiv.org/abs/2512.18436)
 - **2026-04-06**: Anthropic이 Google, Broadcom과의 파트너십을 확대하여 다기가와트 규모의 차세대 컴퓨팅 인프라 확보. Claude의 학습·추론 용량 대폭 증강을 위한 장기 인프라 [(원문)](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 - **2026-03-31**: 호주 정부와 Anthropic이 AI 안전과 연구에 관한 양해각서(MOU)를 체결했다. 이는 호주의 AI 규제 및 안전 연구 강화 움직임의 일환이며, Anthropic의 지역 정책 [(원문)](https://www.anthropic.com/news/australia-MOU)
 - **2026-03-18**: ... [(원문)](https://www.anthropic.com/81k-interviews)
@@ -22,4 +28,5 @@ source_count: 0
 
 
 ## 연관 페이지
+[[Scaling Laws]] | [[Multimodal AI]] | [[AI Safety]]
 

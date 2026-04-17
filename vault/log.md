@@ -1,3 +1,105 @@
 # 변경 이력
-최종 갱신: 2026-04-17 01:28
+최종 갱신: 2026-04-17 03:07
 
+## [2026-04-17]
+
+- append: **Crypto Regulation** ← Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'
+- append: **Government AI Policy** ← Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings
+- append: **AI Legal Risk** ← Your AI Chats Can Be Used Against You in Court—Law Firms Are Scrambling
+- append: **Claude Models** ← Claude Opus 4.7 Is Here: Anthropic’s Latest Model Delivers, But It’s a Token Eating Machine
+- append: **Bitcoin** ← Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears
+- append: **Ethereum** ← Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears
+- append: **Hyperliquid** ← CFTC Chair Mike Selig Faces Bipartisan Pushback on Prediction Markets, Hyperliquid Perps
+- append: **Crypto Regulation** ← CFTC Chair Mike Selig Faces Bipartisan Pushback on Prediction Markets, Hyperliquid Perps
+- append: **DeFi** ← Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit
+- append: **Layer 2** ← Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits
+- append: **Bitcoin** ← Morning Minute: Bitcoin Devs Propose New Quantum Solution
+- append: **Crypto Regulation** ← UK Sets Path to Crypto Regulation With FCA Consultation
+- append: **BTC Price** ← Exchange Inflows Spike as Bitcoin Faces $76K Headwinds
+- append: **Bitcoin** ← Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin
+- append: **BTC Price** ← Altcoins Surge as Bitcoin Drifts Near $75,000
+- append: **ETH Price** ← Altcoins Surge as Bitcoin Drifts Near $75,000
+- append: **DeFi** ← LDO Bucks DeFi Downturn With 30% Monthly Rally After DAO Passes Buyback Scheme
+- append: **Crypto Regulation** ← Class Action Lawsuit Filed Against Circle Over Drift Protocol $280 Million Hack: Gibbs Mura Law Group
+- append: **DeFi** ← Sky Announces First Native Deployment of USDS, sUSDS on Avalanche
+- append: **Layer 2** ← Sky Announces First Native Deployment of USDS, sUSDS on Avalanche
+- append: **Bitcoin** ← Charles Schwab Announces Rollout of Spot BTC and ETH Trading for Retail Clients
+- append: **Ethereum** ← Charles Schwab Announces Rollout of Spot BTC and ETH Trading for Retail Clients
+- append: **Crypto Regulation** ← Charles Schwab Announces Rollout of Spot BTC and ETH Trading for Retail Clients
+- append: **Crypto Regulation** ← South Korea to Test Deposit Tokens for Government Spending
+- append: **DeFi** ← Tempo Unveils 'Zones' for Private Enterprise Stablecoin Transactions
+- append: **Tether** ← Tether Commits $127.5M to Drift Protocol Recovery Plan Following $270M+ Exploit
+- append: **Drift Protocol** ← Tether Commits $127.5M to Drift Protocol Recovery Plan Following $270M+ Exploit
+- append: **Anthropic** ← Claude Opus 4.7
+- append: **Open Source Models** ← Qwen3.6-35B-A3B: Agentic coding power, now open to all
+- append: **Open Source Models** ← Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
+- append: **AI Infrastructure** ← Cloudflare's AI Platform: an inference layer designed for agents
+- append: **Agentic AI** ← Cloudflare's AI Platform: an inference layer designed for agents
+- append: **Anthropic** ← Claude Opus 4.7 Model Card
+- append: **Scaling Laws** ← Claude Opus 4.7 Model Card
+- append: **Apple** ← Darkbloom – Private inference on idle Macs
+- append: **AI Infrastructure** ← Darkbloom – Private inference on idle Macs
+- append: **OpenAI** ← ChatGPT for Excel
+- append: **US Consumer Sentiment** ← [US] Michigan Consumer Sentiment Final
+- append: **OpenAI** ← 오픈AI, '하네스·샌드박스' 포함한 에이전트 구축용 SDK 업데이트
+- append: **Anthropic** ← 앤트로픽, '클로드 코드' 상시 실행용 반복 자동화 기능 ‘루틴’ 공개
+- append: **Google DeepMind** ← 구글, 표현력 강화한 차세대 음성 모델 '제미나이 3.1 플래시 TTS' 출시
+- append: **Agentic AI** ← 어도비, 크리에이티브 도구 통합 '에이전트' 출시...'클로드' 등 타사 챗봇에서도 사용
+- append: **AI Regulation** ← 미국 법원, AI 채팅 내용 법정 증거로 채택..."챗봇에 비밀 털어놓으면 위험"
+- append: **Agentic AI** ← 우버, 로보택시에 15조 투자...자율주행 생태계 핵심 축으로 부상
+- append: **AI Infrastructure** ← 우버, 로보택시에 15조 투자...자율주행 생태계 핵심 축으로 부상
+- append: **Agentic AI** ← [게시판] 텔레픽스, AI 큐브위성으로 이란 공습 피해 현장 포착 등 단신
+- append: **Agentic AI** ← AMD·퀄컴·Arm, 엔비디아 이어 자율주행 웨이브에 880억 투자
+- append: **AI Infrastructure** ← AMD·퀄컴·Arm, 엔비디아 이어 자율주행 웨이브에 880억 투자
+- append: **AI Regulation** ← 메인주, 미국 최초로 대형 데이터센터 금지 법안 의회 통과
+- append: **AI Regulation** ← 바이트댄스, 미국 제외 전 세계에 동영상 모델 ‘시댄스 2.0’ 출시
+- append: **Multimodal AI** ← 바이트댄스, 미국 제외 전 세계에 동영상 모델 ‘시댄스 2.0’ 출시
+- append: **AI Infrastructure** ← xAI, 코딩 스타트업 커서에 컴퓨팅 파워 공급...클라우드 공급자로 확장
+- append: **AI Infrastructure** ← 국내도 '전방 배치 엔지니어'가 대세...마키나락스, 대규모 채용 나서
+- append: **AI Deployment** ← 국내도 '전방 배치 엔지니어'가 대세...마키나락스, 대규모 채용 나서
+- append: **AI Infrastructure** ← 머스크, 자율주행용 칩 ‘AI5’ 샘플 공개..."AI 학습용 '도조 3'도 개발"
+- append: **AI Workforce Impact** ← 스냅, AI 도입으로 직원 16% 감원 계획...발표 후 주가 급등
+- append: **Nvidia** ← 스팬-엔비디아, 남는 가정용 전력 묶어 '1GW급' 분산 AI 클라우드 만든다
+- append: **Apple** ← 애플, 시리 개발자 200명에 'AI 코딩 재교육' 실시..."조직 정비 시작"
+- append: **Anthropic** ← 앤트로픽, 두달 만에 몸값 두배 이상 폭등...1180조 가치 투자 제안 거절
+- append: **Medical AI** ← 아크릴 “병원 망분리 환경 실질적 대안, ‘아름.H’ 모델로 AX 추진“
+- append: **Multimodal AI** ← 딥엘, 실시간 음성 간 번역 ‘보이스 투 보이스’ 공개
+- append: **Autonomous Vehicles** ← 라이드플럭스, 국내 최초 자율주행 트럭 유상 화물운송 허가 획득
+- append: **ElevenLabs** ← 일레븐랩스, AI 음성 기술로 ‘전설적 DJ’ 김광한 목소리 재현
+- append: **DeepX** ← 딥엑스, 현대차 공동개발 AI 컴퓨팅 솔루션 배송 로봇에 적용
+- append: **Anthropic** ← [4월15일] "27년간 숨어있던 문제 찾아 하루 안에 공격 가능"...'미소스'가 무서운 이유는
+- append: **AI Safety** ← [4월15일] "27년간 숨어있던 문제 찾아 하루 안에 공격 가능"...'미소스'가 무서운 이유는
+- append: **Meta AI** ← 자신의 ‘AI 페르소나’를 만들고 있다? 마크 저커버그가 개발하고 있는 것
+- append: **Agentic AI** ← 자신의 ‘AI 페르소나’를 만들고 있다? 마크 저커버그가 개발하고 있는 것
+- append: **BitMine (BMNR)** ← BMNR Stock Draws Traders As NYSE Uplisting And $4B Buyback Hit - StocksToTrade
+- append: **BitMine (BMNR)** ← Bitmine's Tom Lee calls ether 'the wartime store of value' as holdings hit 4.87 million ETH - CoinDesk
+- append: **Ethereum** ← Bitmine's Tom Lee calls ether 'the wartime store of value' as holdings hit 4.87 million ETH - CoinDesk
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Reports US$5.2b Quarterly Loss Testing Bullish Growth Narratives - simplywall.st
+- append: **BitMine (BMNR)** ← Robeco Institutional Asset Management B.V. Raises Stock Holdings in BitMine Immersion Technologies, Inc. $BMNR - MarketBeat
+- append: **Ethereum** ← The Alchemy of Ethereum: A Deep Dive into Bitmine Immersion Technologies (BMNR) - FinancialContent
+- append: **BitMine (BMNR)** ← BitMine Immersion Technologies, Inc. Income Statement – NYSE:BMNR - TradingView — Track All Markets
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion - StreetInsider
+- append: **BitMine (BMNR)** ← Bitmine Immersion (BMNR) Announces ETH Holdings Reach 4.066 Million Tokens, and Total Crypto and Total Cash Holdings of $13.2 Billion - PR Newswire
+- append: **BitMine (BMNR)** ← Bimine holdings jump to $11.8B; ETH leads—will rally follow? - Seeking Alpha
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies Reports Significant Loss This Quarter - The Wealth Advisor
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces $200 Million Investment in Beast Industries - PR Newswire
+- append: **Strategy (MSTR)** ← Is It Time To Revisit MicroStrategy (MSTR) After Its Sharp One Year Pullback? - simplywall.st
+- append: **Strategy (MSTR)** ← JPMorgan warns of MicroStrategy delisting risk from major equity indices - Yahoo Finance
+- append: **Strategy (MSTR)** ← Michael Saylor's MicroStrategy hits lowest price since September 2024 - thestreet.com
+- append: **Iris Energy (IREN)** ← Iris Energy Stock (IREN) Opinions on AI Cloud Expansion - Quiver Quantitative
+- append: **Iris Energy (IREN)** ← NVDA: Nvidia Deals Ignite Iris Energy Stock Rally With Double-Di - GuruFocus
+- append: **Iris Energy (IREN)** ← IREN Stock in December 2025: Microsoft’s $9.7B AI Megadeal, $3.6B Capital Raise and What Comes Next - TechStock²
+- append: **US Interest Rates** ← Federal Reserve Board issues enforcement action with Community Bankshares, Inc.
+- append: **US Interest Rates** ← (Research Paper) The Limited Effects of Post-Pandemic U.S. Monetary Policy Tightening: Demand Composition and the Credit Channel
+- append: **US Employment** ← Michael S Barr: Rural communities - worth the investment
+- append: **Reserve Bank of India** ← Swaminathan J: AI in finance &#8211; what can change, what must never change
+- append: **ECB** ← Jorgovanka Tabakovi&#263;: EU economy and global economic developments
+- append: **ECB** ← Fabio Panetta: Address - ordinary meeting of shareholders
+- append: **ECB** ← Yannis Stournaras: Monetary and broader policy considerations for the euro area under the present energy price shock
+- append: **Oil (WTI)** ← Yannis Stournaras: Monetary and broader policy considerations for the euro area under the present energy price shock
+- append: **ECB** ← Yannis Stournaras: The Greek economy ten years after the crisis - lessons for national economies, the eurozone and future challenges
+- append: **ECB** ← Piero Cipollone: The digital euro in a fragmenting world - ensuring Europe's resilience and autonomy in payments
+- append: **CNY-USD** ← PBOC sets USD/CNY reference rate at 6.8616 vs. 6.8582 previous - Bitget
+- append: **PBOC** ← China leaves March benchmark lending rates unchanged for 10th straight month - CNBC
+- append: **CNY-USD** ← China’s central bank set USD/CNY at 6.8880, below prior 6.9025, above Reuters’ 6.8764 estimate - VT Markets
+- append: **PBOC** ← China set to keep rates steady as Mideast war clouds inflation outlook - Reuters

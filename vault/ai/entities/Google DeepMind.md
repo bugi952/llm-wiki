@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-12
+last_updated: 2026-04-17
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-15**: Gemini 3.1 Flash TTS 출시. 표현력과 제어력 강화한 차세대 텍스트 음성 변환(TTS) 모델 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209335)
+- **2026-04-17**: Gemini macOS 네이티브 앱 출시: Option+Space 단축키로 항상 접근 가능, 작업 흐름 유지 강조 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209325)
+- **2026-04-17**: LongCoT 벤치마크: Gemini 3 Pro 장시간 추론 정확도 6.1% [(원문)](https://arxiv.org/abs/2604.14140)
 - **2026-04-02**: Gemma 4는 DeepMind의 최신 오픈 모델로, 고급 추론 능력과 에이전트 워크플로우를 위해 최적화되었다. 단위 크기당 능력(byte-for-byte) 측면에서 가장 효율적인 [(원문)](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/)
 - **2026-03-26**: Google이 음성 AI의 정밀도를 개선하고 지연 시간을 감소시킨 Gemini 3.1 Flash Live 모델을 발표했다. 이 모델은 더 자연스럽고 신뢰할 수 있는 음성 상호작용을 [(원문)](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/)
 - **2026-03-25**: Google DeepMind는 AI 시스템의 해로운 조작(harmful manipulation) 위험을 연구하고 있다. 금융, 보건 등 여러 중요 분야에서 AI가 사용자를 부정적으 [(원문)](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)
@@ -96,4 +99,5 @@ source_count: 0
 
 
 ## 연관 페이지
+[[Multimodal AI]]
 

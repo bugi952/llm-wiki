@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: macro
-last_updated: 2026-04-12
+last_updated: 2026-04-17
 ---
 
 # US Employment
@@ -15,5 +15,6 @@ last_updated: 2026-04-12
 
 
 ## 이력
+- **2026-04-14**: 연방준비제도, 농촌 지역 경제 투자·고용 창출 강조 [(원문)](https://www.bis.org/review/r260416h.htm)
 - 2026-03-01: 미국 실업률 4.3
 

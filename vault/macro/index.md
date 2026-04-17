@@ -1,20 +1,35 @@
 # MACRO Wiki
-최종 갱신: 2026-04-17 01:28
+최종 갱신: 2026-04-17 03:07
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
 - [[entities/BOJ|BOJ]]
+- [[entities/Bank of Greece|Bank of Greece]]
+- [[entities/Bank of Italy|Bank of Italy]]
 - [[entities/ECB|ECB]]
+- [[entities/Ethiopia Central Bank|Ethiopia Central Bank]]
+- [[entities/Federal Reserve System|Federal Reserve System]]
 - [[entities/PBOC|PBOC]]
+- [[entities/Reserve Bank of India|Reserve Bank of India]]
+- [[entities/Zheshang Bank|Zheshang Bank]]
+
+## 💡 개념
+- [[concepts/Digital Euro|Digital Euro]]
+- [[concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]]
+- [[concepts/Digital Yuan|Digital Yuan]]
+- [[concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]]
+- [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
 
 ## 📊 지표
 - [[indicators/CNY-USD|CNY-USD]]
+- [[indicators/China Interest Rates|China Interest Rates]]
 - [[indicators/EUR-USD|EUR-USD]]
 - [[indicators/Gold|Gold]]
 - [[indicators/JPY-USD|JPY-USD]]
 - [[indicators/Korea Inflation|Korea Inflation]]
 - [[indicators/Korea Interest Rates|Korea Interest Rates]]
 - [[indicators/Oil (WTI)|Oil (WTI)]]
+- [[indicators/US Consumer Sentiment|US Consumer Sentiment]]
 - [[indicators/US Employment|US Employment]]
 - [[indicators/US Inflation|US Inflation]]
 - [[indicators/US Interest Rates|US Interest Rates]]

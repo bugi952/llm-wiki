@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-12
+last_updated: 2026-04-17
 source_count: 0
 ---
 
@@ -11,7 +11,19 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 채굴 회사들 중 일부는 운영비 충당을 위해 BTC 청산, 일부는 미래 성장을 위해 BTC 보유 [(원문)](https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-17**: Beast Industries에 2억 달러 투자 발표. 암호화폐 관련 사업 포트폴리오 확장 [(원문)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHl0OFJIUGFsVDBrUHFFTXlkckN3cEQ2NHl5YkRUMm92cGEyMXBoMUVnbjNCYmFfQ2psbi1OVjFic0FVdHR2bHBaS3J2dnRXYjUxRUVnckRva1g2SHpwZkl3WFFPbUpXdTZIc1NwQk42X19IaElHeDJjbVhuQ0pXRFVFc1BUM3djOVVVQ3owRXd4WS1nM1B1YVl4R3JvSVBmMERUVzQ2WVhZQTVIV01MdDQzY0phakJQU3RQS21vQ2dxYnRvZkp5VGRld09wR0NhRUtnNWV5cS03cmZXY0tKcjJTSQ?oc=5)
+- **2026-04-17**: 분기 손실 공시. 운영 수익성 악화 지속 [(원문)](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHltTFlza3V1ejFucENISEd3RU1NcDFkWDczNC1FeHduZXpXN2FyWF92Y2pELUQyS1lSNGFhbVExTVI2US1oMDdqeTYzZFVyc2JJbGs2a0o1QnRqR0ktZmNXTy1ZbGN6QUZMY0p1TTRUeGpWdlNpd1Zvbno0NzNVZzlUUnN0X2xFVVVFb2FRUk8yYm5lUnlXSTJxZnlKWkYwV0wxak9ncw?oc=5)
+- **2026-04-17**: 자산 규모 $11.8B 달성. Ethereum 보유 비중 증가 [(원문)](https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2lKVzZTVFZGZFZqeUhIRkE3MVF3NWdKU1plR05fR3FMRGJOMXRseWphLVJadnBTUTJXakJZT0loVGFuYlg3ckE1NmdEU1NqWWE1QmR2TXVXVjZ0Yzh1ZHJrYlRscE8tWDJ5UEx4WXJubUdteDY3Y0prYW1ETFJ4NTlnQklLTGFmOGFoQ3lHU0F1U2szTFd3Mw?oc=5)
+- **2026-04-17**: ETH 보유량 4.066M 토큰, 총 자산 $13.2B [(원문)](https://news.google.com/rss/articles/CBMikwJBVV95cUxQWTBZMEFtd2JSZHRkUUFlbXdqZmZBcjdES3B3RVdRT0NhZUU0Q0NILVRSSDhiQWhDMnJ4NEVxR3d1MVN5aVZFYkFQdGl2eGw5eldYMmMwZWU5UU8xXzVxUGF5dENMYllWYWJuRFlDR3czZDVDejVld0ljVElVaEVqQnRDSE9kSkNmRHZ5ZHJuSFl4WS1NQ0dmY1dYSWMwN3RlR1NlRTNXVXIyOXdJcF9FRlBya1Q2eHNvaEtFMTZJTFQycVN6dzFoWElpN3A4aGZrMldqTWJvS0pkR19YTkRNZE1WUU5rRGs4eTZlOGRVcXBaNUNYSXl5N1RqMlZSampfZHd0Q0R2VEhrSXBUVGROWXFoaw?oc=5)
+- **2026-04-17**: ETH 보유량 4.875M 토큰, 총 자산 $11.8B [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fdHEzTURyNEtQT2stSE9qX2EtU3dHY0J3UVFvWk1UUjlPN0FNYjFJWm5lUExuQV9PbDBQX3dFRzZjeUxYbmVrT0RsOEhNN2tYVnV1T0JENEo3bmJHSkQ5NnpBWQ?oc=5)
+- **2026-04-17**: 공개 재무제표 TradingView에 기록 [(원문)](https://news.google.com/rss/articles/CBMif0FVX3lxTE5UNmNnc0RLTExzcXRDWllDTzItdmJxUk5QX2Zscy1ZODZVNzlYNHEzV3R0Z2ExbjFFVXdlUTN4TEJKelRjZVVWb0tsYzVkUWRya0RoWl9pTndDb2pWTFdXVmtOUzdwaWEzX0ZEU3FOYkpLa3RwOE0xSlVIbHJPcXM?oc=5)
+- **2026-04-17**: Robeco 기관 투자자 주식 보유 증가 [(원문)](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRzZYQ1F0Y3JuZkp4SE5Vbmp1VFFiVDZ3UGFIMjhSbk9tZURiV2JmODBybmdjU2NrWGZRY2tZZlRLSHBZckZRWXFYZTVZUWlFQ2lic1ZFdzItSGRJalQ5Vk1KaXJTdmVWYUQ1S0VhSW9aRFYxUUdjQkpnUVFKbEhFTVlLODRJU2JOc0h3eXVqZ3FCOUNLX2tGaHZleWFzNTdXZVFEQUtvb3FMQnZOSk5LTmF0QWpHUFFJUXBqRzVlMXlPOFdHYm9ockxPVmYxQ20zc0lDb3d0Sl9kdnFUczNYNldUcWZSWF9hRE1COWs0YXktUXR5MTJRVFV3?oc=5)
+- **2026-04-17**: 분기 손실 $5.2B 기록 (강세장 담론과의 괴리) [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZTRzZkhfZVRtZXUzeEphQjlVajhlYXYySWZaT3JJR29RR3BxaGJoT1FmbHp3RzdyeGxEazBwM3U1YjFEZURoT3haR2o3bzRKM1pZR3ZuRXZNSU5hTE1QMnFMOVc0OU9YOVBhRGZxZTRMdU4xTEcxR1NwZVFCUE12bTBpV0sxYmU4RktlWkRXSEQxRFFndzhnREt0TTAyRFhaaEhoXzUxWXhjYU1ESUhRZUFYSGJDLVVvRExaQ1VlY01lWkd3QTVDeG1tdDVzT280MjNQU0x1QWJnMVctQl9z0gHkAUFVX3lxTE0xaHpwZ0JUeHJKbjk4aWFBdXR5QlREZGptam13QUtqVkR2Q2RoQWFuZ0I4Xzc2QWxpVVpIcmF5WS1kTWhnUjBHaVNkanJkMFZZWE5heHhTRmxYSU91MkVpWVV3aE5OSjFRNFdaUFI5WVZ6UXpJbG1jUVhMa2ZJMXZfcnJlWkxGRXFZUy1pTWZ6V3FDQ0NZSFdzeXQxT3RoVHZZM1Y3OXNMZi1SeV9mbjFialg3TkdacjNSNDJ1QnhoYl9zTk9oaXpyV1JmYS1nWi1UakRmazd2MDRZV3EyLWJOYWtNVA?oc=5)
+- **2026-04-17**: Ethereum 4.87M ETH 보유 중 (Tom Lee) [(원문)](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEFUQzFJSWpwSGZSWElSallkN0cwdGV4Q0JFT3ZOQzRQMjRaMHNyZE1aWHBFZ2hZR3Y1Qm1OZGhDNUc3Q2wyZjh6SWFrRjlNZldTQ0Jrc29LSDRrazhiU1o1bXFQcTA1ZkkwR0x1czF5NVhucFQtdHRDRkl2UHFDNzk2aHkyTVg3Wl8xVldXSlY4cjJkUmtvLWI5NmZ3R3QzbUxxdUIwdHVsTWIzWWdLbVFNenJuX092dlRCUGJ4M1NWMEs0czk4Mjc0Y3puZw?oc=5)
+- **2026-04-17**: NYSE 상장 예정, $4B 규모 자사주 매입 진행 [(원문)](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLUNuZVpmdUNCdk9faGtmMVZYYVMtcDdhVHd0RTJRUnBTVy1ydUJfOU1NSExyNUhydTJTWFNCVE1pM21wbzZGZ2JiRXA2R0Y1X1I1TEFUMXJRcHFaNkoxREp2WE1QNnkyVnJHRjBlVlNBb3dJZnBCNjR0SE5FMkV2TUpSOWJyLXpWVW4wTDExQ20?oc=5)
 
 
 ## 연관 페이지
+[[Bitcoin]] | [[Iris Energy (IREN)]]
 
