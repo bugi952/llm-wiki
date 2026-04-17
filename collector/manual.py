@@ -2,9 +2,17 @@ import logging
 import re
 import sqlite3
 
+import requests
+from bs4 import BeautifulSoup
+
 logger = logging.getLogger(__name__)
 
 URL_PATTERN = re.compile(r'https?://[^\s<>"]+')
+FETCH_TIMEOUT = 15
+USER_AGENT = "Mozilla/5.0 (compatible; llm-wiki/1.0)"
+# fxtwitter serves OG metadata only to bot-like User-Agents
+BOT_USER_AGENT = "TelegramBot (like TwitterBot)"
+SOCIAL_DOMAINS = ("fxtwitter.com", "x.com", "twitter.com")
 
 
 def _convert_x_url(url):
@@ -20,6 +28,57 @@ def _extract_url(text):
     return match.group(0) if match else None
 
 
+def _fetch_url_content(url):
+    """Fetch URL and extract title + readable text.
+
+    Uses bot UA for social media sites (fxtwitter needs it for OG metadata).
+
+    Returns (title, text) tuple. Both empty strings on failure.
+    """
+    ua = BOT_USER_AGENT if any(d in url for d in SOCIAL_DOMAINS) else USER_AGENT
+    try:
+        resp = requests.get(
+            url, timeout=FETCH_TIMEOUT,
+            headers={"User-Agent": ua},
+            allow_redirects=True,
+        )
+        resp.raise_for_status()
+    except Exception as e:
+        logger.warning("Fetch failed for %s: %s", url, e)
+        return "", ""
+
+    try:
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # Title: og:title > <title> > first h1
+        title = ""
+        og_title = soup.find("meta", property="og:title")
+        if og_title and og_title.get("content"):
+            title = og_title["content"].strip()
+        elif soup.title and soup.title.string:
+            title = soup.title.string.strip()
+        elif soup.find("h1"):
+            title = soup.find("h1").get_text(strip=True)
+
+        # Content: og:description + main text
+        parts = []
+        og_desc = soup.find("meta", property="og:description")
+        if og_desc and og_desc.get("content"):
+            parts.append(og_desc["content"].strip())
+
+        # Strip scripts/styles then get body text
+        for tag in soup(["script", "style", "nav", "footer", "header"]):
+            tag.decompose()
+        body_text = soup.get_text(separator=" ", strip=True)
+        if body_text:
+            parts.append(body_text[:3000])
+
+        return title[:300], "\n\n".join(parts)[:4000]
+    except Exception as e:
+        logger.warning("Parse failed for %s: %s", url, e)
+        return "", ""
+
+
 def process_input(conn, text):
     """Process manual input (URL or text).
 
@@ -28,24 +87,44 @@ def process_input(conn, text):
     url = _extract_url(text)
 
     if url:
-        # URL-based input
-        title = text if text != url else url.split("/")[-1] or url
-        content = text
-
-        # For X URLs, fetch via fxtwitter
+        # URL-based input — fetch actual content for filtering
+        fetch_url = url
+        # For X URLs, fxtwitter returns cleaner OG metadata
         if "x.com" in url or "twitter.com" in url:
-            fx_url = _convert_x_url(url)
-            content = f"원본: {url}\nfxtwitter: {fx_url}\n{text}"
+            fetch_url = _convert_x_url(url)
+
+        fetched_title, fetched_text = _fetch_url_content(fetch_url)
+
+        # Title priority: user text (if more than just URL) > fetched > URL tail
+        user_text = text.replace(url, "").strip()
+        if user_text:
+            title = user_text[:200]
+        elif fetched_title:
+            title = fetched_title[:200]
+        else:
+            title = (url.split("/")[-1] or url)[:200]
+
+        # Content: combine user note + fetched body
+        content_parts = []
+        if user_text:
+            content_parts.append(f"[사용자 메모] {user_text}")
+        if fetched_title:
+            content_parts.append(f"[제목] {fetched_title}")
+        if fetched_text:
+            content_parts.append(fetched_text)
+        if not content_parts:
+            content_parts.append(url)
+        content = "\n\n".join(content_parts)
 
         try:
             cursor = conn.execute(
                 """INSERT INTO sources
                    (source_type, feed_name, title, url, content, status)
                    VALUES ('manual', 'manual', ?, ?, ?, 'collected')""",
-                (title[:200], url, content),
+                (title, url, content),
             )
             conn.commit()
-            logger.info("Manual input (URL): %s", url)
+            logger.info("Manual input (URL): %s [fetched=%s]", url, bool(fetched_text))
             return cursor.lastrowid
         except sqlite3.IntegrityError:
             logger.info("Duplicate URL: %s", url)
