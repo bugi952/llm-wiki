@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-16**: CEO 젠슨 황이 미국 기술 규제를 패배주의적 광기로 비판, 중국 기술 독립 위험성 경고 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209440)
 - **2026-04-17**: Cursor에 전략적 투자자로 참여 검토, 3만여 명 개발자가 사용 중 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209432)
 - **2026-04-17**: Isaac GR00T N1.7: 인문형 로봇용 Open Reasoning Vision-Language-Action 모델 출시 [(원문)](https://huggingface.co/blog/nvidia/gr00t-n1-7)
 - **2026-04-17**: NVIDIA Nemotron Speech Streaming, on-device 실시간 영문 ASR에서 최고 성능 (50개 모델 비교 벤치마크) [(원문)](https://arxiv.org/abs/2604.14493)
@@ -18,5 +19,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Code Generation]] | [[AI Infrastructure]]
+[[AI Regulation]] | [[AI Semiconductors]]
 

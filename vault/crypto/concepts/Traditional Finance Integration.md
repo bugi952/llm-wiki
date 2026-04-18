@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: Stripe, 블록체인/스테이블코인을 'AWS for money' 인프라로 구축 - 기존 핀테크의 암호자산 채택 가속화 [(원문)](https://www.coindesk.com/business/2026/04/18/stripe-doubles-down-on-blockchain-and-stablecoins-aiming-to-become-aws-for-money)
 - **2026-04-18**: Singapore Gulf Bank, Solana USDC 은행 결제 인프라 구축 (다중 스테이블코인 로드맵) [(원문)](https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-launches-solana-usdc-mint-redeem-service-hnw)
 - **2026-04-18**: Figure $7.7B 핀테크, 블록체인 기술 활용도 검증 대상 [(원문)](https://thedefiant.io/news/defi/figure-clashes-with-short-seller-over-blockchain-lending-claims)
 - **2026-04-17**: 전통 금융사(Mitsui) 토큰 자산이 공개 블록체인에서 운영되는 실제 사례 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/mitsui-and-co-s-crypto-arm-brings-tokenized-metals-asset-zipangcoin-to-op-mainnet)
@@ -18,7 +19,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Solana]] | [[Circle]] | [[Stablecoin]] | [[Mainstream Adoption]]
+[[Stablecoin]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: 양자컴퓨터의 서명 위조 능력(Q-Day)이 Bitcoin 보안의 장기 위협으로 지적 [(원문)](https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained)
 - **2026-04-18**: Spot Bitcoin ETF 주간 $1B 유입 (3개월 최고) [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: BTC $78K 도달, 시장 청산 $820M 발생 (24시간) [(원문)](https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 양자 컴퓨터로 약 9분 내에 비트코인을 도용할 수 있다는 기술 시나리오 [(원문)](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
@@ -48,5 +49,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Mainstream Adoption]] | [[Bitcoin Education]]
+[[Quantum Threat]] | [[Quantum-Resistant Cryptography]]
 

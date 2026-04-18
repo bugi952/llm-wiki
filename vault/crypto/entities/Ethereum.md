@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: BitMine (BMNR)의 주요 보유자 중 하나로 확인 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZ3RYSnBfQmFlMGhVeENUWGNLb051VGNjcHo0NmI1X01mTm9qMkp5TjhPODZMcVE3MldVQlpMOEVRYzZYOGgtMmpXVnpwdVV2TzNZUG5NOFgwZXVGejB4WWwzbDM?oc=5)
 - **2026-04-18**: 누적 지갑 잔액 33% 증가, Cup-and-handle 패턴 $3K 래리 신호 [(원문)](https://cointelegraph.com/news/ether-accumulation-wallet-balances-increased-by-33percent-is-a-rally-to-dollar3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: BitMine 보유량 4.875M ETH (기관 자산 구성) [(원문)](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmRMdjJnMTh4OWlOdjNKS0JRM2VLLUFXRk9hTm1LSG9YUU1mMDYtbFpYdVNWeXpKd1hTcklLdFBQVVItSXNaSWdSRHZvb0JXZFNndDhnVi1HVGlGZmpuVmZfZVgwZTNPTXV6WFU0Nl9KbS1GVTI0Y25WNWNUcHUxYURXcXY5V2g0VU4xS0NGV0lRMlN3bEhuYw?oc=5)
 - **2026-04-17**: Ethereum Foundation 펀드 Ketman Project가 암호업계에 고용된 북한 IT 근로자 100명 적발, 53개 프로젝트 관여 확인 [(원문)](https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,5 +26,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Asset Allocation]] | [[Tokenized Assets]]
+[[BitMine (BMNR)]]
 

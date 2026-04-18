@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: Iran 호르무즈 해협 폐쇄 → BTC $76K 하락, 지정학적 위험의 즉시적 시장 영향 입증 [(원문)](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)
 - **2026-04-17**: 중동 긴장 완화가 암호화폐 및 주식 시장에 긍정적 영향 [(원문)](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)
 - **2026-04-17**: 북한 정부 지원 해킹 조직의 암호산업 침투 확인, 에코시스템 전반의 보안 위협 [(원문)](https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 중국 마켓플레이스에서 위조 레저 하드웨어 지갑 유포, Espressif Systems 반도체 연관성 확인 [(원문)](https://cointelegraph.com/news/fake-ledger-device-sold-chinese-market-place?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

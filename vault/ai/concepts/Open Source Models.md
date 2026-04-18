@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 새로운 오픈 가중치 모델 출시 시 아키텍처를 체계적으로 이해하는 학습 워크플로우 [(원문)](https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms)
 - **2026-04-16**: 알리바바, Qwen 3.6-35B-A3B 출시 (희소 전문가 혼합 구조, 350억 파라미터 중 30억만 활성화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209406)
 - **2026-04-14**: Llama-3.1-8B, Mistral-7B, Qwen3-8B이 Romanized Nepali 언어 적응 벤치마킹 대상 [(원문)](https://arxiv.org/abs/2604.14171)
 - **2026-04-14**: SAGEA Celer 2.6: 5B~27B 오픈가중치, Devanagari 커스텀 토크나이저로 Nepali/Hindi 최적화 [(원문)](https://arxiv.org/abs/2604.14168)

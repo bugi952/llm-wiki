@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: 고위 임원진 대규모 퇴사, 업계에서 "Liberation Day"라 표현 (HN score 58) [(원문)](https://news.ycombinator.com/item?id=47813428)
+- **2026-04-17**: 사업 전략을 소비자 중심에서 B2B 중심으로 전환, 슈퍼앱 전략 추진. 과학팀 부사장(Kevin Wale), Sora팀 리더(Bill Pebbles) 등 핵심 임원 사임 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209438)
 - **2026-04-17**: OpenAI와 Cerebras의 파트너십 체결, Cerebras의 주요 수익원 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209431)
 - **2026-04-16**: Codex 데스크톱 앱 주간 300만명 활동, 종합 개발 플랫폼으로 재편성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209392)
 - **2025-02-04**: GPT-5에서 Intentional Analysis 벤치마크 성능 검증 [(원문)](https://arxiv.org/abs/2502.04689)
@@ -22,5 +24,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Semiconductors]] | [[AI Infrastructure]]
+[[AI Deployment]]
 

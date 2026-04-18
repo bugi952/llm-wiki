@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-16**: 반도체 업계 리더가 미국의 AI 칩 규제 정책을 강하게 비판, 정책 역효과 논리 제시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209440)
 - **2026-04-17**: White House, AI 기업과의 협력 기조 전환. 기술 확산 과정에서 안전성 및 국가 보안 중심의 대화 시작 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209427)
 - **2026-04-17**: Google의 Gemini가 국방부 기밀 영역 도입을 논의 중 (주요 기업의 국방 AI 진출 가속화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
 - **2026-04-17**: 미국 정부가 Anthropic Claude Miso의 연방 기관 테스트 승인 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209386)
@@ -32,7 +33,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Anthropic]]
+[[Nvidia]] | [[AI Semiconductors]]
 
 
 ## 모순/논쟁

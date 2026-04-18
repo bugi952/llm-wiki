@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 폴란드 의회, 대통령 거부에 대한 암호화폐 규제법 상정 2차 부결 - 국가 내 규제 입장 불일치 지속 [(원문)](https://cointelegraph.com/news/poland-parliament-fails-again-to-override-presidential-veto-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-18**: 폴란드 총리가 Zondacrypto 거래소와 입법 개입 연결 [(원문)](https://www.coindesk.com/business/2026/04/18/zondacrypto-under-fire-as-poland-s-prime-minister-links-exchange-to-legislative-interference)
 - **2026-04-18**: SEC, Donald Basile의 Bitcoin Latinum 사기 사건 기소 ($16M) [(원문)](https://cointelegraph.com/news/sec-donald-basile-16m-crypto-fraud-insured-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 러시아 무등록 암호자산 서비스 범죄화 법안, Bank of Russia 등록 의무화 [(원문)](https://cointelegraph.com/news/russia-criminalize-unregistered-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: SEC 의장 Paul Atkins, enforcement 중심에서 정책 기조 전환 발표 [(원문)](https://decrypt.co/364720/sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode)
@@ -40,7 +42,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Exchange Security Incidents]]
+[[Zonda]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

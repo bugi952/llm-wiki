@@ -1,8 +1,35 @@
 # 변경 이력
-최종 갱신: 2026-04-18 12:08
+최종 갱신: 2026-04-18 18:09
 
 ## [2026-04-18]
 
+- append: **Strategy (MSTR)** ← Reassessing MicroStrategy (MSTR) Valuation After Recent Share Price Volatility And Bitcoin Exposure Narrative - Yahoo Finance UK
+- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - WTAQ
+- append: **Hyperliquid** ← Hyperliquid Turns Deflationary as Daily HYPE Buybacks Outpace Rewards - Live Bitcoin News
+- append: **Hyperliquid** ← Hyperliquid (HYPE) Price: Bitwise ETF Filing Moves Closer to Launch as Arthur Hayes Buys Again - mexc.co
+- append: **Arthur Hayes** ← Hyperliquid (HYPE) Price: Bitwise ETF Filing Moves Closer to Launch as Arthur Hayes Buys Again - mexc.co
+- append: **Crypto Regulation** ← Zondacrypto under fire as Poland's prime minister links exchange to legislative interference
+- append: **Zonda** ← Zondacrypto under fire as Poland's prime minister links exchange to legislative interference
+- append: **Ripple** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
+- append: **Solana** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
+- append: **Cross-chain Bridge** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
+- append: **Government AI Policy** ← Ethereum co-founder Joseph Lubin warns of the dangers of AI being controlled by a few big tech firms
+- append: **Mainstream Adoption** ← Former UK Prime Minister sees economy on 'very negative trajectory,' indicates support for bitcoin
+- append: **Geopolitical Security Threats** ← Bitcoin falls back to $76,000 as Iran shuts Hormuz again
+- append: **Traditional Finance Integration** ← Stripe doubles down on blockchain and stablecoins, aiming to become 'AWS for money'
+- append: **Crypto Regulation** ← Poland parliament fails again to override presidential veto on crypto bill
+- append: **Stablecoin** ← Stablecoins behave like FX markets as liquidity splits: Eco CEO
+- append: **Bitcoin** ← What Is Q-Day? The Quantum Threat to Bitcoin Explained
+- append: **OpenAI** ← "Liberation Day" at OpenAI as multiple senior executives announce leaving
+- append: **Open Source Models** ← My Workflow for Understanding LLM Architectures
+- append: **Nvidia** ← 젠슨 황, 미국 기술 규제에 직격탄..."패배주의이자 광기"
+- append: **AI Regulation** ← 젠슨 황, 미국 기술 규제에 직격탄..."패배주의이자 광기"
+- append: **Anthropic** ← 세계로 번지는 '미소스' 경계령...영국·인도, 모델 조기 접근 권한 요구
+- append: **Claude Miso** ← 세계로 번지는 '미소스' 경계령...영국·인도, 모델 조기 접근 권한 요구
+- append: **OpenAI** ← 오픈AI, 과학팀 담당 부사장 등 임원 3명 사임
+- append: **BitMine (BMNR)** ← Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR) - Seeking Alpha
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Tota... - Binance
+- append: **Ethereum** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Tota... - Binance
 - append: **DeepSeek** ← 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
 - append: **Tesla** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
 - append: **AI Semiconductors** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
@@ -76,30 +103,3 @@
 - append: **Financial System Monitoring** ← MacParity, January 2026
 - append: **Financial System Monitoring** ← Auto Prices – Adjusting for Quality and Mix
 - append: **Quantum Threat** ← When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next
-- append: **Bitcoin** ← When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next
-- append: **Mainstream Adoption** ← Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF
-- append: **Bitcoin** ← Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF
-- append: **Hyperliquid** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
-- append: **Hyperliquid** ← BlockDAG, HYPE, LINK & POL Positioned to Make Noise in 2026: Which Could Be the Next Crypto to Explode? - Analytics Insight
-- append: **HYPE Price** ← Hyperliquid’s HYPE token surges past $50 amid stablecoin proposal competition - Yahoo Finance
-- append: **Stablecoin** ← Hyperliquid’s HYPE token surges past $50 amid stablecoin proposal competition - Yahoo Finance
-- append: **Arthur Hayes** ← Hyperliquid (HYPE) Rallies to $37 as Arthur Hayes Predicts Major Upside to $150 - CryptoRank
-- append: **HYPE Price** ← Hyperliquid (HYPE) Rallies to $37 as Arthur Hayes Predicts Major Upside to $150 - CryptoRank
-- append: **Bitcoin** ← How a quantum computer can be used to actually steal your bitcoin in '9 minutes'
-- append: **Quantum Threat** ← How a quantum computer can be used to actually steal your bitcoin in '9 minutes'
-- append: **World** ← Sam Altman’s World project launches major upgrade to fight deepfakes and bots
-- append: **Government AI Policy** ← Sam Altman’s World project launches major upgrade to fight deepfakes and bots
-- append: **World Liberty Financial** ← Worldcoin tanks 13% as World’s iris-scanning tech expands to Zoom, Docusign
-- append: **Mainstream Adoption** ← Worldcoin tanks 13% as World’s iris-scanning tech expands to Zoom, Docusign
-- append: **Crypto Regulation** ← Russia introduces bill to criminalize unregistered crypto services
-- append: **Government Digital Asset Policy** ← Russia introduces bill to criminalize unregistered crypto services
-- append: **Prediction Markets** ← Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%
-- append: **Binance** ← US Senator asks for Binance monitor update amid scrutiny of Iran sanctions
-- append: **Ethereum** ← Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?
-- append: **ETH Price** ← Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?
-- append: **Bitcoin** ← Crypto market liquidations hit $820M as Bitcoin price taps $78K
-- append: **BTC Price** ← Crypto market liquidations hit $820M as Bitcoin price taps $78K
-- append: **Kraken** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
-- append: **Payward** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
-- append: **Bitnomial** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
-- append: **BTC Price** ← Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK

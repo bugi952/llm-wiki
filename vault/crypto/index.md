@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-18 12:08
+최종 갱신: 2026-04-18 18:09
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -45,6 +45,7 @@
 - [[entities/Sky|Sky]]
 - [[entities/Solana|Solana]]
 - [[entities/Strategy (MSTR)|Strategy (MSTR)]]
+- [[entities/Stripe|Stripe]]
 - [[entities/Tempo|Tempo]]
 - [[entities/Tether|Tether]]
 - [[entities/World|World]]
@@ -73,6 +74,7 @@
 - [[concepts/Mainstream Adoption|Mainstream Adoption]]
 - [[concepts/Market Transparency|Market Transparency]]
 - [[concepts/Mining Supply Pressure|Mining Supply Pressure]]
+- [[concepts/Political Interference in Crypto Regulation|Political Interference in Crypto Regulation]]
 - [[concepts/Prediction Markets|Prediction Markets]]
 - [[concepts/Quantum Computing|Quantum Computing]]
 - [[concepts/Quantum Security|Quantum Security]]
