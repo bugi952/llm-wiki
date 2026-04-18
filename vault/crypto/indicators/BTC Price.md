@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 # BTC Price
@@ -14,6 +14,9 @@ last_updated: 2026-04-17
 
 
 ## 이력
+- **2026-04-18**: 이란 호르무즈 해협 개방 선언 및 ETF 유입으로 비트코인이 $78,000에 터치 [(원문)](https://thedefiant.io/news/markets/bitcoin-touches-usd78-000-as-iran-declares-strait-of-hormuz-completely-open)
+- **2026-04-17**: 이란 호르무즈 해협 안정화 후 $78K 돌파. 예측 시장은 $84K 목표 (2026-04-17) [(원문)](https://cointelegraph.com/news/price-predictions-4-17-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-18**: $78K 수준 도달 [(원문)](https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 펀딩 레이트 음수 유지로 약한 현물 수요 신호 ($75K 이상에서도) [(원문)](https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 숏 스퀴즈로 청산액 $283M, $73K-$75K 범위 통합 [(원문)](https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 비트코인 10주 신고점 경신 ($77K), 단기 목표가 $88K, S&P 500 신고점과 동행 [(원문)](https://cointelegraph.com/news/bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

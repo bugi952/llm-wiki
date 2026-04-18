@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: BTC $78K 도달, 시장 청산 $820M 발생 (24시간) [(원문)](https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-18**: 양자 컴퓨터로 약 9분 내에 비트코인을 도용할 수 있다는 기술 시나리오 [(원문)](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+- **2026-04-18**: 미국 정치권의 비트코인 공개 투자 사례 증가, 주류화 가속 [(원문)](https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin)
+- **2026-04-18**: 양자 컴퓨터 시대 비트코인의 법적 보호 체계 논의 시작 [(원문)](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)
+- **2026-04-17**: BitMine이 BTC 3% 보유 (채굴→자산 보유 전환) [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uQ0pXLVpJa1NaYU5TU3ZLbGgyR3llXzNTWnZFX2NlckpSbTlKNzBLY1lRUEV3QkRMS1p2dDd6UzFkRWpuVDl5bFhSRENGdEV3bnhOWGRwMjN3ZzBwOHg4SmthMm1ab2pVemJaVU5kOUNSM05DWXEyWDNB?oc=5)
 - **2026-04-17**: 이란 호르무즈 해협 개방 뉴스로 BTC $77K 상회 (휴전 중) [(원문)](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)
 - **2026-04-17**: 이란 호르무즈 해협 재개 선언 후 BTC $76k 돌파, 지정학 리스크 감소 영향 [(원문)](https://cointelegraph.com/news/bitcoin-rallies-76k-iran-strait-of-hormuz-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: 미국 정부, 2016년 Bitfinex 해킹 관련 비트코인 606,000달러를 코인베이스로 이동 (정부 자산 관리) [(원문)](https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase)
@@ -42,5 +47,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Geopolitical Security Threats]]
+[[Quantum Threat]] | [[Quantum Computing]] | [[Quantum-Resistant Cryptography]]
 

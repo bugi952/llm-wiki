@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-01**: Cognitive Surrender 현상: AI 의존도 증가에 따른 인간 인지능력 약화 리스크, 새로운 AI 안전 고려사항 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209393)
+- **2026-04-18**: Character.AI 챗봇으로 인한 미성년자 자해 사망 사례 (2024년) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
 - **2026-02-13**: LLM memorization으로 인한 PII 유출 위험, token-gated 메커니즘으로 방어 [(원문)](https://arxiv.org/abs/2602.13529)
 - **2026-02-01**: 모니터 회피 공격으로 안전성이 99%에서 59%로 저하 (감시율 0.5%) [(원문)](https://arxiv.org/abs/2602.04930)
 - **2026-01-01**: LLM은 수십만 개 후보 문서에서 저자 식별 가능 (DAS, 다단계 재쿼리) [(원문)](https://arxiv.org/abs/2601.12407)
@@ -87,7 +89,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Private Inference]] | [[LLM Safety Alignment]]
+[[AI Fairness & Economics]] | [[System-2 Learning]]
 
 
 ## 모순/논쟁

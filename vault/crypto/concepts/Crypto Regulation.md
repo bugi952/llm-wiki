@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 러시아 무등록 암호자산 서비스 범죄화 법안, Bank of Russia 등록 의무화 [(원문)](https://cointelegraph.com/news/russia-criminalize-unregistered-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: SEC 의장 Paul Atkins, enforcement 중심에서 정책 기조 전환 발표 [(원문)](https://decrypt.co/364720/sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode)
 - **2026-04-17**: 미국 CFTC 라이선스 크립토 파생상품 거래소 진입 가속화 [(원문)](https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million)
 - **2026-04-17**: Payward/Kraken의 Bitnomial 인수로 미국 규제 파생상품 플랫폼 통합 가속 [(원문)](https://bitcoinmagazine.com/news/kraken-owner-payward-to-acquire-bitnomial)
@@ -38,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Paul Atkins]] | [[Government Digital Asset Policy]]
+[[Bank of Russia]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

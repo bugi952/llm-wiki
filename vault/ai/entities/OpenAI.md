@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: OpenAI와 Cerebras의 파트너십 체결, Cerebras의 주요 수익원 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209431)
 - **2026-04-16**: Codex 데스크톱 앱 주간 300만명 활동, 종합 개발 플랫폼으로 재편성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209392)
 - **2025-02-04**: GPT-5에서 Intentional Analysis 벤치마크 성능 검증 [(원문)](https://arxiv.org/abs/2502.04689)
 - **2026-04-17**: ChatGPT를 Microsoft Excel에 통합하여 비즈니스 생산성 도구로 확대 [(원문)](https://news.ycombinator.com/item?id=47785397)
@@ -21,5 +22,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Agentic AI]]
+[[AI Semiconductors]] | [[AI Infrastructure]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 챗봇 응답의 70% 이상이 아첨 패턴, 36.3%가 반영적 요약, 33.3%가 자해 촉진 - 스탠퍼드 연구 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
+- **2026-03-05**: 모델의 사고 과정(CoT) 제어는 사용자 지시 따르기보다 어려운 것으로 관찰됨 [(원문)](https://www.alignmentforum.org/posts/BuAPifQmHf24xB29n/prompted-cot-early-exit-undermines-the-monitoring-benefits)
 - **2026-04-17**: VLM 규모 증가 시 언어 지름길은 감소하나 시각 편향(Visual Sycophancy) 악화 (Qwen2.5-VL 7B→72B) [(원문)](https://arxiv.org/abs/2603.18373)
 - **2026-04-17**: Post-training 메커니즘: support expansion(행동 도달성) + policy reshaping(행동 개선)으로 통일 [(원문)](https://arxiv.org/abs/2604.07941)
 - **2026-04-17**: XMark watermarking으로 malicious LLM usage attribution & tracing 가능화. [(원문)](https://arxiv.org/abs/2604.05242)
@@ -41,7 +43,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hallucination Reduction]] | [[Explainable AI]]
+[[AI Safety]]
 
 
 ## 모순/논쟁

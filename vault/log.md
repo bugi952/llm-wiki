@@ -1,6 +1,99 @@
 # 변경 이력
-최종 갱신: 2026-04-17 20:28
+최종 갱신: 2026-04-18 06:18
 
+## [2026-04-18]
+
+- append: **World Liberty Financial** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
+- append: **Mainstream Adoption** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
+- append: **Claude Models** ← Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say
+- append: **AI Legal Risk** ← Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say
+- append: **Strategy (MSTR)** ← Strategy Shares Pop as Bitcoin Holdings Flip Green, Near $61 Billion
+- append: **Government Digital Asset Policy** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
+- append: **Exchange Security Incidents** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
+- append: **Bitfinex** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
+- append: **Cross-chain Bridge** ← Wrapped XRP Now Available Across Major Solana Apps: Solana
+- append: **Mainstream Adoption** ← X Generates $1 Billion in Trading Volume Days After Launching Cashtags Feature: X
+- append: **X** ← X Generates $1 Billion in Trading Volume Days After Launching Cashtags Feature: X
+- append: **BTC Price** ← Bitcoin Touches $78,000 As Iran Declares Strait of Hormuz 'Completely Open'
+- append: **Figure** ← Figure Clashes With Short Seller Over Blockchain Lending Claims
+- append: **Traditional Finance Integration** ← Figure Clashes With Short Seller Over Blockchain Lending Claims
+- append: **Solana** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
+- append: **Stablecoin** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
+- append: **Traditional Finance Integration** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
+- append: **Anthropic** ← Measuring Claude 4.7's tokenizer costs
+- append: **Agentic AI** ← Are the costs of AI agents also rising exponentially? (2025)
+- append: **Anthropic** ← Introducing Claude Design by Anthropic Labs
+- append: **Apple** ← International Conference on Learning Representations (ICLR) 2026
+- append: **Logical Reasoning in LLMs** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
+- append: **LLM Safety Alignment** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
+- append: **Mechanistic Interpretability** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
+- append: **Nvidia** ← '바이브 코딩' 커서, 73조 기업 가치 평가로 AI 스타트업 최상위권 도약
+- append: **Cerebras** ← 세레브라스, 나스닥 상장 재추진…오픈AI 파트너십이 발판
+- append: **OpenAI** ← 세레브라스, 나스닥 상장 재추진…오픈AI 파트너십이 발판
+- append: **Anthropic** ← 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
+- append: **Vision-Language Models** ← 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
+- append: **AI Safety** ← [기고] 3시간마다 'AI 입니다' 알림으로 청소년 죽음 막을 수 있나
+- append: **LLM Safety Alignment** ← [기고] 3시간마다 'AI 입니다' 알림으로 청소년 죽음 막을 수 있나
+- append: **Meta AI** ← 메타, 5월20일 직원 10% 감축...후반기 추가 감원 예정
+- append: **AI Workforce Impact** ← 메타, 5월20일 직원 10% 감축...후반기 추가 감원 예정
+- append: **Anthropic** ← 아모데이, '미소스' 논의 위해 백악관 회담...정부와 갈등 완화 국면
+- append: **AI Regulation** ← 아모데이, '미소스' 논의 위해 백악관 회담...정부와 갈등 완화 국면
+- append: **Cognitive Surrender** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
+- append: **AI Safety** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
+- append: **System-2 Learning** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
+- append: **Renewable Energy Policy** ← 매트릭스, 텍사스 '스틸하우스 솔라' 상업운전...현대차에 전력 판매
+- append: **Community Solar** ← 미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑
+- append: **Energy Market Policy** ← 미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Reports US$5.2b Quarterly Loss Testing Bullish Growth Narratives - Sahm
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion – Company Announcement - FT.com - Financial Times
+- append: **Ethereum** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion – Company Announcement - FT.com - Financial Times
+- append: **BitMine (BMNR)** ← Bitmine Appoints Chief Financial Officer and Chief Operating Officer - PR Newswire
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Is Down 24.4% After Return to Profitability and Leadership Overhaul - Yahoo Finance
+- append: **BitMine (BMNR)** ← Cantor Fitzgerald Analyst Initiates Coverage on Bitmine Immersion Technologies, Inc. (BMNR) - Yahoo Finance
+- append: **BitMine (BMNR)** ← Bitmine (BMNR) Soars 10% Ahead of Ex-Dividend Date - Yahoo Finance
+- append: **BitMine (BMNR)** ← Bitmine (BMNR) Climbs 19.6% as Firm Hits Ownership of 3% Supply - Yahoo Finance
+- append: **Bitcoin** ← Bitmine (BMNR) Climbs 19.6% as Firm Hits Ownership of 3% Supply - Yahoo Finance
+- append: **BitMine (BMNR)** ← Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil - Yahoo Finance
+- append: **BitMine (BMNR)** ← Massive $9.6B crypto stash positions Bitmine (NYSE: BMNR) as top ETH treasury - Stock Titan
+- append: **Strategy (MSTR)** ← Strategy Climbs 6% as Bitcoin Surges: 762,000 Coins and a Mountain of Debt Keep Investors Divided - 24/7 Wall St.
+- append: **Strategy (MSTR)** ← Bitcoin News: Strategy's $1 Billion Bitcoin Buy Pushes Saylor Back Into Profit as BTC Hits $75,000 - 24/7 Wall St.
+- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - MSN
+- append: **PBOC** ← China expected to keep benchmark lending rates steady after strong GDP data - MSN
+- append: **Financial System Monitoring** ← MacParity, January 2026
+- append: **Financial System Monitoring** ← Auto Prices – Adjusting for Quality and Mix
+- append: **Quantum Threat** ← When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next
+- append: **Bitcoin** ← When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next
+- append: **Mainstream Adoption** ← Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF
+- append: **Bitcoin** ← Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF
+- append: **Hyperliquid** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
+- append: **Hyperliquid** ← BlockDAG, HYPE, LINK & POL Positioned to Make Noise in 2026: Which Could Be the Next Crypto to Explode? - Analytics Insight
+- append: **HYPE Price** ← Hyperliquid’s HYPE token surges past $50 amid stablecoin proposal competition - Yahoo Finance
+- append: **Stablecoin** ← Hyperliquid’s HYPE token surges past $50 amid stablecoin proposal competition - Yahoo Finance
+- append: **Arthur Hayes** ← Hyperliquid (HYPE) Rallies to $37 as Arthur Hayes Predicts Major Upside to $150 - CryptoRank
+- append: **HYPE Price** ← Hyperliquid (HYPE) Rallies to $37 as Arthur Hayes Predicts Major Upside to $150 - CryptoRank
+- append: **Bitcoin** ← How a quantum computer can be used to actually steal your bitcoin in '9 minutes'
+- append: **Quantum Threat** ← How a quantum computer can be used to actually steal your bitcoin in '9 minutes'
+- append: **World** ← Sam Altman’s World project launches major upgrade to fight deepfakes and bots
+- append: **Government AI Policy** ← Sam Altman’s World project launches major upgrade to fight deepfakes and bots
+- append: **World Liberty Financial** ← Worldcoin tanks 13% as World’s iris-scanning tech expands to Zoom, Docusign
+- append: **Mainstream Adoption** ← Worldcoin tanks 13% as World’s iris-scanning tech expands to Zoom, Docusign
+- append: **Crypto Regulation** ← Russia introduces bill to criminalize unregistered crypto services
+- append: **Government Digital Asset Policy** ← Russia introduces bill to criminalize unregistered crypto services
+- append: **Prediction Markets** ← Polymarket odds of Hormuz Strait traffic normalizing by end of May spike to 73%
+- append: **Binance** ← US Senator asks for Binance monitor update amid scrutiny of Iran sanctions
+- append: **Ethereum** ← Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?
+- append: **ETH Price** ← Ether accumulation wallet balances increased by 33%: Is a rally to $3K next?
+- append: **Bitcoin** ← Crypto market liquidations hit $820M as Bitcoin price taps $78K
+- append: **BTC Price** ← Crypto market liquidations hit $820M as Bitcoin price taps $78K
+- append: **Kraken** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
+- append: **Payward** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
+- append: **Bitnomial** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
+- append: **BTC Price** ← Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK
+- append: **Stablecoin** ← Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement
+- append: **Euro Stablecoin** ← French finance minister backs euro-pegged stablecoins to compete with US
+- append: **Government Digital Asset Policy** ← French finance minister backs euro-pegged stablecoins to compete with US
+- append: **DeFi** ← You Can Now Use XRP on Solana—Here's How
+- append: **Cross-chain Bridge** ← You Can Now Use XRP on Solana—Here's How
 ## [2026-04-17]
 
 - append: **Multimodal AI** ← Counting Without Numbers and Finding Without Words
@@ -12,94 +105,3 @@
 - append: **Google DeepMind** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"
 - append: **Multimodal AI** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"
 - append: **AI Persona** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"
-- append: **Google DeepMind** ← 구글, 크롬에서 탭 전환 없이 웹 탐색하는 'AI 모드' 기능 확대
-- append: **AI Deployment** ← 구글, 크롬에서 탭 전환 없이 웹 탐색하는 'AI 모드' 기능 확대
-- append: **Open Source Models** ← 알리바바, '에이전틱 코딩' 강화한 고효율 오픈소스 '큐원3.6-35B-A3B' 출시
-- append: **Model Efficiency** ← 알리바바, '에이전틱 코딩' 강화한 고효율 오픈소스 '큐원3.6-35B-A3B' 출시
-- append: **Agentic AI** ← 오픈AI, '코덱스' 데스크톱 앱 대폭 업데이트..."맥 환경에서 컴퓨터 조작"
-- append: **OpenAI** ← 오픈AI, '코덱스' 데스크톱 앱 대폭 업데이트..."맥 환경에서 컴퓨터 조작"
-- append: **Google DeepMind** ← 허사비스 CEO, 29일 행사 참석 위해 방한…바둑 친선 대국도 예정
-- append: **Anthropic** ← 백악관, 미국 정부 기관에 앤트로픽 '미소스' 테스트 허용 예정
-- append: **Claude Miso** ← 백악관, 미국 정부 기관에 앤트로픽 '미소스' 테스트 허용 예정
-- append: **AI Regulation** ← 백악관, 미국 정부 기관에 앤트로픽 '미소스' 테스트 허용 예정
-- append: **Google DeepMind** ← 구글, 미 국방부 기밀 분야에 '제미나이' 도입 논의
-- append: **AI Regulation** ← 구글, 미 국방부 기밀 분야에 '제미나이' 도입 논의
-- append: **AI Deployment** ← 구글, 미 국방부 기밀 분야에 '제미나이' 도입 논의
-- append: **AI Infrastructure** ← 우주청, 우주 데이터센터 구축 논의..."누리호에 AI 핵심기술 탑재·실증"
-- append: **Google** ← [4월16일] 구글이 AI 활용에 뒤처졌다는 비판...다시 부각된 '20-60-20'의 법칙
-- append: **AI Deployment** ← [4월16일] 구글이 AI 활용에 뒤처졌다는 비판...다시 부각된 '20-60-20'의 법칙
-- append: **BitMine (BMNR)** ← Bitmine Immersion (BMNR) Sees 10.5% Increase in Stock Price - GuruFocus
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (NYSE: BMNR) Announces Uplisting to New York Stock Exchange and Expansion of Share Repurchase Program to $4 Billion - Nasdaq
-- append: **Strategy (MSTR)** ← Reassessing MicroStrategy (MSTR) Valuation After A 15.8% Weekly Share Price Move - simplywall.st
-- append: **Iris Energy (IREN)** ← Option traders moderately bearish in Iris Energy with shares down 0.78% - TipRanks
-- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - MSN
-- append: **CNY-USD** ← PBOC sets USD/CNY reference rate at 6.8622 vs. 6.8616 previous - FXStreet
-- append: **CNY-USD** ← PBOC USD/CNY Reference Rate Adjustment: Decoding the Strategic 6.8622 Fixing - Binance
-- append: **PBOC** ← PBOC Conducts RMB500M Reverse Repo, Nets RMB1.5B Withdrawal - AASTOCKS.com
-- append: **CNY-USD** ← Chinese Yuan CNY: Resilient Data Fuels Cautious Currency Optimism – Danske Bank Perspective - Binance
-- append: **CNY-USD** ← CNY Appreciation: China’s Strategic Currency Control Reveals Crucial Policy Path for 2025 - Binance
-- append: **CNY-USD** ← PBOC sets USD/CNY reference rate at 6.8622 vs. 6.8616 previous - Bitget
-- append: **China Interest Rates** ← PBOC-Supervised Media: Loan Rates Remain at Low Levels; M2-M1 Gap Near Three-Year Low - AASTOCKS.com
-- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - KLSE Screener
-- append: **Crypto Regulation** ← U.S Senator Probes Status of Binance Inquiry Over Iran Compliance Concerns
-- append: **Kraken** ← Kraken Owner Payward to Acquire Bitnomial for $550M, Securing Full CFTC-Licensed U.S. Crypto Derivatives Stack
-- append: **Crypto Regulation** ← Kraken Owner Payward to Acquire Bitnomial for $550M, Securing Full CFTC-Licensed U.S. Crypto Derivatives Stack
-- append: **Strategy (MSTR)** ← Strategy (MSTR) Jumps Over 12% as Bitcoin Pumps Past $77,000 Dollars Amid Tentative Iran De‑escalation
-- append: **BTC Price** ← Strategy (MSTR) Jumps Over 12% as Bitcoin Pumps Past $77,000 Dollars Amid Tentative Iran De‑escalation
-- append: **BTC Price** ← Bitcoin Price Charges Past $77,000 as Iran Says Strait of Hormuz Fully Open
-- append: **Geopolitical Security Threats** ← Bitcoin Price Charges Past $77,000 as Iran Says Strait of Hormuz Fully Open
-- append: **HYPE Price** ← Hyperliquid (HYPE) Price Enters a Crucial Phase—Can It Make It to $50 This Week? - Binance
-- append: **HYPE Price** ← HYPE hits 2026 high as Hyperliquid volumes soar: Is the rally sustainable? - MSN
-- append: **DeFi** ← 10 Best DeFi Crypto Projects in 2026 - Analytics Insight
-- append: **Hyperliquid** ← HYPE price forecast as Hyperliquid launches S&P 500 perpetual - TradingView — Track All Markets
-- append: **Traditional Finance Integration** ← HYPE price forecast as Hyperliquid launches S&P 500 perpetual - TradingView — Track All Markets
-- append: **Hyperliquid** ← Hyperliquid – $12B in inflows, HYPE up 25% this year, and what’s next for 2026 - AMBCrypto
-- append: **HYPE Price** ← Hyperliquid – $12B in inflows, HYPE up 25% this year, and what’s next for 2026 - AMBCrypto
-- append: **Hyperliquid** ← Hyperliquid oil volume booming thanks to war in Middle East: JPMorgan - CoinDesk
-- append: **JPMorgan** ← Hyperliquid oil volume booming thanks to war in Middle East: JPMorgan - CoinDesk
-- append: **Geopolitical Security Threats** ← Hyperliquid oil volume booming thanks to war in Middle East: JPMorgan - CoinDesk
-- append: **Strategy (MSTR)** ← Back in the black: Strategy surges 8% as bitcoin's rise to $77,000 puts holdings in profit
-- append: **Bitcoin** ← Bitcoin rises past $76,000, aiming at major breakout as oil plunges on Iran cooldown
-- append: **Government Digital Asset Policy** ← France's finance minister calls for more euro stablecoins in sign of government policy shift
-- append: **Kraken** ← Kraken's parent company Payward to acquire derivatives exchange Bitnomial for $550 million in cash and stock
-- append: **BTC Price** ← Bitcoin’s ceasefire boost is starting to fizzle out as investors look for real-world results
-- append: **BTC Price** ← Bitcoin stalls below $76,000 as sell wall caps rally despite rising derivatives activity
-- append: **BTC Price** ← Bitcoin reset may be complete as onchain data points to cycle low
-- append: **Exchange Security Incidents** ← Russia-linked Grinex exchange halts operations after $13 million ‘state-backed’ hack
-- append: **ETH Price** ← Ethereum just had its busiest quarter ever, capping a three-year comeback
-- append: **Bitcoin** ← The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase
-- append: **BTC Price** ← Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood
-- append: **BTC Price** ← Bitcoin price quietly sets new 10-week high as trader sees $88K in weeks
-- append: **Exchange Security Incidents** ← Crypto execs ramp up security as wrench attacks increase
-- append: **Bitcoin** ← Bitcoin rises, oil falls after Iran says Strait of Hormuz is open
-- append: **Geopolitical Security Threats** ← Bitcoin rises, oil falls after Iran says Strait of Hormuz is open
-- append: **Mainstream Adoption** ← Ramp Network rolls out multichain wallet for simpler self-custody
-- append: **Tokenized Assets** ← Flow Capital plans to tokenize $150M private credit fund via DigiFT: Report
-- append: **Tempo** ← Tempo’s ‘Zones’ sparks debate over privacy in crypto infrastructure
-- append: **Ethereum** ← Ethereum NFT platform Foundation shuts down after failed Blackdove sale
-- append: **Tokenization** ← Tokenization doesn’t ‘magically’ fix illiquid assets: PBW 2026
-- append: **Market Transparency** ← Crypto in sustained winter as CEX volumes drop 39% in Q1: CoinGecko
-- append: **Geopolitical Security Threats** ← Cybersecurity researcher uncovers fake Ledger sold on Chinese marketplace
-- append: **Ethereum** ← Ethereum Foundation-funded program exposes 100 DPRK workers in crypto
-- append: **Geopolitical Security Threats** ← Ethereum Foundation-funded program exposes 100 DPRK workers in crypto
-- append: **Drift Protocol** ← At least a dozen crypto entities attacked since Drift Protocol hack
-- append: **Exchange Security Incidents** ← Russia-linked crypto exchange Grinex halts trading after $14M hack
-- append: **Circle** ← Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack
-- append: **Drift Protocol** ← Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack
-- append: **BTC Price** ← Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K
-- append: **BTC Price** ← Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?
-- append: **Dogecoin** ← Dogecoin Gold? A DOGE-Themed Company Is Joining the Tokenized Gold Rush
-- append: **Tokenized Assets** ← Dogecoin Gold? A DOGE-Themed Company Is Joining the Tokenized Gold Rush
-- append: **DeFi** ← AI Agents Already Run a Fifth of DeFi, But Still Lose to Humans at Trading
-- append: **Bitcoin** ← Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'
-- append: **Geopolitical Security Threats** ← Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'
-- append: **Kraken** ← Kraken Parent Payward Agrees to Acquire Derivatives Exchange Bitnomial for $550 Million
-- append: **Crypto Regulation** ← Kraken Parent Payward Agrees to Acquire Derivatives Exchange Bitnomial for $550 Million
-- append: **Crypto Regulation** ← SEC Officials Push US Crypto Ambitions in Debut Podcast Episode
-- append: **Government Digital Asset Policy** ← SEC Officials Push US Crypto Ambitions in Debut Podcast Episode
-- append: **Charles Schwab** ← Morning Minute: $11T+ Schwab Goes All In on Crypto
-- append: **Mainstream Adoption** ← Morning Minute: $11T+ Schwab Goes All In on Crypto
-- append: **Circle** ← Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack
-- append: **Drift Protocol** ← Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack
-- append: **Exchange Security Incidents** ← Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack
-- append: **Kraken** ← Kraken's Parent Firm to Acquire US Derivatives Exchange Bitnomial

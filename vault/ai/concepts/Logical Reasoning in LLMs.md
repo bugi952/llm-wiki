@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-03-05**: CoT 조기 종료가 추론 과정 모니터링의 이점을 훼손할 수 있다(arXiv 2603.05706) [(원문)](https://www.alignmentforum.org/posts/BuAPifQmHf24xB29n/prompted-cot-early-exit-undermines-the-monitoring-benefits)
 - **2025-12**: LLM 회로 문제 풀이 벤치마크: textual + visual 입력의 mathematical reasoning 정확도 측정 [(원문)](https://arxiv.org/abs/2512.10159)
 - **2026-04-17**: 부분 추론 트레이스로부터 답 동치성 예측하는 판정 모델 구성, 다중 추론 경로 최적화 [(원문)](https://arxiv.org/abs/2510.08483)
 - **2026-04-17**: 불연속 해 공간 탐색: 추상 아이디어가 아닌 측정 가능한 성능 공간에서 창의적 사고 [(원문)](https://arxiv.org/abs/2510.03851)
@@ -30,7 +31,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Multimodal AI]]
+[[LLM Safety Alignment]] | [[Mechanistic Interpretability]] | [[Formal Reasoning]]
 
 
 ## 모순/논쟁

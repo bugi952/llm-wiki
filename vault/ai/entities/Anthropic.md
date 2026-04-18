@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: Claude 4.7 토크나이저 비용 구조 실측 분석 [(원문)](https://news.ycombinator.com/item?id=47807006)
+- **2026-04-17**: Dario Amodei CEO, 백악관 방문 (Susie Wiles 비서실장, Scott Bessent 재무부 장관 참석). Mythos 안전성 및 사이버 보안 협력 논의 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209427)
+- **2026-04-17**: Claude Design 출시 - Claude Opus 4.7 기반의 대화형 AI 디자인 도구 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209428)
+- **2026-04-17**: Claude Design(디자인 도구) 출시 [(원문)](https://www.anthropic.com/news/claude-design-anthropic-labs)
 - **2026-04-17**: 공개 모델을 활용해 Mythos 활성화 조정 연구 결과 재현 가능함을 입증 [(원문)](https://news.ycombinator.com/item?id=47806116)
 - **2026-04-17**: 미국 정부가 Claude Miso를 연방 기관 테스트에 승인 (Trump 행정부의 금지 철회, 사이버 보안 강화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209386)
 - **2025-02-04**: Claude-Opus-4.6에서 Intentional Analysis 적용 시 다중 작업 성능 지속 개선 [(원문)](https://arxiv.org/abs/2502.04689)
@@ -32,5 +36,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Safety]] | [[Activation Steering]]
+[[Model Efficiency]] | [[AI Infrastructure]]
 

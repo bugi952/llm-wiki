@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: BitMine이 $9.6B 암호화폐 자산 중 최대 ETH 보유 기관으로 확인 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXd1UEV6enNrWmpJQzloa2pYMXJDVnRhd2VlSHFOLU1RakxiS3FBLVdkYmNrLWtJMUtWMFZteUY2RGJDSlNLbXF3QUI2WjF6N3BhRGsxcy13T2FTQUVyR0xqQWh0SU80ZkpSSXJjOGlKSWZFYUxEdWJDT2w0OWxKa1NyUENEak1XQXp6U2RxNmk2WndwdENqc09hY21BR0tITWlpaDk3N0NOMHJRVE1kVVJxTzlyQnNVSllBbUhjeWM?oc=5)
+- **2026-04-17**: Tom Lee's BitMine이 Ethereum에 $108M 추가 투자 [(원문)](https://news.google.com/rss/articles/CBMie0FVX3lxTE8tTTFCZUQzU3I3aTh0RHEybVFHS0hfMkdVLWszeTRuMmJKcjhYZTFoUUpNYWYzVExGYnBqRVJLa1A1dndFdF83VGdWTEwtcnIxLUNKWU1TQkZSYlN3emh5WlJOcHFaOGt0ZnJ3akRWVUU3ZzhWN0hRWDFXVQ?oc=5)
+- **2026-04-17**: 전체 비트코인 공급량의 3% 보유 달성 [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uQ0pXLVpJa1NaYU5TU3ZLbGgyR3llXzNTWnZFX2NlckpSbTlKNzBLY1lRUEV3QkRMS1p2dDd6UzFkRWpuVDl5bFhSRENGdEV3bnhOWGRwMjN3ZzBwOHg4SmthMm1ab2pVemJaVU5kOUNSM05DWXEyWDNB?oc=5)
+- **2026-04-17**: 배당금 정책 실행 및 배당 기준일 공고 [(원문)](https://news.google.com/rss/articles/CBMifkFVX3lxTE8zc2JwWktUQ0VMSjU4YUpaZjg4VVZqdm0zemlnZDhFeFpvNnRkWVJyekIyczJRR1YzVVVEV1JvZGxMd1lLTWRWVUZFOTEzNzZUTHdlTVU3c0h1U0V0QUE3WE1sTTluUkI3ajIxVzloaVpTTUJhYzNuVl9acWZlQQ?oc=5)
+- **2026-04-17**: Cantor Fitzgerald 애널리스트 커버리지 개시 [(원문)](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTZKcEJuZnlIdTdybnJDYklsWmUzak56d3pySGxJZzVWT1NHc0tQc3JXSkxyRU5temIyT2RjWVQtYnJ0c0xDaC1JR2RKMTA1Y0lfZFdwNExuLTZyMzZNemZjTUt6RmxXY2wySEhpT0paeDZiUG1HLTJ3b3NyS2R5X2dGM1h1VzlON1lRZHQ1YnI4ZC1s?oc=5)
+- **2026-04-17**: 수익성 회복 달성 후 주가 24.4% 하락 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0g0YTZZazJlUjR6X3pxZHRBNmNPd2dZV0JlRlozeGRLOGJJMVl5dHBscHZIZlNsSWdJN1AtWU5HRXB3ZDR2cDBLRFRudThLZDg3bDVqMkdzaEZEVzBvZEEyd2FsZE83c3dReF9KN2lzQ25idVVuYjdnd21hOXZLbnNkU3p4ZWZkd1BiTmFKQQ?oc=5)
+- **2026-04-17**: Chief Financial Officer와 Chief Operating Officer 신규 임명 [(원문)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMXR4MG9KNE5IaTVUS2dyNXRhT1JhaWpMZF9rdjdTc0tkdlI5UlA4UF9wWjRHR2VQWFRIXzVXNU1LS2xuZTd3SjZoc0t3cUZjQWlQbnVoQ0paOHZhVHVVSXA5VHlrRTctM1hqWlBOeWFZUVlRY1RFNExrb05IY0hkWDVUQllmWlU5V09Ta3NBZmZSX2lWajJzNkpZdi00V1lSOHdBZEFIVmJyOGRweDRLdkJiN0M2NkdIUnVXZmEyeWd4dw?oc=5)
+- **2026-04-18**: ETH 보유량 4.875M, 총 암호자산+현금 $11.8B [(원문)](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmRMdjJnMTh4OWlOdjNKS0JRM2VLLUFXRk9hTm1LSG9YUU1mMDYtbFpYdVNWeXpKd1hTcklLdFBQVVItSXNaSWdSRHZvb0JXZFNndDhnVi1HVGlGZmpuVmZfZVgwZTNPTXV6WFU0Nl9KbS1GVTI0Y25WNWNUcHUxYURXcXY5V2g0VU4xS0NGV0lRMlN3bEhuYw?oc=5)
+- **2026-04-18**: 분기 손실 $5.2B 보고 [(원문)](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV3VLSlJwcUV1Z3FNQzBOdU52V0hqZUlLcXZLVjJ1cklFcGVrZkkxRGhBT1pDVGpBOGRkRFJ3V2pscUN5NTFNVmpPNEV6azVSNUxwX2NUclNfcG1mdWU3XzFzOEdjTldsS0hVYXpSQm9scnJpTWEyYkplQ0MtcUhUbUpwNkJRM3d0MmplMnY3T1FWd0dvdkJYaklRd0hyc0tpSmdTMW0xTmZYRE9jWTQ4VDBtbEI4dk44YlpBeUtGNHRBbmtYdGZicmxiSEV5WXlKN3FydmVXYWpxNG5vV290N3VXU0o?oc=5)
 - **2026-04-17**: NYSE 상장 발표 + $4B 주식 재매입 프로그램 확대 (Nasdaq) [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGJGeDR6TklaemM2RWdrVmFneEE4SF82VVowN0JsOEFTWmgwdUc5WmNqc1llUjNEb1liMjhJU1BtbXJ5QXBoVVktY01xTUFfYXhFV0VEcE9zSHhBUEtUdW56MEFYdVExV2ppcVVYcVlfRTZfZ2JLMnVhM0tuQ1NQUGtRT18wT3VuWDNmdjhOMC1CWWQyX2VabDNVVmhZZ2xYSVUtMVJDbzJObEdFWXIzblZ5cFkyeGotSWVucUNB?oc=5)
 - **2026-04-17**: 주가 10.5% 상승 (GuruFocus) [(원문)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2F5dk9TU19QRWU4YXJsUXlFOXJBdG03ekZYN3JzSUJsVGo2bjlpWk9EMlF1MlJtZ3VwbjRwNzVfQ1kxc1h6c19zOXRVUDZ3dHJZSjFzSDd4cFlmNGxFN094Q1hacWstZ1lWT05HU2RuVHlSckRUeTVuT3V6NmQ4TV9XaWxoV0xFY09qeEhFWkpsQ0lNV1p2eFpR?oc=5)
 - **2026-04-17**: 채굴 회사들 중 일부는 운영비 충당을 위해 BTC 청산, 일부는 미래 성장을 위해 BTC 보유 [(원문)](https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,5 +36,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Iris Energy (IREN)]]
+[[Ethereum]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
 

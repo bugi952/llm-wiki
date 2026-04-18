@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: White House, AI 기업과의 협력 기조 전환. 기술 확산 과정에서 안전성 및 국가 보안 중심의 대화 시작 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209427)
 - **2026-04-17**: Google의 Gemini가 국방부 기밀 영역 도입을 논의 중 (주요 기업의 국방 AI 진출 가속화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
 - **2026-04-17**: 미국 정부가 Anthropic Claude Miso의 연방 기관 테스트 승인 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209386)
 - **2026-02-01**: 모니터의 FPR 민감도가 TPR보다 높아, 거짓 긍정률 조율이 안전성에 핵심 [(원문)](https://arxiv.org/abs/2602.04930)
@@ -31,7 +32,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google DeepMind]] | [[AI Deployment]] | [[AI Safety]]
+[[Anthropic]]
 
 
 ## 모순/논쟁

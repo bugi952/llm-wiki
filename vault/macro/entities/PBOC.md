@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 경제 성장세 견조로 기준금리 정책기조 현상 유지 기대 (GDP 성장-금리 정책 연동) [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaF9TZDAyTUhMMXNnSmNLMTA3UDV6MHNaVER5MmZHZkY4aU1hdXYtTEJ3cVNobzY0NlZlRHhsU1BIVmxQLTBlUWhmRm5BMVEzdGRUYmJiUVhVWEVnYzBHempOM1ByYy1kVU5ONzRPMW14NmlkWWJYanM1Um53RjVnZWlSeFBQd1BMRGxmVUJ1a3FmZURuVDdBQUlTeTd5UEhBWXhHb19MY0tGZS1OQ1FGQ2RfMDIyYVZBN0lENGtHM1R1dHBO?oc=5)
 - **2026-04-17**: RMB500M 역레포 진행, RMB1.5B 순인출 [(원문)](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXFab1N4M0xva2FQY0dwYmFMUXY5WlJTUGVDT2l0b2Z6WFF5dDZqM0lwbTlXNW8yalhpR1p2eGdGa2RtZEpSQnE4VFIxZ1FGVHZzS1VWYWplWGVHZmw2NGd6b1c1SzlpeDB6V2dydndaNmRUTHUxV2F6VWVzLUlKMU05dXc?oc=5)
 - **2026-04-17**: 디지털 위안(e-CNY)에 저축 기능 추가 예정 (2026년부터) [(원문)](https://news.google.com/rss/articles/CBMifEFVX3lxTE9NNEk2YUFreFh3TF9wY0VMSXJ0NTQ0M00zbFJyTXplcUZnSFl1Ykl4em5vTXE0aG9paFZKRHAzNUpsLXExcmdmcHZvcEUyX1ZSMFZxUEk1WmIwdk1EaUIxT2x5bm1oOW42aE5WbFVnNVpWenk0dUNhMl9kbzA?oc=5)
 - **2026-04-17**: 2026년 온건하고 느슨한(moderately loose) 통화정책 유지 기조 재확인 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnoza0lLRkkxaDZVdjR1b2FuT0JGcm1ITlFKNUU0cjlvUEZjN3hidk9UcG5Fc3pLMkNVNFhGZlFRbng1cFRuRy1yeTdTdEluQnEyUTBPTlRpYzlSRkdVRVFoU0o4STFzUDVDSk0zRDJqbXpnN1F5Q0NIZDZPcXdkT2d4VGR1RkNGN1RfSkJIUG9ud1lpVEJFSnJ5d0dnaVhBQzZzVjY4dUxQLXpPa19JV1plaTNjeHVDRXc?oc=5)
@@ -26,5 +27,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Digital Yuan]] | [[Central Bank Digital Currency]]
+[[Monetary Policy Transmission]]
 

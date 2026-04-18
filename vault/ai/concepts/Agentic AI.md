@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 에이전트 운영 비용 지수 상승 추세 (2025-) [(원문)](https://news.ycombinator.com/item?id=47778922)
 - **2026-04-16**: OpenAI Codex Computer Use 기능 추가 (화면 인식, 마우스/키보드 조작 가능, macOS 지원) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209392)
 - **2026-04-17**: Ecom-RLVE: 이커머스 대화형 에이전트를 위한 적응형 검증 환경 프레임워크 [(원문)](https://huggingface.co/blog/ecom-rlve)
 - **2026-03-09**: MM-tau-p²: TTS/멀티모달 LLM 에이전트의 페르소나 적응과 이중제어 환경 robustness 평가 [(원문)](https://arxiv.org/abs/2603.09643)
@@ -148,7 +149,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OpenAI]]
+[[AI Infrastructure]]
 
 
 ## 모순/논쟁
