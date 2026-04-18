@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: STRC 배당을 11.50%로 인상 (Bitcoin 약세 상황 반영) [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczNaRHJuRU9XZ3J0ZlhmeEQ5dnlVS2pfazNIYmQxTGctbW5jY0lKRUdLanZId0FhT1k4MFJkQVBmZDdMejVLNThTRWVRcUpOMl9oOXQ1ZEtqSnczYy10b3NjRVUzUGhnLWFQcVQ4Qk5XWmFZd1BDMDRiOWJnNTZoUjdvajd5aDYtbE1j?oc=5)
 - **2026-04-18**: 비트코인 보유량이 약 $61B 수준에 도달하며 2월 초 이후 처음 종이 손실에서 전환 [(원문)](https://decrypt.co/364756/strategy-shares-pop-bitcoin-holdings-flip-green-near-61-billion)
 - **2026-04-17**: Strategy가 $1B 규모의 Bitcoin 추가 매입 완료, 보유량 대폭 증가 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWYxY3VkdDg4NjYxekpHYll2cEFtMnRvUm1SVHQ5Rk5VWTBYNmpzWGpxNGN6eE1zd3dCaFRyNGxiWHk5d3NHWWlFVElKZFpLdGNTZUpYaU1La1AwZ2hLQ3M2VlZ6WkFXd3ZlTFY3RVF1S2V6WXFWV3hsYmRoOGs4OTNaYktjU241WHViSFM0d054SkpwQTM5dmNfRWVYUjNyMmtjclU1cWZMa3VBdjNoUWxFd3hPak1FQk95UUxSQ2J1emNETkRPQlRhVXFXYXJsc3Rn?oc=5)
 - **2026-04-17**: Strategy가 762,000 BTC 보유 중으로 Bitcoin 시장의 주요 기관 투자자 역할 [(원문)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3VrV3VGWmV4VWxjYkY3SVNmRnFBcEdSUkVtVlczOFdLb3lkOHUzVmhpMHZlWVlxOFlrZGdZRmxhZVBFZnBXTDJkR3c1dE1KY3RBNHJMbjN5eUJtbXFoekMzeUo4UG1YU2NNS2s5TVRSa0FabjM3VFRyeS04UG9HRTBHWk9GRjNiaFZsbnVtUGlwMV9YQWthWTNoRTNmRk9EdUw0c054VV9WWmtvaWZiQzJSTkFRQ3RSMGctYjlJTThIaWlTc3FBal81djJmZzNVallIQw?oc=5)
@@ -24,5 +25,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Asset Allocation]] | [[Traditional Finance Integration]]
+[[Bitcoin]]
 

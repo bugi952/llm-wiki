@@ -6,7 +6,7 @@ cssclasses: [wide-page]
 
 > [!summary] 한눈에 보기
 > **10Y** 4.3
-> 최종 갱신: 2026-04-18 06:18 · 오늘 업데이트 55건
+> 최종 갱신: 2026-04-18 12:08 · 오늘 업데이트 60건
 
 ---
 
@@ -14,9 +14,9 @@ cssclasses: [wide-page]
 > - 🤖 **[[ai/entities/Anthropic|Anthropic]]** (2026-04-18) — Claude 4.7 토크나이저 비용 구조 실측 분석
 > - 🤖 **[[ai/entities/OpenAI|OpenAI]]** (2026-04-17) — OpenAI와 Cerebras의 파트너십 체결, Cerebras의 주요 수익원
 > - 🤖 **[[ai/entities/Google DeepMind|Google DeepMind]]** (2026-04-17) — 구글이 미국 국방부와 Gemini의 기밀 환경 활용 방안을 협상 중 (정책 기조 변화)
-> - 💰 **[[crypto/entities/Bitcoin|Bitcoin]]** (2026-04-18) — BTC $78K 도달, 시장 청산 $820M 발생 (24시간)
+> - 💰 **[[crypto/entities/Bitcoin|Bitcoin]]** (2026-04-18) — Spot Bitcoin ETF 주간 $1B 유입 (3개월 최고)
 > - 💰 **[[crypto/entities/Ethereum|Ethereum]]** (2026-04-18) — 누적 지갑 잔액 33% 증가, Cup-and-handle 패턴 $3K 래리 신호
-> - 💰 **[[crypto/entities/Hyperliquid|Hyperliquid]]** (2026-04-18) — BlockDAG, Chainlink, Polygon과 함께 2026년 주목할 암호화폐로 평가
+> - 💰 **[[crypto/entities/Hyperliquid|Hyperliquid]]** (2026-04-18) — $500M 이란 관련 거래량 증가. 지정학적 대체 채널로 작용
 
 > [!quote]- 💹 시세 상세
 >
@@ -40,8 +40,8 @@ cssclasses: [wide-page]
 > 💡 [[crypto/concepts/AI Legal Risk|AI Legal Risk]] · [[crypto/concepts/AI-Generated Content Authentication|AI-Generated Content Authentication]] · [[crypto/concepts/Asset Allocation|Asset Allocation]] · [[crypto/concepts/Bitcoin Education|Bitcoin Education]] · [[crypto/concepts/Bitcoin Upgrade Strategy|Bitcoin Upgrade Strategy]] · [[crypto/concepts/CBDC|CBDC]] · [[crypto/concepts/Claude Models|Claude Models]] · [[crypto/concepts/Cross-chain Bridge|Cross-chain Bridge]] · [[crypto/concepts/Crypto Regulation|Crypto Regulation]] · [[crypto/concepts/DeFi|DeFi]] · [[crypto/concepts/Euro Stablecoin|Euro Stablecoin]] · [[crypto/concepts/Exchange Security Incidents|Exchange Security Incidents]] · [[crypto/concepts/Geopolitical Security Threats|Geopolitical Security Threats]] · [[crypto/concepts/Government AI Policy|Government AI Policy]] · [[crypto/concepts/Government Digital Asset Policy|Government Digital Asset Policy]] · [[crypto/concepts/Layer 2|Layer 2]] · [[crypto/concepts/Mainstream Adoption|Mainstream Adoption]] · [[crypto/concepts/Market Transparency|Market Transparency]] · [[crypto/concepts/Mining Supply Pressure|Mining Supply Pressure]] · [[crypto/concepts/Prediction Markets|Prediction Markets]] · [[crypto/concepts/Quantum Computing|Quantum Computing]] · [[crypto/concepts/Quantum Security|Quantum Security]] · [[crypto/concepts/Quantum Threat|Quantum Threat]] · [[crypto/concepts/Quantum-Resistant Cryptography|Quantum-Resistant Cryptography]] · [[crypto/concepts/Stablecoin|Stablecoin]] · [[crypto/concepts/Tokenization|Tokenization]] · [[crypto/concepts/Tokenized Assets|Tokenized Assets]] · [[crypto/concepts/Tokenized Stocks|Tokenized Stocks]] · [[crypto/concepts/Traditional Finance Integration|Traditional Finance Integration]]
 > 📊 [[crypto/indicators/BTC Price|BTC Price]] · [[crypto/indicators/ETH Price|ETH Price]] · [[crypto/indicators/HYPE Price|HYPE Price]]
 
-> [!abstract]- 🌍 [[macro/index|MACRO]] (10 엔티티 · 5 개념 · 12 지표)
+> [!abstract]- 🌍 [[macro/index|MACRO]] (11 엔티티 · 5 개념 · 12 지표)
 >
-> 🏢 [[macro/entities/BIS|BIS]] · [[macro/entities/BOJ|BOJ]] · [[macro/entities/Bank of Greece|Bank of Greece]] · [[macro/entities/Bank of Italy|Bank of Italy]] · [[macro/entities/ECB|ECB]] · [[macro/entities/Ethiopia Central Bank|Ethiopia Central Bank]] · [[macro/entities/Federal Reserve System|Federal Reserve System]] · [[macro/entities/PBOC|PBOC]] · [[macro/entities/Reserve Bank of India|Reserve Bank of India]] · [[macro/entities/Zheshang Bank|Zheshang Bank]]
+> 🏢 [[macro/entities/BIS|BIS]] · [[macro/entities/BOJ|BOJ]] · [[macro/entities/Bank of Greece|Bank of Greece]] · [[macro/entities/Bank of Italy|Bank of Italy]] · [[macro/entities/ECB|ECB]] · [[macro/entities/Ethiopia Central Bank|Ethiopia Central Bank]] · [[macro/entities/Federal Reserve System|Federal Reserve System]] · [[macro/entities/Gold (indicator)|Gold (indicator)]] · [[macro/entities/PBOC|PBOC]] · [[macro/entities/Reserve Bank of India|Reserve Bank of India]] · [[macro/entities/Zheshang Bank|Zheshang Bank]]
 > 💡 [[macro/concepts/Digital Euro|Digital Euro]] · [[macro/concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]] · [[macro/concepts/Digital Yuan|Digital Yuan]] · [[macro/concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]] · [[macro/concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
 > 📊 [[macro/indicators/CNY-USD|CNY-USD]] · [[macro/indicators/China Interest Rates|China Interest Rates]] · [[macro/indicators/EUR-USD|EUR-USD]] · [[macro/indicators/Gold|Gold]] · [[macro/indicators/JPY-USD|JPY-USD]] · [[macro/indicators/Korea Inflation|Korea Inflation]] · [[macro/indicators/Korea Interest Rates|Korea Interest Rates]] · [[macro/indicators/Oil (WTI)|Oil (WTI)]] · [[macro/indicators/US Consumer Sentiment|US Consumer Sentiment]] · [[macro/indicators/US Employment|US Employment]] · [[macro/indicators/US Inflation|US Inflation]] · [[macro/indicators/US Interest Rates|US Interest Rates]]

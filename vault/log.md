@@ -1,8 +1,22 @@
 # 변경 이력
-최종 갱신: 2026-04-18 06:18
+최종 갱신: 2026-04-18 12:08
 
 ## [2026-04-18]
 
+- append: **DeepSeek** ← 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
+- append: **Tesla** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
+- append: **AI Semiconductors** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
+- append: **BitMine (BMNR)** ← Bitmine’s Ethereum Holdings Cross 4% Milestone After Latest Weekly Accumulation - Yahoo Finance
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion - PR Newswire
+- append: **Strategy (MSTR)** ← MicroStrategy Boosts STRC Dividend to 11.50% as Bitcoin Drawdown Pressures MSTR - Yahoo Finance
+- create: **Gold (indicator)** ← China gold market update: A seasonal demand rebound in March | Post by Ray Jia | Gold Focus blog - World Gold Council
+- append: **Hyperliquid** ← How Hyperliquid became an Iran war winner. HYPE price surges as exchange notches $500m in oil trades - dlnews.com
+- append: **Bitcoin** ← Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves
+- append: **Mainstream Adoption** ← Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves
+- append: **Crypto Regulation** ← SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token
+- append: **Circle** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
+- append: **Cross-chain Bridge** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
+- append: **Stablecoin** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
 - append: **World Liberty Financial** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
 - append: **Mainstream Adoption** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
 - append: **Claude Models** ← Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say
@@ -89,19 +103,3 @@
 - append: **Payward** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
 - append: **Bitnomial** ← Kraken's parent company to acquire CFTC-regulated exchange Bitnomial
 - append: **BTC Price** ← Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK
-- append: **Stablecoin** ← Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement
-- append: **Euro Stablecoin** ← French finance minister backs euro-pegged stablecoins to compete with US
-- append: **Government Digital Asset Policy** ← French finance minister backs euro-pegged stablecoins to compete with US
-- append: **DeFi** ← You Can Now Use XRP on Solana—Here's How
-- append: **Cross-chain Bridge** ← You Can Now Use XRP on Solana—Here's How
-## [2026-04-17]
-
-- append: **Multimodal AI** ← Counting Without Numbers and Finding Without Words
-- append: **Quantum Computing** ← Learning and Generating Mixed States Prepared by Shallow Channel Circuits
-- append: **Hallucination Reduction** ← V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators
-- append: **Multimodal AI** ← V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators
-- append: **Nvidia** ← NVIDIA Isaac GR00T N1.7: Open Reasoning VLA Model for Humanoid Robots
-- append: **Agentic AI** ← Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents
-- append: **Google DeepMind** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"
-- append: **Multimodal AI** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"
-- append: **AI Persona** ← 구글, 퍼스널 인텔리전스에 '나노 바나나' 연결..."개인화된 사진 생성"

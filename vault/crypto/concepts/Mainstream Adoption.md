@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: ETF 유입 확대로 기관 투자자 채택 가속화 [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: X(구 Twitter)가 주식 및 암호화폐 cashtags 트레이딩 기능 출시, 수일 내 $1B 거래량 달성 [(원문)](https://thedefiant.io/news/markets/x-cashtags-billion-dollar-volume-11wls0)
 - **2026-04-17**: 신원 검증 인프라가 Zoom, Tinder 등 메이저 플랫폼에 통합되는 추세 [(원문)](https://decrypt.co/364774/sam-altman-world-zoom-tinder-better-verify-humans-ai-age)
 - **2026-04-18**: iris-scanning 생물인식이 기업 협업 도구에 통합되며 주류 기술로 인정 [(원문)](https://cointelegraph.com/news/worldcoin-falls-13-percent-as-world-iris-scanning-expands-zoom-docusign-tinder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]]
+[[Bitcoin]] | [[Bitcoin Education]]
 
 
 ## 모순/논쟁

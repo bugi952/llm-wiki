@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: Ethereum 4.423M 토큰 보유, 총 암호자산+현금 $9.6B (공식 발표) [(원문)](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQT0FSRkw5TThwcTBwZnhzei1pa2hMdHhKQm9HSVVSMlZyR1VEWW82ZmM0dDJ5RmJ2SVJwSUs5MXNrNHFxMnFGV210LW1xMDZsTjB4ckQ5TEdWUUhtYWV6LWVuYjY2SXFkT0I4d1dGaXVPSHJkZF9TdnpUVkdFblVoc3JHUDJjbEQwc09wUmxfd1NERF83SWpsZHJmSVNUTlJITkpQWmN5bUtiZ3V6a203SnRCV0h6cnhlY3E3RDJWVWk2MklGYVR1SUxpVDdBMk9qYk1MMUhMY3RGenA4RUpaS185SlhnaF9QYm41TFN3U3JPdmI3eG1GcHJ1bTRsRWowV3JJTUN2U0Jrd2hQbl9YSl9tcU82WXZwNXh4R2Z3LTdqY1k5a2FrZGV3?oc=5)
+- **2026-04-18**: Ethereum 보유량 4% 마일스톤 달성, 주간 누적 진행 중 [(원문)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSERPUWxBZUNkX1ZBWFE3Um5yMm10WVJuRjFtbjFOb19WenNFTlFYdDFibjdsaDZtVHZnODR3NE5xRU1Mam9hZ2M4aXlMTzM4dTI0RkNCbXFnS29qdzE5N2JZT3NxR2RxV3VWTy1TODNXS19mcU9wN3QxbXB0M1JzeFdpaU9zUHNBZWVxSk9NLVNrX2VWX3BTYzQ3c3ozQlk?oc=5)
 - **2026-04-17**: BitMine이 $9.6B 암호화폐 자산 중 최대 ETH 보유 기관으로 확인 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXd1UEV6enNrWmpJQzloa2pYMXJDVnRhd2VlSHFOLU1RakxiS3FBLVdkYmNrLWtJMUtWMFZteUY2RGJDSlNLbXF3QUI2WjF6N3BhRGsxcy13T2FTQUVyR0xqQWh0SU80ZkpSSXJjOGlKSWZFYUxEdWJDT2w0OWxKa1NyUENEak1XQXp6U2RxNmk2WndwdENqc09hY21BR0tITWlpaDk3N0NOMHJRVE1kVVJxTzlyQnNVSllBbUhjeWM?oc=5)
 - **2026-04-17**: Tom Lee's BitMine이 Ethereum에 $108M 추가 투자 [(원문)](https://news.google.com/rss/articles/CBMie0FVX3lxTE8tTTFCZUQzU3I3aTh0RHEybVFHS0hfMkdVLWszeTRuMmJKcjhYZTFoUUpNYWYzVExGYnBqRVJLa1A1dndFdF83VGdWTEwtcnIxLUNKWU1TQkZSYlN3emh5WlJOcHFaOGt0ZnJ3akRWVUU3ZzhWN0hRWDFXVQ?oc=5)
 - **2026-04-17**: 전체 비트코인 공급량의 3% 보유 달성 [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE5uQ0pXLVpJa1NaYU5TU3ZLbGgyR3llXzNTWnZFX2NlckpSbTlKNzBLY1lRUEV3QkRMS1p2dDd6UzFkRWpuVDl5bFhSRENGdEV3bnhOWGRwMjN3ZzBwOHg4SmthMm1ab2pVemJaVU5kOUNSM05DWXEyWDNB?oc=5)
@@ -36,5 +38,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Ethereum]]
 

@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-18 06:18
+최종 갱신: 2026-04-18 12:08
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -9,6 +9,7 @@
 - [[entities/ECB|ECB]]
 - [[entities/Ethiopia Central Bank|Ethiopia Central Bank]]
 - [[entities/Federal Reserve System|Federal Reserve System]]
+- [[entities/Gold (indicator)|Gold (indicator)]]
 - [[entities/PBOC|PBOC]]
 - [[entities/Reserve Bank of India|Reserve Bank of India]]
 - [[entities/Zheshang Bank|Zheshang Bank]]

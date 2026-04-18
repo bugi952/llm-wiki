@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-18**: $500M 이란 관련 거래량 증가. 지정학적 대체 채널로 작용 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGlOZHpsa3owSEkzenBSeWFiYnJLMmtDWU1ZdWFoLXZXRXlZQWQwbHg4a0NBWkw1NHdWZ0ctczRvbUNjc1d0LVVXUmhQT2dGZ0JzNzQzMjJEWG0tdlgtUDhFN1BKWnlUanNMOXJ6aGozZ1F3MmFtMnJCVi1MalkyYU1SV3cxeC1Gck1n?oc=5)
 - **2026-04-18**: BlockDAG, Chainlink, Polygon과 함께 2026년 주목할 암호화폐로 평가 [(원문)](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVDJNbFp5RWlsSk9vMlNKcVBwMUk4X2NBVXRwejBMVjJwMGVCdU0tb0VzQTdMcjRzcFhnaHdtdFc5S2Q3WXFNbmNtREJMZjZ0bHRUMzNaVS0tUmlxem1FSC1LYVdhaTVSdEdMZ1ZneFhQTTVQeHJFVG5zWGQ0Y3RoanlDYUpId3YtY1JDWGxHWWE0UEx3dmJuUnhsS3RTZ2NSZGFfZ2tzUXhBMEp3bkpmTjFpUXVkVXhjN0ZxTjE4M2xSRE9BNnVDX093ZXBLUl9JcWhyRmYtaUlXNWVWVHVOWjc2Zm5PVFIyMHhSdC1jdUJNRFFhUlHSAYMCQVVfeXFMTnBIUmJrQ3RSMmg5QmxVYTFQQ3U1Rl92WndGbHdjOHg3TTJJUDJCWVdFZFpTRXRicnI5THp0TWNzYVMzZjE1MDhRRDhuWk9KcW9rOHNrdVVidkRoeTF2RFBMOEdKem1IWGQxWUhrVXNXRmFfYzRHWGtTdXdGWEVoem51bnBWMjhJV1ZiazBRVHhpNS13cFdSSlFUR1RTb3hjVERUSjlpMG1jTENQVDNkN1hkY3RMVWxTeTlMM0VZUXNYQTlueTV5UE1vUU1qYm5TbFhVSzVfNHFtUkFqc0pDdms5VW4xWVA4QzNYRGpHQjliRWthVFZ2LTQwU1IxMFdwSWxqVQ?oc=5)
 - **2026-04-17**: Arthur Hayes가 HIP4 업그레이드 발표, HYPE 60일 고점 달성 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VGtwMlRId1JiWFRoeHVFZHdJM1lQbGFwZDk0OGRoUDNaaGMtcEtrcWVtSFhrZENpYkNDS3NyN2hUSzhoSWQ1TzhPVDJxNXI3VFlxeXp4VjgzVml4WHfSAWNBVV95cUxNSlVKUEhqamtxcHY0OFhXWk9QWEJnektSWTE4b2x6aklvbTFzVHBpMGJjV3hBekpvWUdGdWx3T1F3WlZPUGFtaEpwSDBUTEwtanRYVFltSzBkMEdjS0M0dXVFMGc?oc=5)
 - **2026-04-17**: 중동 분쟁으로 오일 거래 물량 급증, 실시간 가격 연동성 입증 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmpGYXp6eEVGREZsSUJ5eUN5bEp5eFdjRmwtQVNuQU94TVRKSnFQUWRPZXpETkJ3SndIYW51UnJvekNqdExhbWpFbUQyS084YnY1ZGt2ZlhyRUZRS0dQaXpBWFV0TTN4RmczMjRnbFdHeHJNNktJbDlLM2c0YWE0c002dzlyMTJGUTdCR3dDaFRfVWh3bTdzX244alQ5ZTZhTml2cWl0bTZ1VkxlaXVGdlRDcGlfUjJNUE1QNzJB?oc=5)
@@ -27,5 +28,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]] | [[Layer 2]]
+[[Geopolitical Security Threats]]
 
