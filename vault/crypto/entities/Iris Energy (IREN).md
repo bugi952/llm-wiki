@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: AI Cloud GPU 용량 2배 증설 [(원문)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUl3MlFZOHZ0X0lwRS1HWW1RMFdzNXF1dGRfUUF1ZWRtSnllQTJyUXhfYVA1c3kyeGp5bWF0akNiMm5PcEJma1N4ckczY0ZyNW1VS2x4MDBGOGV0UFFfUTA1VUJHVWtNTHBjT1RYR0wtdnlBNno4dkxTdXR2T0p3eFE2V1JfeFRLT2pkMkJwWHZGQ1JsSy1EUFc4NkljLWstd21MdFc5cTJTRVBVbndJaS1pd1RoUlo2UVV1TEk2aUlJc0QwX3ZrQ2taSnlZNjAtaUE?oc=5)
 - **2026-04-17**: 옵션 거래자들 약세 심리, 주가 0.78% 하락 (TipRanks) [(원문)](https://news.google.com/rss/articles/CBMivAFBVV95cUxQakR2aUx1QllCM3ByVDlmRnVTWHVUTmxKcTVwc21JRHRLVktJblVIeFFXNThJUGpkaWVzY1Q0NDJybWZCcTZDbXB4QUdyb0Uxa2MwUDd4SjJ5bkF0cmhlbi1YMDcyQ3poNTUzQ1dlQktjOS1yUmNFYW1ZQS1JTkotSmhnRzFmUFJ2cG1iWGRtMWtDTmtMT2dET1l6TnpueGdhaHhVTE1YMmxoTVBTWEJfVmRJcTdjRkpuWU8wZw?oc=5)
 - **2026-04-17**: 채굴 회사들 중 일부는 운영비 충당을 위해 BTC 청산, 일부는 미래 성장을 위해 BTC 보유 [(원문)](https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2025-12-01**: Microsoft와 $9.7B AI 메가딜 체결 및 $3.6B 자본 조달 단행 [(원문)](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQjkycjNhVzN5c1ZwcFB5SEdLUlVzYkpIU2hXLS1sUXdfcFF2ZlV1SzJRUkZzYi1jS25Ec2pOaTNmamFJSk1xVnpBYUlGTVBQa3BPWXVodVI5V05vS0I2Vy02aW1LWXEwaUR5TWtOaUt3Q3R4VGVRNW1SSWt2WWR4dm9fMG1kOVFMTm82bGgzczUxLWVCaHBMNk1KZFRRVmU1NnJrNktSR2NnaEtMTVNpVGtkZGtMdw?oc=5)
@@ -19,5 +20,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Market Transparency]]
+[[AI Infrastructure]]
 

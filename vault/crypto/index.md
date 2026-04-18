@@ -1,8 +1,9 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-18 18:09
+최종 갱신: 2026-04-19 00:07
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
+- [[entities/Alcoa|Alcoa]]
 - [[entities/Arthur Hayes|Arthur Hayes]]
 - [[entities/Avalanche|Avalanche]]
 - [[entities/Bank of Russia|Bank of Russia]]
@@ -29,6 +30,7 @@
 - [[entities/Hyperliquid|Hyperliquid]]
 - [[entities/Iris Energy (IREN)|Iris Energy (IREN)]]
 - [[entities/JPMorgan|JPMorgan]]
+- [[entities/Kelp DAO|Kelp DAO]]
 - [[entities/Ketman Project|Ketman Project]]
 - [[entities/Kraken|Kraken]]
 - [[entities/Lido|Lido]]
@@ -36,9 +38,11 @@
 - [[entities/Morgan Stanley|Morgan Stanley]]
 - [[entities/Naver-Dunamu|Naver-Dunamu]]
 - [[entities/Optimism|Optimism]]
+- [[entities/Parasite Mining Pool|Parasite Mining Pool]]
 - [[entities/Paul Atkins|Paul Atkins]]
 - [[entities/Payward|Payward]]
 - [[entities/Polygon|Polygon]]
+- [[entities/RAVE|RAVE]]
 - [[entities/Ramp Network|Ramp Network]]
 - [[entities/Ripple|Ripple]]
 - [[entities/Singapore Gulf Bank|Singapore Gulf Bank]]
@@ -55,6 +59,7 @@
 - [[entities/Zonda|Zonda]]
 
 ## 💡 개념
+- [[concepts/AI Infrastructure|AI Infrastructure]]
 - [[concepts/AI Legal Risk|AI Legal Risk]]
 - [[concepts/AI-Generated Content Authentication|AI-Generated Content Authentication]]
 - [[concepts/Asset Allocation|Asset Allocation]]

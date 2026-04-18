@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Iran 유가 위기 심화가 HYPE 토큰 상승 드라이버로 분석 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxONzZvczhTRU9NNE5VTWkzUmd2aW9UbGhLMWx4a3g3eF9ucVVPWTlZWUhhb2VYNFowajB5Mkt2a2JNeTExZ1dQSFpIbWdqdVhwQ0pVOEpUaS1FaDRuYW1lXzl0Wm5kSWRHU3h5YWR1ejF5YlRPN1NHTEdCbjVOdVJ2Z1l3ejlGNlAyZVg3LU50UTlDbm9pNVF1cjFkYUo?oc=5)
 - **2026-04-18**: Bitwise의 Hyperliquid ETF 신청 진행 중 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SENZcnl0Q1FwbEJ1NDNDdG0yeGNrVEdzUDc3OXBDYlBITlJQWWxyMzg5THlEUTN4MHB5emJsWTYxWUhjMEN2THZqOE0xVGs?oc=5)
 - **2026-04-18**: 일일 토큰 매입(buyback)이 신규 보상을 초과하면서 공급 감소 시작 [(원문)](https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0cxNkNGN0thRTZ6aWdnTUh6S1VJVEhMTU8wZDVzYlFvV2cxMGRlZjhZY1lNTUdURTktNVhhSnFFS1RVYmFFMkd5ZkpUZ3lOSk9RR1lFV0FIMXE0YjNLREpscjFaM0RiaHd3Z18xU2hlMHdXU1l1aGI0U29JWFBUdXM4R3dGbXI5V3BNNlFsMGlMR2pPWmhjb0VjWE5FSXdPZWtpSA?oc=5)
 - **2026-04-18**: $500M 이란 관련 거래량 증가. 지정학적 대체 채널로 작용 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGlOZHpsa3owSEkzenBSeWFiYnJLMmtDWU1ZdWFoLXZXRXlZQWQwbHg4a0NBWkw1NHdWZ0ctczRvbUNjc1d0LVVXUmhQT2dGZ0JzNzQzMjJEWG0tdlgtUDhFN1BKWnlUanNMOXJ6aGozZ1F3MmFtMnJCVi1MalkyYU1SV3cxeC1Gck1n?oc=5)
@@ -30,5 +31,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]] | [[Mainstream Adoption]]
+[[Geopolitical Security Threats]]
 

@@ -1,8 +1,24 @@
 # 변경 이력
-최종 갱신: 2026-04-18 18:09
+최종 갱신: 2026-04-19 00:07
 
 ## [2026-04-18]
 
+- append: **Iris Energy (IREN)** ← Iris Energy shares jump after doubling AI Cloud GPU capacity - MSN
+- append: **PBOC** ← China's central bank sets up new financial stability committee - Reuters
+- append: **Hyperliquid** ← HYPE to $150? Hyperliquid token is seen to ride worsening Iran oil crisis to triple record price - Yahoo Finance
+- append: **Geopolitical Security Threats** ← HYPE to $150? Hyperliquid token is seen to ride worsening Iran oil crisis to triple record price - Yahoo Finance
+- append: **Exchange Security Incidents** ← 2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains
+- append: **Kelp DAO** ← 2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains
+- append: **Mining Supply Pressure** ← From smelters to servers: Alcoa to cash in on crypto’s thirst for energy
+- append: **Exchange Security Incidents** ← Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow
+- append: **Market Transparency** ← Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow
+- append: **Mining Supply Pressure** ← Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block
+- append: **Solana** ← Solana futures open interest rose by 20% this week: Is $100 SOL next?
+- append: **Mining Supply Pressure** ← Bitcoin mining difficulty falls, but projected to rise in next adjustment
+- append: **Government Digital Asset Policy** ← Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI
+- append: **Tether** ← Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI
+- append: **Anthropic** ← Thoughts and feelings around Claude Design
+- append: **AI Persona** ← Thoughts and feelings around Claude Design
 - append: **Strategy (MSTR)** ← Reassessing MicroStrategy (MSTR) Valuation After Recent Share Price Volatility And Bitcoin Exposure Narrative - Yahoo Finance UK
 - append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - WTAQ
 - append: **Hyperliquid** ← Hyperliquid Turns Deflationary as Daily HYPE Buybacks Outpace Rewards - Live Bitcoin News
@@ -87,19 +103,3 @@
 - append: **Energy Market Policy** ← 미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑
 - append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Reports US$5.2b Quarterly Loss Testing Bullish Growth Narratives - Sahm
 - append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion – Company Announcement - FT.com - Financial Times
-- append: **Ethereum** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion – Company Announcement - FT.com - Financial Times
-- append: **BitMine (BMNR)** ← Bitmine Appoints Chief Financial Officer and Chief Operating Officer - PR Newswire
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Is Down 24.4% After Return to Profitability and Leadership Overhaul - Yahoo Finance
-- append: **BitMine (BMNR)** ← Cantor Fitzgerald Analyst Initiates Coverage on Bitmine Immersion Technologies, Inc. (BMNR) - Yahoo Finance
-- append: **BitMine (BMNR)** ← Bitmine (BMNR) Soars 10% Ahead of Ex-Dividend Date - Yahoo Finance
-- append: **BitMine (BMNR)** ← Bitmine (BMNR) Climbs 19.6% as Firm Hits Ownership of 3% Supply - Yahoo Finance
-- append: **Bitcoin** ← Bitmine (BMNR) Climbs 19.6% as Firm Hits Ownership of 3% Supply - Yahoo Finance
-- append: **BitMine (BMNR)** ← Tom Lee's BitMine Adds $108 Million in Ethereum, But BMNR Dives Amid Trade War Turmoil - Yahoo Finance
-- append: **BitMine (BMNR)** ← Massive $9.6B crypto stash positions Bitmine (NYSE: BMNR) as top ETH treasury - Stock Titan
-- append: **Strategy (MSTR)** ← Strategy Climbs 6% as Bitcoin Surges: 762,000 Coins and a Mountain of Debt Keep Investors Divided - 24/7 Wall St.
-- append: **Strategy (MSTR)** ← Bitcoin News: Strategy's $1 Billion Bitcoin Buy Pushes Saylor Back Into Profit as BTC Hits $75,000 - 24/7 Wall St.
-- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - MSN
-- append: **PBOC** ← China expected to keep benchmark lending rates steady after strong GDP data - MSN
-- append: **Financial System Monitoring** ← MacParity, January 2026
-- append: **Financial System Monitoring** ← Auto Prices – Adjusting for Quality and Mix
-- append: **Quantum Threat** ← When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next

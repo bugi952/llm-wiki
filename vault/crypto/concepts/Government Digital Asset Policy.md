@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 이란 정부, BTC를 석유 수수료 결제 수단으로 공식 선택 (몰수 저항성) [(원문)](https://cointelegraph.com/news/iran-btc-strategic-usdt-dominate-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 미국 정부가 2016년 Bitfinex 해킹 관련 8.2 BTC(약 $600K)를 회수 및 이동 [(원문)](https://decrypt.co/364730/us-government-moves-bitcoin-9-billion-bitfinex-hack)
 - **2026-04-17**: 프랑스 주도 유로 페그 스테이블코인 정책: 미국 달러 중심 시장에 대응하는 유럽의 결집 (2026-04-17) [(원문)](https://cointelegraph.com/news/french-finance-minister-euro-pegged-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 러시아의 적극적 암호자산 규제 강화로 미국과의 정책 차별화 [(원문)](https://cointelegraph.com/news/russia-criminalize-unregistered-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -19,7 +20,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Exchange Security Incidents]]
+[[Bitcoin]] | [[Tether]] | [[Geopolitical Security Threats]]
 
 
 ## 모순/논쟁

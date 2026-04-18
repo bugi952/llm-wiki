@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Claude 모델의 설계는 사용자 신뢰와 감정 경험을 우선하는 철학 기반 (HN 129점 논의) [(원문)](https://news.ycombinator.com/item?id=47818700)
 - **2026-04-16**: Claude Mythos 모델을 Project Glasswing 프로그램으로 글로벌 규제 당국·금융기관에 사전 공개, 영국·인도 2026-04-16부터 접근 제공 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209414)
 - **2026-04-18**: Claude 4.7 토크나이저 비용 구조 실측 분석 [(원문)](https://news.ycombinator.com/item?id=47807006)
 - **2026-04-17**: Dario Amodei CEO, 백악관 방문 (Susie Wiles 비서실장, Scott Bessent 재무부 장관 참석). Mythos 안전성 및 사이버 보안 협력 논의 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209427)
@@ -37,5 +38,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Claude Miso]] | [[AI Regulation]]
+[[AI Persona]] | [[Claude Code]] | [[Claude Miso]]
 

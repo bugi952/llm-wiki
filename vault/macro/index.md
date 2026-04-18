@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-18 18:09
+최종 갱신: 2026-04-19 00:07
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -19,6 +19,7 @@
 - [[concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]]
 - [[concepts/Digital Yuan|Digital Yuan]]
 - [[concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]]
+- [[concepts/Financial Stability|Financial Stability]]
 - [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
 
 ## 📊 지표
