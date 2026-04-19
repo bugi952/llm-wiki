@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: IRS 프레임워크 - 유머를 부조화 인식/해결/선호도 정렬의 3단계로 분해 [(원문)](https://arxiv.org/abs/2604.15210v1)
+- **2026-04-19**: AIGC 도구의 고립된 요소 생성으로 인한 스타일 불일치를 에이전트 기반 계층적 최적화로 해결 [(원문)](https://arxiv.org/abs/2604.15309v1)
 - **2026-04-16**: Nano Banana: 사용자 맥락 학습 기반 개인화 텍스트-이미지 생성 모델 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209400)
 - **2026-04-17**: 능동적 시각 추론으로 MLLMs를 수동적 관찰자에서 능동적 질문자로 변환 [(원문)](https://arxiv.org/abs/2604.03307)
 - **2026-04-17**: 음성(10Hz 코끼리 울음~4kHz 강아지 울음)과 시각 특징 결합한 동물 재결합 바이오메트릭 시스템 [(원문)](https://arxiv.org/abs/2603.24470)
@@ -85,7 +87,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google DeepMind]]
+[[Vision-Language Models]]
 
 
 ## 모순/논쟁

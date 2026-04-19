@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-19 00:07
+최종 갱신: 2026-04-19 06:16
 
 ## 🏢 엔티티
 - [[entities/Adobe|Adobe]]
@@ -22,6 +22,7 @@
 - [[entities/Nvidia|Nvidia]]
 - [[entities/OpenAI|OpenAI]]
 - [[entities/Qualcomm|Qualcomm]]
+- [[entities/Recursive Superintelligence|Recursive Superintelligence]]
 - [[entities/TelePIX|TelePIX]]
 - [[entities/Tesla|Tesla]]
 - [[entities/Uber|Uber]]
@@ -29,6 +30,7 @@
 - [[entities/xAI|xAI]]
 
 ## 💡 개념
+- [[concepts/AADvark (Dynamic CAD Assembly Agent)|AADvark (Dynamic CAD Assembly Agent)]]
 - [[concepts/AGI|AGI]]
 - [[concepts/AI Deployment|AI Deployment]]
 - [[concepts/AI Fairness & Economics|AI Fairness & Economics]]
@@ -112,6 +114,7 @@
 - [[concepts/Hallucination Reduction|Hallucination Reduction]]
 - [[concepts/Hardware Security|Hardware Security]]
 - [[concepts/Human-AI Cognitive Alignment|Human-AI Cognitive Alignment]]
+- [[concepts/Humor Understanding|Humor Understanding]]
 - [[concepts/In-Context Learning|In-Context Learning]]
 - [[concepts/In-Context Steered Policy Optimization|In-Context Steered Policy Optimization]]
 - [[concepts/Inflation Measurement and Quality Adjustment|Inflation Measurement and Quality Adjustment]]
@@ -140,7 +143,9 @@
 - [[concepts/Logical Reasoning in LLMs|Logical Reasoning in LLMs]]
 - [[concepts/Long-Context Processing|Long-Context Processing]]
 - [[concepts/Looped Transformers|Looped Transformers]]
+- [[concepts/MEv-SINDy (Multi-frequency Evolutionary SINDy)|MEv-SINDy (Multi-frequency Evolutionary SINDy)]]
 - [[concepts/Machine Unlearning|Machine Unlearning]]
+- [[concepts/MambaSL (Single-Layer Mamba for TSC)|MambaSL (Single-Layer Mamba for TSC)]]
 - [[concepts/Mechanistic Interpretability|Mechanistic Interpretability]]
 - [[concepts/Mechanistic Representation in LLMs|Mechanistic Representation in LLMs]]
 - [[concepts/Medical AI|Medical AI]]
@@ -184,10 +189,13 @@
 - [[concepts/Reinforcement Learning from Verifiable Rewards|Reinforcement Learning from Verifiable Rewards]]
 - [[concepts/Renewable Energy Policy|Renewable Energy Policy]]
 - [[concepts/Retrieval-Augmented Generation|Retrieval-Augmented Generation]]
+- [[concepts/Reward Hacking in RLVR|Reward Hacking in RLVR]]
 - [[concepts/Robotic Manipulation|Robotic Manipulation]]
 - [[concepts/Safety-Critical Agent Design|Safety-Critical Agent Design]]
 - [[concepts/Safety-Critical Reinforcement Learning|Safety-Critical Reinforcement Learning]]
 - [[concepts/Scaling Laws|Scaling Laws]]
+- [[concepts/Scepsy (Agentic Serving System)|Scepsy (Agentic Serving System)]]
+- [[concepts/Scientific Novelty Assessment|Scientific Novelty Assessment]]
 - [[concepts/Self-Consistent Decoding|Self-Consistent Decoding]]
 - [[concepts/Self-Evolving Agent Architecture|Self-Evolving Agent Architecture]]
 - [[concepts/Self-Evolving Agent Systems|Self-Evolving Agent Systems]]
@@ -212,6 +220,7 @@
 - [[concepts/Thinking Language|Thinking Language]]
 - [[concepts/Time Series Anomaly Detection|Time Series Anomaly Detection]]
 - [[concepts/Time Series Reasoning|Time Series Reasoning]]
+- [[concepts/Token Merging|Token Merging]]
 - [[concepts/Token Pruning|Token Pruning]]
 - [[concepts/Transformer Expressivity|Transformer Expressivity]]
 - [[concepts/Turn-Level Metric Validity|Turn-Level Metric Validity]]

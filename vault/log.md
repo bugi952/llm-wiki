@@ -1,105 +1,105 @@
 # 변경 이력
-최종 갱신: 2026-04-19 00:07
+최종 갱신: 2026-04-19 06:16
 
-## [2026-04-18]
+## [2026-04-19]
 
-- append: **Iris Energy (IREN)** ← Iris Energy shares jump after doubling AI Cloud GPU capacity - MSN
-- append: **PBOC** ← China's central bank sets up new financial stability committee - Reuters
-- append: **Hyperliquid** ← HYPE to $150? Hyperliquid token is seen to ride worsening Iran oil crisis to triple record price - Yahoo Finance
-- append: **Geopolitical Security Threats** ← HYPE to $150? Hyperliquid token is seen to ride worsening Iran oil crisis to triple record price - Yahoo Finance
-- append: **Exchange Security Incidents** ← 2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains
-- append: **Kelp DAO** ← 2026's biggest crypto exploit: $292 million gets drained from Kelp DAO with wrapped ether stranded across 20 chains
-- append: **Mining Supply Pressure** ← From smelters to servers: Alcoa to cash in on crypto’s thirst for energy
-- append: **Exchange Security Incidents** ← Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow
-- append: **Market Transparency** ← Binance and Bitget to probe RAVE’s 4,500% token surge as claims of insider-orchestrated rally grow
-- append: **Mining Supply Pressure** ← Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block
-- append: **Solana** ← Solana futures open interest rose by 20% this week: Is $100 SOL next?
-- append: **Mining Supply Pressure** ← Bitcoin mining difficulty falls, but projected to rise in next adjustment
-- append: **Government Digital Asset Policy** ← Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI
-- append: **Tether** ← Iran views BTC as a strategic asset, but USDt still dominates oil tolls: BPI
-- append: **Anthropic** ← Thoughts and feelings around Claude Design
-- append: **AI Persona** ← Thoughts and feelings around Claude Design
-- append: **Strategy (MSTR)** ← Reassessing MicroStrategy (MSTR) Valuation After Recent Share Price Volatility And Bitcoin Exposure Narrative - Yahoo Finance UK
-- append: **China Interest Rates** ← China expected to keep benchmark lending rates steady after strong GDP data - WTAQ
-- append: **Hyperliquid** ← Hyperliquid Turns Deflationary as Daily HYPE Buybacks Outpace Rewards - Live Bitcoin News
-- append: **Hyperliquid** ← Hyperliquid (HYPE) Price: Bitwise ETF Filing Moves Closer to Launch as Arthur Hayes Buys Again - mexc.co
-- append: **Arthur Hayes** ← Hyperliquid (HYPE) Price: Bitwise ETF Filing Moves Closer to Launch as Arthur Hayes Buys Again - mexc.co
-- append: **Crypto Regulation** ← Zondacrypto under fire as Poland's prime minister links exchange to legislative interference
-- append: **Zonda** ← Zondacrypto under fire as Poland's prime minister links exchange to legislative interference
-- append: **Ripple** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
-- append: **Solana** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
-- append: **Cross-chain Bridge** ← Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token
-- append: **Government AI Policy** ← Ethereum co-founder Joseph Lubin warns of the dangers of AI being controlled by a few big tech firms
-- append: **Mainstream Adoption** ← Former UK Prime Minister sees economy on 'very negative trajectory,' indicates support for bitcoin
-- append: **Geopolitical Security Threats** ← Bitcoin falls back to $76,000 as Iran shuts Hormuz again
-- append: **Traditional Finance Integration** ← Stripe doubles down on blockchain and stablecoins, aiming to become 'AWS for money'
-- append: **Crypto Regulation** ← Poland parliament fails again to override presidential veto on crypto bill
-- append: **Stablecoin** ← Stablecoins behave like FX markets as liquidity splits: Eco CEO
-- append: **Bitcoin** ← What Is Q-Day? The Quantum Threat to Bitcoin Explained
-- append: **OpenAI** ← "Liberation Day" at OpenAI as multiple senior executives announce leaving
-- append: **Open Source Models** ← My Workflow for Understanding LLM Architectures
-- append: **Nvidia** ← 젠슨 황, 미국 기술 규제에 직격탄..."패배주의이자 광기"
-- append: **AI Regulation** ← 젠슨 황, 미국 기술 규제에 직격탄..."패배주의이자 광기"
-- append: **Anthropic** ← 세계로 번지는 '미소스' 경계령...영국·인도, 모델 조기 접근 권한 요구
-- append: **Claude Miso** ← 세계로 번지는 '미소스' 경계령...영국·인도, 모델 조기 접근 권한 요구
-- append: **OpenAI** ← 오픈AI, 과학팀 담당 부사장 등 임원 3명 사임
-- append: **BitMine (BMNR)** ← Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR) - Seeking Alpha
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Tota... - Binance
-- append: **Ethereum** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Tota... - Binance
-- append: **DeepSeek** ← 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
-- append: **Tesla** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
-- append: **AI Semiconductors** ← 머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화
-- append: **BitMine (BMNR)** ← Bitmine’s Ethereum Holdings Cross 4% Milestone After Latest Weekly Accumulation - Yahoo Finance
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion - PR Newswire
-- append: **Strategy (MSTR)** ← MicroStrategy Boosts STRC Dividend to 11.50% as Bitcoin Drawdown Pressures MSTR - Yahoo Finance
-- create: **Gold (indicator)** ← China gold market update: A seasonal demand rebound in March | Post by Ray Jia | Gold Focus blog - World Gold Council
-- append: **Hyperliquid** ← How Hyperliquid became an Iran war winner. HYPE price surges as exchange notches $500m in oil trades - dlnews.com
-- append: **Bitcoin** ← Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves
-- append: **Mainstream Adoption** ← Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves
-- append: **Crypto Regulation** ← SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token
-- append: **Circle** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
-- append: **Cross-chain Bridge** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
-- append: **Stablecoin** ← Circle unveils USDC Bridge for native cross-chain stablecoin transfers
-- append: **World Liberty Financial** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
-- append: **Mainstream Adoption** ← Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age
-- append: **Claude Models** ← Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say
-- append: **AI Legal Risk** ← Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say
-- append: **Strategy (MSTR)** ← Strategy Shares Pop as Bitcoin Holdings Flip Green, Near $61 Billion
-- append: **Government Digital Asset Policy** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
-- append: **Exchange Security Incidents** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
-- append: **Bitfinex** ← US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack
-- append: **Cross-chain Bridge** ← Wrapped XRP Now Available Across Major Solana Apps: Solana
-- append: **Mainstream Adoption** ← X Generates $1 Billion in Trading Volume Days After Launching Cashtags Feature: X
-- append: **X** ← X Generates $1 Billion in Trading Volume Days After Launching Cashtags Feature: X
-- append: **BTC Price** ← Bitcoin Touches $78,000 As Iran Declares Strait of Hormuz 'Completely Open'
-- append: **Figure** ← Figure Clashes With Short Seller Over Blockchain Lending Claims
-- append: **Traditional Finance Integration** ← Figure Clashes With Short Seller Over Blockchain Lending Claims
-- append: **Solana** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
-- append: **Stablecoin** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
-- append: **Traditional Finance Integration** ← Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana
-- append: **Anthropic** ← Measuring Claude 4.7's tokenizer costs
-- append: **Agentic AI** ← Are the costs of AI agents also rising exponentially? (2025)
-- append: **Anthropic** ← Introducing Claude Design by Anthropic Labs
-- append: **Apple** ← International Conference on Learning Representations (ICLR) 2026
-- append: **Logical Reasoning in LLMs** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
-- append: **LLM Safety Alignment** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
-- append: **Mechanistic Interpretability** ← Prompted CoT Early Exit Undermines the Monitoring Benefits of CoT Uncontrollability
-- append: **Nvidia** ← '바이브 코딩' 커서, 73조 기업 가치 평가로 AI 스타트업 최상위권 도약
-- append: **Cerebras** ← 세레브라스, 나스닥 상장 재추진…오픈AI 파트너십이 발판
-- append: **OpenAI** ← 세레브라스, 나스닥 상장 재추진…오픈AI 파트너십이 발판
-- append: **Anthropic** ← 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
-- append: **Vision-Language Models** ← 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
-- append: **AI Safety** ← [기고] 3시간마다 'AI 입니다' 알림으로 청소년 죽음 막을 수 있나
-- append: **LLM Safety Alignment** ← [기고] 3시간마다 'AI 입니다' 알림으로 청소년 죽음 막을 수 있나
-- append: **Meta AI** ← 메타, 5월20일 직원 10% 감축...후반기 추가 감원 예정
-- append: **AI Workforce Impact** ← 메타, 5월20일 직원 10% 감축...후반기 추가 감원 예정
-- append: **Anthropic** ← 아모데이, '미소스' 논의 위해 백악관 회담...정부와 갈등 완화 국면
-- append: **AI Regulation** ← 아모데이, '미소스' 논의 위해 백악관 회담...정부와 갈등 완화 국면
-- append: **Cognitive Surrender** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
-- append: **AI Safety** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
-- append: **System-2 Learning** ← [4월17일] '인지적 항복'의 경고..."유능한 AI가 인간의 사고를 멈추게 한다"
-- append: **Renewable Energy Policy** ← 매트릭스, 텍사스 '스틸하우스 솔라' 상업운전...현대차에 전력 판매
-- append: **Community Solar** ← 미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑
-- append: **Energy Market Policy** ← 미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Reports US$5.2b Quarterly Loss Testing Bullish Growth Narratives - Sahm
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion – Company Announcement - FT.com - Financial Times
+- append: **Machine Unlearning** ← Class Unlearning via Depth-Aware Removal of Forget-Specific Directions
+- append: **Hallucination Reduction** ← Fabricator or dynamic translator?
+- append: **Token Pruning** ← Compressing Sequences in the Latent Embedding Space: $K$-Token Merging for Large Language Models
+- append: **Code Generation** ← QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies
+- append: **Financial AI** ← QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies
+- append: **Reinforcement Learning from Verifiable Rewards** ← LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking
+- append: **AI Safety** ← LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking
+- append: **RAG (Retrieval-Augmented Generation)** ← IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning
+- append: **Model Evaluation** ← An Axiomatic Benchmark for Evaluation of Scientific Novelty Metrics
+- append: **Neural Circuit Design** ← Structure as Computation: Developmental Generation of Minimal Neural Circuits
+- append: **Instruction-Following** ← DiscoTrace: Representing and Comparing Answering Strategies of Humans and LLMs in Information-Seeking Question Answering
+- append: **Clinical AI** ← Blinded Multi-Rater Comparative Evaluation of a Large Language Model and Clinician-Authored Responses in CGM-Informed Diabetes Counseling
+- append: **Vector Symbolic Architectures** ← SRMU: Relevance-Gated Updates for Streaming Hyperdimensional Memories
+- append: **Federated Learning** ← FedIDM: Achieving Fast and Stable Convergence in Byzantine Federated Learning through Iterative Distribution Matching
+- append: **Anthropic** ← 앤트로픽 '클로드' 인증 강화에 중국 개발자 ‘우회 경쟁’ 격화
+- append: **Recursive Superintelligence** ← '자기학습 AI'로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장
+- append: **Self-Evolving Agent Systems** ← '자기학습 AI'로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장
+- append: **Tesla** ← 테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대..."등록 차량 1대뿐?"
+- append: **Autonomous Vehicles** ← 테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대..."등록 차량 1대뿐?"
+- append: **Strategy (MSTR)** ← MicroStrategy’s Near-Term Outlook Depends on This Bitcoin Price Level - Yahoo Finance
+- append: **Bitcoin** ← MicroStrategy’s Near-Term Outlook Depends on This Bitcoin Price Level - Yahoo Finance
+- append: **PBOC** ← PBoC Monetary Policy Shift: Strategic Targeted Easing Overwhelms Broad Cuts in 2025 - Binance
+- append: **CNY-USD** ← PBOC sets USD/CNY reference rate at 6.8616 vs. 6.8582 previous - TMGM
+- append: **PBOC** ← PBOC pledges stronger China-Hong Kong market ties - Reuters
+- append: **PBOC** ← China has ‘room’ for imported inflation, but economic risks rising: PBOC adviser - South China Morning Post
+- append: **Financial Stability** ← China has ‘room’ for imported inflation, but economic risks rising: PBOC adviser - South China Morning Post
+- append: **CNY-USD** ← The People’s Bank of China established the USD/CNY central rate at 7.0836, differing from 7.0865 - VT Markets
+- append: **China Interest Rates** ← China expected to keep benchmark lending rates unchanged - Reuters
+- append: **Monetary Policy Transmission** ← China expected to keep benchmark lending rates unchanged - Reuters
+- append: **Hyperliquid** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
+- append: **Arthur Hayes** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
+- append: **Traditional Finance Integration** ← CoinShares DIME Adds Hyperliquid to Altcoin Portfolio - ETF Trends
+- append: **Hyperliquid** ← CoinShares DIME Adds Hyperliquid to Altcoin Portfolio - ETF Trends
+- append: **Arthur Hayes** ← Arthur Hayes Goes All-In on HYPE token, “Only Thing We’re Buying” - Coinpedia
+- append: **Hyperliquid** ← Arthur Hayes Goes All-In on HYPE token, “Only Thing We’re Buying” - Coinpedia
+- append: **Tokenization** ← 3 Token Unlocks to Watch in the First Week of March 2026 - Yahoo Finance
+- append: **Hyperliquid** ← Morning Minute: Hyperliquid Soars in Pivot to "Trade Everything" Exchange - Yahoo Finance
+- append: **Hyperliquid** ← HYPE Jumped 12% Amid the Hyperliquid Team’s Support for HIP-4 - incrypted
+- append: **Hyperliquid** ← Hyperliquid Foundation sets up DeFi policy advocacy group with $29 million HYPE token donation - The Block
+- append: **Crypto Regulation** ← Hyperliquid Foundation sets up DeFi policy advocacy group with $29 million HYPE token donation - The Block
+- append: **Crypto Regulation** ← Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security
+- append: **Paul Atkins** ← Warren claims SEC’s Atkins likely misled Congress over enforcement data
+- append: **Kelp DAO** ← Kelp restaking platform exploited, $293M drained in attack
+- append: **DeFi** ← Kelp restaking platform exploited, $293M drained in attack
+- append: **Agentic AI** ← MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+- append: **Multimodal AI** ← MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+- append: **In-Context Learning** ← Generalization in LLM Problem Solving: The Case of the Shortest Path
+- append: **Scaling Laws** ← Generalization in LLM Problem Solving: The Case of the Shortest Path
+- append: **Model Evaluation** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
+- append: **Conformal Prediction** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
+- append: **Model Efficiency** ← Benchmarking Optimizers for MLPs in Tabular Deep Learning
+- append: **Spatial Reasoning in LLMs** ← How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study
+- append: **Spatial Intelligence in LLMs** ← How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study
+- append: **Autonomous Vehicles** ← AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving
+- append: **Anomaly Detection** ← AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving
+- append: **Explainable AI** ← Structural interpretability in SVMs with truncated orthogonal polynomial kernels
+- append: **Vision-Language Models** ← Why Do Vision Language Models Struggle To Recognize Human Emotions?
+- append: **AI Fairness & Economics** ← Why Do Vision Language Models Struggle To Recognize Human Emotions?
+- append: **Graph Neural Networks** ← How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations
+- append: **Quantum Computing** ← How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations
+- append: **AI Infrastructure** ← Prism: Symbolic Superoptimization of Tensor Programs
+- append: **Model Efficiency** ← Prism: Symbolic Superoptimization of Tensor Programs
+- append: **Medical AI** ← SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
+- append: **Quantum Computing** ← Cloning is as Hard as Learning for Stabilizer States
+- append: **Agent Safety Evaluation** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
+- append: **Multi-Agent Cooperation** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
+- append: **LLM Safety Alignment** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
+- append: **Looped Transformers** ← Stability and Generalization in Looped Transformers
+- append: **Reasoning Budget Control** ← Stability and Generalization in Looped Transformers
+- append: **Speculative Decoding** ← From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning
+- append: **Reasoning Budget Control** ← From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning
+- append: **Multi-Agent Systems** ← Optimal last-iterate convergence in matrix games with bandit feedback using the log-barrier
+- append: **Spiking Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
+- append: **Graph Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
+- append: **Agentic Microphysics** ← Agentic Microphysics: A Manifesto for Generative AI Safety
+- append: **Multi-Agent Systems** ← Agentic Microphysics: A Manifesto for Generative AI Safety
+- append: **Agent Safety Evaluation** ← Agentic Microphysics: A Manifesto for Generative AI Safety
+- append: **Multi-Agent Systems** ← Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications
+- append: **Agentic AI** ← Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications
+- append: **Clinical AI** ← RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
+- append: **Agentic AI** ← RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
+- append: **Model Evaluation** ← Context Over Content: Exposing Evaluation Faking in Automated Judges
+- append: **Evaluation Robustness** ← Context Over Content: Exposing Evaluation Faking in Automated Judges
+- append: **AI in Systems Engineering** ← AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment
+- append: **Quantum Kernel Methods** ← Optimal algorithmic complexity of inference in quantum kernel methods
+- append: **Multimodal AI** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
+- append: **Vision-Language Models** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
+- append: **Humor Understanding** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
+- append: **Medical AI** ← MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events
+- append: **Uncertainty Quantification** ← MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events
+- append: **Safety-Critical Reinforcement Learning** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
+- append: **Autonomous Vehicles** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
+- append: **Agent Safety Evaluation** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
+- append: **User Behavior Simulation** ← Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
+- append: **Multi-Agent Systems** ← Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
+- append: **Vision-Language Models** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
+- append: **Visual Token Pruning** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
+- append: **Model Efficiency** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
+- append: **Agentic Workflow Scheduling** ← Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines
+- append: **Agent-Aided Design** ← Agent-Aided Design for Dynamic CAD Models

@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: macro
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 # China Interest Rates
@@ -14,6 +14,7 @@ last_updated: 2026-04-18
 
 
 ## 이력
+- **2026-04-19**: PBOC, 기준 대출금리(LPR) 변동 없이 유지 예상 -- 통화정책 중립 기조 지속 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazBERzhwZnp1V1lRcVZkb011ZWNmWF90Mm9iRzRVcGVCRGZ5M196eVkwM2hvajI3b05zYy0zWlJReXdDX0dRTjVGNlZ6dmpEZ1o2OXFnaGVjQl9QV1RIcjFTS2FUbWh2ajlKaWZXV2RNUGNlWndvZ3pCaGNZbmxoUjNjY2l0OWNNVV9Od0ZYV1hGazQtNUQwYmZDa3pyRDFTWi1HOGJjdmVlZw?oc=5)
 - **2026-04-18**: PBOC, 강한 GDP 성장 이후 기준 대출 금리 동결 결정 [(원문)](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTJ5clJ5NnJtd09qSEQyQWtEU2FxQ285SVNEVXlVNkR5M3ZZYzBRZGlKZlFTaFM3NXVTSVFKTmpHZ1hfZENlelBua1RqWlRkdFBqaEo5aTVCZU55a3ZtbkZxRVRfUVdMLWNXd2ZwZmZuWFN2Ni1oaVU2eHpnUk1xc1oxUkUtSGRyNGUwVEI1WU9DLXprMVk1Yk1oRU14NGJmZ3oyZUpQcw?oc=5)
 - **2026-04-17**: 2026년 강한 GDP 성장 배경 아래 PBOC가 기준 대출금리 현상 유지할 것으로 시장 예상 [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaF9TZDAyTUhMMXNnSmNLMTA3UDV6MHNaVER5MmZHZkY4aU1hdXYtTEJ3cVNobzY0NlZlRHhsU1BIVmxQLTBlUWhmRm5BMVEzdGRUYmJiUVhVWEVnYzBHempOM1ByYy1kVU5ONzRPMW14NmlkWWJYanM1Um53RjVnZWlSeFBQd1BMRGxmVUJ1a3FmZURuVDdBQUlTeTd5UEhBWXhHb19MY0tGZS1OQ1FGQ2RfMDIyYVZBN0lENGtHM1R1dHBO?oc=5)
 - **2026-04-17**: GDP 강세에도 기준대출금리 인상 미루고 현 수준 유지 예상 [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VhMEc4UFlhODB0dkZkSXVnSmpiQkVoV01ISk1TeDZDT1MwWnBaUDg0bHdzeHBtTWw1MU1fZFp1ZFVNTFVUVExoYnVvODd1ZjFwdElrMnlCUHA3aks3T2lSY0h0d3BOSnRSWW8zQ2p4V0lSUy1NX3dQQ05QX1RjVUlwM1VyY1NSQ2ZITTJHOEkzZmFfemJuenBwcHowc3FwRVRLS29MR3RvSUZVNy10REpqQlg0aUFjV2d5bm9YcWUxU0E?oc=5)

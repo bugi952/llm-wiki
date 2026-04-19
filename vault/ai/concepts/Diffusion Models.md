@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: FP 방정식 편차 페널티 적용 시 계산 비용 대비 효과 미미 (경량 정규화 기법으로 유사 효과 달성 가능) [(원문)](https://arxiv.org/abs/2604.15171v1)
 - **2026-02-01**: Bird-SR: 보상 피드백 학습으로 실제 저해상도 이미지의 분포 시프트 문제 해결 [(원문)](https://arxiv.org/abs/2602.07069)
 - **2025-09-14**: RFM-Editing: 확산 모델 기반 텍스트 유도 오디오 편집. 복잡한 멀티이벤트 오디오에서 선택적 수정 가능 [(원문)](https://arxiv.org/abs/2509.14003)
 - **2025-06-23**: 의료 합성 데이터: 조건부 확산 모델(class-conditioned DDPM)로 초음파 이미지 생성, 연합학습 시 데이터 불균형(non-IID) 완화 [(원문)](https://arxiv.org/abs/2506.23334)

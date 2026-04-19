@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-19 00:07
+최종 갱신: 2026-04-19 06:16
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -15,12 +15,15 @@
 - [[entities/Zheshang Bank|Zheshang Bank]]
 
 ## 💡 개념
+- [[concepts/China-Hong Kong Financial Integration|China-Hong Kong Financial Integration]]
 - [[concepts/Digital Euro|Digital Euro]]
 - [[concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]]
 - [[concepts/Digital Yuan|Digital Yuan]]
 - [[concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]]
 - [[concepts/Financial Stability|Financial Stability]]
+- [[concepts/Imported Inflation Risk|Imported Inflation Risk]]
 - [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
+- [[concepts/Targeted Easing|Targeted Easing]]
 
 ## 📊 지표
 - [[indicators/CNY-USD|CNY-USD]]

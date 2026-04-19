@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: MicroStrategy는 기관 보유자로 시장 심리 반영 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVhueXRfMUpkbm5tdTQ1US1SSTFJRUFSSkFUVkFLbEUwTHoxNlJnZjhWSjVZeFVHUkhVMVNjRXdlbXBnMFVsLWpCWTd4NGtmdWp4TUdHVlE0cjNEOW1vVWpkdmdVQkEyQm5EQk51dWh1dnJCM2E5S181WTJCWTZhWWZ4SzB2MC14b3V6cDJn?oc=5)
 - **2026-04-18**: 양자컴퓨터의 서명 위조 능력(Q-Day)이 Bitcoin 보안의 장기 위협으로 지적 [(원문)](https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained)
 - **2026-04-18**: Spot Bitcoin ETF 주간 $1B 유입 (3개월 최고) [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: BTC $78K 도달, 시장 청산 $820M 발생 (24시간) [(원문)](https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,5 +50,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Quantum Threat]] | [[Quantum-Resistant Cryptography]]
+[[Strategy (MSTR)]] | [[Asset Allocation]] | [[Traditional Finance Integration]]
 

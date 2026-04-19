@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Post-training INT4 양자화에서 FP32 수렴 후 갑작스러운 성능 붕괴 발견 (INT4 gap 11% → 517%, Pythia-160m 154개 체크포인트 분석) [(원문)](https://arxiv.org/abs/2604.15167v1)
+- **2026-04-19**: 8개 시각 벤치마크에서 pruning 방법·VLM 아키텍처 간 일반화 가능한 최적 설정 도출 [(원문)](https://arxiv.org/abs/2604.15188v1)
+- **2026-04-19**: e-graph 재작성과 기호 추론으로 하드웨어 제약 하에서 증명된 부최적 영역 제거 [(원문)](https://arxiv.org/abs/2604.15272v1)
+- **2026-04-19**: 표형 데이터 DL에서 Muon 최적화기가 AdamW 대비 일관되게 우수한 성능을 보이며, 모델 가중치의 지수 이동 평균(EMA)이 추가 개선 효과 [(원문)](https://arxiv.org/abs/2604.15297v1)
 - **2026-04-16**: MoE 구조로 연산량 77% 절감하면서 성능 향상 달성 (Qwen 3.5 대비) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209406)
 - **2026-04-17**: 베이지안 최적화 + 가우시안 프로세스로 전자 구조 계산 약 10배 가속화 가능 (정확도 유지) [(원문)](https://arxiv.org/abs/2603.10992)
 - **2026-01-01**: KV 캐시 재사용으로 스트리밍 비디오 GPU 메모리 오버헤드 감소 [(원문)](https://arxiv.org/abs/2601.14724)
@@ -93,7 +97,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Alibaba]] | [[Open Source Models]]
+[[Vision-Language Models]] | [[Visual Token Pruning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: ORCA(직교 표현 기여도 분석): SVM의 RKHS 노름 분포를 상호작용 차수, 다항식 차수, 주변 좌표 효과로 분해 [(원문)](https://arxiv.org/abs/2604.15285v1)
 - **2025-09-22**: I2M 생성 결과를 자연어로 설명 가능하게 하여 AI 생성 과정의 신뢰도 향상 [(원문)](https://arxiv.org/abs/2509.22378)
 - **2025-02-01**: 2025-02: IMPACTX - XAI 기반 자동 주의 메커니즘으로 EfficientNet-B2, MobileNet, LeNet-5 성능 개선 [(원문)](https://arxiv.org/abs/2502.12222)
 - **2026-04-17**: 정규화된 직교 커널 기여도(OKC) 지수로 SVM의 의사결정을 상호작용 차수별 분해 가능 [(원문)](https://arxiv.org/abs/2604.15285)
@@ -35,7 +36,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Multimodal AI]] | [[Voice Synthesis]]
+[[Mechanistic Interpretability]] | [[Model Evaluation]]
 
 
 ## 모순/논쟁

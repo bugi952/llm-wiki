@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 최단경로 계획에서 LLM은 공간 이동(spatial transfer)에는 강하나 길이 확장(length scaling)에서 재귀적 불안정으로 실패 [(원문)](https://arxiv.org/abs/2604.15306v1)
 - **2026-02-22**: 장문맥 입력에서 attention이 관련 context와 정렬 유지 어려움, 동적 조정으로 개선 [(원문)](https://arxiv.org/abs/2602.22175)
 - **2026-02-20**: RAG에서 검색 문서의 관련성이 LLM 숨겨진 상태를 동적 변화시킴 (4 QA 데이터셋, 3개 LLM 실증) [(원문)](https://arxiv.org/abs/2602.20091)
 - **2026-01-07**: multilingual thinking의 Single-Language vs Mixed-Language Sampling으로 output 다양성 체계적 제어 [(원문)](https://arxiv.org/abs/2601.11227)
@@ -26,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]]
+[[Scaling Laws]] | [[Model Evaluation]]
 
 
 ## 모순/논쟁

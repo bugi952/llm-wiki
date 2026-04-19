@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Prism: 텐서 프로그램의 기호적 슈퍼최적화. sGraph로 프로그램 패밀리를 기호적으로 인코딩, 두 단계 탐색(기호 그래프 생성→구체적 구현)으로 LLM 워크로드 최적화 [(원문)](https://arxiv.org/abs/2604.15272v1)
 - **2026-04-17**: 한국 우주청, 2030년까지 우주 데이터센터 기술 검증 목표 - 우주방사선 견딘 반도체, 고효율 태양전지 핵심기술 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209399)
 - **2025-12**: LLM 기반 NAS로 computationally intensive search 대체 가능. Task-agnostic 아키텍처 자동 생성 [(원문)](https://arxiv.org/abs/2512.24120)
 - **2026-04-17**: 신경 물리 프레임워크로 육지-표면 모델의 시간 의존 매개변수를 미분 가능 형태로 표현, 수동 adjoint 유도 없이 그래디언트 기반 최적화 가능 [(원문)](https://arxiv.org/abs/2505.02979)
@@ -70,7 +71,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Semiconductors]]
+[[Model Efficiency]] | [[Code Generation]] | [[LLM-Based Hardware Optimization]]
 
 
 ## 모순/논쟁

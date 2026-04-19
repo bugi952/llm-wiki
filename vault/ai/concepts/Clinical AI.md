@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: CGM 데이터 해석 및 당뇨병 상담에서 검색 기반 LLM이 임상의 수준의 응답 품질 달성 (다중 평정자 블라인드 평가, 2025-2026) [(원문)](https://arxiv.org/abs/2604.15124v1)
+- **2025-03-01**: RadAgent: CT 보고서 자동 생성 시 에이전트의 단계별 추론 과정을 검사 가능하게 하여 임상 정확도 6% 향상 [(원문)](https://arxiv.org/abs/2604.15231v1)
 - **2026-04-17**: 인과 ML 기반 CDSS 설계 8가지 요구사항, 7가지 설계 원칙, 9가지 실용 피처 도출 (의사 인터뷰 기반) [(원문)](https://arxiv.org/abs/2603.24448)
 - **2026-04-17**: 호흡 운동 예측을 위해 온라인 학습 RNN과 Transformer 비교 분석, Transformer의 장기 의존성 캡처 우위 확인 [(원문)](https://arxiv.org/abs/2410.05882)
 - **2026-04-17**: 18,707건 의료 쿼리 분석: 벤치마크가 정적 검색→대화형으로 진화했으나 임상 구성은 현실 불일치 (validity gap) [(원문)](https://arxiv.org/abs/2603.18294)
@@ -48,7 +50,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Causal Learning]] | [[Explainable AI]]
+[[Medical AI]]
 
 
 ## 모순/논쟁

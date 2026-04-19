@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: Tesla 로보택시가 오스틴 → 샌프란시스코 → 댈러스·휴스턴으로 순차 확대 중(2026-04) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209441)
+- **2026-04-19**: 자율 드론 네비게이션·착륙 사례에서 RL-STPA로 표준 평가 방법 놓치는 손실 시나리오 포함 [(원문)](https://arxiv.org/abs/2604.15201v1)
+- **2026-04-19**: 시각 이상탐지(VAD)로 훈련 분포 외 상황 감지 및 알림 가능 [(원문)](https://arxiv.org/abs/2604.15291v1)
 - **2026-04-17**: Vision-Language-Action 로봇 제어: Embodied evolutionary diffusion을 이용한 in/out-of-distribution 조작 태스크 성공률 향상 (2개 로봇 플랫폼, 6개 태스크) [(원문)](https://arxiv.org/abs/2511.14178)
 - **2026-04-17**: MARL 기반 주문 배정: AV 플릿의 고차원 상태-행동 공간을 에이전트 분해로 최적화 [(원문)](https://arxiv.org/abs/2507.15351)
 - **2026-04-17**: 생성형 모델은 CAV의 예측 모델링, 시뮬레이션, 의사결정 향상에 활용 (arXiv:2403.10559) [(원문)](https://arxiv.org/abs/2403.10559)
@@ -21,7 +24,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Deployment]] | [[Agentic AI]]
+[[Tesla]]
 
 
 ## 모순/논쟁

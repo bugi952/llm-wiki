@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: macro
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 ---
 
 # CNY-USD
@@ -14,6 +14,8 @@ last_updated: 2026-04-17
 
 
 ## 이력
+- **2026-04-19**: PBOC가 USD/CNY 중앙 환율을 7.0836으로 설정 (이전 7.0865에서 0.41% 절하) [(원문)](https://news.google.com/rss/articles/CBMizwFBVV95cUxObjBVbU43RGstWkhPNFVDOE1uc09tU1pwejlUX2IxWkFRcVhwd3VhY1lLQm0zazBKb3lDZXh4SU8xcmszZDJ6UnNzdkxBUGZ4b3FmTzNQa3BmSnBMYWoxY2hXbldYZE1BeVBlR1gtX1FoWlRyRXp5eGI3RTkzeFBjb05YdGg1VEJHUTNYbEZqXzVzaWRYR0NYTUxac0dqRDdSMkdEN0hFYlFWV1VJM0NYNWFKbVl0WUJOMUZIaW5jbElWemxuLU1OVl9RVWhwTFU?oc=5)
+- **2026-04-19**: PBOC 레퍼런스 레이트 6.8616 설정 (이전 6.8582, 위엔 미세 절상) [(원문)](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTdSclEzVDZfQTZEWEZWR2VWQy1SLXJEemR1TllqUUtXMHc0Qjg5bzk1dUtvb19XbE1Ma1RwVFRSd2pxVDJvMXZMVFBqNHNQVXRrX1ZkOHI4WmtMQXhQdzVtWUJYMks5c19GRGVFdUw0UVVkSld5WDZEbG8wSlJ0M0s3bjc2b3dPb0loRWp5Nnp1dlZfeV93RHhxczNDM0JQWEtPdWFweFFOVk1TSzRMTmoyRlBlemNnLWwyRm85b0xsY3A4R0pJ?oc=5)
 - **2026-04-17**: PBOC 기준환율: 6.8622 (이전 6.8616) [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMDJaeVVEZGxtOXdaT21iVC1IM1M5TGRvRnNjX3dvMS1EQ01sMG9HYmtsYlBHUTNvWllBaV93TVJtNHpDWENNcGZmb0lUWV9fNnZMaExRTm9NempkR0HSAWNBVV95cUxPQjhlWUhLLXR1cDUzZEZPVlloRkFzMGNvZ1VwNmhMNjFReWxVZW83RXgyc0RNTXNRNl9WSTBaZk42Z1VHaFBMUjdyak1iYmNSUUMyb3c2SVo5S24tRWVsSW52TGM?oc=5)
 - **2026-04-17**: 중국의 전략적 통화 관리가 2025년 정책의 핵심 경로 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzYnhmd0NlVF9nVk1vQ19kZjBxNlpvaU5ja25kbV92clVEcElkdDNQd3FSdk4yc1dQUWtFemlEVmk4ZzhDSjV5OC1iT3RLRHFsY3ZQVldjOU5hdUxjbWR5ai14WjE?oc=5)
 - **2026-04-17**: Danske Bank: 회복력 있는 경제 데이터가 환율 낙관론 지지 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMlI2c0FHT3hpU3JMaEtJX0xoczdmY2F5TkFlUkw1cUdvNV93bUlORjlYV1pRSGtXNFg5NzhwUk9IamF1UEZhY2RVM20xcWlMeUtSUEY4Wk9wakFzZUJ3ck1Jb0Y?oc=5)

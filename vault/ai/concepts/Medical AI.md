@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: MADE 벤치마크: 의료 기기 이상 사건 보고서 기반 다중 레이블 텍스트 분류 + UQ 평가 [(원문)](https://arxiv.org/abs/2604.15203v1)
+- **2026-04-19**: SegWithU: 포스트혹 경량 불확실성 헤드로 ACDC/BraTS/LiTS에서 AUROC 0.98+ 달성 [(원문)](https://arxiv.org/abs/2604.15271v1)
 - **2025-06-23**: 유방암 초음파 검진: 연합학습(FedAvg/FedProx) + 합성 데이터 증강으로 기관 간 환자 데이터 비공유 while AUC 0.9206→0.9362 향상 [(원문)](https://arxiv.org/abs/2506.23334)
 - **2026-04-17**: IMACT-CXR: 흉부 X-ray 판독 교육용 멀티에이전트 대화식 튜터링 시스템 [(원문)](https://arxiv.org/abs/2511.15825)
 - **2024-12-14**: 암 환자 질문 응답을 위한 RAG 기반 하이브리드 검색(HSRDR) 및 의미 강화 분할(SEOS) 기법 제안 [(원문)](https://arxiv.org/abs/2412.14751)
@@ -32,7 +34,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Diffusion Models]]
+[[Uncertainty Quantification]] | [[Model Evaluation]] | [[Fine-tuning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 과학 논문 신규성 평가를 위한 공리적 벤치마크 제안 [(원문)](https://arxiv.org/abs/2604.15145v1)
+- **2026-04-19**: LLM 판사가 컨텍스트(downstream consequences)에 의해 체계적으로 판단 왜곡 - stakes signaling 취약점 [(원문)](https://arxiv.org/abs/2604.15224v1)
+- **2026-04-19**: LLM 판사의 일관성 위반(33-67% 문서에서 3-cycle 전이 위반)이 저수준 집계 통계 뒤에 숨어있으나, conformal prediction으로 per-instance 신뢰도 집합 제공 가능 [(원문)](https://arxiv.org/abs/2604.15302v1)
 - **2025-12**: Simulator fidelity 정량화: confidence set 기반 sim-to-real gap 평가 (quantile curve) [(원문)](https://arxiv.org/abs/2512.05024)
 - **2026-04-17**: E2EDev: BDD 원칙 기반 엔드투엔드 소프트웨어 개발 작업 벤치마크, Behave 프레임워크 자동 평가 파이프라인 [(원문)](https://arxiv.org/abs/2510.14509)
 - **2025-06-11**: Kuiper 통계 기반 Multi-calibration 메트릭: 확률 예측이 다중 부분군에서 동시에 보정되는 정도를 신호대잡음비(SNR) 가중치로 측정 [(원문)](https://arxiv.org/abs/2506.11251)
@@ -72,7 +75,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agentic AI]]
+[[Evaluation Robustness]]
 
 
 ## 모순/논쟁

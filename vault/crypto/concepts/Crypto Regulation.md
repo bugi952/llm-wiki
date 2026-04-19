@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 연방 판사, Caitlyn Jenner 밈코인을 증권 아닌 것으로 판정 [(원문)](https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-19**: Hyperliquid Foundation, DeFi 산업 정책 옹호 목적으로 $29M 투자 [(원문)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk9Cb1o3VXpPOWgtTkNzR0ZzY0Z2R1g4VDlLZ2dXUHh2a0E4aWVsRUxjY3NLZjBmU3BwVDFpTnFqQ3FNaDBPaGxrM0FCWFM3em5KaVNOdDZPU1JfOHQ1cWdBckpQQU1XNjdYT0YteDQ0RGhzWkdjYk50UG5TeGVveW1FUWt2NUJSR2twMEM4N2N3MlFFYzdFVEo4cGtoSHZ4ZmsxbXdWZkdydEtSeWlidVM4bU1CWHBTSU1aVXV0WUctbXdiRzRSSg?oc=5)
 - **2026-04-18**: 폴란드 의회, 대통령 거부에 대한 암호화폐 규제법 상정 2차 부결 - 국가 내 규제 입장 불일치 지속 [(원문)](https://cointelegraph.com/news/poland-parliament-fails-again-to-override-presidential-veto-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 폴란드 총리가 Zondacrypto 거래소와 입법 개입 연결 [(원문)](https://www.coindesk.com/business/2026/04/18/zondacrypto-under-fire-as-poland-s-prime-minister-links-exchange-to-legislative-interference)
 - **2026-04-18**: SEC, Donald Basile의 Bitcoin Latinum 사기 사건 기소 ($16M) [(원문)](https://cointelegraph.com/news/sec-donald-basile-16m-crypto-fraud-insured-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -42,7 +44,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Zonda]] | [[Government Digital Asset Policy]]
+[[Hyperliquid]] | [[DeFi]]
 
 
 ## 모순/논쟁

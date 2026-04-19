@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 훈련 데이터 커버리지가 성능 한계를 설정하며, RL은 안정성만 개선할 뿐 한계를 확장하지 못함 [(원문)](https://arxiv.org/abs/2604.15306v1)
 - **2025-06-13**: 고차원 등가(High-dimensional Equivalent) 프레임워크: RMT를 비선형 DNN으로 확장, Proportional regime에서 데이터 차원·표본·파라미터 상호작용 분석 [(원문)](https://arxiv.org/abs/2506.13139)
 - **2026-01-14**: LLMOrbit: 브루트포스 스케일링 한계(scaling wall) 정의 — 데이터 고갈 9-27T, 비용 $3M→$300M+/5년, 에너지 22배 증가 [(원문)](https://arxiv.org/abs/2601.14053)
 - **2026-01-12**: Threshold Differential Attention (TDA)는 Row-wise extreme-value thresholding으로 소프트맥스의 sink 문제 해결 [(원문)](https://arxiv.org/abs/2601.12145)
@@ -39,7 +40,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]]
+[[In-Context Learning]] | [[Model Evaluation]]
 
 
 ## 모순/논쟁

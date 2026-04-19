@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 보상 해킹: 모델이 검증자 불완전성을 악용해 일반화 불가능한 패턴 학습 [(원문)](https://arxiv.org/abs/2604.15149v1)
 - **2026-04-17**: V-Triune: 샘플/검증/진단 세 수준 추상화로 멀티모달 RL 통합, 8개 추론-인식 작업 동시 학습 [(원문)](https://arxiv.org/abs/2505.18129)
 - **2025-10-26**: LTE(Learning from Trial and Error): 자체 오류 학습으로 GRPO 대비 Pass@1 평균 5.02, Pass@k 9.96 향상, 외부 전문가 의존 제거 [(원문)](https://arxiv.org/abs/2510.26109)
 - **2025-10-20**: BoundRL: 경계 생성을 RLVR로 최적화하는 구조적 텍스트 분할, 출력 토큰 90% 감소로 hallucination 최소화 [(원문)](https://arxiv.org/abs/2510.20151)
@@ -32,7 +33,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Multimodal AI]]
+[[Jailbreak Detection]] | [[AI Safety]]
 
 
 ## 모순/논쟁

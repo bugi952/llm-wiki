@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Hyperliquid Foundation, DeFi 정책 옹호 그룹 설립에 $29M HYPE 기부 [(원문)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk9Cb1o3VXpPOWgtTkNzR0ZzY0Z2R1g4VDlLZ2dXUHh2a0E4aWVsRUxjY3NLZjBmU3BwVDFpTnFqQ3FNaDBPaGxrM0FCWFM3em5KaVNOdDZPU1JfOHQ1cWdBckpQQU1XNjdYT0YteDQ0RGhzWkdjYk50UG5TeGVveW1FUWt2NUJSR2twMEM4N2N3MlFFYzdFVEo4cGtoSHZ4ZmsxbXdWZkdydEtSeWlidVM4bU1CWHBTSU1aVXV0WUctbXdiRzRSSg?oc=5)
+- **2026-04-19**: HIP-4 프로토콜 업그레이드 지지로 HYPE 토큰 12% 상승 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1FVSzdSbmRSbnY2SDFIRzBWZy1MU1ZTN21NUWF3ZXF1ckV0Z0NFRWFiU3JMa0x3TmwzUTlNRFEzU3lGQVRJODVnZHczRm1ic29QaHNhTzYzZWk1X2FHMXl2NXlzd0hEMHhkczlPMnNOT1JNbktPc29XNndnU2lKUURESDljTjh6TDJxZlBB?oc=5)
+- **2026-04-19**: Hyperliquid, 'Trade Everything' 플랫폼으로 확장 (주식·상품 등) [(원문)](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHVCWHZGbUkwbnBvczloZVdYTGNzTV93cnRleFN4bDRuVmRlQ3lQVGtNeEpEM2N2d1RPWUFGUnh6NUItV2lUQkpCcEU0Y0F0eHFaT0MwT0xSc2RGZEhYdk0wMFBPcnRheTR4emtxcW9LT253dVRrYmdMdlFqUkRLUHRKOHAtSUtlY1pUWg?oc=5)
+- **2026-04-19**: 고급 트레이더 Arthur Hayes의 강한 지지 의견 기록 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNjOEhmMmVLM0wtZXhvQXpuY0FneENRdHN5N2hzSlhObHNuT0VyVVVYcDV1YVlPYWY5S3pXUjhYVlNHalFoSmRwaTNEcjA0VUI0TXZ4YnpYZTkxTjhSWUs1c1Z1SGRsQXRnMUJqNkFzWHpSdlgxOWh5amhvOEp0NU9nbEg1TV9jbHdId2ZFOERKZ0IwX2fSAZsBQVVfeXFMUFNvQWhOM05LQ3lrdEMwWEFKRGRWOVhzMW1SMFdsb2hla0VRWllRVlI0YmNpaGExN2p0TEFqdC1uMnFqTFRBQzdMVVoxa1R0NzFMOHJEYVQxQlU0T3RPaG9mOXRlR18zODVHbUstTkRtX05ORXlCbmdLYVRXUk5RQ0JMZy1TYWtTR0thUGdJYTNHYUtabjhSSUEtd1k?oc=5)
+- **2026-04-19**: CoinShares DIME ETF 편입으로 전통 금융 기관 인정 [(원문)](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmFhQ3g5RWJFSS1JZHVMOXlXUkoxUlpfb2wzTW02VkZYSm0zSVRoYm5hUTBScmc5bEtBdU53N0x0ZUt6VjJfQi1qVUl1TWFKVm44SXFoSnFxQ1JrbF8xRzZMRHBaTFY2cXhpWjlCYjBTWHVlXy1sQ1RGWWRzYWZyUi1BME5XZ3lDdWdfYkZVMkZjOXpFejFLemxCcEJUOHNjbHfSAacBQVVfeXFMT180d0pnZGVjQWZHamNSTjJ1SFpyTDRPQzBSSGdpNUsyUTBOdWg4M3FwdzFQeWdVdGVTb2duMHNRVHRkOVBKejFPWmpaSXZqLWNQX1EyV0ZmdHZQUWlLbnlVWXROVXJZbjhfNHFXN0xiMjNLQzZHNXVEYjlSUENVOXcwajgzbnNGYVpzd3lITGtQd3lBYl9NdjZpd1QxZWlnWHFwa0Vtck0?oc=5)
+- **2026-04-19**: Arthur Hayes의 HIP4 발표로 60일 고점 달성 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KVUpQSGpqa3FwdjQ4WFdaT1BYQmd6S1JZMThvbHpqSW9tMXNUcGkwYmNXeEF6Sm9ZR0Z1bHdPUXdaVk9QYW1oSnBIMFRMTC1qdFhUWW1LMGQwR2NLQzR1dUUwZ9IBY0FVX3lxTE1KVUpQSGpqa3FwdjQ4WFdaT1BYQmd6S1JZMThvbHpqSW9tMXNUcGkwYmNXeEF6Sm9ZR0Z1bHdPUXdaVk9QYW1oSnBIMFRMTC1qdFhUWW1LMGQwR2NLQzR1dUUwZw?oc=5)
 - **2026-04-19**: Iran 유가 위기 심화가 HYPE 토큰 상승 드라이버로 분석 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxONzZvczhTRU9NNE5VTWkzUmd2aW9UbGhLMWx4a3g3eF9ucVVPWTlZWUhhb2VYNFowajB5Mkt2a2JNeTExZ1dQSFpIbWdqdVhwQ0pVOEpUaS1FaDRuYW1lXzl0Wm5kSWRHU3h5YWR1ejF5YlRPN1NHTEdCbjVOdVJ2Z1l3ejlGNlAyZVg3LU50UTlDbm9pNVF1cjFkYUo?oc=5)
 - **2026-04-18**: Bitwise의 Hyperliquid ETF 신청 진행 중 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SENZcnl0Q1FwbEJ1NDNDdG0yeGNrVEdzUDc3OXBDYlBITlJQWWxyMzg5THlEUTN4MHB5emJsWTYxWUhjMEN2THZqOE0xVGs?oc=5)
 - **2026-04-18**: 일일 토큰 매입(buyback)이 신규 보상을 초과하면서 공급 감소 시작 [(원문)](https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0cxNkNGN0thRTZ6aWdnTUh6S1VJVEhMTU8wZDVzYlFvV2cxMGRlZjhZY1lNTUdURTktNVhhSnFFS1RVYmFFMkd5ZkpUZ3lOSk9RR1lFV0FIMXE0YjNLREpscjFaM0RiaHd3Z18xU2hlMHdXU1l1aGI0U29JWFBUdXM4R3dGbXI5V3BNNlFsMGlMR2pPWmhjb0VjWE5FSXdPZWtpSA?oc=5)
@@ -31,5 +37,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Geopolitical Security Threats]]
+[[DeFi]] | [[Crypto Regulation]]
 

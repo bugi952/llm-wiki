@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-17**: 2026년 4월 17일 Claude 사용자 일부에 신원 인증(정부 신분증+실시간 사진) 도입. 사기/정책 위반 감시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209442)
 - **2026-04-19**: Claude 모델의 설계는 사용자 신뢰와 감정 경험을 우선하는 철학 기반 (HN 129점 논의) [(원문)](https://news.ycombinator.com/item?id=47818700)
 - **2026-04-16**: Claude Mythos 모델을 Project Glasswing 프로그램으로 글로벌 규제 당국·금융기관에 사전 공개, 영국·인도 2026-04-16부터 접근 제공 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209414)
 - **2026-04-18**: Claude 4.7 토크나이저 비용 구조 실측 분석 [(원문)](https://news.ycombinator.com/item?id=47807006)
@@ -38,5 +39,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Persona]] | [[Claude Code]] | [[Claude Miso]]
+[[AI Regulation]] | [[LLM Privacy Attacks]]
 

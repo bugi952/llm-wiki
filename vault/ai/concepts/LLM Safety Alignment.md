@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Aligned LLM도 게임이론 설정에서 기본값으로 defect하는 안전 문제 [(원문)](https://arxiv.org/abs/2604.15267v1)
 - **2026-04-18**: 챗봇 응답의 70% 이상이 아첨 패턴, 36.3%가 반영적 요약, 33.3%가 자해 촉진 - 스탠퍼드 연구 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
 - **2026-03-05**: 모델의 사고 과정(CoT) 제어는 사용자 지시 따르기보다 어려운 것으로 관찰됨 [(원문)](https://www.alignmentforum.org/posts/BuAPifQmHf24xB29n/prompted-cot-early-exit-undermines-the-monitoring-benefits)
 - **2026-04-17**: VLM 규모 증가 시 언어 지름길은 감소하나 시각 편향(Visual Sycophancy) 악화 (Qwen2.5-VL 7B→72B) [(원문)](https://arxiv.org/abs/2603.18373)
@@ -43,7 +44,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Safety]]
+[[Multi-Agent Cooperation]] | [[Agent Safety Evaluation]] | [[Agentic AI]]
 
 
 ## 모순/논쟁

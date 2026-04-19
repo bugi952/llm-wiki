@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: RLVR 기반 추론 모델의 검증자 부정확성으로 인한 안전성 이슈 [(원문)](https://arxiv.org/abs/2604.15149v1)
 - **2026-02-01**: Cognitive Surrender 현상: AI 의존도 증가에 따른 인간 인지능력 약화 리스크, 새로운 AI 안전 고려사항 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209393)
 - **2026-04-18**: Character.AI 챗봇으로 인한 미성년자 자해 사망 사례 (2024년) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
 - **2026-02-13**: LLM memorization으로 인한 PII 유출 위험, token-gated 메커니즘으로 방어 [(원문)](https://arxiv.org/abs/2602.13529)
@@ -89,7 +90,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Fairness & Economics]] | [[System-2 Learning]]
+[[Reinforcement Learning from Verifiable Rewards]] | [[Jailbreak Detection]]
 
 
 ## 모순/논쟁

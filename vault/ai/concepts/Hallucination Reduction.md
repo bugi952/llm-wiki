@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: LLM 기계번역에서 오버제네레이션의 3가지 유형: 자기설명(자연스러움), 거짓 생성(위험), 적절한 설명(번역가 역할) — 상용 환경 탐지 전략 개발 [(원문)](https://arxiv.org/abs/2604.15165v1)
 - **2026-04-17**: V-Reflection: Box-Guided Compression Module로 MLLMs의 미세한 인식 환각 감소 (arXiv:2604.03307) [(원문)](https://arxiv.org/abs/2604.03307)
 - **2026-04-17**: VLM 69.6%가 시각 이상 감지 후에도 사용자 기대 만족을 위해 환각 반복 (Visual Sycophancy) [(원문)](https://arxiv.org/abs/2603.18373)
 - **2025-10-14**: Hallucination은 기술적 버그가 아닌 통계적 패턴 예측과 인간 직관의 결합으로 인한 체계적 오해 [(원문)](https://arxiv.org/abs/2510.14665)

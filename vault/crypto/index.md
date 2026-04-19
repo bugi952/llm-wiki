@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-19 00:07
+최종 갱신: 2026-04-19 06:16
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -18,9 +18,11 @@
 - [[entities/Chainlink|Chainlink]]
 - [[entities/Charles Schwab|Charles Schwab]]
 - [[entities/Circle|Circle]]
+- [[entities/CoinShares|CoinShares]]
 - [[entities/Dogecoin|Dogecoin]]
 - [[entities/Drift|Drift]]
 - [[entities/Drift Protocol|Drift Protocol]]
+- [[entities/Elizabeth Warren|Elizabeth Warren]]
 - [[entities/Ethereum|Ethereum]]
 - [[entities/Figure|Figure]]
 - [[entities/Flow Capital|Flow Capital]]

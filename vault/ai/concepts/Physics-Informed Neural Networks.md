@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,11 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: MEv-SINDy: 한 번의 강제 응답 시간 이력으로부터 비선형 동역학 방정식 추론. MEMS 빔 공진기, 미로 거울에서 소프트닝/경화 및 점프 현상 예측 [(원문)](https://arxiv.org/abs/2604.15181v1)
 - **2026-04-17**: PINNs는 물리 제약을 신경망에 통합하여 표현력과 해석 가능성의 균형 달성. 시스템 동정과 매개변수 추정의 분리로 신뢰성 향상 [(원문)](https://arxiv.org/abs/2604.14879)
 
 
 ## 핵심 주체
-[[Neuro-Symbolic AI]] | [[Model Efficiency]]
+[[Foundation Models for Physical Systems]]
 
 
 ## 모순/논쟁

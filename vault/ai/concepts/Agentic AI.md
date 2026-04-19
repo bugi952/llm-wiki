@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-03-01**: 의료 이미징 해석에서 도구 사용 에이전트의 stepwise 추론이 기존 VLM의 불투명한 최종 출력보다 정확도와 견고성 모두 우수 [(원문)](https://arxiv.org/abs/2604.15231v1)
+- **2025-02-20**: 구조화된 기업 데이터, 세계 지식(LLM), 개인 컨텍스트를 에이전트가 통합하여 사용자 의도의 의미적 갭 해소 [(원문)](https://arxiv.org/abs/2604.15233v1)
+- **2026-04-19**: MM-WebAgent - 다중모달 콘텐츠 생성을 계층적 계획과 자기 반성으로 조율하는 웹 페이지 생성 프레임워크 [(원문)](https://arxiv.org/abs/2604.15309v1)
 - **2026-04-18**: 에이전트 운영 비용 지수 상승 추세 (2025-) [(원문)](https://news.ycombinator.com/item?id=47778922)
 - **2026-04-16**: OpenAI Codex Computer Use 기능 추가 (화면 인식, 마우스/키보드 조작 가능, macOS 지원) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209392)
 - **2026-04-17**: Ecom-RLVE: 이커머스 대화형 에이전트를 위한 적응형 검증 환경 프레임워크 [(원문)](https://huggingface.co/blog/ecom-rlve)
@@ -149,7 +152,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Infrastructure]]
+[[Clinical AI]] | [[Medical AI]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: n-qubit stabilizer state 클로닝의 최적 샘플 복잡도는 Θ(n)으로 학습과 동일 [(원문)](https://arxiv.org/abs/2604.15269v1)
+- **2026-04-19**: 회로 정의 변분 임베딩과 그래프 연산자 기반 양자 임베딩의 GNN 성능 비교 연구 [(원문)](https://arxiv.org/abs/2604.15273v1)
 - **2026-04-17**: 얕은 채널 회로로 준비된 혼합 상태를 측정 접근으로 효율적 학습 가능 (큐비트 수 다항식 시간) [(원문)](https://arxiv.org/abs/2604.01197)
 - **2026-04-17**: 양자 커널 방법 추론: 양자 진폭 추정(QAE) + 단일 observable 기반 접근이 고전적 샘플링 대비 최적 쿼리 복잡도 달성 [(원문)](https://arxiv.org/abs/2604.15214)
 - **2026-04-17**: 레벨별 학습 기반 적응으로 양자 오류 정정 코드 연쇄 시 안정화 코드 대비 큐빗 요구량 최대 100배 감소 달성 [(원문)](https://arxiv.org/abs/2604.14931)
@@ -21,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]]
+[[Graph Neural Networks]] | [[Quantum Kernel Methods]] | [[Model Evaluation]]
 
 
 ## 모순/논쟁
