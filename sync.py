@@ -1,4 +1,5 @@
 import logging
+import os
 import subprocess
 from datetime import date
 
@@ -21,8 +22,11 @@ def sync_vault(repo_dir=".", dry_run=False):
     """
     result = {"changed": False, "committed": False, "pushed": False}
 
-    # Check for changes in vault/
-    rc, stdout, _ = _run_git(["status", "--porcelain", "vault/"], repo_dir)
+    # Check for changes in vault/ and site/
+    track_dirs = ["vault/"]
+    if os.path.isdir(os.path.join(repo_dir, "site")):
+        track_dirs.append("site/")
+    rc, stdout, _ = _run_git(["status", "--porcelain"] + track_dirs, repo_dir)
     if not stdout:
         logger.info("No vault changes to sync")
         return result
@@ -38,8 +42,8 @@ def sync_vault(repo_dir=".", dry_run=False):
         logger.info("Dry run: %d new, %d modified files", new, modified)
         return result
 
-    # Stage vault changes
-    _run_git(["add", "vault/"], repo_dir)
+    # Stage vault + site changes
+    _run_git(["add"] + track_dirs, repo_dir)
 
     # Commit
     today = date.today().isoformat()

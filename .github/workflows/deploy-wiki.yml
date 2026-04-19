@@ -3,7 +3,7 @@ name: Deploy Wiki to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: [vault/**, quartz.config.ts]
+    paths: [vault/**, site/**, quartz.config.ts]
   workflow_dispatch:
 
 permissions:
@@ -40,9 +40,15 @@ jobs:
         run: npm ci
         working-directory: /tmp/quartz
 
-      - name: Build
+      - name: Build Quartz
         run: npx quartz build
         working-directory: /tmp/quartz
+
+      - name: Overlay dashboard
+        run: |
+          cp site/index.html /tmp/quartz/public/index.html
+          cp site/render.js /tmp/quartz/public/render.js
+          cp site/data.js /tmp/quartz/public/data.js
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

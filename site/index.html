@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="ko" data-theme="dark" data-domain="ai">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>LLM Wiki</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" rel="stylesheet" />
+<style>
+  :root, [data-theme="dark"] {
+    --bg:#0f0f11; --bg-elev:#161618; --bg-sunk:#0a0a0c; --bg-tint:#1a1a1e;
+    --line:#26262b; --line-soft:#1d1d21; --line-strong:#36363d;
+    --text:#ebebec; --text-dim:#a1a1a6; --text-mute:#6e6e73; --text-faint:#4a4a4f;
+    --accent:#c9a9f5; --accent-dim:#8b6fc2;
+    --ai:#c9a9f5; --crypto:#f2b77a; --macro:#9fd8b0;
+    --up:#8dd6a4; --down:#e48484;
+    --grid-0:#151518; --grid-1:#262035; --grid-2:#3b2f53; --grid-3:#5a4485; --grid-4:#8464c2; --grid-5:#c9a9f5;
+  }
+  [data-theme="light"] {
+    --bg:#fbfaf7; --bg-elev:#ffffff; --bg-sunk:#f4f1e9; --bg-tint:#f0ede3;
+    --line:#ddd7c8; --line-soft:#eae5d6; --line-strong:#bab3a0;
+    --text:#1a1a1c; --text-dim:#55555a; --text-mute:#86868b; --text-faint:#b0b0b5;
+    --accent:#6b4cb5; --accent-dim:#8b6fc2;
+    --ai:#6b4cb5; --crypto:#c65d1a; --macro:#2c7a4e;
+    --up:#2c7a4e; --down:#b63a3a;
+    --grid-0:#eae5d6; --grid-1:#d9cff0; --grid-2:#c0a9e8; --grid-3:#9a7dd6; --grid-4:#755cb5; --grid-5:#4b2f99;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:"Pretendard",-apple-system,sans-serif; font-size:13px; line-height:1.5; -webkit-font-smoothing:antialiased; }
+  .serif { font-family:"Fraunces",Georgia,serif; }
+  .mono { font-family:"JetBrains Mono",monospace; font-feature-settings:"tnum" 1; }
+  a { color:inherit; text-decoration:none; } a:hover { color:var(--accent); }
+  ::selection { background:var(--accent); color:var(--bg); }
+
+  .shell { max-width:1320px; margin:0 auto; padding:0 28px 80px; }
+
+  /* header */
+  .header { padding:20px 0 14px; border-bottom:2px solid var(--text); display:flex; justify-content:space-between; align-items:end; }
+  .wordmark { font-family:"Fraunces",serif; font-weight:400; font-size:42px; letter-spacing:-0.035em; line-height:0.9; }
+  .wordmark em { font-style:italic; font-weight:300; color:var(--accent); }
+  .header-meta { font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--text-dim); text-align:right; }
+  .header-meta b { color:var(--text); }
+  .utilbtns { display:flex; gap:6px; margin-top:6px; }
+  .utilbtn { width:28px; height:28px; border:1px solid var(--line); background:transparent; color:var(--text-dim); border-radius:4px; display:grid; place-items:center; cursor:pointer; }
+  .utilbtn:hover { color:var(--text); border-color:var(--line-strong); }
+
+  /* nav */
+  .sub-rule { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px solid var(--line); font-size:10px; letter-spacing:0.12em; text-transform:uppercase; color:var(--text-mute); font-family:"JetBrains Mono",monospace; }
+  .section-nav { display:flex; gap:18px; }
+  .section-nav a.on { color:var(--text); }
+
+  /* ticker */
+  .ticker { display:flex; overflow:hidden; border-bottom:1px solid var(--line); font-family:"JetBrains Mono",monospace; font-size:11px; padding:6px 0; gap:32px; color:var(--text-dim); white-space:nowrap; }
+  .ticker .t { display:inline-flex; gap:6px; align-items:baseline; }
+  .ticker .t .k { color:var(--text-mute); } .ticker .t .v { color:var(--text); }
+
+  /* domain tabs */
+  .domtabs { display:grid; grid-template-columns:repeat(3,1fr); border-bottom:1px solid var(--line); margin-top:24px; }
+  .domtab { padding:18px 20px 16px; border-right:1px solid var(--line); cursor:pointer; display:flex; flex-direction:column; gap:6px; background:transparent; text-align:left; font-family:inherit; color:inherit; border-top:none; border-left:none; border-bottom:3px solid transparent; }
+  .domtab:last-child { border-right:none; }
+  .domtab:hover { background:var(--bg-elev); }
+  .domtab .dom-k { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--text-mute); }
+  .domtab .dom-n { font-family:"Fraunces",serif; font-size:26px; font-weight:400; letter-spacing:-0.02em; }
+  .domtab .dom-n em { font-style:italic; font-weight:300; }
+  .domtab .dom-counts { display:flex; gap:16px; font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--text-dim); margin-top:4px; }
+  .domtab .dom-counts b { color:var(--text); font-weight:500; }
+  .domtab[data-k="ai"] { --dc:var(--ai); } .domtab[data-k="crypto"] { --dc:var(--crypto); } .domtab[data-k="macro"] { --dc:var(--macro); }
+  .domtab[aria-selected="true"] { background:var(--bg-elev); border-bottom-color:var(--dc); }
+  .domtab[aria-selected="true"] .dom-n em { color:var(--dc); }
+  .domtab[aria-selected="true"] .dom-k { color:var(--dc); }
+
+  /* focus: articles + graph */
+  .focus { display:grid; grid-template-columns:1.5fr 1fr; gap:28px; padding:28px 0 32px; border-bottom:1px solid var(--line); }
+  .focus-col h2 { font-family:"Fraunces",serif; font-weight:400; font-style:italic; font-size:20px; margin:0 0 14px; display:flex; align-items:baseline; gap:10px; }
+  .focus-col h2::after { content:""; flex:1; height:1px; background:var(--line); }
+  .section-tag { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); letter-spacing:0.1em; text-transform:uppercase; font-style:normal; }
+  .articles { list-style:none; margin:0; padding:0; }
+  .articles li { display:grid; grid-template-columns:72px 1fr 70px; gap:16px; padding:14px 0; border-top:1px solid var(--line-soft); align-items:baseline; }
+  .articles li:first-child { border-top:none; padding-top:2px; }
+  .articles .date { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .articles .hl { font-family:"Fraunces",serif; font-weight:400; font-size:16px; line-height:1.3; color:var(--text); }
+  .articles .hl .sub { display:block; font-family:"Pretendard",sans-serif; font-size:11px; color:var(--text-dim); line-height:1.45; margin-top:3px; font-weight:300; }
+  .articles .pill { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); text-align:right; }
+  .articles .pill .tag { color:var(--accent); text-transform:uppercase; letter-spacing:0.08em; }
+  .entbar { display:flex; flex-wrap:wrap; gap:6px; padding-top:14px; border-top:1px dashed var(--line); margin-top:14px; }
+  .entchip { font-family:"JetBrains Mono",monospace; font-size:10px; padding:3px 7px; border:1px solid var(--line); color:var(--text-dim); display:inline-flex; gap:6px; align-items:baseline; }
+  .entchip b { color:var(--text); } .entchip .n { color:var(--text-faint); }
+  .entchip:hover { border-color:var(--accent); color:var(--text); }
+
+  /* graph */
+  .graph-wrap { background:var(--bg-elev); border:1px solid var(--line); padding:14px 16px 10px; }
+  .graph-wrap .graph-head { display:flex; justify-content:space-between; align-items:baseline; margin-bottom:6px; font-size:10px; font-family:"JetBrains Mono",monospace; color:var(--text-mute); letter-spacing:0.08em; text-transform:uppercase; }
+  .graph-svg { width:100%; height:260px; display:block; }
+  .graph-legend { display:flex; gap:14px; margin-top:6px; font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .graph-legend .sw { display:inline-block; width:8px; height:8px; margin-right:4px; vertical-align:middle; }
+  .graph-legend .ent .sw { background:var(--accent); border-radius:50%; }
+  .graph-legend .con .sw { background:transparent; border:1px solid var(--text-dim); border-radius:50%; }
+  .graph-legend .ind .sw { background:var(--text-dim); transform:rotate(45deg); }
+
+  /* secondary: ledger + heatmap */
+  .secondary { display:grid; grid-template-columns:1.2fr 1fr; gap:32px; padding:28px 0; border-bottom:1px solid var(--line); }
+  .tl h2 { font-family:"Fraunces",serif; font-style:italic; font-weight:400; font-size:20px; margin:0 0 14px; }
+  .tl-list { list-style:none; margin:0; padding:0; border-top:1px solid var(--line); }
+  .tl-row { display:grid; grid-template-columns:14px 1fr; gap:12px; padding:9px 0; border-bottom:1px solid var(--line-soft); font-size:12.5px; line-height:1.45; }
+  .tl-row:hover { background:var(--bg-elev); }
+  .tl-row[data-k="ai"] { --dc:var(--ai); } .tl-row[data-k="crypto"] { --dc:var(--crypto); } .tl-row[data-k="macro"] { --dc:var(--macro); }
+  .tl-row .marker { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--dc); font-weight:600; text-align:center; }
+  .tl-row .fact { color:var(--text); font-family:"Fraunces",serif; font-weight:400; font-size:14px; line-height:1.4; }
+  .tl-row .fact .entity-ref { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); margin-left:6px; }
+  .tl-day { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.12em; text-transform:uppercase; color:var(--text-mute); padding:14px 0 4px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; }
+  .tl-day b { color:var(--text-dim); font-weight:500; }
+
+  /* heatmap */
+  .heatmap h2 { font-family:"Fraunces",serif; font-style:italic; font-weight:400; font-size:20px; margin:0 0 12px; }
+  .hm-grid { display:flex; gap:4px; }
+  .hm-labels-y { display:flex; flex-direction:column; gap:3px; font-family:"JetBrains Mono",monospace; font-size:9px; color:var(--text-faint); padding-top:1px; width:18px; }
+  .hm-labels-y span { height:11px; line-height:11px; }
+  .hm-cells { display:grid; grid-auto-flow:column; grid-template-rows:repeat(7,11px); gap:3px; }
+  .hm-cells span { width:11px; height:11px; background:var(--grid-0); border-radius:2px; }
+  .hm-cells span[data-l="1"] { background:var(--grid-1); } .hm-cells span[data-l="2"] { background:var(--grid-2); }
+  .hm-cells span[data-l="3"] { background:var(--grid-3); } .hm-cells span[data-l="4"] { background:var(--grid-4); }
+  .hm-cells span[data-l="5"] { background:var(--grid-5); }
+  .hm-cells span:hover { outline:1px solid var(--text); }
+  .hm-foot { display:flex; justify-content:space-between; align-items:center; margin-top:10px; font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .hm-scale { display:flex; gap:3px; align-items:center; }
+  .hm-scale span { display:block; width:11px; height:11px; border-radius:2px; }
+  .hm-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-top:14px; padding-top:12px; border-top:1px solid var(--line-soft); }
+  .hm-stats .st .n { font-family:"Fraunces",serif; font-size:22px; font-weight:400; color:var(--text); }
+  .hm-stats .st .n em { font-style:italic; color:var(--accent); }
+  .hm-stats .st .l { font-family:"JetBrains Mono",monospace; font-size:9px; color:var(--text-mute); letter-spacing:0.08em; text-transform:uppercase; margin-top:2px; }
+
+  /* views */
+  .view { animation:fadein .25s ease-out; }
+  @keyframes fadein { from { opacity:0; transform:translateY(4px); } to { opacity:1; } }
+  .view-head { display:flex; justify-content:space-between; align-items:flex-end; gap:24px; padding:28px 0 22px; border-bottom:1px solid var(--line); margin-bottom:24px; }
+  .view-kicker { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.18em; text-transform:uppercase; color:var(--accent); margin-bottom:6px; }
+  .view-title { font-family:"Fraunces",serif; font-weight:400; font-size:36px; letter-spacing:-0.025em; margin:0; line-height:1.05; }
+  .view-title em { font-style:italic; font-weight:300; color:var(--accent); }
+  .view-sub { font-family:"Fraunces",serif; font-weight:300; font-size:14px; color:var(--text-dim); max-width:58ch; margin:0; }
+  .rel-filter { display:flex; border:1px solid var(--line); }
+  .rel-filter button { padding:6px 12px; font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.08em; text-transform:uppercase; background:transparent; border:none; border-right:1px solid var(--line); color:var(--text-mute); cursor:pointer; }
+  .rel-filter button:last-child { border-right:none; }
+  .rel-filter button:hover { color:var(--text); }
+  .rel-filter button.on { background:var(--accent); color:#1a0f2e; }
+
+  /* A-Z index */
+  .idx-wrap { column-count:3; column-gap:28px; column-rule:1px solid var(--line-soft); }
+  .idx-group { break-inside:avoid; margin-bottom:22px; }
+  .idx-group h3 { font-family:"Fraunces",serif; font-weight:400; font-size:28px; margin:0 0 6px; color:var(--accent); display:flex; align-items:baseline; gap:10px; border-bottom:1px solid var(--line); padding-bottom:4px; }
+  .idx-group h3 .c { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .idx-group ul { list-style:none; margin:0; padding:0; }
+  .idx-group li { display:grid; grid-template-columns:1fr auto; gap:8px; padding:3px 0; font-size:12.5px; border-bottom:1px dotted var(--line-soft); }
+  .idx-group li a { color:var(--text); } .idx-group li a:hover { color:var(--accent); }
+  .idx-group li .dom { font-family:"JetBrains Mono",monospace; font-size:9px; margin-right:4px; }
+  .idx-group li[data-k="ai"] .dom { color:var(--ai); } .idx-group li[data-k="crypto"] .dom { color:var(--crypto); } .idx-group li[data-k="macro"] .dom { color:var(--macro); }
+  .idx-group li .ind { font-family:"JetBrains Mono",monospace; color:var(--text-mute); font-size:10px; }
+
+  /* backlinks */
+  .bl-split { display:grid; grid-template-columns:1.3fr 1fr; gap:28px; }
+  .bl-rank h4, .bl-orphan h4 { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.14em; color:var(--text-mute); margin:0 0 12px; padding-bottom:8px; border-bottom:1px solid var(--line); }
+  .bl-rank ol { list-style:none; margin:0; padding:0; counter-reset:bl; }
+  .bl-rank ol li { counter-increment:bl; display:grid; grid-template-columns:26px 1fr auto 140px; gap:10px; align-items:center; padding:10px 0; border-bottom:1px solid var(--line-soft); }
+  .bl-rank ol li::before { content:counter(bl,decimal-leading-zero); font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-faint); }
+  .bl-rank .bl-name { font-family:"Fraunces",serif; font-size:15px; color:var(--text); }
+  .bl-rank .bl-name em { font-style:italic; color:var(--text-dim); font-size:11px; font-family:"JetBrains Mono",monospace; margin-left:8px; }
+  .bl-rank .bl-n { font-family:"Fraunces",serif; font-size:18px; color:var(--accent); font-style:italic; text-align:right; }
+  .bl-rank .bl-bar { height:4px; background:var(--bg-sunk); position:relative; }
+  .bl-rank .bl-bar span { position:absolute; left:0; top:0; bottom:0; background:linear-gradient(to right,var(--accent-dim),var(--accent)); }
+  .bl-orphan ul { list-style:none; margin:0; padding:0; }
+  .bl-orphan li { display:grid; grid-template-columns:1fr auto; gap:8px; padding:6px 0; font-size:12.5px; border-bottom:1px dashed var(--line-soft); }
+  .bl-orphan li a { color:var(--text-dim); } .bl-orphan li a:hover { color:var(--accent); }
+  .bl-orphan li .m { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-faint); }
+
+  /* colophon */
+  .colophon { margin-top:40px; padding:18px 0; border-top:2px solid var(--text); display:flex; justify-content:space-between; font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .colophon em { font-family:"Fraunces",serif; color:var(--text-dim); font-size:12px; }
+
+  /* responsive */
+  @media (max-width:980px) {
+    .focus { grid-template-columns:1fr; }
+    .secondary { grid-template-columns:1fr; }
+    .bl-split { grid-template-columns:1fr; }
+    .wordmark { font-size:32px; }
+  }
+  @media (max-width:640px) {
+    .shell { padding:0 14px 40px; }
+    .domtab .dom-n { font-size:20px; }
+    .ticker { gap:16px; font-size:10px; }
+    .articles li { grid-template-columns:56px 1fr; }
+    .articles .pill { display:none; }
+    .tl-row { grid-template-columns:12px 1fr; }
+    .idx-wrap { column-count:1; }
+    .bl-rank ol li { grid-template-columns:24px 1fr auto; }
+    .bl-rank .bl-bar { display:none; }
+    .view-head { flex-direction:column; align-items:flex-start; }
+    .view-title { font-size:28px; }
+  }
+</style>
+</head>
+<body>
+<div class="shell">
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="wordmark serif">LLM <em>Wiki</em></div>
+    <div class="header-meta">
+      <div><b id="meta-pages">—</b> pages · <b id="meta-updates">—</b> updates today</div>
+      <div>last sync <b id="meta-sync">—</b> UTC</div>
+      <div class="utilbtns">
+        <button class="utilbtn" id="theme" title="테마 전환">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- NAV -->
+  <div class="sub-rule">
+    <nav class="section-nav" id="viewnav">
+      <a href="#feed" data-v="feed" class="on">DAILY FEED</a>
+      <a href="#index" data-v="index">A-Z INDEX</a>
+      <a href="#backlinks" data-v="backlinks">BACKLINKS</a>
+    </nav>
+    <div><span id="meta-pages2"></span> PAGES</div>
+  </div>
+
+  <!-- TICKER -->
+  <div class="ticker" id="ticker" aria-label="시장 지표"></div>
+
+  <!-- VIEW: FEED -->
+  <div class="view" id="view-feed">
+
+    <!-- DOMAIN TABS -->
+    <nav class="domtabs" role="tablist" id="domtabs">
+      <button class="domtab" data-k="ai" role="tab" aria-selected="true">
+        <span class="dom-k">/ai</span>
+        <span class="dom-n serif"><em>Artificial</em> Intelligence</span>
+        <span class="dom-counts"></span>
+      </button>
+      <button class="domtab" data-k="crypto" role="tab" aria-selected="false">
+        <span class="dom-k">/crypto</span>
+        <span class="dom-n serif"><em>Crypto</em> Markets</span>
+        <span class="dom-counts"></span>
+      </button>
+      <button class="domtab" data-k="macro" role="tab" aria-selected="false">
+        <span class="dom-k">/macro</span>
+        <span class="dom-n serif"><em>Macro</em> Economy</span>
+        <span class="dom-counts"></span>
+      </button>
+    </nav>
+
+    <!-- ARTICLES + GRAPH -->
+    <section class="focus" id="focus">
+      <div class="focus-col" id="focus-articles-wrap">
+        <h2><span id="focus-title">오늘의 AI</span><span class="section-tag">latest facts</span></h2>
+        <ol class="articles" id="focus-articles"></ol>
+      </div>
+      <div class="focus-col">
+        <h2><span>노드 그래프</span><span class="section-tag">wikilinks</span></h2>
+        <div class="graph-wrap">
+          <div class="graph-head">
+            <span>LINKS <span id="graph-links">—</span> · NODES <span id="graph-nodes">—</span></span>
+          </div>
+          <svg class="graph-svg" id="graph" viewBox="0 0 360 260" preserveAspectRatio="xMidYMid meet"></svg>
+          <div class="graph-legend">
+            <span class="ent"><span class="sw"></span>엔티티</span>
+            <span class="con"><span class="sw"></span>개념</span>
+            <span class="ind"><span class="sw"></span>지표</span>
+          </div>
+        </div>
+        <div class="entbar" id="entbar"></div>
+      </div>
+    </section>
+
+    <!-- LEDGER + HEATMAP -->
+    <section class="secondary">
+      <div class="tl">
+        <h2>Recent <em class="serif">ledger</em></h2>
+        <ol class="tl-list" id="ledger"></ol>
+      </div>
+      <div class="right-col">
+        <div class="heatmap">
+          <h2>Activity <em class="serif">heatmap</em></h2>
+          <div class="hm-grid">
+            <div class="hm-labels-y"><span>M</span><span></span><span>W</span><span></span><span>F</span><span></span><span>S</span></div>
+            <div class="hm-cells" id="heatmap"></div>
+          </div>
+          <div class="hm-foot">
+            <span>지난 20주 · 140일</span>
+            <div class="hm-scale">Less <span style="background:var(--grid-0)"></span><span style="background:var(--grid-1)"></span><span style="background:var(--grid-2)"></span><span style="background:var(--grid-3)"></span><span style="background:var(--grid-4)"></span><span style="background:var(--grid-5)"></span> More</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div><!-- /view-feed -->
+
+  <!-- VIEW: INDEX -->
+  <div class="view" id="view-index" hidden>
+    <div class="view-head">
+      <div>
+        <div class="view-kicker">INDEX</div>
+        <h2 class="view-title serif">A-Z <em>인덱스</em></h2>
+        <p class="view-sub">도메인별 알파벳 분류. 한글·영문.</p>
+      </div>
+      <div class="view-toolbar">
+        <div class="rel-filter" id="idx-domfilter">
+          <button data-k="all" class="on">전체</button>
+          <button data-k="ai">AI</button>
+          <button data-k="crypto">Crypto</button>
+          <button data-k="macro">Macro</button>
+        </div>
+      </div>
+    </div>
+    <div class="idx-wrap" id="idx-wrap"></div>
+  </div>
+
+  <!-- VIEW: BACKLINKS -->
+  <div class="view" id="view-backlinks" hidden>
+    <div class="view-head">
+      <div>
+        <div class="view-kicker">BACKLINKS</div>
+        <h2 class="view-title serif"><em>백링크</em> 탐색기</h2>
+        <p class="view-sub">네트워크 허브 페이지 · 고아 페이지 · 스텁.</p>
+      </div>
+    </div>
+    <div class="bl-split">
+      <div class="bl-rank">
+        <h4 class="mono">MOST REFERENCED</h4>
+        <ol id="bl-rank"></ol>
+      </div>
+      <div class="bl-orphan">
+        <h4 class="mono">ORPHAN PAGES</h4>
+        <ul id="bl-orphan"></ul>
+        <h4 class="mono" style="margin-top:26px">STUBS</h4>
+        <ul id="bl-stub"></ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- COLOPHON -->
+  <footer class="colophon">
+    <div>QUARTZ v4 · STATIC BUILD</div>
+    <em>curated by an LLM, for human review</em>
+    <div><span id="meta-pages3"></span> PAGES</div>
+  </footer>
+
+</div>
+<script src="data.js"></script>
+<script src="render.js"></script>
+<script>
+  // Fill meta-pages2/3
+  if (window.WIKI_DATA) {
+    document.getElementById('meta-pages2').textContent = window.WIKI_DATA.meta.total_pages;
+    document.getElementById('meta-pages3').textContent = window.WIKI_DATA.meta.total_pages;
+  }
+</script>
+</body>
+</html>
