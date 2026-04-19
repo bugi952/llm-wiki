@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Kelp DAO 해킹은 DeFi 대출 시스템의 capital efficiency와 보안 간 구조적 트레이드오프 노출 [(원문)](https://cointelegraph.com/news/kelp-exploit-non-isolated-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-19**: 올해 최대 규모 해킹으로 시스템 리스크 연쇄 효과 발생 [(원문)](https://www.coindesk.com/news-analysis/2026/04/19/defi-is-dead-crypto-community-scrambles-after-usd292-million-hack-exposes-cross-chain-risks)
 - **2026-04-19**: Kelp 해킹이 플랫폼 간 대규모 자금 이탈 및 구조적 위험성 드러냄 [(원문)](https://www.coindesk.com/tech/2026/04/19/aave-records-usd6-billion-tvl-drop-as-kelp-hack-exposes-structural-risk-at-defi-lender)
 - **2026-04-19**: Kelp DAO hack 사건으로 크로스프로토콜 리스크 재조명 [(원문)](https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: Wrapped XRP (wXRP) on Solana: $1.2M 민팅, Ripple-Solana 크로스체인 DeFi 확장 (2026-04-17) [(원문)](https://decrypt.co/364792/you-can-now-use-xrp-solana-how)
@@ -26,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Aave]] | [[Kelp DAO]] | [[Exchange Security Incidents]]
+[[Kelp DAO]] | [[Aave]] | [[Exchange Security Incidents]]
 
 
 ## 모순/논쟁

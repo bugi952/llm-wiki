@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,7 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Kelp DAO 익스플로잇 피해로 V3/V4에서 $200M+ 대출 손실 [(원문)](https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9)
+- **2026-04-19**: Kelp DAO exploit 이후 $6.2B 규모 출금 패닉 발생, 유동성 위기 경험 [(원문)](https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic)
 
 
 ## 연관 페이지
+[[Kelp DAO]] | [[Cross-chain Bridge]] | [[DeFi]]
 

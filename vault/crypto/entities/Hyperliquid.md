@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Arthur Hayes의 주요 투자자로 확인 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CVW1Lc3ByV0hHV0tHaEp2b3M1aExSTldHMlZtTU9rMmctbVF2OV9LWW5LNnI5WlJiM2ZhY3pOYk9UZjdOVkdnOA?oc=5)
+- **2026-04-20**: HIP4 모멘텀으로 60일 고점 달성, 기술적 강세 신호 형성 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2eDdFUzh4XzloeF9kVng1d2ROYkc4X2VxNWFuaGZvNjBWRnplY0prX21LN0taZEM0VzFPNHJGNUV6TDBiLTBpblNzQVBrWjlLeWt1MWxNUTk5anNYT2fSAWNBVV95cUxOOV9FY0V4UWZfVGdzXzdEUWpmVm5RSFVtejBBMDNrXy05LVBlMXdNa2NCSkFfQ0RwazRlWndiZTh5b29ZcHA5aTJ0M0x5YWQ4Q2xnaWtpOWlSaVR4WEpJX3JUWGM?oc=5)
 - **2026-04-19**: 은(Silver)이 HYPE 가격 급등의 촉매제 역할 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuVm05ZXdiMExjUER3M2RCYWp3Z2hrazd5U01WdldRSGFmal9xZnltaTd6YWxtSklEWG1vX2VfM1RzVFI5R0szYzlXaXRJemVvVnJ4enlEdHdWbVlBWVZiZWdyVXljQ2JLUG8zOTJjQjJaTVNKV3VkeDVGLWxXUmwtcnpWcHRBOVVvVjU4OA?oc=5)
 - **2026-04-19**: XYZ가 Hyperliquid에서 S&P 500 perpetual futures 상품 출시 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZXU0p2U0NTd0tVbUE1MkpyaWs5STFRVVJPYmpRbi1qNTM1ZlRJU2tIanFRVktuLVAzMkl4UFJKYjktX0g5UVZqeXNrU2pZczh5d0pWWVRYOVo0bGlJS3Z2S0VDeXVEaU1iTkloMDNtdldwRnFJZ0NtRkUwUVlEblZMRHVqcXZVb0VKZC12eDBPMjhSTUlWWXNUSTgwME1RWXBNbGlCUF9Za3MzMEFfaDhXU2J2OWo1VWJZTnI5RlRmRl9pdE9BU2F2cVpTYXgyQm15bEdoSdIB3AFBVV95cUxNZ29GaVZoQk1MNWVJT0k1SmdyY1p3blBSRFNpMGo0d0FZaHRrd3hNT3IzckNtOThacXItZHdUcDdqWEUxWWV1Wmw0VnVob1BXSmpHSk1La29sSFBkOWEzR1d4bkJhYVVfXzVycFJPWTdESGszU1hjOFNLRHFzVVhoeXAydGpjZElKVmRORnBYMVJiaW5JenJ6U0pHNzdaTDZsZ2VSNHl5a21qLVgxX2V5Q0xQbUU1TlZUVXlrYldGNmsyOU9PelRPUWgyc0xPYVVKOG1oSDFKSUNWU2lD?oc=5)
 - **2026-04-19**: HIP-3 24/7 토큰화 주식 거래 시작, 오픈 인터레스트 급증 [(원문)](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21BTVByUUhiR3VydkMxbjZPQ2lhak5xajAxdy1jMmF2ZmNuYVA4d0dTM3AyM0RGcDhhTG95UktjeElEcmQzN3ZOV2RCU08tZElyaE5UdHo5Zk1HdDZKZGhENjBjb29neUV5c3BWTm1YaU9YcGlNQ2lSRkdSLWVfLXg1cEloRGdnWGdBT3daNld1ZGZBT0tHa1VBNW1ETng1MmxhdEdtZ2Uyck83c01uRw?oc=5)
@@ -40,5 +42,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Market Transparency]]
+[[Arthur Hayes]] | [[Cross-chain Bridge]]
 

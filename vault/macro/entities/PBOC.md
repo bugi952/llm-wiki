@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 리비아 중앙은행과 직접 은행 거래 협약 (2026-04-20) [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ3NHU1hCWlMySmRqbGEtTUFvMlZSNGxJQmx3NEVxLUhxYm94XzVXa2l0QldGay0tWl9UVkxoTXZDU1pNYk16Uk5MaER4aDg0R1NZeV9jUnpmNXVtQ3lLTDF5X1pmbzR2TENoWTlQUm1BUWNfUldFOFRNMWhwTjhVbkRBZzVQQTBQRXBzUmFnaWsySlRDV3pDTW5FQ2NaVV9JVjZ6bUVMeGJaajRrQk9wWnE2TGxQQXI5TjZrSjlXbHVUMnV5SFM2TGJRTlNNLVBzbGZz?oc=5)
 - **2026-04-19**: PBOC 조언가: 중국이 수입 인플레이션 버팀목 보유하나 경제적 리스크 상승 중 [(원문)](https://news.google.com/rss/articles/CBMixgFBVV95cUxOME5FTHd3eTdUMTBNUG9XSFFXYXZySXF2UzZEZ2lWUDBoYVVJekJxZnhXSXBhbkhkZm5mcTBaaWFOZ2Z5SlN3NUhMTW9qR0NJTEM3QWRTRkJtX2xqd3NMRlEzdm1oSEQ5QlpLMGJsY2hnZ0tSVExxSkNUU3pTcWZqS0RjenVDY2hwZDlJNVdSczZRVGRkaDVOU0U3YUtFTXdqTVotRUNQc2xGUHMzeXhzNFlhMjJuNHJnVnJvSmdLQ3NuMzF2Q3fSAcYBQVVfeXFMT2ZnMy1qMnYtVWotTzRTQVVkQlZqQXBiQkFuR0ttam4xYzZPOXdvczVCU0FtV1pjMlg5eXdJWjFwUzR0eHZXb3BiNFo1RDE3dFVwbmNrTXVCMlA5UUFqMEE4NVlRam1BNzhpRmpwRF9ha09RQkZBU3A2YjJwdk5DZ0FWMEpzQ2NRYWszMVNRUWVINVVtTTZIT1pOV2RSZDM3S21VdjY3aW1HR1FTVG1kRi1DdHFLRjc2SDJzLUZ3LTA2dGJsbmp3?oc=5)
 - **2026-04-19**: 중국-홍콩 금융시장 연결성 강화 약속. 통화 및 자본시장 통합 가속화 [(원문)](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDBvUGk0THlTVjBrRlFSd2Zad21wXzc2ZTBBWEp1S3Byak1wOGhOLVZETTJUQ0w3N0F1M3VKT1RiM0tuekFlejFqWWZJenNvSXVzWU1wSHRkWTFwZ1JLc2paMDJJRXZ6UmxKWEF3bTFjcTJGMWNsWWRKNzFzcnhuWElRTjR3TDQ0TWh6QVBKVVpaTWk0V2htSXJxX1k0UnR4LWF0VXF5RQ?oc=5)
 - **2026-04-19**: 2025 통화정책 기조 전환: 광범위 금리 인하에서 선별적 타겟팅 완화로 전환. 금융 구조 과잉 조정 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuZ2FBQkVxWkRPaXhYVWZETnpfa0I4bE93VkpvRHZfVkxBTTdhY0pUbzQweG1OT25kNmNUWnY4cVViNVAybE1DOURvVVdDSzNqVjBNYzFxbHdtVjV6TXN1WHhBOEs?oc=5)
@@ -31,5 +32,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Financial Stability]] | [[Monetary Policy Transmission]]
+[[China-Hong Kong Financial Integration]]
 

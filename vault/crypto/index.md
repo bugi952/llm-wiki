@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-19 18:05
+최종 갱신: 2026-04-20 00:06
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -21,6 +21,7 @@
 - [[entities/Circle|Circle]]
 - [[entities/Citadel Securities|Citadel Securities]]
 - [[entities/CoinShares|CoinShares]]
+- [[entities/Curve Finance|Curve Finance]]
 - [[entities/Dogecoin|Dogecoin]]
 - [[entities/Drift|Drift]]
 - [[entities/Drift Protocol|Drift Protocol]]
@@ -38,7 +39,9 @@
 - [[entities/Kelp DAO|Kelp DAO]]
 - [[entities/Ketman Project|Ketman Project]]
 - [[entities/Kraken|Kraken]]
+- [[entities/LayerZero|LayerZero]]
 - [[entities/Lido|Lido]]
+- [[entities/Metaplanet|Metaplanet]]
 - [[entities/Mitsui|Mitsui]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
 - [[entities/NYDIG|NYDIG]]
@@ -48,6 +51,7 @@
 - [[entities/Parasite Mining Pool|Parasite Mining Pool]]
 - [[entities/Paul Atkins|Paul Atkins]]
 - [[entities/Payward|Payward]]
+- [[entities/Polkadot|Polkadot]]
 - [[entities/Polygon|Polygon]]
 - [[entities/RAVE|RAVE]]
 - [[entities/Ramp Network|Ramp Network]]
@@ -104,4 +108,5 @@
 - [[indicators/HYPE Price|HYPE Price]]
 
 ## 📅 주간 다이제스트
+- [[weekly/2026-W17|2026-W17]]
 - [[weekly/2026-W16|2026-W16]]

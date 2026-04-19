@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 공개 상장사 중 Strategy(MSTR), 21Shares, Metaplanet 등이 수십억 달러 규모 Bitcoin 보유 [(원문)](https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios)
+- **2026-04-19**: 2024 halving cycle은 이전 사이클 대비 변동성과 상승력이 현저히 감소 (Galaxy 분석) [(원문)](https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 기관투자자의 대규모 매입으로 주류 채택 가속화 신호 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
 - **2026-04-19**: MSTR 같은 기관투자자의 수익성 증대로 추가 매입 동기 강화 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmRlZEpfZ24tVXo3TWNZUFVyc1p1TURDM0dkVlJ2Q0JrdkZ1eHo4UUFGalpGUjRLRndIMFNucF83TXZoTEI1N1FUSGZwWDdRWEE0YjNGQXdmaTlaZFd0S2p4SDhhSDZnUmttTjlfNEpUZ3NRTUVjdUxLTTR6enFGZHJRaHRCcXc2SUh0dUNnb0E0Skl0YmE2WHpPaTRnUHFBMzFSTVgwM3NPYmNNRHc?oc=5)
 - **2026-04-19**: MicroStrategy는 기관 보유자로 시장 심리 반영 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVhueXRfMUpkbm5tdTQ1US1SSTFJRUFSSkFUVkFLbEUwTHoxNlJnZjhWSjVZeFVHUkhVMVNjRXdlbXBnMFVsLWpCWTd4NGtmdWp4TUdHVlE0cjNEOW1vVWpkdmdVQkEyQm5EQk51dWh1dnJCM2E5S181WTJCWTZhWWZ4SzB2MC14b3V6cDJn?oc=5)
@@ -52,5 +54,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Mainstream Adoption]] | [[Traditional Finance Integration]]
+[[Strategy (MSTR)]] | [[21Shares]] | [[Tokenized Assets]] | [[Traditional Finance Integration]]
 

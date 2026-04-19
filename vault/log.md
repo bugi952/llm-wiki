@@ -1,8 +1,28 @@
 # 변경 이력
-최종 갱신: 2026-04-19 18:05
+최종 갱신: 2026-04-20 00:06
 
 ## [2026-04-19]
 
+- append: **Iris Energy (IREN)** ← The hidden opportunity behind IREN stock - MSN
+- append: **PBOC** ← Governors of Central Bank of Libya and People's Bank of China agree to launch direct banking transactions - Libya Herald
+- append: **Central Bank of Libya** ← Governors of Central Bank of Libya and People's Bank of China agree to launch direct banking transactions - Libya Herald
+- append: **Hyperliquid** ← Hyperliquid HYPE Hits 60-Day High on HIP4 Momentum - Exchange Bitget
+- append: **Arthur Hayes** ← Pepeto Presale Keeps Filling as Arthur Hayes Drops $1.1M on Hyperliquid While Polkadot Falls After Bridge Hack - MEXC
+- append: **Hyperliquid** ← Pepeto Presale Keeps Filling as Arthur Hayes Drops $1.1M on Hyperliquid While Polkadot Falls After Bridge Hack - MEXC
+- append: **Government Digital Asset Policy** ← Previewing Consensus' Policy Summit: State of Crypto
+- append: **DeFi** ← 'DeFi is dead': crypto community scrambles after this year's biggest hack exposes contagion risks
+- append: **Exchange Security Incidents** ← 'DeFi is dead': crypto community scrambles after this year's biggest hack exposes contagion risks
+- append: **Bitcoin** ← 2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst
+- append: **Kelp DAO** ← Kelp exploit highlights problem with non-isolated DeFi lending: Crypto execs
+- append: **DeFi** ← Kelp exploit highlights problem with non-isolated DeFi lending: Crypto execs
+- append: **Kelp DAO** ← Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic
+- append: **Aave** ← Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic
+- append: **Exchange Security Incidents** ← Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic
+- append: **Bitcoin** ← The 10 Public Companies With the Biggest Bitcoin Portfolios
+- append: **Traditional Finance Integration** ← The 10 Public Companies With the Biggest Bitcoin Portfolios
+- append: **Kelp DAO** ← Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt
+- append: **Aave** ← Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt
+- append: **Cross-chain Bridge** ← Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt
 - append: **Bitcoin** ← Strategy (MSTR) stock jumps 15% as Bitcoin rally pushes holdings to profit - CryptoRank
 - append: **Traditional Finance Integration** ← Strategy (MSTR) stock jumps 15% as Bitcoin rally pushes holdings to profit - CryptoRank
 - append: **Strategy (MSTR)** ← MicroStrategy’s Largest Bitcoin Purchase in a Year Shakes Stock Market Confidence - Yahoo Finance
@@ -83,23 +103,3 @@
 - append: **Monetary Policy Transmission** ← China expected to keep benchmark lending rates unchanged - Reuters
 - append: **Hyperliquid** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
 - append: **Arthur Hayes** ← Hyperliquid (HYPE) Hits 60-Day High as Arthur Hayes Announces HIP4 - Bitget
-- append: **Traditional Finance Integration** ← CoinShares DIME Adds Hyperliquid to Altcoin Portfolio - ETF Trends
-- append: **Hyperliquid** ← CoinShares DIME Adds Hyperliquid to Altcoin Portfolio - ETF Trends
-- append: **Arthur Hayes** ← Arthur Hayes Goes All-In on HYPE token, “Only Thing We’re Buying” - Coinpedia
-- append: **Hyperliquid** ← Arthur Hayes Goes All-In on HYPE token, “Only Thing We’re Buying” - Coinpedia
-- append: **Tokenization** ← 3 Token Unlocks to Watch in the First Week of March 2026 - Yahoo Finance
-- append: **Hyperliquid** ← Morning Minute: Hyperliquid Soars in Pivot to "Trade Everything" Exchange - Yahoo Finance
-- append: **Hyperliquid** ← HYPE Jumped 12% Amid the Hyperliquid Team’s Support for HIP-4 - incrypted
-- append: **Hyperliquid** ← Hyperliquid Foundation sets up DeFi policy advocacy group with $29 million HYPE token donation - The Block
-- append: **Crypto Regulation** ← Hyperliquid Foundation sets up DeFi policy advocacy group with $29 million HYPE token donation - The Block
-- append: **Crypto Regulation** ← Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security
-- append: **Paul Atkins** ← Warren claims SEC’s Atkins likely misled Congress over enforcement data
-- append: **Kelp DAO** ← Kelp restaking platform exploited, $293M drained in attack
-- append: **DeFi** ← Kelp restaking platform exploited, $293M drained in attack
-- append: **Agentic AI** ← MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
-- append: **Multimodal AI** ← MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
-- append: **In-Context Learning** ← Generalization in LLM Problem Solving: The Case of the Shortest Path
-- append: **Scaling Laws** ← Generalization in LLM Problem Solving: The Case of the Shortest Path
-- append: **Model Evaluation** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
-- append: **Conformal Prediction** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
-- append: **Model Efficiency** ← Benchmarking Optimizers for MLPs in Tabular Deep Learning

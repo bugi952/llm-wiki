@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Hyperliquid에 $1.1M 투자 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CVW1Lc3ByV0hHV0tHaEp2b3M1aExSTldHMlZtTU9rMmctbVF2OV9LWW5LNnI5WlJiM2ZhY3pOYk9UZjdOVkdnOA?oc=5)
 - **2026-04-19**: HYPE 토큰을 유일한 매수 대상으로 공개 입장 표명 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNjOEhmMmVLM0wtZXhvQXpuY0FneENRdHN5N2hzSlhObHNuT0VyVVVYcDV1YVlPYWY5S3pXUjhYVlNHalFoSmRwaTNEcjA0VUI0TXZ4YnpYZTkxTjhSWUs1c1Z1SGRsQXRnMUJqNkFzWHpSdlgxOWh5amhvOEp0NU9nbEg1TV9jbHdId2ZFOERKZ0IwX2fSAZsBQVVfeXFMUFNvQWhOM05LQ3lrdEMwWEFKRGRWOVhzMW1SMFdsb2hla0VRWllRVlI0YmNpaGExN2p0TEFqdC1uMnFqTFRBQzdMVVoxa1R0NzFMOHJEYVQxQlU0T3RPaG9mOXRlR18zODVHbUstTkRtX05ORXlCbmdLYVRXUk5RQ0JMZy1TYWtTR0thUGdJYTNHYUtabjhSSUEtd1k?oc=5)
 - **2026-04-19**: Hyperliquid HIP4 프로토콜 발표 및 주도 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KVUpQSGpqa3FwdjQ4WFdaT1BYQmd6S1JZMThvbHpqSW9tMXNUcGkwYmNXeEF6Sm9ZR0Z1bHdPUXdaVk9QYW1oSnBIMFRMTC1qdFhUWW1LMGQwR2NLQzR1dUUwZ9IBY0FVX3lxTE1KVUpQSGpqa3FwdjQ4WFdaT1BYQmd6S1JZMThvbHpqSW9tMXNUcGkwYmNXeEF6Sm9ZR0Z1bHdPUXdaVk9QYW1oSnBIMFRMTC1qdFhUWW1LMGQwR2NLQzR1dUUwZw?oc=5)
 - **2026-04-18**: Bitwise ETF 소식과 함께 Hyperliquid 재매입 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SENZcnl0Q1FwbEJ1NDNDdG0yeGNrVEdzUDc3OXBDYlBITlJQWWxyMzg5THlEUTN4MHB5emJsWTYxWUhjMEN2THZqOE0xVGs?oc=5)
@@ -19,5 +20,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]] | [[Mainstream Adoption]]
+[[Hyperliquid]] | [[Cross-chain Bridge]]
 

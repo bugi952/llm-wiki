@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-19 18:05
+최종 갱신: 2026-04-20 00:06
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -7,6 +7,7 @@
 - [[entities/Bank of Greece|Bank of Greece]]
 - [[entities/Bank of Italy|Bank of Italy]]
 - [[entities/Bank of Ningbo|Bank of Ningbo]]
+- [[entities/Central Bank of Libya|Central Bank of Libya]]
 - [[entities/ECB|ECB]]
 - [[entities/Ethiopia Central Bank|Ethiopia Central Bank]]
 - [[entities/Federal Reserve System|Federal Reserve System]]
@@ -41,4 +42,5 @@
 - [[indicators/US Interest Rates|US Interest Rates]]
 
 ## 📅 주간 다이제스트
+- [[weekly/2026-W17|2026-W17]]
 - [[weekly/2026-W16|2026-W16]]
