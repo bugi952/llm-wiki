@@ -5,6 +5,12 @@
   const D = window.WIKI_DATA;
   if (!D) { console.error("No WIKI_DATA"); return; }
 
+  // Quartz converts spaces to hyphens in URLs
+  function pageUrl(slug) {
+    if (!slug) return '#';
+    return slug.replace(/ /g, '-');
+  }
+
   // ---------- meta ----------
   $('#meta-pages').textContent = D.meta.total_pages;
   $('#meta-updates').textContent = D.meta.update_count;
@@ -35,10 +41,11 @@
     const ol = $('#focus-articles');
     ol.innerHTML = d.articles.map(a => {
       const dateStr = a.date ? a.date.slice(5) : '';
+      const href = pageUrl(a.slug);
       return `
         <li>
           <span class="date mono">${dateStr}</span>
-          <a href="${a.slug || '#'}" class="hl serif">${a.hl}
+          <a href="${href}" class="hl serif">${a.hl}
             <span class="sub">${a.entity}</span>
           </a>
           <span class="pill">
@@ -48,9 +55,10 @@
     }).join('');
 
     const bar = $('#entbar');
-    bar.innerHTML = d.entities.map(([name, n]) =>
-      `<a class="entchip" href="#"><b>${name}</b><span class="n">${n}</span></a>`
-    ).join('');
+    bar.innerHTML = d.entities.map(([name, n]) => {
+      const href = pageUrl(`${k}/entities/${name}`);
+      return `<a class="entchip" href="${href}"><b>${name}</b><span class="n">${n}</span></a>`;
+    }).join('');
   }
 
   function renderGraph(k) {
@@ -133,10 +141,11 @@
     const ol = $('#ledger');
     ol.innerHTML = D.ledger.map(row => {
       if (row.day) return `<li class="tl-day"><span>${row.day}</span><b>${row.subtotal}</b></li>`;
+      const href = pageUrl(row.slug);
       return `
         <li class="tl-row" data-k="${row.k}">
           <span class="marker">§</span>
-          <span class="fact">${row.fact} <span class="entity-ref">${row.entity}</span></span>
+          <span class="fact">${row.fact} <a class="entity-ref" href="${href}">${row.entity}</a></span>
         </li>`;
     }).join('');
   }
@@ -162,7 +171,7 @@
       if (!items.length) return;
       const lis = items.map(it => `
         <li data-k="${it.k}">
-          <a href="#"><span class="dom">${it.k.toUpperCase()}</span>${it.n} <span class="ind">· ${it.kind}</span></a>
+          <a href="${pageUrl(it.s)}"><span class="dom">${it.k.toUpperCase()}</span>${it.n} <span class="ind">· ${it.kind}</span></a>
         </li>`).join('');
       out.push(`<div class="idx-group"><h3>${letter}<span class="c">${items.length}</span></h3><ul>${lis}</ul></div>`);
     });
@@ -172,12 +181,15 @@
   // ---------- backlinks ----------
   function renderBacklinks() {
     const max = D.backlinks_rank.length ? D.backlinks_rank[0][3] : 1;
-    $('#bl-rank').innerHTML = D.backlinks_rank.map(([n, k, kind, bk]) => `
+    $('#bl-rank').innerHTML = D.backlinks_rank.map(r => {
+      const [n, k, kind, bk, slug] = r;
+      return `
       <li>
-        <span class="bl-name">${n} <em>${k.toUpperCase()} · ${kind}</em></span>
+        <a class="bl-name" href="${pageUrl(slug)}">${n} <em>${k.toUpperCase()} · ${kind}</em></a>
         <span class="bl-n">${bk}</span>
         <span class="bl-bar"><span style="width:${(bk / max) * 100}%"></span></span>
-      </li>`).join('');
+      </li>`;
+    }).join('');
     $('#bl-orphan').innerHTML = D.orphans.map(([n, k]) =>
       `<li><a href="#">${n}</a><span class="m">${k.toUpperCase()}</span></li>`
     ).join('');

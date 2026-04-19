@@ -290,6 +290,7 @@ def _build_index(pages):
             "n": p["title"],
             "k": p["domain"],
             "kind": {"entity": "엔티티", "concept": "개념", "indicator": "지표"}.get(p["type"], ""),
+            "s": p["slug"],
         })
     # Sort items within each letter
     for letter in index:
@@ -317,7 +318,7 @@ def _build_backlinks(pages):
     for title, count in ranked:
         p = next((pp for pp in pages if pp["title"] == title), None)
         if p:
-            rank_data.append([title, p["domain"], {"entity": "엔티티", "concept": "개념", "indicator": "지표"}.get(p["type"], ""), count])
+            rank_data.append([title, p["domain"], {"entity": "엔티티", "concept": "개념", "indicator": "지표"}.get(p["type"], ""), count, p["slug"]])
 
     # Orphans: pages with 0 incoming links
     orphans = []
