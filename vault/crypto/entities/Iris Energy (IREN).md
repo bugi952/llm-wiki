@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: Q2 매출 예상치 미달, 주가 12% 하락 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNekE5RVVlRjl3RklGb3ltOGdvYUEzN2lqemVaUEo0M0VzSDVuSlQxOGRnNXpwdDBBU25FMXMwZ2gzSFBGTktDN1VHYndqMTdYeTh0eDA3b2FCYV9xUmRsaUZsYnFBTTNjYjdQdGlwejZZX0pzR1pReFB4dGxGVWllVmVsMVhmY1FudEdRdEVZdmZkSXMzYUZjSmlHZFpFU0RxYVo4X3VQUHNhdlloSlV2V2VDVkwzSXJ5MG15VlFQdw?oc=5)
 - **2026-04-19**: AI Cloud GPU 용량 2배 증설 [(원문)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUl3MlFZOHZ0X0lwRS1HWW1RMFdzNXF1dGRfUUF1ZWRtSnllQTJyUXhfYVA1c3kyeGp5bWF0akNiMm5PcEJma1N4ckczY0ZyNW1VS2x4MDBGOGV0UFFfUTA1VUJHVWtNTHBjT1RYR0wtdnlBNno4dkxTdXR2T0p3eFE2V1JfeFRLT2pkMkJwWHZGQ1JsSy1EUFc4NkljLWstd21MdFc5cTJTRVBVbndJaS1pd1RoUlo2UVV1TEk2aUlJc0QwX3ZrQ2taSnlZNjAtaUE?oc=5)
 - **2026-04-17**: 옵션 거래자들 약세 심리, 주가 0.78% 하락 (TipRanks) [(원문)](https://news.google.com/rss/articles/CBMivAFBVV95cUxQakR2aUx1QllCM3ByVDlmRnVTWHVUTmxKcTVwc21JRHRLVktJblVIeFFXNThJUGpkaWVzY1Q0NDJybWZCcTZDbXB4QUdyb0Uxa2MwUDd4SjJ5bkF0cmhlbi1YMDcyQ3poNTUzQ1dlQktjOS1yUmNFYW1ZQS1JTkotSmhnRzFmUFJ2cG1iWGRtMWtDTmtMT2dET1l6TnpueGdhaHhVTE1YMmxoTVBTWEJfVmRJcTdjRkpuWU8wZw?oc=5)
 - **2026-04-17**: 채굴 회사들 중 일부는 운영비 충당을 위해 BTC 청산, 일부는 미래 성장을 위해 BTC 보유 [(원문)](https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,5 +21,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Infrastructure]]
+[[Mining Supply Pressure]]
 

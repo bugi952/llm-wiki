@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: 기관투자자의 대규모 매입으로 주류 채택 가속화 신호 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
+- **2026-04-19**: MSTR 같은 기관투자자의 수익성 증대로 추가 매입 동기 강화 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmRlZEpfZ24tVXo3TWNZUFVyc1p1TURDM0dkVlJ2Q0JrdkZ1eHo4UUFGalpGUjRLRndIMFNucF83TXZoTEI1N1FUSGZwWDdRWEE0YjNGQXdmaTlaZFd0S2p4SDhhSDZnUmttTjlfNEpUZ3NRTUVjdUxLTTR6enFGZHJRaHRCcXc2SUh0dUNnb0E0Skl0YmE2WHpPaTRnUHFBMzFSTVgwM3NPYmNNRHc?oc=5)
 - **2026-04-19**: MicroStrategy는 기관 보유자로 시장 심리 반영 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVhueXRfMUpkbm5tdTQ1US1SSTFJRUFSSkFUVkFLbEUwTHoxNlJnZjhWSjVZeFVHUkhVMVNjRXdlbXBnMFVsLWpCWTd4NGtmdWp4TUdHVlE0cjNEOW1vVWpkdmdVQkEyQm5EQk51dWh1dnJCM2E5S181WTJCWTZhWWZ4SzB2MC14b3V6cDJn?oc=5)
 - **2026-04-18**: 양자컴퓨터의 서명 위조 능력(Q-Day)이 Bitcoin 보안의 장기 위협으로 지적 [(원문)](https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained)
 - **2026-04-18**: Spot Bitcoin ETF 주간 $1B 유입 (3개월 최고) [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,5 +52,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Asset Allocation]] | [[Traditional Finance Integration]]
+[[Strategy (MSTR)]] | [[Mainstream Adoption]] | [[Traditional Finance Integration]]
 

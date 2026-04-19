@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 # BTC Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-18
 
 
 ## 이력
+- **2026-04-19**: 호르무즈 해협 폐쇄(미국-이란 분쟁)로 유가 상승, 비트코인 $75K 하락 [(원문)](https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 이란 호르무즈 해협 개방 선언 및 ETF 유입으로 비트코인이 $78,000에 터치 [(원문)](https://thedefiant.io/news/markets/bitcoin-touches-usd78-000-as-iran-declares-strait-of-hormuz-completely-open)
 - **2026-04-17**: 이란 호르무즈 해협 안정화 후 $78K 돌파. 예측 시장은 $84K 목표 (2026-04-17) [(원문)](https://cointelegraph.com/news/price-predictions-4-17-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: $78K 수준 도달 [(원문)](https://cointelegraph.com/news/crypto-liquidations-hit-820m-as-bitcoin-price-taps-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

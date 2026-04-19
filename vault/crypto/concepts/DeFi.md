@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Kelp 해킹이 플랫폼 간 대규모 자금 이탈 및 구조적 위험성 드러냄 [(원문)](https://www.coindesk.com/tech/2026/04/19/aave-records-usd6-billion-tvl-drop-as-kelp-hack-exposes-structural-risk-at-defi-lender)
 - **2026-04-19**: Kelp DAO hack 사건으로 크로스프로토콜 리스크 재조명 [(원문)](https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: Wrapped XRP (wXRP) on Solana: $1.2M 민팅, Ripple-Solana 크로스체인 DeFi 확장 (2026-04-17) [(원문)](https://decrypt.co/364792/you-can-now-use-xrp-solana-how)
 - **2026-04-17**: AI 에이전트가 DeFi 활동의 약 1/5 차지, 복잡한 거래에서는 인간 트레이더가 우월 [(원문)](https://decrypt.co/364727/ai-agents-already-run-a-fifth-of-defi-but-still-lose-to-humans-at-trading)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Kelp DAO]] | [[Exchange Security Incidents]]
+[[Aave]] | [[Kelp DAO]] | [[Exchange Security Incidents]]
 
 
 ## 모순/논쟁

@@ -1,8 +1,9 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-19 12:05
+최종 갱신: 2026-04-19 18:05
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
+- [[entities/Aave|Aave]]
 - [[entities/Alcoa|Alcoa]]
 - [[entities/Arthur Hayes|Arthur Hayes]]
 - [[entities/Avalanche|Avalanche]]
@@ -40,7 +41,9 @@
 - [[entities/Lido|Lido]]
 - [[entities/Mitsui|Mitsui]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
+- [[entities/NYDIG|NYDIG]]
 - [[entities/Naver-Dunamu|Naver-Dunamu]]
+- [[entities/Nomura|Nomura]]
 - [[entities/Optimism|Optimism]]
 - [[entities/Parasite Mining Pool|Parasite Mining Pool]]
 - [[entities/Paul Atkins|Paul Atkins]]

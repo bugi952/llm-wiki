@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: 최근 주가 급등에 대한 펀더멘탈 분석 평가 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkkyRWVuX2FlNUl5Y3M4NGxOWXJoMHpEQ1JNY0hCbzE0T0sxRy0tcUN4eHM4REZwVHZyeWtRSkNpMzE0XzBaeVJMVDZ5LVV0ZVMzb20zcC1HejRkbmVubDFWRTdVTk13bHF4Z0NfWVJkbHVqUkhLd0dkaGlWVHkxS3dYakZQdFVNbVA3cjJfT0lTZnd2T09DX1cxTG56Q1BzUURPXzFfZ19WUQ?oc=5)
 - **2026-04-19**: ETH 홀딩 4.875M 토큰, 총 자산 $11.8B 달성 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxQczFwSU51LTRBV0lHMWNOZFpnY3Z2dngtTVN3QlNUdjJDZFc2ZlNUamdVX3gydXlOblJZd3dhZzhhRy1ENTVSaERHTzhYb0Z2VGo5czdJbDRWQVd6eDkteXdkZjJVV1NMTXVyRDN3Rm1EVVpTQ3hNblREREl1QnFFWGJZSHl4YnVUVlZqS3JGaS14X25aQnJtRTVJMkh4OWU0SWM3ejJVcEJURHVjSVRnVUNn?oc=5)
 - **2026-04-18**: ETH 보유량 4.875M 토큰 (공식 공시) [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZ3RYSnBfQmFlMGhVeENUWGNLb051VGNjcHo0NmI1X01mTm9qMkp5TjhPODZMcVE3MldVQlpMOEVRYzZYOGgtMmpXVnpwdVV2TzNZUG5NOFgwZXVGejB4WWwzbDM?oc=5)
 - **2026-04-18**: Ethereum으로의 전략 피벗을 통한 숨겨진 상승세 창출 중 [(원문)](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDFYcEY4ZkktUTlmVXhpNXRYbnh6VEs4YTAxUHJfSWZMU2pjWUVIS2NxM3VYYzB0YnpvVFZjOS1jYlI3NHloa2llRmZoVTdYUnJ1VmY3Tzhpc0FUbXRxdHU2X1Q3Njc3ZVZxN0JmdFZVUjhCU3AwbXpic1prbzJUVTFUTmtuejRNRDNHSlJTd1NpMlVaWFZ4SVJYTQ?oc=5)
@@ -41,5 +42,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Asset Allocation]]
+[[Asset Allocation]]
 

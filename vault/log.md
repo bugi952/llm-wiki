@@ -1,8 +1,31 @@
 # 변경 이력
-최종 갱신: 2026-04-19 12:05
+최종 갱신: 2026-04-19 18:05
 
 ## [2026-04-19]
 
+- append: **Bitcoin** ← Strategy (MSTR) stock jumps 15% as Bitcoin rally pushes holdings to profit - CryptoRank
+- append: **Traditional Finance Integration** ← Strategy (MSTR) stock jumps 15% as Bitcoin rally pushes holdings to profit - CryptoRank
+- append: **Strategy (MSTR)** ← MicroStrategy’s Largest Bitcoin Purchase in a Year Shakes Stock Market Confidence - Yahoo Finance
+- append: **Bitcoin** ← MicroStrategy’s Largest Bitcoin Purchase in a Year Shakes Stock Market Confidence - Yahoo Finance
+- append: **Mainstream Adoption** ← MicroStrategy’s Largest Bitcoin Purchase in a Year Shakes Stock Market Confidence - Yahoo Finance
+- append: **Iris Energy (IREN)** ← Iris Energy shares tumble 12% as Q2 revenue falls short of expectations - Investing.com Nigeria
+- append: **Digital Yuan (e-CNY)** ← China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY - Yahoo
+- append: **Renewable Energy Policy** ← Guest Contribution: “Is a Natural Resource Curse Crowding Out US Renewable Energy?”
+- append: **Energy Market Policy** ← Guest Contribution: “Is a Natural Resource Curse Crowding Out US Renewable Energy?”
+- append: **Hyperliquid** ← How Silver Became an Unexpected Catalyst Behind Hyperliquid’s Price Surge - Yahoo Finance
+- append: **HYPE Price** ← How Silver Became an Unexpected Catalyst Behind Hyperliquid’s Price Surge - Yahoo Finance
+- append: **Kelp DAO** ← Aave sees $6 billion deposit drop as Kelp hack exposes structural risk for DeFi lender
+- append: **DeFi** ← Aave sees $6 billion deposit drop as Kelp hack exposes structural risk for DeFi lender
+- append: **RAVE** ← RaveDAO's RAVE token collapses 90% in a day as exchange probes widen
+- append: **Asset Allocation** ← Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier
+- append: **Mainstream Adoption** ← Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier
+- append: **BTC Price** ← Bitcoin price drops to $75K as new Hormuz closure puts focus on oil
+- append: **Geopolitical Security Threats** ← Bitcoin price drops to $75K as new Hormuz closure puts focus on oil
+- append: **Alcoa** ← Aluminum giant Alcoa to sell dormant smelter to Bitcoin miner NYDIG: Report
+- append: **Traditional Finance Integration** ← Aluminum giant Alcoa to sell dormant smelter to Bitcoin miner NYDIG: Report
+- append: **Mining Supply Pressure** ← Aluminum giant Alcoa to sell dormant smelter to Bitcoin miner NYDIG: Report
+- append: **BitMine (BMNR)** ← Is Bitmine Immersion Technologies (BMNR) Stock’s Recent Surge Supported By Its Fundamentals? - Yahoo Finance
+- append: **Strategy (MSTR)** ← Strategy (MSTR) stock jumps 15% as Bitcoin rally pushes holdings to profit - CryptoRank
 - append: **Looped Transformers** ← "두배 크기 트랜스포머 모델과 같은 성능 제공"...새로운 아키텍처 ‘파르카에’ 등장
 - append: **Model Efficiency** ← "두배 크기 트랜스포머 모델과 같은 성능 제공"...새로운 아키텍처 ‘파르카에’ 등장
 - append: **Alibaba** ← 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
@@ -80,26 +103,3 @@
 - append: **Model Evaluation** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
 - append: **Conformal Prediction** ← Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations
 - append: **Model Efficiency** ← Benchmarking Optimizers for MLPs in Tabular Deep Learning
-- append: **Spatial Reasoning in LLMs** ← How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study
-- append: **Spatial Intelligence in LLMs** ← How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study
-- append: **Autonomous Vehicles** ← AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving
-- append: **Anomaly Detection** ← AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving
-- append: **Explainable AI** ← Structural interpretability in SVMs with truncated orthogonal polynomial kernels
-- append: **Vision-Language Models** ← Why Do Vision Language Models Struggle To Recognize Human Emotions?
-- append: **AI Fairness & Economics** ← Why Do Vision Language Models Struggle To Recognize Human Emotions?
-- append: **Graph Neural Networks** ← How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations
-- append: **Quantum Computing** ← How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations
-- append: **AI Infrastructure** ← Prism: Symbolic Superoptimization of Tensor Programs
-- append: **Model Efficiency** ← Prism: Symbolic Superoptimization of Tensor Programs
-- append: **Medical AI** ← SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
-- append: **Quantum Computing** ← Cloning is as Hard as Learning for Stabilizer States
-- append: **Agent Safety Evaluation** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
-- append: **Multi-Agent Cooperation** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
-- append: **LLM Safety Alignment** ← CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
-- append: **Looped Transformers** ← Stability and Generalization in Looped Transformers
-- append: **Reasoning Budget Control** ← Stability and Generalization in Looped Transformers
-- append: **Speculative Decoding** ← From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning
-- append: **Reasoning Budget Control** ← From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning
-- append: **Multi-Agent Systems** ← Optimal last-iterate convergence in matrix games with bandit feedback using the log-barrier
-- append: **Spiking Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
-- append: **Graph Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning

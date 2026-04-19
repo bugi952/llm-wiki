@@ -1,11 +1,12 @@
 # MACRO Wiki
-최종 갱신: 2026-04-19 12:05
+최종 갱신: 2026-04-19 18:05
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
 - [[entities/BOJ|BOJ]]
 - [[entities/Bank of Greece|Bank of Greece]]
 - [[entities/Bank of Italy|Bank of Italy]]
+- [[entities/Bank of Ningbo|Bank of Ningbo]]
 - [[entities/ECB|ECB]]
 - [[entities/Ethiopia Central Bank|Ethiopia Central Bank]]
 - [[entities/Federal Reserve System|Federal Reserve System]]

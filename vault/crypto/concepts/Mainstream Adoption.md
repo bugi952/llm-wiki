@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 금융기관 규모의 기관 투자자 암호화폐 편입 추세 확대 [(원문)](https://www.coindesk.com/business/2026/04/19/nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-diversifier)
+- **2026-04-19**: 나스닥 상장사 MicroStrategy의 역사적 규모 매입으로 제도권 수용 증명 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
 - **2026-04-19**: Wall Street 주요 플레이어들이 온체인 예측시장 진입을 공식 검토하는 단계 진입 [(원문)](https://cointelegraph.com/news/charles-schwab-citadel-securities-weighing-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 前 영국 총리, 경제 위기 중 비트코인 지지 입장 표명 - 주요 정치인의 공개 지지 [(원문)](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)
 - **2026-04-18**: ETF 유입 확대로 기관 투자자 채택 가속화 [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Charles Schwab]] | [[Prediction Markets]]
+[[Nomura]] | [[Asset Allocation]]
 
 
 ## 모순/논쟁

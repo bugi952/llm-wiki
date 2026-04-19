@@ -11,9 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: 하루 90% 폭락. 거래소 조사 확대 중, 프로젝트 신뢰도 이슈 [(원문)](https://www.coindesk.com/markets/2026/04/19/ravedao-s-rave-token-collapses-90-in-a-day-as-exchange-probes-widen)
 - **2026-04-19**: RaveDAO, 가격 급등/급락 과정에서 시장조종 의혹으로 Binance/Bitget 조사 대상 [(원문)](https://cointelegraph.com/news/ravedao-denies-manipulation-binance-bitget-probe-rave-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 
 ## 연관 페이지
-[[Binance]] | [[Bitget]] | [[Exchange Security Incidents]] | [[Market Transparency]]
+[[Exchange Security Incidents]]
 

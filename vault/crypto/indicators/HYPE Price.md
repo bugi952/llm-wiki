@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 # HYPE Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-18
 
 
 ## 이력
+- **2026-04-19**: 귀금속 시장과의 예상 외 강한 연관성 확인 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuVm05ZXdiMExjUER3M2RCYWp3Z2hrazd5U01WdldRSGFmal9xZnltaTd6YWxtSklEWG1vX2VfM1RzVFI5R0szYzlXaXRJemVvVnJ4enlEdHdWbVlBWVZiZWdyVXljQ2JLUG8zOTJjQjJaTVNKV3VkeDVGLWxXUmwtcnpWcHRBOVVvVjU4OA?oc=5)
 - **2026-04-18**: Arthur Hayes는 $150을 목표로 하는 강세 전망 제시 [(원문)](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2pJV2lnN1lPU3NfS0ZKYV9DcEtxeGRpd0FKZlRoSklXZWhtNnNyVGdzWWZYei1iWUVHemt2RWpJbVVNN3g3dFF2Qi1UY0g2WUs4VzR4WW9YWGhkQ3gzT3p3a1lRQVJ2ekZSQnBCMGc2Y2pYa0hpSndlaFhhUWx6ZjFGcnp0Y21nazc1SG9ReHZjajRLR09KMWp0cHhmQnJGZk9hWk12UkI5bmQtVXY0bU1OYw?oc=5)
 - **2026-04-18**: HYPE 토큰이 $50을 상회 (Stablecoin 제안 경쟁 진행 중) [(원문)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVMxLWtkb0pyS2Q1QzBjdkZUSXAySW1nMUlzV0RXNFdMREVmaXkxRW9VOVZreGpkdUlrMVI0bnpybDJxZ29venBQQzg4SmNaV2d3SlRvemFBaU02ekxnVjFTT3d4dFNMZEpwLTJuU2M4Z0hmNURuUGJDbmlLZGdXUEhoRXZiZW8?oc=5)
 - **2026-04-17**: 2026년 상반기 25% 상승세 지속 중 [(원문)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVJrbThvNGRtenI3cGg4T0R6enVQcFVlc2dTRFM2VXJnMDdCNkxPY2xZZDJzYVV3MFl4UTkySWl3dGxOTlBpUzBHX3VEaXlxZnJSNHJ4bks2WnNBMGo4ZjJramZaYVBYYTRBaHBadFVCMGM4bjg4cGdFS1dUMFlTSHRqU2VyUlJiR3FlcGZQMGxZUFlRQXJzNkpn0gGfAUFVX3lxTE13VU9WdnBReVprN3VCMmdUbmROUjJKTXdMaXF5YUFGand0QlJQenRhSnNrZmVaS3A2cDZNT1I5c1o5SVdkRElxdHFxMnE1WHZiYnh5UXpNeWpoZ0hxVkNuS25zTG1ZcDNQSFBJWDM2b3JqTG1MXzUyWHMzY2Zxd2d6YWVoSFVlSy1XOUtTbXh0T3NCbEt6cEM1VW9jNjlWRQ?oc=5)
