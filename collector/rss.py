@@ -18,6 +18,8 @@ DOMAIN_BY_TYPE = {
 FALLBACK_URLS = {
     "anthropic-blog": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
     "openai-blog": "https://raw.githubusercontent.com/capjamesg/openai-blog-rss/main/feed.xml",
+    # arXiv RSS is empty on weekends; Atom API always works
+    "arxiv-cs-ai-cl-lg": "https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&start=0&max_results=50&sortBy=submittedDate&sortOrder=descending",
 }
 
 

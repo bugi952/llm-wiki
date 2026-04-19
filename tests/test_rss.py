@@ -97,3 +97,23 @@ def test_collect_rss_fallback_on_rsshub_failure(mock_parse, db):
     count = collect_rss(db, feeds)
     assert count == 1
     assert mock_parse.call_count == 2
+
+
+@patch("collector.rss.feedparser.parse")
+def test_collect_rss_arxiv_fallback_on_weekend(mock_parse, db):
+    """When arXiv RSS is empty (weekends), should fall back to Atom API."""
+    atom_entries = [
+        {"title": "Weekend Paper on LLMs", "link": "https://arxiv.org/abs/2604.99999",
+         "summary": "A new approach to scaling.", "published": "2026-04-19"},
+    ]
+    mock_parse.side_effect = [
+        {"bozo": False, "entries": []},  # RSS empty (weekend)
+        {"bozo": False, "entries": atom_entries},  # Atom API fallback
+    ]
+    feeds = [{"name": "arxiv-cs-ai-cl-lg", "url": "https://rss.arxiv.org/rss/cs.AI+cs.CL+cs.LG", "type": "arxiv"}]
+    count = collect_rss(db, feeds)
+    assert count == 1
+    assert mock_parse.call_count == 2
+    # Verify fallback URL was the Atom API
+    fallback_call_url = mock_parse.call_args_list[1][0][0]
+    assert "export.arxiv.org/api/query" in fallback_call_url

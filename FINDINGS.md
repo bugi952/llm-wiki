@@ -4,10 +4,10 @@
 
 ## Phase 1 (2026-04-11)
 
-### arXiv RSS 주말 비어있음
+### arXiv RSS 주말 비어있음 — 해결 (2026-04-19)
 - arXiv RSS는 평일에만 업데이트. 토/일에 수집하면 0건
-- arXiv Atom API(`export.arxiv.org/api/query`)는 항상 동작하므로 폴백 가능
-- Phase 2에서 검토
+- FALLBACK_URLS에 Atom API 추가로 주말에도 자동 폴백
+- feedparser가 Atom도 파싱하므로 기존 패턴 그대로 동작
 
 ### CLI JSON 파싱 실패 빈번
 - `claude -p --model haiku`가 JSON 대신 마크다운/텍스트로 응답하는 경우 있음
@@ -19,9 +19,10 @@
 - Phase 1에서는 DeepMind(공식 RSS) + Import AI로 검증
 - Phase 2에서 RSSHub 설치 예정
 
-### St. Louis Fed RSS 파싱 실패
+### St. Louis Fed RSS 파싱 실패 — 해결 (2026-04-19)
 - `stlouisfed.org/rss` 응답이 malformed XML
-- Phase 2 macro 소스 작업 시 대안 URL 확인 필요
+- 실제로는 설정에 미사용. FRED 데이터는 API(`fredapi`)로 수집, 블로그는 `fredblog.stlouisfed.org/feed/`로 정상 동작
+- 매크로 뉴스는 Fed/ECB/BOJ 공식 RSS로 충분히 커버. 추가 조치 불필요
 
 ## Phase 2 (2026-04-11)
 
