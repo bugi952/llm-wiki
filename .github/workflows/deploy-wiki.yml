@@ -3,7 +3,8 @@ name: Deploy Wiki to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: [vault/**]
+    paths: [vault/**, quartz.config.ts]
+  workflow_dispatch:
 
 permissions:
   contents: read
