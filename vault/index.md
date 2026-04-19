@@ -1,5 +1,6 @@
 ---
 cssclasses: [wide-page]
+title: LLM Wiki
 ---
 
 # Wiki Dashboard
