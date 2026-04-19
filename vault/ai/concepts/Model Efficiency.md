@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-14**: Parcae: 루프형 트랜스포머로 동일 데이터·연산에서 기존 모델 능가 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209435)
 - **2026-04-19**: Post-training INT4 양자화에서 FP32 수렴 후 갑작스러운 성능 붕괴 발견 (INT4 gap 11% → 517%, Pythia-160m 154개 체크포인트 분석) [(원문)](https://arxiv.org/abs/2604.15167v1)
 - **2026-04-19**: 8개 시각 벤치마크에서 pruning 방법·VLM 아키텍처 간 일반화 가능한 최적 설정 도출 [(원문)](https://arxiv.org/abs/2604.15188v1)
 - **2026-04-19**: e-graph 재작성과 기호 추론으로 하드웨어 제약 하에서 증명된 부최적 영역 제거 [(원문)](https://arxiv.org/abs/2604.15272v1)
@@ -97,7 +98,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Vision-Language Models]] | [[Visual Token Pruning]]
+[[Looped Transformers]] | [[Transformer Expressivity]]
 
 
 ## 모순/논쟁

@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-19 06:16
+최종 갱신: 2026-04-19 12:05
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -18,6 +18,7 @@
 - [[entities/Chainlink|Chainlink]]
 - [[entities/Charles Schwab|Charles Schwab]]
 - [[entities/Circle|Circle]]
+- [[entities/Citadel Securities|Citadel Securities]]
 - [[entities/CoinShares|CoinShares]]
 - [[entities/Dogecoin|Dogecoin]]
 - [[entities/Drift|Drift]]
@@ -29,6 +30,7 @@
 - [[entities/Grayscale|Grayscale]]
 - [[entities/Grinex|Grinex]]
 - [[entities/HIVE|HIVE]]
+- [[entities/Hyper Foundation|Hyper Foundation]]
 - [[entities/Hyperliquid|Hyperliquid]]
 - [[entities/Iris Energy (IREN)|Iris Energy (IREN)]]
 - [[entities/JPMorgan|JPMorgan]]

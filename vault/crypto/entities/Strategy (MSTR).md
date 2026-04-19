@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: 최근 주가 변동성으로 인한 Bitcoin 익스포저 밸류에이션 재평가 진행 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWVFcDFHc1VkZ19ZQ2U3TFVFMlZsRjduckpUUHliVnFvZWRvRHpEYlhzZ1N0OHAtQkFBdm9BQjRrTlIya0RQVEtrU3VFblNQb0FBMEo4RTdzaEZhQkdMYlpjX3R5QlhFbWpMbmRQdHBEb3ZGcnJmWk9fOTZsWlNPcXpWNWJhZklvaUJGZ04yaHZOX0Qyd2tzVE9rdENEbHpUUTc2dnMwbWZqdk5uSDFFZUNn?oc=5)
 - **2026-04-19**: 비트코인 가격 수준이 단기 재무 전망을 결정하는 주요 요인 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVhueXRfMUpkbm5tdTQ1US1SSTFJRUFSSkFUVkFLbEUwTHoxNlJnZjhWSjVZeFVHUkhVMVNjRXdlbXBnMFVsLWpCWTd4NGtmdWp4TUdHVlE0cjNEOW1vVWpkdmdVQkEyQm5EQk51dWh1dnJCM2E5S181WTJCWTZhWWZ4SzB2MC14b3V6cDJn?oc=5)
 - **2026-04-18**: 최근 주가 변동성 후 Bitcoin exposure 나레이티브 재검토 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2Zwb0lyM2U3TnpjYnNGRG1YSV9kNHI3bjRPd0IwSU1ZTXYzUFlCeEJBTkNnUGhHdkdsNm9fUEctQ2hTdDRKUWhnbF9CVlRyMWpCWko4X2VnV3NKRkhMNXh0aDRxaF9zZmZueTQ2bEFlUlFzZTJ3SVdLbk9kS2tZa2RIc1pFaTFFemljbTVpTlJ3MlhxRVdNZWptSUI?oc=5)
 - **2026-04-18**: STRC 배당을 11.50%로 인상 (Bitcoin 약세 상황 반영) [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczNaRHJuRU9XZ3J0ZlhmeEQ5dnlVS2pfazNIYmQxTGctbW5jY0lKRUdLanZId0FhT1k4MFJkQVBmZDdMejVLNThTRWVRcUpOMl9oOXQ1ZEtqSnczYy10b3NjRVUzUGhnLWFQcVQ4Qk5XWmFZd1BDMDRiOWJnNTZoUjdvajd5aDYtbE1j?oc=5)
@@ -27,5 +28,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Asset Allocation]] | [[Traditional Finance Integration]]
+[[Asset Allocation]] | [[Traditional Finance Integration]]
 

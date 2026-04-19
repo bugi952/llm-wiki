@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-19 06:16
+최종 갱신: 2026-04-19 12:05
 
 ## 🏢 엔티티
 - [[entities/Adobe|Adobe]]
@@ -236,6 +236,7 @@
 - [[concepts/Visual Token Pruning|Visual Token Pruning]]
 - [[concepts/Voice Synthesis|Voice Synthesis]]
 - [[concepts/Weight Templates|Weight Templates]]
+- [[concepts/World Model|World Model]]
 
 ## 📅 주간 다이제스트
 - [[weekly/2026-W16|2026-W16]]

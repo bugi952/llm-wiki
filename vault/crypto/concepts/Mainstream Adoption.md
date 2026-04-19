@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: Wall Street 주요 플레이어들이 온체인 예측시장 진입을 공식 검토하는 단계 진입 [(원문)](https://cointelegraph.com/news/charles-schwab-citadel-securities-weighing-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 前 영국 총리, 경제 위기 중 비트코인 지지 입장 표명 - 주요 정치인의 공개 지지 [(원문)](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)
 - **2026-04-18**: ETF 유입 확대로 기관 투자자 채택 가속화 [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: X(구 Twitter)가 주식 및 암호화폐 cashtags 트레이딩 기능 출시, 수일 내 $1B 거래량 달성 [(원문)](https://thedefiant.io/news/markets/x-cashtags-billion-dollar-volume-11wls0)
@@ -22,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Government Digital Asset Policy]]
+[[Charles Schwab]] | [[Prediction Markets]]
 
 
 ## 모순/논쟁

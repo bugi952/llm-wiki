@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: ETH 홀딩 4.875M 토큰, 총 자산 $11.8B 달성 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxQczFwSU51LTRBV0lHMWNOZFpnY3Z2dngtTVN3QlNUdjJDZFc2ZlNUamdVX3gydXlOblJZd3dhZzhhRy1ENTVSaERHTzhYb0Z2VGo5czdJbDRWQVd6eDkteXdkZjJVV1NMTXVyRDN3Rm1EVVpTQ3hNblREREl1QnFFWGJZSHl4YnVUVlZqS3JGaS14X25aQnJtRTVJMkh4OWU0SWM3ejJVcEJURHVjSVRnVUNn?oc=5)
 - **2026-04-18**: ETH 보유량 4.875M 토큰 (공식 공시) [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZ3RYSnBfQmFlMGhVeENUWGNLb051VGNjcHo0NmI1X01mTm9qMkp5TjhPODZMcVE3MldVQlpMOEVRYzZYOGgtMmpXVnpwdVV2TzNZUG5NOFgwZXVGejB4WWwzbDM?oc=5)
 - **2026-04-18**: Ethereum으로의 전략 피벗을 통한 숨겨진 상승세 창출 중 [(원문)](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDFYcEY4ZkktUTlmVXhpNXRYbnh6VEs4YTAxUHJfSWZMU2pjWUVIS2NxM3VYYzB0YnpvVFZjOS1jYlI3NHloa2llRmZoVTdYUnJ1VmY3Tzhpc0FUbXRxdHU2X1Q3Njc3ZVZxN0JmdFZVUjhCU3AwbXpic1prbzJUVTFUTmtuejRNRDNHSlJTd1NpMlVaWFZ4SVJYTQ?oc=5)
 - **2026-04-18**: Ethereum 4.423M 토큰 보유, 총 암호자산+현금 $9.6B (공식 발표) [(원문)](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQT0FSRkw5TThwcTBwZnhzei1pa2hMdHhKQm9HSVVSMlZyR1VEWW82ZmM0dDJ5RmJ2SVJwSUs5MXNrNHFxMnFGV210LW1xMDZsTjB4ckQ5TEdWUUhtYWV6LWVuYjY2SXFkT0I4d1dGaXVPSHJkZF9TdnpUVkdFblVoc3JHUDJjbEQwc09wUmxfd1NERF83SWpsZHJmSVNUTlJITkpQWmN5bUtiZ3V6a203SnRCV0h6cnhlY3E3RDJWVWk2MklGYVR1SUxpVDdBMk9qYk1MMUhMY3RGenA4RUpaS185SlhnaF9QYm41TFN3U3JPdmI3eG1GcHJ1bTRsRWowV3JJTUN2U0Jrd2hQbl9YSl9tcU82WXZwNXh4R2Z3LTdqY1k5a2FrZGV3?oc=5)
@@ -40,5 +41,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]]
+[[Ethereum]] | [[Asset Allocation]]
 

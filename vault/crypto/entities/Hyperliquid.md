@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-19**: XYZ가 Hyperliquid에서 S&P 500 perpetual futures 상품 출시 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZXU0p2U0NTd0tVbUE1MkpyaWs5STFRVVJPYmpRbi1qNTM1ZlRJU2tIanFRVktuLVAzMkl4UFJKYjktX0g5UVZqeXNrU2pZczh5d0pWWVRYOVo0bGlJS3Z2S0VDeXVEaU1iTkloMDNtdldwRnFJZ0NtRkUwUVlEblZMRHVqcXZVb0VKZC12eDBPMjhSTUlWWXNUSTgwME1RWXBNbGlCUF9Za3MzMEFfaDhXU2J2OWo1VWJZTnI5RlRmRl9pdE9BU2F2cVpTYXgyQm15bEdoSdIB3AFBVV95cUxNZ29GaVZoQk1MNWVJT0k1SmdyY1p3blBSRFNpMGo0d0FZaHRrd3hNT3IzckNtOThacXItZHdUcDdqWEUxWWV1Wmw0VnVob1BXSmpHSk1La29sSFBkOWEzR1d4bkJhYVVfXzVycFJPWTdESGszU1hjOFNLRHFzVVhoeXAydGpjZElKVmRORnBYMVJiaW5JenJ6U0pHNzdaTDZsZ2VSNHl5a21qLVgxX2V5Q0xQbUU1TlZUVXlrYldGNmsyOU9PelRPUWgyc0xPYVVKOG1oSDFKSUNWU2lD?oc=5)
+- **2026-04-19**: HIP-3 24/7 토큰화 주식 거래 시작, 오픈 인터레스트 급증 [(원문)](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21BTVByUUhiR3VydkMxbjZPQ2lhak5xajAxdy1jMmF2ZmNuYVA4d0dTM3AyM0RGcDhhTG95UktjeElEcmQzN3ZOV2RCU08tZElyaE5UdHo5Zk1HdDZKZGhENjBjb29neUV5c3BWTm1YaU9YcGlNQ2lSRkdSLWVfLXg1cEloRGdnWGdBT3daNld1ZGZBT0tHa1VBNW1ETng1MmxhdEdtZ2Uyck83c01uRw?oc=5)
 - **2026-04-19**: Hyperliquid Foundation, DeFi 정책 옹호 그룹 설립에 $29M HYPE 기부 [(원문)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk9Cb1o3VXpPOWgtTkNzR0ZzY0Z2R1g4VDlLZ2dXUHh2a0E4aWVsRUxjY3NLZjBmU3BwVDFpTnFqQ3FNaDBPaGxrM0FCWFM3em5KaVNOdDZPU1JfOHQ1cWdBckpQQU1XNjdYT0YteDQ0RGhzWkdjYk50UG5TeGVveW1FUWt2NUJSR2twMEM4N2N3MlFFYzdFVEo4cGtoSHZ4ZmsxbXdWZkdydEtSeWlidVM4bU1CWHBTSU1aVXV0WUctbXdiRzRSSg?oc=5)
 - **2026-04-19**: HIP-4 프로토콜 업그레이드 지지로 HYPE 토큰 12% 상승 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1FVSzdSbmRSbnY2SDFIRzBWZy1MU1ZTN21NUWF3ZXF1ckV0Z0NFRWFiU3JMa0x3TmwzUTlNRFEzU3lGQVRJODVnZHczRm1ic29QaHNhTzYzZWk1X2FHMXl2NXlzd0hEMHhkczlPMnNOT1JNbktPc29XNndnU2lKUURESDljTjh6TDJxZlBB?oc=5)
 - **2026-04-19**: Hyperliquid, 'Trade Everything' 플랫폼으로 확장 (주식·상품 등) [(원문)](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHVCWHZGbUkwbnBvczloZVdYTGNzTV93cnRleFN4bDRuVmRlQ3lQVGtNeEpEM2N2d1RPWUFGUnh6NUItV2lUQkpCcEU0Y0F0eHFaT0MwT0xSc2RGZEhYdk0wMFBPcnRheTR4emtxcW9LT253dVRrYmdMdlFqUkRLUHRKOHAtSUtlY1pUWg?oc=5)
@@ -37,5 +39,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[DeFi]] | [[Crypto Regulation]]
+[[Traditional Finance Integration]]
 

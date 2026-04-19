@@ -1,8 +1,34 @@
 # 변경 이력
-최종 갱신: 2026-04-19 06:16
+최종 갱신: 2026-04-19 12:05
 
 ## [2026-04-19]
 
+- append: **Looped Transformers** ← "두배 크기 트랜스포머 모델과 같은 성능 제공"...새로운 아키텍처 ‘파르카에’ 등장
+- append: **Model Efficiency** ← "두배 크기 트랜스포머 모델과 같은 성능 제공"...새로운 아키텍처 ‘파르카에’ 등장
+- append: **Alibaba** ← 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
+- append: **Generative Models** ← 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
+- append: **World Model** ← 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
+- append: **xAI** ← xAI, '그록' 음성 API 출시..."테슬라·스타링크가 쓰던 기술 그대로"
+- append: **Voice Synthesis** ← xAI, '그록' 음성 API 출시..."테슬라·스타링크가 쓰던 기술 그대로"
+- append: **Google** ← 구글, 독립형 AI 음악 생성 플랫폼 ‘플로우 뮤직’ 공개
+- append: **Generative Models** ← 구글, 독립형 AI 음악 생성 플랫폼 ‘플로우 뮤직’ 공개
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion - Moomoo
+- append: **Strategy (MSTR)** ← Reassessing MicroStrategy (MSTR) Valuation After Recent Share Price Volatility And Bitcoin Exposure Narrative - Yahoo Finance
+- append: **Hyperliquid** ← Hyperliquid’s HIP‑3 Open Interest Skyrockets— Is 24/7 Tokenized Equity About To Rewrite Wall Street? - CryptoRank
+- append: **Tokenized Stocks** ← Hyperliquid’s HIP‑3 Open Interest Skyrockets— Is 24/7 Tokenized Equity About To Rewrite Wall Street? - CryptoRank
+- append: **Hyper Foundation** ← Hyper Foundation Backs New DC Lobby with 1M HYPE for Clearer DeFi Rules - thedefiant.io
+- append: **Crypto Regulation** ← Hyper Foundation Backs New DC Lobby with 1M HYPE for Clearer DeFi Rules - thedefiant.io
+- append: **Political Interference in Crypto Regulation** ← Hyper Foundation Backs New DC Lobby with 1M HYPE for Clearer DeFi Rules - thedefiant.io
+- append: **Hyperliquid** ← XYZ launches S&P 500 perpetuals on Hyperliquid, HYPE holds above $40.00 - FXStreet
+- append: **Traditional Finance Integration** ← XYZ launches S&P 500 perpetuals on Hyperliquid, HYPE holds above $40.00 - FXStreet
+- append: **RAVE** ← RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity
+- append: **Exchange Security Incidents** ← RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity
+- append: **Market Transparency** ← RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity
+- append: **Prediction Markets** ← Charles Schwab, Citadel Securities weigh entering prediction markets
+- append: **Charles Schwab** ← Charles Schwab, Citadel Securities weigh entering prediction markets
+- append: **Mainstream Adoption** ← Charles Schwab, Citadel Securities weigh entering prediction markets
+- append: **Apple** ← Zero-Copy GPU Inference from WebAssembly on Apple Silicon
+- append: **On-Device LLM Inference** ← Zero-Copy GPU Inference from WebAssembly on Apple Silicon
 - append: **Machine Unlearning** ← Class Unlearning via Depth-Aware Removal of Forget-Specific Directions
 - append: **Hallucination Reduction** ← Fabricator or dynamic translator?
 - append: **Token Pruning** ← Compressing Sequences in the Latent Embedding Space: $K$-Token Merging for Large Language Models
@@ -77,29 +103,3 @@
 - append: **Multi-Agent Systems** ← Optimal last-iterate convergence in matrix games with bandit feedback using the log-barrier
 - append: **Spiking Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
 - append: **Graph Neural Networks** ← A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
-- append: **Agentic Microphysics** ← Agentic Microphysics: A Manifesto for Generative AI Safety
-- append: **Multi-Agent Systems** ← Agentic Microphysics: A Manifesto for Generative AI Safety
-- append: **Agent Safety Evaluation** ← Agentic Microphysics: A Manifesto for Generative AI Safety
-- append: **Multi-Agent Systems** ← Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications
-- append: **Agentic AI** ← Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications
-- append: **Clinical AI** ← RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
-- append: **Agentic AI** ← RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
-- append: **Model Evaluation** ← Context Over Content: Exposing Evaluation Faking in Automated Judges
-- append: **Evaluation Robustness** ← Context Over Content: Exposing Evaluation Faking in Automated Judges
-- append: **AI in Systems Engineering** ← AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment
-- append: **Quantum Kernel Methods** ← Optimal algorithmic complexity of inference in quantum kernel methods
-- append: **Multimodal AI** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
-- append: **Vision-Language Models** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
-- append: **Humor Understanding** ← Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding
-- append: **Medical AI** ← MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events
-- append: **Uncertainty Quantification** ← MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events
-- append: **Safety-Critical Reinforcement Learning** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
-- append: **Autonomous Vehicles** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
-- append: **Agent Safety Evaluation** ← RL-STPA: Adapting System-Theoretic Hazard Analysis for Safety-Critical Reinforcement Learning
-- append: **User Behavior Simulation** ← Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
-- append: **Multi-Agent Systems** ← Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
-- append: **Vision-Language Models** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
-- append: **Visual Token Pruning** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
-- append: **Model Efficiency** ← VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models
-- append: **Agentic Workflow Scheduling** ← Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines
-- append: **Agent-Aided Design** ← Agent-Aided Design for Dynamic CAD Models
