@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 이미지 번역 시 텍스트 속성(색상, 테두리 등) 인식·복원 기술 발전으로 디자인 무결성 보존 가능 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209500)
 - **2026-04-20**: AcuLa: 언어 모델을 음성 인코더와 정렬하여 임상 의미 이해 강화 [(원문)](https://arxiv.org/abs/2512.04847)
 - **2025-10-15**: Video-to-audio 생성 모델이 음성 분리 다운스트림 태스크에 효율적 활용 (MMAudioSep) [(원문)](https://arxiv.org/abs/2510.09065)
 - **2025-02-15**: LLM 기반 Multi-Agent 프레임워크(MosAIG)로 다문화 이미지 생성 및 문화 표현 공정성 개선 [(원문)](https://arxiv.org/abs/2502.15972)
@@ -109,7 +110,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Medical AI]] | [[Speech Model Safety]]
+[[Text-to-Image Generation]] | [[Vision-Language Models]]
 
 
 ## 모순/논쟁

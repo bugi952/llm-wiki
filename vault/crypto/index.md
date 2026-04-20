@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-20 07:34
+최종 갱신: 2026-04-20 12:13
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -21,6 +21,7 @@
 - [[entities/Circle|Circle]]
 - [[entities/Citadel Securities|Citadel Securities]]
 - [[entities/CoinShares|CoinShares]]
+- [[entities/Coinbase|Coinbase]]
 - [[entities/Curve Finance|Curve Finance]]
 - [[entities/Dogecoin|Dogecoin]]
 - [[entities/Drift|Drift]]
@@ -36,13 +37,16 @@
 - [[entities/Hyperliquid|Hyperliquid]]
 - [[entities/Iris Energy (IREN)|Iris Energy (IREN)]]
 - [[entities/JPMorgan|JPMorgan]]
+- [[entities/Japanese Central Clearing House|Japanese Central Clearing House]]
 - [[entities/Kelp DAO|Kelp DAO]]
 - [[entities/Ketman Project|Ketman Project]]
 - [[entities/Kraken|Kraken]]
 - [[entities/LayerZero|LayerZero]]
 - [[entities/Lido|Lido]]
+- [[entities/Lydian|Lydian]]
 - [[entities/Metaplanet|Metaplanet]]
 - [[entities/Mitsui|Mitsui]]
+- [[entities/Mizuho|Mizuho]]
 - [[entities/Moody's|Moody's]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
 - [[entities/NYDIG|NYDIG]]
@@ -54,7 +58,9 @@
 - [[entities/Payward|Payward]]
 - [[entities/Polkadot|Polkadot]]
 - [[entities/Polygon|Polygon]]
+- [[entities/Polymarket|Polymarket]]
 - [[entities/RAVE|RAVE]]
+- [[entities/Rain|Rain]]
 - [[entities/Ramp Network|Ramp Network]]
 - [[entities/Ripple|Ripple]]
 - [[entities/Singapore Gulf Bank|Singapore Gulf Bank]]
@@ -77,6 +83,7 @@
 - [[concepts/AI Legal Risk|AI Legal Risk]]
 - [[concepts/AI-Generated Content Authentication|AI-Generated Content Authentication]]
 - [[concepts/Asset Allocation|Asset Allocation]]
+- [[concepts/Autonomous Onchain Agents|Autonomous Onchain Agents]]
 - [[concepts/Bitcoin Education|Bitcoin Education]]
 - [[concepts/Bitcoin Upgrade Strategy|Bitcoin Upgrade Strategy]]
 - [[concepts/CBDC|CBDC]]
@@ -89,6 +96,7 @@
 - [[concepts/Geopolitical Security Threats|Geopolitical Security Threats]]
 - [[concepts/Government AI Policy|Government AI Policy]]
 - [[concepts/Government Digital Asset Policy|Government Digital Asset Policy]]
+- [[concepts/HIP4|HIP4]]
 - [[concepts/Layer 2|Layer 2]]
 - [[concepts/Mainstream Adoption|Mainstream Adoption]]
 - [[concepts/Market Liquidation Mechanics|Market Liquidation Mechanics]]

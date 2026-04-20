@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: NYSE American에서 보통주 상장 폐지 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFpDejFaNDB6YUhOOGNORnBUUmt0NkRyUDUwSzl4RzBlVjlJazgxNHU4Rnc2ZnpiYTBSeG9ucDFpaGFISlFKVzNFNl81NjVSdnBBZHNyZFh1U2ttSXRoc1JGTkhkSjBZWGRZb05objEwQjQwa05mVU9sNEwxVk1YRGxfVHdZdTI5V3pwVi1XRmVCMURaUVBzb1FidzI2Skt4emxkUFpaV1ZGZnpQYU5n?oc=5)
 - **2026-04-20**: Cantor Fitzgerald 초기 커버리지 목표주가 $39 (Ethereum Treasury 규모 기반) [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3V1NUNKVmk3R0NCNGEtejN6R2xNcUJObFhZRHoxSlMxSXJVX3VhdFltSG9UVXBqSUp5SER4Q255ckd1ZS1Mc2phOFpzMW9WSm5YMVIzNmxTUXBJdDV0TnBPUmxaM1B4MzluX3hWNlJBaWszakdNSlNUWlZLMFFwbDhZUll5bjRzZ1QyVkxQaWFESkE2TXc?oc=5)
 - **2026-04-20**: 대규모 Ethereum 매입을 통한 자산 다각화 및 Fusaka 업그레이드 준비 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWRKUE04WFE0UGVIYzlvYlRyelFSc3F5TGJGWXNuampCdTYxY1BHYkJwZWE0Wlg2NnJtZkM5NlkxRV9BenZvcThnU2VHZVZrTnZ4a3RGcFlhWElFd21kVy04ZWdZVW1DM1dyZGxuZm11c1B3TW4xVlBjelc2dDJMQUw2dS15dFc1MHlyVE53RlNOTVJRUWc?oc=5)
 - **2026-04-20**: 스테이킹 사업이 핵심 경쟁력('Staking Juggernaut') [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXdmckxhZnhyUUIwN2Z6QXFUT1J1d2NicEYxem1RU2hpR1NvRUc1bmRIa0NZTHRHS2JpRmE0Y3Uyem5RNW1NVWNkRkRPSnJnTjNzdXdLanV0VGNQUmpVLXY4aFFhT0EtSzJFLS1aeWRHdHpwa3lnVTQ4M0NLNUozcmNSSWwwajBmZEozT2dn?oc=5)

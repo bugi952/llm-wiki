@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: US-Iran 갈등으로 $74K 이하 급락 (미군 이란 화물선 나포) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 양자 컴퓨팅 위협 대응 전략이 Ethereum과 상이한 경로 추진 중 [(원문)](https://cointelegraph.com/explained/bitcoin-and-ethereum-quantum-threat-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 공개 상장사 중 Strategy(MSTR), 21Shares, Metaplanet 등이 수십억 달러 규모 Bitcoin 보유 [(원문)](https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios)
 - **2026-04-19**: 2024 halving cycle은 이전 사이클 대비 변동성과 상승력이 현저히 감소 (Galaxy 분석) [(원문)](https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 기관투자자의 대규모 매입으로 주류 채택 가속화 신호 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
@@ -54,5 +56,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[21Shares]] | [[Tokenized Assets]] | [[Traditional Finance Integration]]
+[[Geopolitical Security Threats]] | [[BTC Price]]
 

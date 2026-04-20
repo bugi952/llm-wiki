@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 양자 컴퓨팅 위협 대응 전략이 Bitcoin과 상이한 경로 추진 중 [(원문)](https://cointelegraph.com/explained/bitcoin-and-ethereum-quantum-threat-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 기관투자자(BitMine)의 대규모 매입 지속 [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEo1d3NTcGFaTHhuY1k0VTZOSGY3amRMNElCUWwtbE0yU01BZDlmTGlzc3Y3UDQ2UkJuVEMxcXBSNXBXakxLZ2xDRmxMNXBjTmZyc1BPdWt3QUNDMFJ6NlpqNExmY0ZpQV9xSFAwVjE0STF4bThNaU9oZW1UWC1DTTNn?oc=5)
 - **2026-04-20**: BitMine이 Ethereum 283만 토큰 보유 공시 [(원문)](https://news.google.com/rss/articles/CBMijwJBVV95cUxNam1vRTBMaTdYdEVqN3hYZWQ5M2F1WGNacXNJYnZaSDV0WC1RLVdYSmZIZHlXYzI4dXF2SUtzSkp6b2VPU0RFcnhZWDVqbXdsbWhIdWFTTlNsVWpzOXhUZTFueVh2T3l0VUJhaU9fd2dISWxpR2xmVDZqRWt2MnoyYkRQLWFHZ1hZOEtYMFdIR0RnbHF3MEJzYndqYWM2MEJ6SzhHbkdSc1pPV0otMU1yZk4xUmw5X0tYUzhwZUMyMTdoOTJTMmlJYzVlUXlpT19razF3bjdNMFFKY2Q4OEU4eTJiYWg4VEF5bXV4amR4SGhESGc4RkVUWWhMaDBWNVg2ZG85NklPeVpYWGZ2WTU4?oc=5)
 - **2026-04-20**: BitMine의 Ethereum 보유량 대폭 증가 [(원문)](https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXFLVnViVWpLNzFPR1Vza1EySW5zYmhaX1UzNE5leE5oWEhzLS1vRVFteGYtVEpQc0NPajdudTFFSElqUi1pemVXZzZZa3RFcTcwRjcyTGZ3cTVsMUduc1gxUUJUVVBmcDk2LUZYZ09JVk05cEtWcEc0RVFqNUg3ZHRDRm9IRTFDV1RfREFCUTBzUTBYRGx6Tm5tWV8wTENPZlVBUmlINThSZ2dWdnRKQWNxUmlJcmc5aTZlTGhTSFVkZUFvdHc2SVVIby1JUmgzVXBZeHRBcVBWdHppWnVJV1Y5MHNENEdjakF0QkhBd0VTRGQ3NnRmdUFsNjlPQ052VWc?oc=5)
@@ -29,5 +30,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Mainstream Adoption]] | [[Traditional Finance Integration]]
+[[Bitcoin]] | [[Quantum Security]] | [[Quantum Threat]] | [[Quantum-Resistant Cryptography]] | [[Bitcoin Upgrade Strategy]]
 

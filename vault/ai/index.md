@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-20 07:34
+최종 갱신: 2026-04-20 12:13
 
 ## 🏢 엔티티
 - [[entities/Adobe|Adobe]]
@@ -16,12 +16,14 @@
 - [[entities/Google|Google]]
 - [[entities/Google DeepMind|Google DeepMind]]
 - [[entities/Hugging Face|Hugging Face]]
+- [[entities/Lotte Innovate|Lotte Innovate]]
 - [[entities/Matrix Renewables|Matrix Renewables]]
 - [[entities/Meta AI|Meta AI]]
 - [[entities/Microsoft|Microsoft]]
 - [[entities/Nvidia|Nvidia]]
 - [[entities/OpenAI|OpenAI]]
 - [[entities/PennyLane|PennyLane]]
+- [[entities/Physical Intelligence|Physical Intelligence]]
 - [[entities/Qualcomm|Qualcomm]]
 - [[entities/Recursive Superintelligence|Recursive Superintelligence]]
 - [[entities/TelePIX|TelePIX]]
@@ -29,6 +31,7 @@
 - [[entities/Uber|Uber]]
 - [[entities/Wayve|Wayve]]
 - [[entities/xAI|xAI]]
+- [[entities/로보티즈|로보티즈]]
 
 ## 💡 개념
 - [[concepts/AADvark (Dynamic CAD Assembly Agent)|AADvark (Dynamic CAD Assembly Agent)]]
@@ -106,6 +109,7 @@
 - [[concepts/Chain-of-Thought Validity Assessment|Chain-of-Thought Validity Assessment]]
 - [[concepts/Claude Code|Claude Code]]
 - [[concepts/Claude Miso|Claude Miso]]
+- [[concepts/Claude Token Counter|Claude Token Counter]]
 - [[concepts/Clinical AI|Clinical AI]]
 - [[concepts/Coarse-to-Fine Token Ordering|Coarse-to-Fine Token Ordering]]
 - [[concepts/Code Deobfuscation with CoT|Code Deobfuscation with CoT]]
@@ -263,6 +267,7 @@
 - [[concepts/Medical AI|Medical AI]]
 - [[concepts/Medical Imaging with Deep Learning|Medical Imaging with Deep Learning]]
 - [[concepts/Memory Misevolution|Memory Misevolution]]
+- [[concepts/Memory Processing Unit (MPU)|Memory Processing Unit (MPU)]]
 - [[concepts/Memory Transfer Learning|Memory Transfer Learning]]
 - [[concepts/Mental Health AI|Mental Health AI]]
 - [[concepts/Metacognition in AI|Metacognition in AI]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 150만+ 전 세계 Visa 가맹점에서 암호화폐 직접 결제 인프라 완성 [(원문)](https://bitcoinmagazine.com/news/lydian-launches-visa-platinum-crypto-card)
 - **2026-04-19**: 금융기관 규모의 기관 투자자 암호화폐 편입 추세 확대 [(원문)](https://www.coindesk.com/business/2026/04/19/nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-diversifier)
 - **2026-04-19**: 나스닥 상장사 MicroStrategy의 역사적 규모 매입으로 제도권 수용 증명 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
 - **2026-04-19**: Wall Street 주요 플레이어들이 온체인 예측시장 진입을 공식 검토하는 단계 진입 [(원문)](https://cointelegraph.com/news/charles-schwab-citadel-securities-weighing-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Nomura]] | [[Asset Allocation]]
+[[Stripe]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

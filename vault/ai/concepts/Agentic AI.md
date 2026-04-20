@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Google Cloud 에이전틱 AI 실제 도입 사례: 카카오뱅크(Gemini Enterprise 1800명), CJ ENM(Veo 영상생성, Imagen 이미지생성), 메가존소프트 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209475)
+- **2026-04-17**: xAI Grok 4.3에서 에이전트 능력 강화 및 아키텍처 개선 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209481)
 - **2026-04-20**: Evolve-CTF를 통해 13개 모델 구성의 강건성 검증 및 일반화 한계 실증 [(원문)](https://arxiv.org/abs/2602.05523)
 - **2026-04-20**: LRM은 자신의 추론이 도구 결과와 충돌할 때 자신을 신뢰하는 경향 발생, 정답 도구 결과를 무시하는 'Tool Ignored' 문제 (arXiv:2604.08281) [(원문)](https://arxiv.org/abs/2604.08281)
 - **2026-04-20**: Seed1.8: 멀티턴 상호작용, 도구 사용, 멀티스텝 실행을 지원하는 기초 모델. LLM/VLM 성능 유지하면서 검색/코드 생성/GUI 상호작용 포함 [(원문)](https://arxiv.org/abs/2603.20633)
@@ -180,7 +182,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agent Safety Evaluation]] | [[Jailbreak Detection]]
+[[Google]] | [[Google DeepMind]] | [[AI Deployment]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-19**: 미국 국방부가 앤트로픽을 '공급망 위험' 지정했으나 NSA는 Claude Miso를 실운영 중 (정책과 실제 기술 채택 괴리) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209494)
 - **2026-02-13**: 사이버 프로파간다(인간-AI 결합)는 EU AI Act, Section 230의 인간/봇 이진 프레임으로 규제 불가능한 새로운 정책 공백 [(원문)](https://arxiv.org/abs/2602.13088)
 - **2025-09-11**: 과학 논문 인용 패턴 분석으로 AI 시대 금융 버블 예측 신호 검출 실패 [(원문)](https://arxiv.org/abs/2509.11982)
 - **2026-04-20**: AI 기술의 사회적 영향을 다학제적으로 검토하는 커뮤니티 거버넌스 체계 (FAccT) [(원문)](https://arxiv.org/abs/2604.16224)
@@ -38,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agent Communication]]
+[[Anthropic]] | [[Defense AI]] | [[Claude Miso]]
 
 
 ## 모순/논쟁

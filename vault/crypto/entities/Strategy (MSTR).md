@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Saylor, semi-monthly dividend 제안 + BTC 대규모 매수 계획 지속 표현 [(원문)](https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Bitcoin 포지션 수익성 회복 (BTC 가격 상승으로) [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9nTFlrZXNHcjRUWjZQQkFhR1VkTFZudkktV1ZoeEVfaGhaMDBOZ2h1RHlEal9KVGhkbzY3Tkw4d2ZHZ29vTkRvVzNUaGFDOFo3aUNDTWVvei0yalUxbElHWmhwaWtUTGs2ajZwdFM2X0lCR0ZQZXdZWUV3SkluNTQ0ckQtV1Z5RVFwekYyOWZsSEU3UTBoZGhtU1AtVVVJSnpEUTQxRTdrT2hNRXltS0s3WnJfbU9jSVZaTVZmWjdZVXc?oc=5)
 - **2026-04-19**: 1년 내 최대 규모 Bitcoin 매입으로 기관투자자의 암호화폐 포지션 강화 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
 - **2026-04-19**: Bitcoin 가격 상승으로 보유 자산 가치 증가, 주가 15% 급등 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmRlZEpfZ24tVXo3TWNZUFVyc1p1TURDM0dkVlJ2Q0JrdkZ1eHo4UUFGalpGUjRLRndIMFNucF83TXZoTEI1N1FUSGZwWDdRWEE0YjNGQXdmaTlaZFd0S2p4SDhhSDZnUmttTjlfNEpUZ3NRTUVjdUxLTTR6enFGZHJRaHRCcXc2SUh0dUNnb0E0Skl0YmE2WHpPaTRnUHFBMzFSTVgwM3NPYmNNRHc?oc=5)

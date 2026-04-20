@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 일본 주요 금융기관, 정부채권 토큰화로 담보 관리 자동화 및 정산 효율화 추진 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds)
+- **2026-04-20**: Lydian × Rain × Visa 협력으로 300+ 디지털 자산 결제 가능한 크립토 카드 런칭 [(원문)](https://bitcoinmagazine.com/news/lydian-launches-visa-platinum-crypto-card)
 - **2026-04-20**: 공개 상장 회사들의 대규모 Bitcoin 포트폴리오 편입 추세 확대 [(원문)](https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios)
 - **2026-04-19**: 전통 대형 제조사가 유휴 산업 시설을 비트코인 채굴 인프라로 재편 [(원문)](https://cointelegraph.com/news/alcoa-sells-massena-smelter-nydig-bitcoin-mining-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 주요 상장사의 Bitcoin 포지션 확대로 수익 창출 본격화 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmRlZEpfZ24tVXo3TWNZUFVyc1p1TURDM0dkVlJ2Q0JrdkZ1eHo4UUFGalpGUjRLRndIMFNucF83TXZoTEI1N1FUSGZwWDdRWEE0YjNGQXdmaTlaZFd0S2p4SDhhSDZnUmttTjlfNEpUZ3NRTUVjdUxLTTR6enFGZHJRaHRCcXc2SUh0dUNnb0E0Skl0YmE2WHpPaTRnUHFBMzFSTVgwM3NPYmNNRHc?oc=5)
@@ -24,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Strategy (MSTR)]] | [[21Shares]] | [[Bitcoin]] | [[Tokenized Assets]]
+[[Nomura]] | [[Tokenized Assets]] | [[Tokenization]]
 
 
 ## 모순/논쟁

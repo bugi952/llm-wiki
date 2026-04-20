@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: US-Iran 갈등 심화: 이란 보복 위협 → BTC 가격 즉각 반응 (2026-04) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 2026-04-20 US-Iran 전쟁 위험으로 BTC/ETH/SOL 동시 하락, 유가 상승 - 지정학적 리스크의 자산 연동 현상 [(원문)](https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks)
 - **2026-04-19**: 중동 지정학 위기가 유가를 매개로 비트코인 가격에 직접 영향 미침 [(원문)](https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 중동 석유 위기 → 암호화폐 수요 증가 연결고리 (HYPE 사례) [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxONzZvczhTRU9NNE5VTWkzUmd2aW9UbGhLMWx4a3g3eF9ucVVPWTlZWUhhb2VYNFowajB5Mkt2a2JNeTExZ1dQSFpIbWdqdVhwQ0pVOEpUaS1FaDRuYW1lXzl0Wm5kSWRHU3h5YWR1ejF5YlRPN1NHTEdCbjVOdVJ2Z1l3ejlGNlAyZVg3LU50UTlDbm9pNVF1cjFkYUo?oc=5)
 - **2026-04-18**: Iran 호르무즈 해협 폐쇄 → BTC $76K 하락, 지정학적 위험의 즉시적 시장 영향 입증 [(원문)](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)
@@ -23,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]]
+[[Bitcoin]] | [[BTC Price]]
 
 
 ## 모순/논쟁

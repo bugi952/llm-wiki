@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 2026-04-20 $290M 익스플로잇 발생 - LayerZero 설정 오류 원인, 북한 Lazarus 그룹 귀속 [(원문)](https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus)
 - **2026-04-20**: 3억 달러 규모 스마트 계약 익스플로잇 발생 [(원문)](https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi)
 - **2026-04-20**: LayerZero 브릿지 익스플로잇으로 $293M 손실, rsETH 무단 민팅 [(원문)](https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9)
 - **2026-04-19**: 2026-04 Kelp DAO exploit: $291M 유출, Aave 연쇄 유동성 위기 촉발 [(원문)](https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic)
@@ -21,5 +22,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[DeFi]] | [[Exchange Security Incidents]]
+[[LayerZero]] | [[Exchange Security Incidents]] | [[Geopolitical Security Threats]]
 

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 한국 과학기술부 AI 특화 병원 AX-레디 시범사업: 100억원 2년 지원, 진단·치료·행정 전 영역 AI 패키지 구현 목표 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209488)
 - **2026-03-01**: 의료 영상에서 차등 프라이버시 효과를 인코더 기하학 변위와 스펙트럼 차원으로 분해해 분석 가능(DP-RGMI 프레임) [(원문)](https://arxiv.org/abs/2603.01098)
 - **2026-04-20**: 청진음 분류에서 LLM 정렬 기반 다중모달 접근으로 SOTA 달성 [(원문)](https://arxiv.org/abs/2512.04847)
 - **2025-09-13**: Google Gemini 2.5 Flash 기반 다중 영상 모드(CT, MRI, X-ray, 초음파) 자동 진단 및 임상 리포트 생성 [(원문)](https://arxiv.org/abs/2509.13590)
@@ -56,7 +57,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Private Inference]] | [[Clinical AI]] | [[Uncertainty Quantification]]
+[[AI Deployment]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-17**: Grok 4.3에서 더 긴 문맥 처리와 영상 이해 능력 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209481)
 - **2026-01-26**: 객체 수 추정 시 시각 증거보다 텍스트 프롬프트를 선호하는 경향; 객체 수 증가 시 더 강해짐 [(원문)](https://arxiv.org/abs/2601.05201)
 - **2025-09-13**: VLM을 의료 영상 해석에 적용, 좌표 검증 및 가우시안 확률 모델링으로 이상치 분포 표현 [(원문)](https://arxiv.org/abs/2509.13590)
 - **2025-02-15**: T2I 생성 모델의 다문화 장면에서 문화적 정렬·품질·지식 평가 (5개국, 25개 랜드마크, 9000개 이미지) [(원문)](https://arxiv.org/abs/2502.15972)
@@ -33,7 +34,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hallucination Reduction]] | [[Mechanistic Interpretability]]
+[[xAI]] | [[Agentic AI]]
 
 
 ## 모순/논쟁

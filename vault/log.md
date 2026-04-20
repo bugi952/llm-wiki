@@ -1,8 +1,67 @@
 # 변경 이력
-최종 갱신: 2026-04-20 07:34
+최종 갱신: 2026-04-20 12:13
 
 ## [2026-04-20]
 
+- append: **Energy Market Policy** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
+- append: **Renewable Energy Policy** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
+- append: **Multimodal AI** ← 플리토, ‘이미지 번역 프로’ 출시…”디자인은 그대로·텍스트만 자연스럽게 변환”
+- append: **Text-to-Image Generation** ← 플리토, ‘이미지 번역 프로’ 출시…”디자인은 그대로·텍스트만 자연스럽게 변환”
+- append: **AI Infrastructure** ← 오픈AI·MS의 데이터센터 공사 40% 지연...서비스 확장 늦어지나
+- append: **Robotic Manipulation** ← 로보티즈, 휴머노이드 'AI 사피엔스' 프로토타입 공개...AI 소스코드 오픈 공개
+- append: **Medical AI** ← 과기부, AI 특화 병원 시범사업 공모..."권역별 의료 AI 네트워크 구축"
+- append: **AI Semiconductors** ← 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
+- append: **LLM-Based Hardware Optimization** ← 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
+- append: **Robotic Manipulation** ← 롯데이노베이트 "AI 로봇 두뇌 '아이멤버', 일상부터 산업 현장까지 확장 전략"
+- append: **AI Regulation** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
+- append: **Claude Miso** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
+- append: **Defense AI** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
+- append: **xAI** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
+- append: **Agentic AI** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
+- append: **Vision-Language Models** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
+- append: **Agentic AI** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
+- append: **Google** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
+- append: **AI Deployment** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
+- append: **Text-to-Image Generation** ← 화제의 이미지 모델 '덕트 테이프'...'GPT-이미지-2' 출시 임박?
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (NYSE American: BMNR) withdraws common stock listing - Stock Titan
+- append: **China Interest Rates** ← China leaves lending benchmarks unchanged for 11th month in April - MSN
+- append: **Traditional Finance Integration** ← Lydian Launches Visa Platinum Crypto Card to Enable Everyday Spending of Digital Assets
+- append: **Mainstream Adoption** ← Lydian Launches Visa Platinum Crypto Card to Enable Everyday Spending of Digital Assets
+- append: **Hyperliquid** ← Hyperliquid HYPE Hits 60-Day High on HIP4 Momentum - Binance
+- append: **21Shares** ← 21Shares files to launch ETF tracking Hyperliquid’s HYPE token - MSN
+- append: **Hyperliquid** ← 21Shares files to launch ETF tracking Hyperliquid’s HYPE token - MSN
+- append: **Aave** ← A $300 million borrowing spike on Aave signals liquidity crunch after exploit
+- append: **Geopolitical Security Threats** ← Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks
+- append: **Kelp DAO** ← LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus
+- append: **DeFi** ← The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack
+- append: **Market Liquidation Mechanics** ← The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack
+- append: **Stablecoin** ← BIS warns dollar stablecoins could strain banks and policy
+- append: **Government Digital Asset Policy** ← BIS warns dollar stablecoins could strain banks and policy
+- append: **Strategy (MSTR)** ← Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends
+- append: **AI Infrastructure** ← Coinbase is testing AI agents that show up on Slack and email
+- append: **Autonomous Onchain Agents** ← Coinbase is testing AI agents that show up on Slack and email
+- append: **Vercel** ← Cloud hosting firm Vercel confirms ‘limited’ hack of user info
+- append: **Supply Chain Security** ← Cloud hosting firm Vercel confirms ‘limited’ hack of user info
+- append: **Bitcoin** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
+- append: **Ethereum** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
+- append: **Quantum Security** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
+- append: **Prediction Markets** ← Polymarket in talks to raise $400M at a $15B valuation: Report
+- append: **Exchange Security Incidents** ← Hackers impersonated eth.limo team to hijack its domain: Post-mortem
+- append: **Bitcoin** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
+- append: **Geopolitical Security Threats** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
+- append: **BTC Price** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
+- append: **Tokenized Assets** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
+- append: **Traditional Finance Integration** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
+- append: **Nomura** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
+- append: **Claude Code** ← Claude Token Counter, now with model comparisons
+- append: **DeepSeek** ← "딥시크-V4, 이번 주 출시" 예측 등장...하드웨어 한계 돌파 가능성
+- append: **Mixture of Experts** ← "딥시크-V4, 이번 주 출시" 예측 등장...하드웨어 한계 돌파 가능성
+- append: **Physical Intelligence** ← 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
+- append: **Robotic Manipulation** ← 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
+- append: **Robotic Manipulation** ← 중국, 휴머노이드 하프 마라톤서 기술 도약 선보여..."인간 기록 돌파"
+- append: **Robotic Manipulation** ← [게시판] 아이엘, 애지봇과 휴머노이드 개발 MOU 등 단신
+- append: **AI Deployment** ← [게시판] 아이엘, 애지봇과 휴머노이드 개발 MOU 등 단신
+- append: **Community Solar** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
 - append: **Evaluation Robustness** ← Fragile Thoughts: How Large Language Models Handle Chain-of-Thought Perturbations
 - append: **Speculative Decoding** ← ConFu: Contemplate the Future for Better Speculative Sampling
 - append: **Jailbreak Detection** ← Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover
@@ -44,62 +103,3 @@
 - append: **Self-Evolving Agent Architecture** ← Scalable Multi-Task Learning through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents
 - append: **Time Series Reasoning** ← Sequential Regression Learning with Randomized Algorithms
 - append: **Medical AI** ← Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models
-- append: **Clinical AI** ← Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models
-- append: **Model Evaluation** ← The threat of analytic flexibility in using large language models to simulate human data
-- append: **Evaluation Robustness** ← The threat of analytic flexibility in using large language models to simulate human data
-- append: **User Behavior Simulation** ← The threat of analytic flexibility in using large language models to simulate human data
-- append: **Medical AI** ← Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation
-- append: **Vision-Language Models** ← Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation
-- append: **Clinical AI** ← Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation
-- append: **Multimodal AI** ← MMAudioSep: Taming Video-to-Audio Generative Model Towards Video/Text-Queried Sound Separation
-- append: **Voice Synthesis** ← MMAudioSep: Taming Video-to-Audio Generative Model Towards Video/Text-Queried Sound Separation
-- append: **LLM Safety Alignment** ← When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
-- append: **Jailbreak Detection** ← When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
-- append: **AI Safety** ← When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
-- append: **Diffusion Models** ← Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models
-- append: **Private Inference** ← Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models
-- append: **Foundation Models for Physical Systems** ← PULSE: Privileged Knowledge Transfer from Rich to Deployable Sensors for Embodied Multi-Sensory Learning
-- append: **Robotic Manipulation** ← PULSE: Privileged Knowledge Transfer from Rich to Deployable Sensors for Embodied Multi-Sensory Learning
-- append: **Foundation Models for Physical Systems** ← The Machine Learning Approach to Moment Closure Relations for Plasma: A Review
-- append: **Multimodal AI** ← Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding
-- append: **Medical AI** ← Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding
-- append: **Molecular Dynamics Machine Learning** ← Comparing the latent features of universal machine-learning interatomic potentials
-- append: **Mechanistic Interpretability** ← Comparing the latent features of universal machine-learning interatomic potentials
-- append: **Hallucination Reduction** ← Mechanisms of Prompt-Induced Hallucination in Vision-Language Models
-- append: **Vision-Language Models** ← Mechanisms of Prompt-Induced Hallucination in Vision-Language Models
-- append: **Mechanistic Interpretability** ← Mechanisms of Prompt-Induced Hallucination in Vision-Language Models
-- append: **Hallucination Reduction** ← VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck
-- append: **Information Theory** ← VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck
-- append: **RAG (Retrieval-Augmented Generation)** ← AI-assisted Protocol Information Extraction For Improved Accuracy and Efficiency in Clinical Trial Workflows
-- append: **Clinical AI** ← AI-assisted Protocol Information Extraction For Improved Accuracy and Efficiency in Clinical Trial Workflows
-- append: **Diffusion Models** ← 1S-DAug: One-Shot Data Augmentation for Robust Few-Shot Generalization
-- append: **Agent Safety Evaluation** ← Capture the Flags: Family-Based Evaluation of Agentic LLMs via Semantics-Preserving Transformations
-- append: **Agentic AI** ← Capture the Flags: Family-Based Evaluation of Agentic LLMs via Semantics-Preserving Transformations
-- append: **Anomaly Detection** ← KRONE: Scalable LLM-Augmented Log Anomaly Detection via Hierarchical Abstraction
-- append: **AI in Systems Engineering** ← KRONE: Scalable LLM-Augmented Log Anomaly Detection via Hierarchical Abstraction
-- append: **Agent Communication Protocols** ← Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP
-- append: **Model Context Protocol** ← Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP
-- append: **Multi-Agent Systems** ← Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP
-- append: **AI Regulation** ← Puppets or partners? Governing cyborg propaganda in the digital public square
-- append: **Private Inference** ← Differential privacy representation geometry for medical image analysis
-- append: **Medical AI** ← Differential privacy representation geometry for medical image analysis
-- append: **World Model** ← Social-JEPA: Emergent Geometric Isomorphism
-- append: **Multi-Agent Systems** ← Social-JEPA: Emergent Geometric Isomorphism
-- append: **Uncertainty Quantification** ← Scalable Posterior Uncertainty for Flexible Density-Based Clustering
-- append: **Streaming Video Understanding** ← OSCBench: Benchmarking Object State Change in Text-to-Video Generation
-- append: **Brain-Computer Interfaces** ← ArrayTac: A Closed-loop Piezoelectric Tactile Platform for Continuously Tunable Rendering of Shape, Stiffness, and Friction
-- append: **RAG (Retrieval-Augmented Generation)** ← Spectral Tempering for Embedding Compression in Dense Passage Retrieval
-- append: **Model Efficiency** ← Spectral Tempering for Embedding Compression in Dense Passage Retrieval
-- append: **AI Safety** ← Cognitive Agency Surrender: Defending Epistemic Sovereignty via Scaffolded AI Friction
-- append: **Human-AI Cognitive Alignment** ← Cognitive Agency Surrender: Defending Epistemic Sovereignty via Scaffolded AI Friction
-- append: **LLM Safety Alignment** ← Cognitive Agency Surrender: Defending Epistemic Sovereignty via Scaffolded AI Friction
-- append: **Quantum Computing** ← HQF-Net: A Hybrid Quantum-Classical Multi-Scale Fusion Network for Remote Sensing Image Segmentation
-- append: **Mixture-of-Experts** ← HQF-Net: A Hybrid Quantum-Classical Multi-Scale Fusion Network for Remote Sensing Image Segmentation
-- append: **Voice Synthesis** ← Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video
-- append: **Human-AI Cognitive Alignment** ← "AI가 알아서 내 감정 변화 읽는다"...GIST, AI 감정 복원 기술 개발
-- append: **AI Semiconductors** ← [양현상 칼럼] 국방 판을 바꾸는 4대 기술과 융합혁명
-- append: **AI Infrastructure** ← [양현상 칼럼] 국방 판을 바꾸는 4대 기술과 융합혁명
-- append: **BitMine (BMNR)** ← How Bitmine’s Giant Buyback And Ethereum Holdings At Bitmine Immersion Technologies (BMNR) Has Changed Its Investment Story - Sahm
-- append: **Ethereum** ← How Bitmine’s Giant Buyback And Ethereum Holdings At Bitmine Immersion Technologies (BMNR) Has Changed Its Investment Story - Sahm
-- append: **BitMine (BMNR)** ← BitMine Immersion (BMNR) Announces ETH Holdings Exceeding 2.83 Million Tokens and Total Crypto and Cash Holdings of $13.4 Billion - PR Newswire
-- append: **Ethereum** ← BitMine Immersion (BMNR) Announces ETH Holdings Exceeding 2.83 Million Tokens and Total Crypto and Cash Holdings of $13.4 Billion - PR Newswire

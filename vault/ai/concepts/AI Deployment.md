@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 한국 기업의 에이전틱 AI 채택: 금융(카카오뱅크), 미디어(CJ ENM), 클라우드(메가존소프트) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209475)
+- **2026-04-20**: 제조 공정 데이터 기반 휴머노이드 로봇의 산업 환경 최적화 및 양산 계획 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209502)
 - **2026-04-20**: 비전 트랜스포머 기반 크로스스펙트럼(RGB+NIR) 해충 탐지 시스템 도입 (SWNet) [(원문)](https://arxiv.org/abs/2604.16147)
 - **2026-04-20**: 재생 에너지 비중 증가 환경에서 점유자 쾌적도·에너지 비용·그리드 유연성을 동시 최적화하는 실운영 사례 [(원문)](https://arxiv.org/abs/2604.16033)
 - **2026-04-20**: 33명의 기술자가 책임 명확화 여부를 LLM 채택 의사결정의 핵심 요소로 지목(3개 대형 기술조직) [(원문)](https://arxiv.org/abs/2604.15344)
@@ -45,7 +47,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Safety-Critical Reinforcement Learning]]
+[[Google]] | [[Google DeepMind]] | [[Agentic AI]]
 
 
 ## 모순/논쟁
