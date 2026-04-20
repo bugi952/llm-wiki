@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-02**: 기하학적 변형 + diffusion 프로세스로 단일 이미지에서 다양한 변형 생성하여 few-shot classification 정확도 최대 20% 향상 (training-free, model-agnostic) [(원문)](https://arxiv.org/abs/2602.00114)
+- **2025-10-15**: 노이즈 aggregation 분석으로 membership inference 공격에 취약함 확인 [(원문)](https://arxiv.org/abs/2510.21783)
+- **2026-04-20**: CRoCoDiL: 마스크 확산을 연속 잠재 표현 공간으로 확장, 토큰 의존성 및 의미 불일치 문제 해결 [(원문)](https://arxiv.org/abs/2603.20210)
+- **2026-04-20**: 맥락 인코더와 복합된 비지도 확산 오토인코더로 의료 영상의 미구조적 인공물 제거 가능 [(원문)](https://arxiv.org/abs/2604.15723)
+- **2026-04-20**: Block-wise parallel diffusion language model decoding으로 sequence 전체의 global refinement 가능 [(원문)](https://arxiv.org/abs/2604.15750)
+- **2026-04-20**: 연속시간 마르코프 체인을 exit rate(언제 점프)와 jump distribution(어디로 점프)으로 분리 매개변수화 (arXiv:2604.15694) [(원문)](https://arxiv.org/abs/2604.15694)
 - **2026-04-19**: FP 방정식 편차 페널티 적용 시 계산 비용 대비 효과 미미 (경량 정규화 기법으로 유사 효과 달성 가능) [(원문)](https://arxiv.org/abs/2604.15171v1)
 - **2026-02-01**: Bird-SR: 보상 피드백 학습으로 실제 저해상도 이미지의 분포 시프트 문제 해결 [(원문)](https://arxiv.org/abs/2602.07069)
 - **2025-09-14**: RFM-Editing: 확산 모델 기반 텍스트 유도 오디오 편집. 복잡한 멀티이벤트 오디오에서 선택적 수정 가능 [(원문)](https://arxiv.org/abs/2509.14003)
@@ -29,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]]
+[[AI Safety]] | [[LLM Privacy Attacks]] | [[Private Inference]]
 
 
 ## 모순/논쟁

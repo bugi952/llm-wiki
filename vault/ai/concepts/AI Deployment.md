@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 비전 트랜스포머 기반 크로스스펙트럼(RGB+NIR) 해충 탐지 시스템 도입 (SWNet) [(원문)](https://arxiv.org/abs/2604.16147)
+- **2026-04-20**: 재생 에너지 비중 증가 환경에서 점유자 쾌적도·에너지 비용·그리드 유연성을 동시 최적화하는 실운영 사례 [(원문)](https://arxiv.org/abs/2604.16033)
+- **2026-04-20**: 33명의 기술자가 책임 명확화 여부를 LLM 채택 의사결정의 핵심 요소로 지목(3개 대형 기술조직) [(원문)](https://arxiv.org/abs/2604.15344)
+- **2026-04-20**: 실배포 헬스 챗봇에서 개인 상담(personal health intent) 비중이 일반 정보 카테고리(40%)보다 높은 것으로 추정 [(원문)](https://arxiv.org/abs/2604.15331)
 - **2026-04-16**: 기술 도입 곡선: 20-60-20 법칙으로 조직의 AI 수용 패턴 분석 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209333)
 - **2026-04-17**: 국방/군사 분야 AI 배포 확대 - Google과 미 국방부의 Gemini 협상 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
 - **2026-04-16**: 브라우저 기본 UI에 AI 검색 기능을 네이티브 통합하여 사용자 경험 개선 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209394)
@@ -41,7 +45,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[AI Workforce Impact]]
+[[Safety-Critical Reinforcement Learning]]
 
 
 ## 모순/논쟁

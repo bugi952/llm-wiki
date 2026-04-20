@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Uber와의 협력 추진 중 기술/사업 장벽 (2026-04-20) [(원문)](https://news.ycombinator.com/item?id=47826328)
 - **2026-04-17**: 2026년 4월 17일 Claude 사용자 일부에 신원 인증(정부 신분증+실시간 사진) 도입. 사기/정책 위반 감시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209442)
 - **2026-04-19**: Claude 모델의 설계는 사용자 신뢰와 감정 경험을 우선하는 철학 기반 (HN 129점 논의) [(원문)](https://news.ycombinator.com/item?id=47818700)
 - **2026-04-16**: Claude Mythos 모델을 Project Glasswing 프로그램으로 글로벌 규제 당국·금융기관에 사전 공개, 영국·인도 2026-04-16부터 접근 제공 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209414)
@@ -39,5 +40,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Regulation]] | [[LLM Privacy Attacks]]
+[[Uber]] | [[AI Deployment]] | [[Agent Economics]]
 

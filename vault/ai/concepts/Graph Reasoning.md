@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 그래프와 LLM 통합을 목적별(추론, 검색, 생성, 추천) 및 전략별(프롬프팅, 증강, 훈련, 에이전트 기반)로 분류 [(원문)](https://arxiv.org/abs/2604.15951)
+- **2026-04-20**: 공간 네트워크에서 라우팅 로직을 통한 origin-destination 흐름 분배 [(원문)](https://arxiv.org/abs/2604.15782)
 - **2026-04-17**: Temporal KG forecasting에서 persistent entity state로 장기 의존성 유지 (Entity State Tuning) [(원문)](https://arxiv.org/abs/2602.12389)
 - **2026-04-17**: 추론 단계 간 논리적 의존성을 DAG로 모델링하여 추론 성능 개선 [(원문)](https://arxiv.org/abs/2510.04116)
 - **2025-05-13**: GNN 기반 동적 그래프의 최대 독립집합 문제를 unsupervised learning으로 해결, 기존 방식 대비 1.91-6.70배 속도 향상 달성 [(원문)](https://arxiv.org/abs/2505.13754)
@@ -24,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Knowledge Compilation]]
+[[Agentic AI]] | [[Multi-Agent Systems]] | [[Knowledge Graph Question Answering]] | [[Semantic Graph Learning]] | [[Agent Communication]]
 
 
 ## 모순/논쟁

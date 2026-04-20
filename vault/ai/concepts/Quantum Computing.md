@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 원격 감지 이미지 분할에 양자 회로를 적응형 라우팅 메커니즘으로 통합, DINOv3 ViT-L/16 백본과 조합 [(원문)](https://arxiv.org/abs/2604.06715)
+- **2025-03-02**: PennyLane 기반 3,347개 고품질 양자 코드 데이터셋(PennyLang) 공개, LLM 코드 생성 정확도 향상 [(원문)](https://arxiv.org/abs/2503.02497)
+- **2024-10-01**: Equivariant split-parallelizing QCNN: 풀링 계층 분할로 측정 효율성을 큐비트 수의 배수로 개선 (근기 양자 장치 적용) [(원문)](https://arxiv.org/abs/2410.01252)
+- **2026-04-20**: 변분 오토인코더와 기호 방법으로 Rydberg 원자 데이터에서 미발견 양자 현상(corner-ordering pattern) 발견 [(원문)](https://arxiv.org/abs/2604.16015)
+- **2026-04-20**: cuNNQS-SCI: 신경망 양자상태(NNQS) 기반 Configuration Interaction을 완전 GPU 가속화, 분산 de-duplication으로 CPU 병목 제거 [(원문)](https://arxiv.org/abs/2604.15768)
+- **2026-04-20**: NISQ 장치 제약을 감안한 연합학습 프레임워크로 양자-LSTM 모델 활용 [(원문)](https://arxiv.org/abs/2604.15775)
 - **2026-04-19**: n-qubit stabilizer state 클로닝의 최적 샘플 복잡도는 Θ(n)으로 학습과 동일 [(원문)](https://arxiv.org/abs/2604.15269v1)
 - **2026-04-19**: 회로 정의 변분 임베딩과 그래프 연산자 기반 양자 임베딩의 GNN 성능 비교 연구 [(원문)](https://arxiv.org/abs/2604.15273v1)
 - **2026-04-17**: 얕은 채널 회로로 준비된 혼합 상태를 측정 접근으로 효율적 학습 가능 (큐비트 수 다항식 시간) [(원문)](https://arxiv.org/abs/2604.01197)
@@ -23,7 +29,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Graph Neural Networks]] | [[Quantum Kernel Methods]] | [[Model Evaluation]]
+[[Mixture-of-Experts]] | [[Model Efficiency]]
 
 
 ## 모순/논쟁

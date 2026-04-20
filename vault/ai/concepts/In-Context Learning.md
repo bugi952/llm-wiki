@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 다중 심리 패턴의 강화·갈등·조절 상호작용이 in-context 성능에 영향 [(원문)](https://arxiv.org/abs/2601.10198)
+- **2025-12**: In-Context Distillation: Teacher의 시범 학습 후 저비용 Student에 In-Context 예제로 배포 [(원문)](https://arxiv.org/abs/2512.02543)
+- **2026-04-20**: ICL을 활용한 개인화 보상 모델링으로 재훈련 없이 사용자 적응 가능 [(원문)](https://arxiv.org/abs/2502.19312)
+- **2026-04-20**: ACSESS: 23개 샘플 선택 전략 자동 조합으로 개별 전략 대비 일관된 성능 개선(5개 모델, 14개 데이터셋 검증) [(원문)](https://arxiv.org/abs/2402.03038)
+- **2026-04-20**: 음성/음악 신호의 transient 특성을 정확히 포착하는 contrastive 기반 디코딩 방식 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15383)
+- **2026-04-20**: SemEval-2026 Task 5: narrative 텍스트에서 few-shot prompting으로 human-like plausibility 판단 달성 [(원문)](https://arxiv.org/abs/2604.16262)
+- **2026-04-20**: 18개 NER 벤치마크에서 모델간 불일치 분석을 통한 지시 개선 효과 검증 [(원문)](https://arxiv.org/abs/2604.15866)
+- **2026-04-20**: Brain Score로 측정한 LM의 구조 추출 능력은 자연언어뿐만 아니라 DNA, Python 등 비언어 시퀀스에도 일관됨 [(원문)](https://arxiv.org/abs/2604.15503)
+- **2026-04-20**: 언어 혼용(code-switching)이 맥락 학습 성능 개선에 기여 [(원문)](https://arxiv.org/abs/2604.15490)
 - **2026-04-19**: 최단경로 계획에서 LLM은 공간 이동(spatial transfer)에는 강하나 길이 확장(length scaling)에서 재귀적 불안정으로 실패 [(원문)](https://arxiv.org/abs/2604.15306v1)
 - **2026-02-22**: 장문맥 입력에서 attention이 관련 context와 정렬 유지 어려움, 동적 조정으로 개선 [(원문)](https://arxiv.org/abs/2602.22175)
 - **2026-02-20**: RAG에서 검색 문서의 관련성이 LLM 숨겨진 상태를 동적 변화시킴 (4 QA 데이터셋, 3개 LLM 실증) [(원문)](https://arxiv.org/abs/2602.20091)
@@ -27,7 +36,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Scaling Laws]] | [[Model Evaluation]]
+[[AI Persona]] | [[Prompt Engineering Framework]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-04-20**: 81개 GenAI 페르소나 논문 분석(2022-2025): 61% 재현성 자료 공개, 45% 평가 부재, 86% GPT만 사용, 순환성 위험(같은 모델 생성+평가) [(원문)](https://arxiv.org/abs/2504.04927)
+- **2026-04-20**: HumanLLM으로 244개 심리 패턴·11,359 시나리오로 인간 정렬성 r=0.90 달성 [(원문)](https://arxiv.org/abs/2601.10198)
+- **2026-04-20**: Reddit 인간-AI 로맨스 담론 3383개 포스트 (2017-2025) 분석: 긍정적 관계 → 플랫폼 거버넌스·기술 이슈·현실 영향으로 주제 변화 [(원문)](https://arxiv.org/abs/2604.15333)
 - **2026-04-19**: Claude 설계는 인간 중심적 가치관을 모델 거동에 명시적으로 반영하는 사례 [(원문)](https://news.ycombinator.com/item?id=47818700)
 - **2026-04-16**: Gemini에서 사용자 취향·관심사 사전 학습으로 상세 설명 없이 개인화 이미지 생성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209400)
 - **2026-03-09**: 사용자 페르소나 노출 상황에서 LLM 에이전트의 행동 적응 능력 측정 [(원문)](https://arxiv.org/abs/2603.09643)
@@ -25,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Anthropic]] | [[Claude Code]] | [[Claude Miso]]
+[[Model Evaluation]] | [[Explainable AI]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,14 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 국방 기술 4축: 반도체, AI, 로봇, 신소재. 전통적 화력·플랫폼 중심에서 소프트웨어 정의 국방으로 전환 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209465)
+- **2026-01-07**: AscendKernelGen: LLM으로 Ascend NPU 커널 생성. CoT 데이터로 복잡 DSL 제약 극복 [(원문)](https://arxiv.org/abs/2601.07160)
+- **2025-12**: 모델 오케스트레이션의 비용 인식형 선택이 인프라 효율성의 핵심 최적화 포인트 [(원문)](https://arxiv.org/abs/2512.01099)
+- **2025-11-01**: Agentic 워크로드는 CPU-GPU 이질 시스템의 아키텍처별 병목 분석 필요 [(원문)](https://arxiv.org/abs/2511.00739)
+- **2026-04-20**: DataCenterGym: 지역 분산 데이터센터의 열/전력 최적화를 위한 물리 기반 시뮬레이션 프레임워크. H-MPC 알고리즘으로 분산 작업 배치 전략 제안 [(원문)](https://arxiv.org/abs/2604.15594)
+- **2026-04-20**: GPU 중심에서 TPU 기반 비용 효율화 추세. RPA로 동적 메모리 패턴 최적화 [(원문)](https://arxiv.org/abs/2604.15464)
+- **2026-04-20**: SoC 설계에서 계층적 메시지 흐름 마이닝으로 통신 패턴 추출 자동화 [(원문)](https://arxiv.org/abs/2604.15359)
+- **2026-04-20**: 분산학습 시간 예측: floating-point precision 설정이 2.4배 변동성 초래, precision-aware 예측 모델로 MAPE 9.8% 달성 [(원문)](https://arxiv.org/abs/2604.16145)
 - **2026-04-19**: Prism: 텐서 프로그램의 기호적 슈퍼최적화. sGraph로 프로그램 패밀리를 기호적으로 인코딩, 두 단계 탐색(기호 그래프 생성→구체적 구현)으로 LLM 워크로드 최적화 [(원문)](https://arxiv.org/abs/2604.15272v1)
 - **2026-04-17**: 한국 우주청, 2030년까지 우주 데이터센터 기술 검증 목표 - 우주방사선 견딘 반도체, 고효율 태양전지 핵심기술 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209399)
 - **2025-12**: LLM 기반 NAS로 computationally intensive search 대체 가능. Task-agnostic 아키텍처 자동 생성 [(원문)](https://arxiv.org/abs/2512.24120)
@@ -71,7 +79,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]] | [[Code Generation]] | [[LLM-Based Hardware Optimization]]
+[[AI Semiconductors]] | [[AI Deployment]]
 
 
 ## 모순/논쟁

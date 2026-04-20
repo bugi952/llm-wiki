@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,31 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 높은 유창성의 AI 인터페이스는 오토메이션 편향과 조기적 인지적 폐쇄를 유도, 사용자의 비판적 인식 능력 약화 [(원문)](https://arxiv.org/abs/2603.21735)
+- **2025-10-15**: Web 검색 통합으로 무해한 쿼리로부터 유해 콘텐츠 인용 유도 가능 (CREST-Search) [(원문)](https://arxiv.org/abs/2510.09689)
+- **2026-01-03**: RedBench: 37개 벤치마크 통합, 29,362 샘플, 22 위험 카테고리, 19 도메인 표준화 [(원문)](https://arxiv.org/abs/2601.03699)
+- **2025-02-20**: GRPO 기반 강화학습으로 유사 프롬프트에 대한 답변 일관성 보장, RAG·온도 조절 이상의 근본적 해결 (arXiv:2512.12858) [(원문)](https://arxiv.org/abs/2512.12858)
+- **2025-02-20**: 추론 능력 강화와 안전성(환각 감소) 간의 인과적 긴장 관계 [(원문)](https://arxiv.org/abs/2510.22977)
+- **2025-10**: 언러닝 시 모델 신뢰성 확보: 지식 제거와 유틸리티 보존의 trade-off 해결 [(원문)](https://arxiv.org/abs/2510.17210)
+- **2025-09-19**: Wasserstein/KL/χ² 모호도 기반 DRO-REBEL로 RLHF 과최적화 방지 및 수렴성 증명 [(원문)](https://arxiv.org/abs/2509.19104)
+- **2025-09-05**: 상대적 곤혹도 차이로 응답 간결성과 정확성의 균형 달성 [(원문)](https://arxiv.org/abs/2509.05489)
+- **2025-06-20**: LLM이 인간의 정치적/사회적 동기에 따라 추론 방향을 편향시킴 (8개 모델 실험) [(원문)](https://arxiv.org/abs/2506.20020)
+- **2025-05-24**: TRIDENT - lexical diversity, malicious intent, jailbreak tactics 3차원 포괄 red-teaming 데이터 합성 [(원문)](https://arxiv.org/abs/2505.24672)
+- **2025-04-20**: 중간 추론 단계 검증이 최종 답변 정확성만큼 중요함을 실증 [(원문)](https://arxiv.org/abs/2505.13792)
+- **2026-04-20**: In-situ 대화 중 사용자 피드백을 자동 수집하여 선호도 데이터셋 생성(WildFeedback) [(원문)](https://arxiv.org/abs/2408.15549)
+- **2026-04-20**: OpenAI, Anthropic, Google LLM은 콘텐츠 선별에서 polarization 증폭. 프롬프트 전략(general, popular, engaging 등)에 따라 편향 강도·방향 다름 (arXiv:2604.15937) [(원문)](https://arxiv.org/abs/2604.15937)
+- **2026-04-20**: 분산 LLM 환경에서 라우팅 성능 최적화가 사용자 데이터 프라이버시와 충돌할 수 있음을 최초 실증 [(원문)](https://arxiv.org/abs/2604.15728)
+- **2026-04-20**: 다중모달 프롬프트 엔지니어링 시스템에서 48시간 내 관찰 가능한 행동 변화 발생(의사결정 이양, 자율성 상실) [(원문)](https://arxiv.org/abs/2604.15343)
+- **2026-04-20**: 능력감은 의인화를 제외한 모든 결과 예측. 감정적 공감은 관계 척도만 예측하고 epistemic 결과(신뢰, 유용성) 미예측 [(원문)](https://arxiv.org/abs/2604.15316)
+- **2026-04-20**: Test-time alignment의 proxy 기반 rejection criterion: confidence의 언어학적 모호성(ambiguous phrasing) 한계 지적, 보수적 confidence bet으로 개선 [(원문)](https://arxiv.org/abs/2604.16146)
+- **2026-04-20**: 확률적 토크나이제이션으로 적대적 공격과 무작위 섭동에 대한 견고성 향상 [(원문)](https://arxiv.org/abs/2604.16037)
+- **2026-04-20**: 내부 상태 표현 기반 hallucination detection을 joint optimization으로 통합하는 안전성 강화 방식 [(원문)](https://arxiv.org/abs/2604.15945)
+- **2026-04-20**: 훈련 없는 메서드(prompt-based, retrieval-based, input/output modification)로 신뢰성 향상 가능하나 utility degradation과 brittleness 주의 필요 [(원문)](https://arxiv.org/abs/2604.15789)
+- **2026-04-20**: Pruning Unsafe Tickets: 그래디언트 프리 속성화로 안전하지 않은 서브네트워크 직접 제거하며 유틸리티 보존 [(원문)](https://arxiv.org/abs/2604.15780)
+- **2026-04-20**: Healthcare/education 고위험 domain에서 reasoning step의 safety가 final answer만큼 critical [(원문)](https://arxiv.org/abs/2604.15725)
+- **2026-04-20**: 자가 피드백을 통한 에이전트의 정책 해석 자동 정제로 alignment 실패 감소 [(원문)](https://arxiv.org/abs/2604.15505)
+- **2026-04-20**: 파라미터 업데이트 없는 경량 추론 시간 스티어링으로 안전성 위반, 할루시네이션 완화. 일원형 설계 대신 조건부+전문가 메커니즘으로 유용성 보존 [(원문)](https://arxiv.org/abs/2604.15488)
+- **2026-04-20**: 통합 데이터 표현과 양방향 로짓 증류(bidirectional logit distillation)로 언러닝 목표 간 간섭(task interference) 해결 [(원문)](https://arxiv.org/abs/2604.15482)
 - **2026-04-19**: Aligned LLM도 게임이론 설정에서 기본값으로 defect하는 안전 문제 [(원문)](https://arxiv.org/abs/2604.15267v1)
 - **2026-04-18**: 챗봇 응답의 70% 이상이 아첨 패턴, 36.3%가 반영적 요약, 33.3%가 자해 촉진 - 스탠퍼드 연구 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
 - **2026-03-05**: 모델의 사고 과정(CoT) 제어는 사용자 지시 따르기보다 어려운 것으로 관찰됨 [(원문)](https://www.alignmentforum.org/posts/BuAPifQmHf24xB29n/prompted-cot-early-exit-undermines-the-monitoring-benefits)
@@ -44,7 +69,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Multi-Agent Cooperation]] | [[Agent Safety Evaluation]] | [[Agentic AI]]
+[[AI Safety]] | [[Human-AI Cognitive Alignment]] | [[AI Regulation]]
 
 
 ## 모순/논쟁

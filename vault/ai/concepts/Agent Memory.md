@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Non-linear dialogue의 topic shift 추적을 위한 tree 기반 context 메모리 (arXiv:2604.05552) [(원문)](https://arxiv.org/abs/2604.05552)
+- **2026-04-20**: 파일시스템 기반 hierarchical knowledge base로 context window 초과 메모리 지속 가능, 다중 세션 협력 [(원문)](https://arxiv.org/abs/2602.01566)
+- **2026-04-20**: 도구 의존성을 function calling 시연으로부터 모델링하여 계획 전개 시 적응적 검색 실현 [(원문)](https://arxiv.org/abs/2512.17052)
+- **2026-04-20**: 경험 압축 스펙트럼: 에피소딕(5-20배) → 절차적 기술(50-500배) → 선언적 규칙(1000배+). 장기 배포에서 컨텍스트 소비와 검색 지연 감소 [(원문)](https://arxiv.org/abs/2604.15877)
+- **2026-04-20**: MemEvoBench: 에이전트 메모리의 장기 안전성 평가 (7개 도메인, 36가지 위험 유형) [(원문)](https://arxiv.org/abs/2604.15774)
+- **2026-04-20**: 장기/단기 대화 메모리 + 프로젝트 제안으로 과학 협업 맥락 유지 [(원문)](https://arxiv.org/abs/2604.15588)
+- **2026-04-20**: 구조화된 tool-level 정책 통찰을 메모리에 유지하고 반복 개선하는 메커니즘(PolicyBank) [(원문)](https://arxiv.org/abs/2604.15505)
 - **2026-01-01**: 분산형 multi-agent 시스템의 토폴로지 최적화로 지연 시간 감소 [(원문)](https://arxiv.org/abs/2601.10120)
 - **2026-04-17**: Rashomon Memory: 다중 목표 에이전트가 관점별 독립 온톨로지 유지 + 검색 시 논증 이론으로 조율하는 메모리 아키텍처 [(원문)](https://arxiv.org/abs/2604.03588)
 - **2026-04-17**: Skill activation/execution/termination 조건으로 정의된 executable skills를 semantic gradients 기반 PPO Gate로 검증, score-based maintenance로 고품질 procedural memory 유지 [(원문)](https://arxiv.org/abs/2602.01869)
@@ -32,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agentic AI]]
+[[Agent Communication]] | [[Multi-Agent Systems]] | [[In-Context Learning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-09-01**: RL post-training의 스케일링 법칙: 모델 스케일(0.5B~72B), 데이터량, 컴퓨트 예산의 상호작용을 거듭제곱 함수로 모델링. 대형 모델의 학습 효율 우월성 실증 [(원문)](https://arxiv.org/abs/2509.25300)
+- **2026-04-20**: 추론 스펙트럼이 모델 크기에 로그 스케일링 의존 (α_reasoning ∝ -0.074 ln N) [(원문)](https://arxiv.org/abs/2604.15350)
 - **2026-04-19**: 훈련 데이터 커버리지가 성능 한계를 설정하며, RL은 안정성만 개선할 뿐 한계를 확장하지 못함 [(원문)](https://arxiv.org/abs/2604.15306v1)
 - **2025-06-13**: 고차원 등가(High-dimensional Equivalent) 프레임워크: RMT를 비선형 DNN으로 확장, Proportional regime에서 데이터 차원·표본·파라미터 상호작용 분석 [(원문)](https://arxiv.org/abs/2506.13139)
 - **2026-01-14**: LLMOrbit: 브루트포스 스케일링 한계(scaling wall) 정의 — 데이터 고갈 9-27T, 비용 $3M→$300M+/5년, 에너지 22배 증가 [(원문)](https://arxiv.org/abs/2601.14053)
@@ -40,7 +42,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[In-Context Learning]] | [[Model Evaluation]]
+[[Reinforcement Learning from Verifiable Rewards]]
 
 
 ## 모순/논쟁

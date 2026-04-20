@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 미국, yield-bearing stablecoin 규제를 금융안정성 정책의 일부로 운영. 구조적 규제 설계 [(원문)](https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Hyper Foundation의 DC 로비 활동으로 DeFi 규제 방향 영향 시도 [(원문)](https://news.google.com/rss/articles/CBMidEFVX3lxTE9lNXZBUm9lS2ZMcEVJdmU0dF94R2c1WFBwUmdIbXBncUFvZ1Fib0NwTUxVX1JUODhadkpkLXJnTDlxMjQxRmNZMUFHSi1IcHhpTmNRMTZ0d1ZGUW4zWHA1eXpOV183TGo0Y3dCUW9jVFVlV1Vr?oc=5)
 - **2026-04-19**: 연방 판사, Caitlyn Jenner 밈코인을 증권 아닌 것으로 판정 [(원문)](https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Hyperliquid Foundation, DeFi 산업 정책 옹호 목적으로 $29M 투자 [(원문)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk9Cb1o3VXpPOWgtTkNzR0ZzY0Z2R1g4VDlLZ2dXUHh2a0E4aWVsRUxjY3NLZjBmU3BwVDFpTnFqQ3FNaDBPaGxrM0FCWFM3em5KaVNOdDZPU1JfOHQ1cWdBckpQQU1XNjdYT0YteDQ0RGhzWkdjYk50UG5TeGVveW1FUWt2NUJSR2twMEM4N2N3MlFFYzdFVEo4cGtoSHZ4ZmsxbXdWZkdydEtSeWlidVM4bU1CWHBTSU1aVXV0WUctbXdiRzRSSg?oc=5)
@@ -45,7 +46,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hyperliquid]] | [[Political Interference in Crypto Regulation]]
+[[Moody's]] | [[Stablecoin]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

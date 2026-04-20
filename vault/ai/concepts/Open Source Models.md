@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: OLMo Hybrid 7B: Transformer+linear RNN 하이브리드, 코드 실행 같은 고급 작업 표현 가능 (arXiv:2604.03444) [(원문)](https://arxiv.org/abs/2604.03444)
 - **2026-04-18**: 새로운 오픈 가중치 모델 출시 시 아키텍처를 체계적으로 이해하는 학습 워크플로우 [(원문)](https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms)
 - **2026-04-16**: 알리바바, Qwen 3.6-35B-A3B 출시 (희소 전문가 혼합 구조, 350억 파라미터 중 30억만 활성화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209406)
 - **2026-04-14**: Llama-3.1-8B, Mistral-7B, Qwen3-8B이 Romanized Nepali 언어 적응 벤치마킹 대상 [(원문)](https://arxiv.org/abs/2604.14171)
@@ -26,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Alibaba]] | [[Model Efficiency]]
+[[State Space Models]] | [[Transformer Expressivity]] | [[Model Efficiency]]
 
 
 ## 모순/논쟁

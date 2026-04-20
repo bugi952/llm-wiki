@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 마켓 청산 규모 증가가 HYPE에 긍정적 영향 (시장 메커니즘) [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTFB1Nnl6MjZqaDZaM1ZSTW9DTUdXZm10NlNnR0xRY3FhQ2E2cGR3U3ExaC1GT0dMblhvV0Z3VDRsLU5rSWtWTEtoTno5X0ZKa2J0MUc4Q2N5NE9xY0kzMDExZWhHd3pWd2VNNDhDZS1lQkNHLU9TOFZJcnVR?oc=5)
+- **2026-04-20**: Treasury가 HYPE를 옵션 담보로 활용하여 수익 창출 전략 추진 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSVh4WjJJQ2hjazU0TjRPcjJ0a1FqUi1Uc1ZHNDRpUkNRcndFdXJUNmp1MTJtOGFibk1RQlBjZzBiOWVEQnltLXZBdVdnYVJyQTNfdmtCUmFwV3ZmTXVqajRnRUFHNWMzNjVJbENXdGdVTlhZa0swc05sTGplRW90SjFGbTF3dTNneXZj?oc=5)
 - **2026-04-19**: Arthur Hayes의 주요 투자자로 확인 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CVW1Lc3ByV0hHV0tHaEp2b3M1aExSTldHMlZtTU9rMmctbVF2OV9LWW5LNnI5WlJiM2ZhY3pOYk9UZjdOVkdnOA?oc=5)
 - **2026-04-20**: HIP4 모멘텀으로 60일 고점 달성, 기술적 강세 신호 형성 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2eDdFUzh4XzloeF9kVng1d2ROYkc4X2VxNWFuaGZvNjBWRnplY0prX21LN0taZEM0VzFPNHJGNUV6TDBiLTBpblNzQVBrWjlLeWt1MWxNUTk5anNYT2fSAWNBVV95cUxOOV9FY0V4UWZfVGdzXzdEUWpmVm5RSFVtejBBMDNrXy05LVBlMXdNa2NCSkFfQ0RwazRlWndiZTh5b29ZcHA5aTJ0M0x5YWQ4Q2xnaWtpOWlSaVR4WEpJX3JUWGM?oc=5)
 - **2026-04-19**: 은(Silver)이 HYPE 가격 급등의 촉매제 역할 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuVm05ZXdiMExjUER3M2RCYWp3Z2hrazd5U01WdldRSGFmal9xZnltaTd6YWxtSklEWG1vX2VfM1RzVFI5R0szYzlXaXRJemVvVnJ4enlEdHdWbVlBWVZiZWdyVXljQ2JLUG8zOTJjQjJaTVNKV3VkeDVGLWxXUmwtcnpWcHRBOVVvVjU4OA?oc=5)
@@ -42,5 +44,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]] | [[Cross-chain Bridge]]
+[[DeFi]]
 

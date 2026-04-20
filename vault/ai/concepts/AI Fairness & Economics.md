@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: ACM FAccT의 참여식 설계 기반 거버넌스: 학술-정부-시민사회 협력을 통한 AI 공정성 검토 체계 [(원문)](https://arxiv.org/abs/2604.16224)
+- **2026-04-20**: LLM 기반 추천의 편향은 일부는 견고하고 일부는 프롬프트에 민감. Toxicity 처리에서는 engaging/controversial 전략 간 역전 현상 (arXiv:2604.15937) [(원문)](https://arxiv.org/abs/2604.15937)
+- **2026-04-20**: 인간 노력 단서(process cues)가 불완벽함보다 신뢰 형성에 강력히 작용. 프로세스 투명성이 AI-인간 간 authenticity gap 부분 해소 가능 [(원문)](https://arxiv.org/abs/2604.15324)
+- **2026-04-20**: C-Mining: cross-lingual embedding misalignment로 문화 seed 자동 발견; 기하학적 신호로 양적 기준 제공, 수동 큐레이션과 LLM bias 문제 해결 [(원문)](https://arxiv.org/abs/2604.15675)
 - **2026-04-19**: 동적 표정 인식(DFER)에서 VLM의 헤드-클래스 편향 노출. 대안 샘플링 전략으로 희귀 개념 우대 방지 [(원문)](https://arxiv.org/abs/2604.15280v1)
 - **2026-04-17**: LLM 맥락 편향 완화: 직접 선호도 최적화(DPO)로 교사 경험/교육 수준/인구통계학 정보의 영향 감소 (최대 1.48점, 7점 척도) [(원문)](https://arxiv.org/abs/2604.02585)
 - **2026-01-15**: Multi-Persona Thinking: 대조적 사회적 정체성(남/여/중립) 관점의 반복적 추론으로 LLM 사회적 편향 감소 [(원문)](https://arxiv.org/abs/2601.15488)
@@ -31,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Vision-Language Models]] | [[Hallucination Reduction]] | [[Model Evaluation]]
+[[AI Regulation]]
 
 
 ## 모순/논쟁

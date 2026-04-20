@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-13**: 사이버 프로파간다(인간-AI 결합)는 EU AI Act, Section 230의 인간/봇 이진 프레임으로 규제 불가능한 새로운 정책 공백 [(원문)](https://arxiv.org/abs/2602.13088)
+- **2025-09-11**: 과학 논문 인용 패턴 분석으로 AI 시대 금융 버블 예측 신호 검출 실패 [(원문)](https://arxiv.org/abs/2509.11982)
+- **2026-04-20**: AI 기술의 사회적 영향을 다학제적으로 검토하는 커뮤니티 거버넌스 체계 (FAccT) [(원문)](https://arxiv.org/abs/2604.16224)
+- **2026-04-20**: 플랫폼화된 삶의 과잉 데이터 환경에서 '누가 연구되는가'보다 '데이터가 어떻게 변환되는가'가 개인 취약성 결정 (YouTube 가족 영상 분석 사례) [(원문)](https://arxiv.org/abs/2604.15990)
+- **2026-04-20**: 캐나다 연방 AI 레지스터(2025년 11월): 409개 정부 시스템 중 86%가 내부 효율화용도, 기술 기술 중심으로 인간 판단·불확실성 관리 은폐 [(원문)](https://arxiv.org/abs/2604.15514)
 - **2026-04-16**: 반도체 업계 리더가 미국의 AI 칩 규제 정책을 강하게 비판, 정책 역효과 논리 제시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209440)
 - **2026-04-17**: White House, AI 기업과의 협력 기조 전환. 기술 확산 과정에서 안전성 및 국가 보안 중심의 대화 시작 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209427)
 - **2026-04-17**: Google의 Gemini가 국방부 기밀 영역 도입을 논의 중 (주요 기업의 국방 AI 진출 가속화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
@@ -33,7 +38,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Nvidia]] | [[AI Semiconductors]]
+[[Agent Communication]]
 
 
 ## 모순/논쟁

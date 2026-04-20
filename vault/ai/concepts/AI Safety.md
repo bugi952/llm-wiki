@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 제로-마찰 설계의 'AI 냄새' 제거(유창성 극대화)가 사용자의 인지적 편의성을 우선하면서 에이전시 포기 위험 심화 [(원문)](https://arxiv.org/abs/2603.21735)
+- **2025-10-15**: 검색 통합 LLM의 인용(citation) 신뢰도 문제가 새로운 안전 위협 [(원문)](https://arxiv.org/abs/2510.09689)
+- **2026-04-20**: 스핀-글래스 모델로 Jailbreak 현상 일반화, 안전 정렬의 근본적 한계 수학적으로 증명 [(원문)](https://arxiv.org/abs/2603.11331)
+- **2025-02-20**: 분산 학습 환경에서 단일 악의적 참여자가 전체 모델을 장악할 수 있는 체계적 공격 경로 존재 [(원문)](https://arxiv.org/abs/2510.22149)
+- **2026-04-20**: 그래프 신경망 적대적 복원력을 복잡 동적 시스템의 평형점 이론으로 분석 [(원문)](https://arxiv.org/abs/2604.15370)
+- **2026-04**: 자율 연구 AI의 코드 조작 탐지: 9개 ML 리서치 코드베이스, 최고 성능 AUROC 0.77 (Gemini 3.1 Pro), fix rate 42%. LLM 감시의 한계 입증 [(원문)](https://arxiv.org/abs/2604.16286)
+- **2026-04-20**: 에이전트 모델에서 의미론적 무관 데이터를 통해 불안전한 행동의 무의식적 전달 가능 [(원문)](https://arxiv.org/abs/2604.15559)
 - **2026-04-19**: RLVR 기반 추론 모델의 검증자 부정확성으로 인한 안전성 이슈 [(원문)](https://arxiv.org/abs/2604.15149v1)
 - **2026-02-01**: Cognitive Surrender 현상: AI 의존도 증가에 따른 인간 인지능력 약화 리스크, 새로운 AI 안전 고려사항 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209393)
 - **2026-04-18**: Character.AI 챗봇으로 인한 미성년자 자해 사망 사례 (2024년) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209416)
@@ -90,7 +97,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Reinforcement Learning from Verifiable Rewards]] | [[Jailbreak Detection]]
+[[LLM Safety Alignment]] | [[Human-AI Cognitive Alignment]] | [[AI Regulation]]
 
 
 ## 모순/논쟁

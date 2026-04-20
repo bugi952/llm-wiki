@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: LLM과 논리 추론 결합으로 코드 지역화의 결정론적 추론 능력 강화 필요 (LogicLoc 프레임워크) [(원문)](https://arxiv.org/abs/2604.16021)
+- **2026-04-20**: Latent Grammar Flow로 데이터 기반 미분방정식 발견 (domain knowledge & constraints 포함 가능) [(원문)](https://arxiv.org/abs/2604.16232)
+- **2026-04-20**: DALM: 도메인 격자 위 명시적 대수 제약으로 3단계 생성(도메인→관계→개념), 도메인 간 오염 방지 [(원문)](https://arxiv.org/abs/2604.15593)
+- **2026-04-20**: Brain Score를 통한 신경 기호 체계 간 처리 패턴 유사성 규명 [(원문)](https://arxiv.org/abs/2604.15503)
 - **2026-04-17**: VSA(Vector Symbolic Architectures): 랜덤 선형 코드와 Histogram Recovery로 효율적 정보 복원, 노이즈 환경 안정성 강화 [(원문)](https://arxiv.org/abs/2511.01838)
 - **2026-04-17**: MCTS와 differential physics alignment를 결합한 자동 화학 설계 시스템 제안 [(원문)](https://arxiv.org/abs/2603.03686)
 - **2026-04-17**: 발달 규칙 기반 신경회로 자동 생성으로 구조 설계 자동화 [(원문)](https://arxiv.org/abs/2604.15143)
@@ -22,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Knowledge Compilation]] | [[AI Infrastructure]]
+[[Code Generation]] | [[AI in Systems Engineering]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,31 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Dense passage retrieval에서 학습-무료 방식으로 목표 차원에 따른 최적 감마값 자동 도출, 검색 임베딩의 무거운 꼬리 분포 활용 [(원문)](https://arxiv.org/abs/2603.19339)
+- **2025-02-20**: 7B-8B 정량화 모델이 프로프라이어터리 모델 대비 44배 저렴한 비용으로 동등 품질 달성 가능 (합성 토론 생성 작업) [(원문)](https://arxiv.org/abs/2503.16505)
+- **2026-04-20**: layer-level pipeline parallelism으로 극도로 긴 시퀀스 fine-tuning 가능, pre-trained 모델 최소 적응 [(원문)](https://arxiv.org/abs/2602.01766)
+- **2025-02-20**: Token unmasking 신뢰도 기반 적응형 조절로 diffusion LLM 처리량 1.1-2.28배 향상, 학습 불필요 (CadLLM, arXiv:2512.07173) [(원문)](https://arxiv.org/abs/2512.07173)
+- **2025-12**: 학습 불필요 추론 시점 기법으로 프롬프트 엔지니어링 취약성과 파인튜닝 제약 극복 [(원문)](https://arxiv.org/abs/2512.02543)
+- **2025-12**: 비용-정확도 Pareto frontier 이동을 통한 LLM 시스템 운영 효율화 [(원문)](https://arxiv.org/abs/2512.01099)
+- **2025-06-10**: PyLO - 학습 최적화기로 대규모 pre-training 효율 개선 (JAX → PyTorch 포팅) [(원문)](https://arxiv.org/abs/2506.10315)
+- **2025-04-20**: 양자화된 모델에서 저정밀도(저비트) 성능 특히 향상 [(원문)](https://arxiv.org/abs/2504.20966)
+- **2026-04-20**: 소나 신호 분류에서 히스토그램 기반 parameter-efficient tuning (HPT)이 중간 임베딩의 분포 변화를 포착하여 기존 adapter 대비 효율성 향상 (VTUAD 91.8%) [(원문)](https://arxiv.org/abs/2504.15214)
+- **2026-04-20**: Kernel Regression Block으로 Transformer NP의 attention 복잡도를 O(n²)에서 O(n_c² + n_c·n_t)로 개선 [(원문)](https://arxiv.org/abs/2411.12502)
+- **2026-04-20**: Secure inference에서 입력별 최적 모델 크기를 암호 상태에서 자동 선택, 정확도-효율성 동적 균형 [(원문)](https://arxiv.org/abs/2604.15499)
+- **2026-04-20**: 신경망 기반 무손실 압축에서 정보 상속 메커니즘으로 체이닝 예측기 효율성 향상 [(원문)](https://arxiv.org/abs/2604.15472)
+- **2026-04-20**: Google, Pallas/Mosaic 기반 Ragged Paged Attention (RPA) 커널로 TPU 추론 성능 향상 [(원문)](https://arxiv.org/abs/2604.15464)
+- **2026-04-20**: 1D coarse-to-fine tokenizer가 2D grid 대비 verifier 기반 test-time search에서 효율성 향상 (arXiv:2604.15453) [(원문)](https://arxiv.org/abs/2604.15453)
+- **2026-04-20**: 광학 전파·회절로 전자 메모리 계층 구조 우회 → 파동 물리가 계산 비용 결정 [(원문)](https://arxiv.org/abs/2604.15364)
+- **2026-04-20**: 채널 융합으로 다변수 시계열을 단변수로 변환해 IoT/웨어러블 디바이스 배포 가능 [(원문)](https://arxiv.org/abs/2604.16119)
+- **2026-04-20**: 프루닝으로 LLM 유해 생성 감소, jailbreak 공격 강건성 향상, 최소 리소스 비용 [(원문)](https://arxiv.org/abs/2604.15780)
+- **2026-04-20**: Early-exit 신경망: 엔트로피 기반 PAC-Bayesian 경계로 일반화 증명, 최대 깊이 대신 예상 깊이와 엔트로피에 의존 (2-8배 추론 속도) [(원문)](https://arxiv.org/abs/2604.15764)
+- **2026-04-20**: Adaptive block-wise scheduling으로 generation quality와 decoding speed의 trade-off 최적화 [(원문)](https://arxiv.org/abs/2604.15750)
+- **2026-04-20**: 로컬 스티어링 모델 기반 테스트 타임 적응(BETA)으로 API 호출 없이 ImageNet-C에서 ViT-B/16 +7.1% 성능 개선 [(원문)](https://arxiv.org/abs/2604.15609)
+- **2026-04-20**: StoSignSGD: 구조적 확률성으로 비평활 목표함수(ReLU, max-pool, MoE)에서 수렴성 보장 [(원문)](https://arxiv.org/abs/2604.15416)
+- **2026-04-20**: KV-cache FP16: 부동점 순서 차이로 토큰 수열 100% 발산 [(원문)](https://arxiv.org/abs/2604.15409)
+- **2026-04-20**: 병렬 어텐션 API의 실제 지연은 행렬 연산보다 host-side dispatch에 의해 지배됨. 바이방향 Triton 커널로 wall-clock 최적화 가능 [(원문)](https://arxiv.org/abs/2604.15408)
+- **2026-04-20**: Sequential KV compression이 per-vector Shannon limit 초과, inference latency 감소 [(원문)](https://arxiv.org/abs/2604.15356)
+- **2026-04-20**: LoRA asymmetric rank allocation으로 MoE 포함 72B까지 효율성 확보 [(원문)](https://arxiv.org/abs/2604.15351)
 - **2026-04-14**: Parcae: 루프형 트랜스포머로 동일 데이터·연산에서 기존 모델 능가 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209435)
 - **2026-04-19**: Post-training INT4 양자화에서 FP32 수렴 후 갑작스러운 성능 붕괴 발견 (INT4 gap 11% → 517%, Pythia-160m 154개 체크포인트 분석) [(원문)](https://arxiv.org/abs/2604.15167v1)
 - **2026-04-19**: 8개 시각 벤치마크에서 pruning 방법·VLM 아키텍처 간 일반화 가능한 최적 설정 도출 [(원문)](https://arxiv.org/abs/2604.15188v1)
@@ -98,7 +123,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Looped Transformers]] | [[Transformer Expressivity]]
+[[RAG (Retrieval-Augmented Generation)]]
 
 
 ## 모순/논쟁

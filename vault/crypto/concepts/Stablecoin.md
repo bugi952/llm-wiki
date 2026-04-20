@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Moody's: yield-bearing stablecoin 금지 + 미국 결제 인프라 고도화로 은행 시장점유율 보호. 단기 위협 완화 [(원문)](https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 대규모 이체 시 유동성 분할로 인한 실행 복잡성 증가 (Eco CEO Ryne Saxe 언급) [(원문)](https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: USDC, cross-chain 기능 확대로 활용 범위 확장 [(원문)](https://cointelegraph.com/news/circle-launches-usdc-bridge-native-cross-chain-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 은행 내 USDC 결제 서비스 (Singapore Gulf Bank). 다른 stablecoin도 다중 체인 지원 예정 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-launches-solana-usdc-mint-redeem-service-hnw)
@@ -20,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Market Transparency]]
+[[Moody's]] | [[Crypto Regulation]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 프로토콜 간 신뢰 네트워크 붕괴로 DeFi 구조적 취약성 노출. 단일 사건의 생태계 규모 파급 확인 [(원문)](https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: Kelp DAO 익스플로잇 심층 분석으로 DeFi 프로토콜 설계 취약성 패턴 파악 [(원문)](https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi)
 - **2026-04-19**: Kelp DAO 해킹은 DeFi 대출 시스템의 capital efficiency와 보안 간 구조적 트레이드오프 노출 [(원문)](https://cointelegraph.com/news/kelp-exploit-non-isolated-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 올해 최대 규모 해킹으로 시스템 리스크 연쇄 효과 발생 [(원문)](https://www.coindesk.com/news-analysis/2026/04/19/defi-is-dead-crypto-community-scrambles-after-usd292-million-hack-exposes-cross-chain-risks)
 - **2026-04-19**: Kelp 해킹이 플랫폼 간 대규모 자금 이탈 및 구조적 위험성 드러냄 [(원문)](https://www.coindesk.com/tech/2026/04/19/aave-records-usd6-billion-tvl-drop-as-kelp-hack-exposes-structural-risk-at-defi-lender)
@@ -28,7 +30,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Kelp DAO]] | [[Aave]] | [[Exchange Security Incidents]]
+[[Aave]] | [[Kelp DAO]] | [[Exchange Security Incidents]]
 
 
 ## 모순/논쟁

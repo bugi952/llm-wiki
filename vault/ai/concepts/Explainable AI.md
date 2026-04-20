@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-09-17**: 감정-논리-행동(ELB) 분해로 의료 AI의 해석 가능성 강화 [(원문)](https://arxiv.org/abs/2509.17292)
+- **2026-04-20**: 의료 이미징에 Grad-CAM, Grad-CAM++ 적용하여 진단 근거 시각화 및 임상 신뢰도 확보 [(원문)](https://arxiv.org/abs/2604.16104)
+- **2026-04-20**: 정량적 메트릭과 정성적 요약을 의미론적 작업으로 통합하여 시각화 평가의 설명 가능성 향상 [(원문)](https://arxiv.org/abs/2604.15319)
+- **2026-04**: Knowledge Graph에 domain-specific 데이터와 ML 결과를 구조화하고 LLM으로 user-friendly 설명 생성. 제조업 환경에서 33개 질의 평가 [(원문)](https://arxiv.org/abs/2604.16280)
+- **2026-04-20**: CountSketch 압축으로 LLM 그래디언트 인덱싱 비용 11배 감소, 데이터 속성(attribution) 정확도 유지 [(원문)](https://arxiv.org/abs/2604.16197)
+- **2026-04-20**: 프로토타입 기반 모델의 명시적 증거 제시로 투명성과 인간의 상호 개입 가능성 향상 [(원문)](https://arxiv.org/abs/2604.16076)
+- **2026-04-20**: LLM의 내재적 해석 가능성을 위한 5가지 설계 패러다임 분류 제시 [(원문)](https://arxiv.org/abs/2604.16042)
+- **2026-04-20**: Shapley value 기반 도구(SHAP)의 엄격성 부족 문제. 고위험 응용에서는 기호적 XAI 방법이 필수. Non-symbolic 접근의 오도 위험 [(원문)](https://arxiv.org/abs/2604.15898)
+- **2026-04-20**: 해석가능성을 유지하면서 분포 변화에 적응하는 프로토타입 기반 TTA 방법 [(원문)](https://arxiv.org/abs/2604.15494)
 - **2026-04-19**: ORCA(직교 표현 기여도 분석): SVM의 RKHS 노름 분포를 상호작용 차수, 다항식 차수, 주변 좌표 효과로 분해 [(원문)](https://arxiv.org/abs/2604.15285v1)
 - **2025-09-22**: I2M 생성 결과를 자연어로 설명 가능하게 하여 AI 생성 과정의 신뢰도 향상 [(원문)](https://arxiv.org/abs/2509.22378)
 - **2025-02-01**: 2025-02: IMPACTX - XAI 기반 자동 주의 메커니즘으로 EfficientNet-B2, MobileNet, LeNet-5 성능 개선 [(원문)](https://arxiv.org/abs/2502.12222)
@@ -36,7 +45,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mechanistic Interpretability]] | [[Model Evaluation]]
+[[Medical AI]] | [[In-Context Learning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-04-20**: 다단계 수치 추론 + 표 기반 추론 능력의 별도 평가 필요 [(원문)](https://arxiv.org/abs/2505.19563)
+- **2026-04-20**: 비형식적 정리 증명: proof sketch 중심의 multi-stage SFT가 핵심 기법 인식과 insightful reasoning 활성화 [(원문)](https://arxiv.org/abs/2604.16278)
+- **2026-04-20**: DAP 프레임워크로 LLM 에이전트의 명시적 자기 반성을 정리 발견에 활용 [(원문)](https://arxiv.org/abs/2604.15839)
+- **2026-04-20**: Peirce's ABD-DED-IND framework의 LLM implementation; Gamma Quintet (5개 algebraic invariants)으로 논리적 일관성 보장 [(원문)](https://arxiv.org/abs/2604.15727)
 - **2026-04-17**: JPT: causal LLM을 이중 패스로 처리해 bidirectional context 접근 가능. Zero-shot NER 효율화. [(원문)](https://arxiv.org/abs/2604.05158)
 - **2026-04-17**: 메타 추론 스켈레톤(DAG)을 쿼리별로 자동 검색하는 AutoMR 프레임워크 제안 [(원문)](https://arxiv.org/abs/2510.04116)
 - **2026-04-17**: GNN 기반 SLS SAT 솔버로 성능 개선 가능 (arXiv:2309.11452) [(원문)](https://arxiv.org/abs/2309.11452)
@@ -22,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Instruction Ambiguity Detection]]
+[[Model Evaluation]] | [[Knowledge Graph Question Answering]]
 
 
 ## 모순/논쟁

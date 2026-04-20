@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,28 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: AcuLa: 언어 모델을 음성 인코더와 정렬하여 임상 의미 이해 강화 [(원문)](https://arxiv.org/abs/2512.04847)
+- **2025-10-15**: Video-to-audio 생성 모델이 음성 분리 다운스트림 태스크에 효율적 활용 (MMAudioSep) [(원문)](https://arxiv.org/abs/2510.09065)
+- **2025-02-15**: LLM 기반 Multi-Agent 프레임워크(MosAIG)로 다문화 이미지 생성 및 문화 표현 공정성 개선 [(원문)](https://arxiv.org/abs/2502.15972)
+- **2024-06-14**: DASB 벤치마크 제시: 음성·일반 오디오·음악 도메인의 이산 토큰 강건성 평가 (대경어·생성 태스크 포함) [(원문)](https://arxiv.org/abs/2406.14294)
+- **2025-11**: MM-Telco: 통신 도메인의 네트워크 최적화, 문제 해결, 고객 지원을 위한 멀티모달 LLM 벤치마크 [(원문)](https://arxiv.org/abs/2511.13131)
+- **2025-08-21**: 2,604개 실제 시각화 + 57,665개 합성 시각화 벤치마크로 MLLM의 오도적 시각화 취약성 검증 (Misviz) [(원문)](https://arxiv.org/abs/2508.21675)
+- **2026-04-20**: 시각 특징 공간에 텍스트 기반 시멘틱 제약 통합해 특징 품질 개선 [(원문)](https://arxiv.org/abs/2503.13543)
+- **2026-04-20**: 최고 성능 MLLM도 Mind's Eye 벤치마크에서 인간(80%) 대비 50% 이하 수준, 시각 주의·지각 조작·추상화 능력 부족 [(원문)](https://arxiv.org/abs/2604.16054)
+- **2026-04-20**: Missing modality 처리에서 perfectly aligned representation은 모든 모달리티 활용 시 성능 저하 초래. Structured latent projection으로 modality-specific 정보 보존 필수 (arXiv:2604.15856) [(원문)](https://arxiv.org/abs/2604.15856)
+- **2026-04-20**: RefereeBench(11개 스포츠, 925개 비디오): Gemini-3-Pro/Doubao-Seed ~60%, Qwen3-VL 47% 정확도로 스포츠 규칙 판정의 성능 한계 노출 [(원문)](https://arxiv.org/abs/2604.15736)
+- **2026-04-20**: 입술 움직임 기반 음성인식에서 이벤트 카메라의 저지연 고다이나믹레인지로 조명 불변성 달성 [(원문)](https://arxiv.org/abs/2604.15718)
+- **2026-04-20**: 코드 검색에서 시각적 정보 통합의 중요성 - UI, SVG, 다이어그램 [(원문)](https://arxiv.org/abs/2604.15663)
+- **2026-04-20**: MLLM 기반 교차모달 검색 (SIMMER) - 이미지-텍스트 임베딩 [(원문)](https://arxiv.org/abs/2604.15628)
+- **2026-04-20**: ExoNet: 위상 폴딩 광곡선 및 항성 파라미터의 멀티모달 퓨전으로 TESS 외계행성 후보 자동 분류 [(원문)](https://arxiv.org/abs/2604.15560)
+- **2026-04-20**: 오디오-언어 모델의 temporal smoothing bias를 temporal contrastive decoding으로 해결 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15383)
+- **2026-04-20**: LLM 기반 저작 도구가 자연어 입력으로 3D/MR 콘텐츠 자동 생성 [(원문)](https://arxiv.org/abs/2604.15341)
+- **2026-04-20**: 얼굴 표정 신호(Action Unit)를 LLM 프롬프트에 통합하여 감정 인식 튜터링 구현 가능 [(원문)](https://arxiv.org/abs/2604.15336)
+- **2026-04**: Computer Vision의 고차원 의미 이해: commonsense, emotional, aesthetic, inductive interpretative semantics 다중 클러스터로 분류. Values & ideologies 표현의 과제 지적 [(원문)](https://arxiv.org/abs/2308.10562)
+- **2026-04-20**: 독일 수어(DGS) 감정 분석: 얼굴 외에 엉덩이·팔꿈치·어깨 모션이 동등하게 중요하며 XGBoost로 0.631 balanced accuracy [(원문)](https://arxiv.org/abs/2604.16138)
+- **2026-04-20**: Qwen3.5-Omni: 215개 오디오/오디오-비주얼 벤치마크에서 SOTA, 10시간 연속 오디오 이해 지원 [(원문)](https://arxiv.org/abs/2604.15804)
+- **2026-04-20**: 점군(point cloud) + VLM을 결합한 공간 의미 추출 및 네비게이션 [(원문)](https://arxiv.org/abs/2604.15495)
+- **2026-04-20**: 기상 데이터(레이더+기상관측소)를 멀티모달 어텐션으로 통합하여 강우 예측 정확도 향상 (arXiv:2604.15377) [(원문)](https://arxiv.org/abs/2604.15377)
 - **2026-04-19**: IRS 프레임워크 - 유머를 부조화 인식/해결/선호도 정렬의 3단계로 분해 [(원문)](https://arxiv.org/abs/2604.15210v1)
 - **2026-04-19**: AIGC 도구의 고립된 요소 생성으로 인한 스타일 불일치를 에이전트 기반 계층적 최적화로 해결 [(원문)](https://arxiv.org/abs/2604.15309v1)
 - **2026-04-16**: Nano Banana: 사용자 맥락 학습 기반 개인화 텍스트-이미지 생성 모델 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209400)
@@ -87,7 +109,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Vision-Language Models]]
+[[Medical AI]] | [[Speech Model Safety]]
 
 
 ## 모순/논쟁

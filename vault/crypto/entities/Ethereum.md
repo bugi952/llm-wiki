@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 기관투자자(BitMine)의 대규모 매입 지속 [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEo1d3NTcGFaTHhuY1k0VTZOSGY3amRMNElCUWwtbE0yU01BZDlmTGlzc3Y3UDQ2UkJuVEMxcXBSNXBXakxLZ2xDRmxMNXBjTmZyc1BPdWt3QUNDMFJ6NlpqNExmY0ZpQV9xSFAwVjE0STF4bThNaU9oZW1UWC1DTTNn?oc=5)
+- **2026-04-20**: BitMine이 Ethereum 283만 토큰 보유 공시 [(원문)](https://news.google.com/rss/articles/CBMijwJBVV95cUxNam1vRTBMaTdYdEVqN3hYZWQ5M2F1WGNacXNJYnZaSDV0WC1RLVdYSmZIZHlXYzI4dXF2SUtzSkp6b2VPU0RFcnhZWDVqbXdsbWhIdWFTTlNsVWpzOXhUZTFueVh2T3l0VUJhaU9fd2dISWxpR2xmVDZqRWt2MnoyYkRQLWFHZ1hZOEtYMFdIR0RnbHF3MEJzYndqYWM2MEJ6SzhHbkdSc1pPV0otMU1yZk4xUmw5X0tYUzhwZUMyMTdoOTJTMmlJYzVlUXlpT19razF3bjdNMFFKY2Q4OEU4eTJiYWg4VEF5bXV4amR4SGhESGc4RkVUWWhMaDBWNVg2ZG85NklPeVpYWGZ2WTU4?oc=5)
+- **2026-04-20**: BitMine의 Ethereum 보유량 대폭 증가 [(원문)](https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXFLVnViVWpLNzFPR1Vza1EySW5zYmhaX1UzNE5leE5oWEhzLS1vRVFteGYtVEpQc0NPajdudTFFSElqUi1pemVXZzZZa3RFcTcwRjcyTGZ3cTVsMUduc1gxUUJUVVBmcDk2LUZYZ09JVk05cEtWcEc0RVFqNUg3ZHRDRm9IRTFDV1RfREFCUTBzUTBYRGx6Tm5tWV8wTENPZlVBUmlINThSZ2dWdnRKQWNxUmlJcmc5aTZlTGhTSFVkZUFvdHc2SVVIby1JUmgzVXBZeHRBcVBWdHppWnVJV1Y5MHNENEdjakF0QkhBd0VTRGQ3NnRmdUFsNjlPQ052VWc?oc=5)
 - **2026-04-18**: BitMine (BMNR)의 주요 보유자 중 하나로 확인 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZ3RYSnBfQmFlMGhVeENUWGNLb051VGNjcHo0NmI1X01mTm9qMkp5TjhPODZMcVE3MldVQlpMOEVRYzZYOGgtMmpXVnpwdVV2TzNZUG5NOFgwZXVGejB4WWwzbDM?oc=5)
 - **2026-04-18**: 누적 지갑 잔액 33% 증가, Cup-and-handle 패턴 $3K 래리 신호 [(원문)](https://cointelegraph.com/news/ether-accumulation-wallet-balances-increased-by-33percent-is-a-rally-to-dollar3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: BitMine 보유량 4.875M ETH (기관 자산 구성) [(원문)](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmRMdjJnMTh4OWlOdjNKS0JRM2VLLUFXRk9hTm1LSG9YUU1mMDYtbFpYdVNWeXpKd1hTcklLdFBQVVItSXNaSWdSRHZvb0JXZFNndDhnVi1HVGlGZmpuVmZfZVgwZTNPTXV6WFU0Nl9KbS1GVTI0Y25WNWNUcHUxYURXcXY5V2g0VU4xS0NGV0lRMlN3bEhuYw?oc=5)
@@ -26,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]]
+[[BitMine (BMNR)]] | [[Mainstream Adoption]] | [[Traditional Finance Integration]]
 

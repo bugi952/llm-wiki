@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: LRM은 명시적 CoT 이전에 내재적 추론으로 정확한 답변 도달 (11개 언어 확인) [(원문)](https://arxiv.org/abs/2601.02996)
+- **2026-04-20**: arXiv:2510.06953 - 고품질 추론은 로컬 균일성은 높으나 전역 비균일성 보임. UID 가설이 LLM 추론에는 인간과 다른 패턴 [(원문)](https://arxiv.org/abs/2510.06953)
+- **2026-04-20**: 제어 흐름 그래프 구조 회복과 프로그램 의미 보존 능력 검증 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15390)
+- **2026-04-20**: 복잡한 산술 작업은 최종 레이어에서만 정확한 결과 생성, 기능적 처리로 일반화 능력 향상 [(원문)](https://arxiv.org/abs/2604.15842)
+- **2026-04-20**: Weakest Link bound principle으로 다단계 추론의 오류 전파 방지 (possibilistic logic 기반) [(원문)](https://arxiv.org/abs/2604.15727)
 - **2026-03-05**: CoT 조기 종료가 추론 과정 모니터링의 이점을 훼손할 수 있다(arXiv 2603.05706) [(원문)](https://www.alignmentforum.org/posts/BuAPifQmHf24xB29n/prompted-cot-early-exit-undermines-the-monitoring-benefits)
 - **2025-12**: LLM 회로 문제 풀이 벤치마크: textual + visual 입력의 mathematical reasoning 정확도 측정 [(원문)](https://arxiv.org/abs/2512.10159)
 - **2026-04-17**: 부분 추론 트레이스로부터 답 동치성 예측하는 판정 모델 구성, 다중 추론 경로 최적화 [(원문)](https://arxiv.org/abs/2510.08483)
@@ -31,7 +36,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[LLM Safety Alignment]] | [[Mechanistic Interpretability]] | [[Formal Reasoning]]
+[[Mechanistic Interpretability]] | [[System-2 Learning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,18 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-15**: 학생 모델이 교사 모델을 무단 증류할 때 성능 저하를 유도하는 anti-distillation 기법 적용 [(원문)](https://arxiv.org/abs/2602.15143)
+- **2025-10**: 제한된 계산 예산 하에서 DP fine-tuning의 배치 크기 선택은 누적 DP 노이즈로 설명 가능 [(원문)](https://arxiv.org/abs/2510.20616)
+- **2025-04-20**: SAI-DPO를 통한 자가 인식 동적 샘플링으로 수학 추론 효율성 개선 [(원문)](https://arxiv.org/abs/2505.16176)
+- **2026-04-20**: UA-Net: ImageNet 사전학습 → TRISO 미세사진 도메인 파인튜닝 → 메타모델 기반 불확실성 예측 [(원문)](https://arxiv.org/abs/2604.15542)
+- **2026-04-20**: Multi-agent 기반 고품질 테스트벤치 자동화로 파인튜닝 데이터 양 감소 가능 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15388)
+- **2026-04-20**: DeepInsightTheorem 데이터셋: 증명 작성 → insightful thinking 진화 학습, human learning process 모방 [(원문)](https://arxiv.org/abs/2604.16278)
+- **2026-04-20**: 크로스모달 그래디언트 비대칭 문제 해결을 위한 계층별 직교 그래디언트 투영 기법 [(원문)](https://arxiv.org/abs/2604.16067)
+- **2026-04-20**: Chain-of-Thought 증류 계열에서 대부분의 의미론적 다양성 손실은 지도 학습 단계에서 발생 [(원문)](https://arxiv.org/abs/2604.16027)
+- **2026-04-20**: MLLM 강화학습 미세조정 시 내생적 추론 드리프트 발견: 외생적 변화와 구별, 자동회귀 생성 중 예측 불가능한 분포 변화 [(원문)](https://arxiv.org/abs/2604.15705)
+- **2026-04-20**: FFT는 LoRA/QLoRA 대비 통계적으로 다른 집중도 높은 귀속 패턴 생성 [(원문)](https://arxiv.org/abs/2604.15589)
+- **2026-04-20**: 자체-증류 기반 fine-tuning으로 출력 분포 변화 제약하여 hallucination 억제 가능 [(원문)](https://arxiv.org/abs/2604.15574)
+- **2026-04-20**: Layer selection probe로 task-relevant layer만 LoRA 적용 시 학습 속도 15-28% 향상 [(원문)](https://arxiv.org/abs/2604.15351)
 - **2026-04-17**: SLM 리랭킹에 두 단계 학습(RL 프롬프트 + 세분화 점수)로 좁은 표현 공간 극복 [(원문)](https://arxiv.org/abs/2506.03487)
 - **2026-04-17**: Post-training 분류: off-policy(외부 궤적) vs on-policy(모델 생성 롤아웃)로 체계화 (arXiv:2604.07941) [(원문)](https://arxiv.org/abs/2604.07941)
 - **2026-04-17**: Llama 1.3B까지 hybrid 구조에서 SAGE 적용 시 메모리 효율성 개선 (arXiv:2604.07663) [(원문)](https://arxiv.org/abs/2604.07663)
@@ -28,7 +40,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Efficiency]]
+[[LLM Watermarking]] | [[Private Inference]]
 
 
 ## 모순/논쟁

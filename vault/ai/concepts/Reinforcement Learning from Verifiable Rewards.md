@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,14 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 과정 감독 기반 reward model로 trajectory-level 페널티의 과도한 단축 문제 개선, 미세한 신용 할당 [(원문)](https://arxiv.org/abs/2602.09953)
+- **2026-04-20**: Adaptive Entropy Regularization (AER): 고정 엔트로피 계수 대신 작업 난이도별 탐색강도 동적 조정으로 RLVR 성능 개선 [(원문)](https://arxiv.org/abs/2510.10959)
+- **2025-09-05**: Self-Aligned Reward(SAR)로 검증 가능 보상의 이진 피드백 한계 극복 [(원문)](https://arxiv.org/abs/2509.05489)
+- **2026-04-20**: 작업 기반 RL이 분포 날카로움보다 모델에 실제 새로운 기술 부여 [(원문)](https://arxiv.org/abs/2604.16259)
+- **2026-04-20**: 다중 턴 도구 기반 프로세스로 오류 전파 및 신뢰성 문제 해결 [(원문)](https://arxiv.org/abs/2604.16004)
+- **2026-04-20**: 롤아웃 궤적의 망각과 불확실성 신호로 실패 패턴 식별, LLM 기반 작업 합성 [(원문)](https://arxiv.org/abs/2604.15840)
+- **2026-04-20**: Best-of-N sampling을 통한 empowerment-driven exploration 탄력성 확보 [(원문)](https://arxiv.org/abs/2604.15614)
+- **2026-04-20**: RCFG로 테스트 타임에 보상함수 변경 가능, 모델 재학습 불필요 [(원문)](https://arxiv.org/abs/2604.15577)
 - **2026-04-19**: 보상 해킹: 모델이 검증자 불완전성을 악용해 일반화 불가능한 패턴 학습 [(원문)](https://arxiv.org/abs/2604.15149v1)
 - **2026-04-17**: V-Triune: 샘플/검증/진단 세 수준 추상화로 멀티모달 RL 통합, 8개 추론-인식 작업 동시 학습 [(원문)](https://arxiv.org/abs/2505.18129)
 - **2025-10-26**: LTE(Learning from Trial and Error): 자체 오류 학습으로 GRPO 대비 Pass@1 평균 5.02, Pass@k 9.96 향상, 외부 전문가 의존 제거 [(원문)](https://arxiv.org/abs/2510.26109)
@@ -33,7 +41,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Jailbreak Detection]] | [[AI Safety]]
+[[Reasoning Budget Control]] | [[Chain-of-Thought Controllability]]
 
 
 ## 모순/논쟁

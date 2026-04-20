@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,34 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Evolve-CTF를 통해 13개 모델 구성의 강건성 검증 및 일반화 한계 실증 [(원문)](https://arxiv.org/abs/2602.05523)
+- **2026-04-20**: LRM은 자신의 추론이 도구 결과와 충돌할 때 자신을 신뢰하는 경향 발생, 정답 도구 결과를 무시하는 'Tool Ignored' 문제 (arXiv:2604.08281) [(원문)](https://arxiv.org/abs/2604.08281)
+- **2026-04-20**: Seed1.8: 멀티턴 상호작용, 도구 사용, 멀티스텝 실행을 지원하는 기초 모델. LLM/VLM 성능 유지하면서 검색/코드 생성/GUI 상호작용 포함 [(원문)](https://arxiv.org/abs/2603.20633)
+- **2026-04-20**: FS-Researcher의 dual-agent (Context Builder librarian + Report Writer) 패턴으로 long-horizon research 지원 [(원문)](https://arxiv.org/abs/2602.01566)
+- **2026-01-05**: EnvScaler로 191개 도메인 환경 자동 생성 + SFT/RL 적용 (Qwen3 시리즈) [(원문)](https://arxiv.org/abs/2601.05808)
+- **2026-04-20**: DTDR: 동적 도구 의존성 검색으로 함수 호출 선택의 정확도 향상 (irrelevant tool 감소) [(원문)](https://arxiv.org/abs/2512.17052)
+- **2025-11-01**: CPU가 외부 도구 오케스트레이션의 주요 병목 - 시스템 성능 최적화의 핵심 대상 [(원문)](https://arxiv.org/abs/2511.00739)
+- **2025-02-20**: LLM 에이전트의 강화된 추론이 오히려 사용 불가능한 도구 호출 증가로 이어지는 근본적 트레이드오프 [(원문)](https://arxiv.org/abs/2510.22977)
+- **2025-10**: FACTS: SQL/Jinja2 템플릿을 오프라인 생성하여 쿼리별 테이블 요약을 재사용 가능하게 구성 [(원문)](https://arxiv.org/abs/2510.13920)
+- **2025-10**: EvoTest: 에이전트를 전체 시스템 단위로 진화시켜 fine-tuning/기울기 없이 test-time 적응 [(원문)](https://arxiv.org/abs/2510.13220)
+- **2026-04-20**: COMPASS 벤치마크: LLM 에이전트 제약만족률 70-90% vs 최적성 20-60% - 병목은 도구 아닌 의사결정 [(원문)](https://arxiv.org/abs/2510.07043)
+- **2026-04-20**: LLM 에이전트 기반 XANES 시뮬레이션 자동화: 자연언어 작업 지시→워크플로우 조율→데이터 프로비넌스 관리 [(원문)](https://arxiv.org/abs/2604.16205)
+- **2026-04-20**: LLM 기반 에이전트의 다단계 계획·실행으로 코드 스캐폴딩, 테스트 생성, 버그 수정 등 SE 작업 자동화 확대 [(원문)](https://arxiv.org/abs/2604.15468)
+- **2026-04-20**: LinuxArena: 20개 production 환경, 1,671개 주요 작업, 184개 보안 실패 작업으로 구성된 대규모 제어 벤치마크 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15384)
+- **2026-04-20**: Eco-Bee: LLM 기반 멀티모달 에이전트로 캠퍼스 지속가능성 행동 변화 유도 (Planetary Boundaries 프레임워크 통합) [(원문)](https://arxiv.org/abs/2604.15327)
+- **2026-04-20**: LLM 에이전트를 하이퍼파라미터 최적화에 활용하여 데이터 시각화의 정량-정성 평가 연계 [(원문)](https://arxiv.org/abs/2604.15319)
+- **2026-04-20**: 이중 에이전트(forward/backward) 구조로 해석 가능한 보상 모델링 가능 [(원문)](https://arxiv.org/abs/2604.16004)
+- **2026-04-20**: 개별 에이전트 오류의 협업 과정 중 증폭 문제를 무게 예측자로 제어 [(원문)](https://arxiv.org/abs/2604.15972)
+- **2026-04-20**: 에이전트 기반 그래프-LLM 통합이 사이버보안, 의료, 재료과학, 금융, 로봇틱스 등 다양한 도메인에 응용 [(원문)](https://arxiv.org/abs/2604.15951)
+- **2026-04-20**: 메모리/기술/규칙을 단일 압축 축으로 통합. 20+개 에이전트 시스템을 스펙트럼에 매핑하여 고정 압축 수준 한계 식별 [(원문)](https://arxiv.org/abs/2604.15877)
+- **2026-04-20**: Agent-Data Mutual Evolution: 폐루프 상호작용 기반 에이전트-데이터 공진화 학습 [(원문)](https://arxiv.org/abs/2604.15840)
+- **2026-04-20**: Hard Mode ATP: 자연언어 추론과 자기 반성으로 정답 독립 발견 후 형식 증명 구성 [(원문)](https://arxiv.org/abs/2604.15839)
+- **2026-04-20**: Agent skill 최적화: 명령어, 도구, 리소스의 구조-내용 coupled decision을 bilevel 최적화로 체계화, MCTS 알고리즘으로 구현 [(원문)](https://arxiv.org/abs/2604.15709)
+- **2026-04-20**: Stargazer: physics-grounded radial-velocity fitting 120 task에서 8개 agent 평가; 통계적 적합 성공 but 물리 매개변수 복구 실패 [(원문)](https://arxiv.org/abs/2604.15664)
+- **2026-04-20**: 문서 위임 작업에서 최신 LLM들(Claude 4.6 Opus, GPT 5.4, Gemini 3.1 Pro)이 평균 25% 콘텐츠 손상 기록 [(원문)](https://arxiv.org/abs/2604.15597)
+- **2026-04-20**: CoLabScience: 학습-개입(PULI) RL로 과학 논의 중 선제적 개입 결정 [(원문)](https://arxiv.org/abs/2604.15588)
+- **2026-04-20**: 다단계 정보 검색-추론-합성을 통한 증거 기반 의료 발견 자동화. 명시적 증거 평가 기준으로 오류 누적 위험 감소 [(원문)](https://arxiv.org/abs/2604.15456)
+- **2026-04-20**: PRL-Bench: 물리학 연구 능력 벤치마크 (PR Letters 최신 100편, 도메인 검증) [(원문)](https://arxiv.org/abs/2604.15411)
 - **2025-03-01**: 의료 이미징 해석에서 도구 사용 에이전트의 stepwise 추론이 기존 VLM의 불투명한 최종 출력보다 정확도와 견고성 모두 우수 [(원문)](https://arxiv.org/abs/2604.15231v1)
 - **2025-02-20**: 구조화된 기업 데이터, 세계 지식(LLM), 개인 컨텍스트를 에이전트가 통합하여 사용자 의도의 의미적 갭 해소 [(원문)](https://arxiv.org/abs/2604.15233v1)
 - **2026-04-19**: MM-WebAgent - 다중모달 콘텐츠 생성을 계층적 계획과 자기 반성으로 조율하는 웹 페이지 생성 프레임워크 [(원문)](https://arxiv.org/abs/2604.15309v1)
@@ -152,7 +180,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Clinical AI]] | [[Medical AI]]
+[[Agent Safety Evaluation]] | [[Jailbreak Detection]]
 
 
 ## 모순/논쟁

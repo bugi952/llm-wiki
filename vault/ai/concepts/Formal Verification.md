@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: AI 에이전트가 rank-one 다형성 λ-calculus 항의 완전/최소 타입 주석 문제를 메타이론적으로 형식 검증 [(원문)](https://arxiv.org/abs/2604.15713)
+- **2026-04-20**: SOTA 달성 (CombiBench 7→10, PutnamBench 첫 시스템), Lean 4 기반 Hard Mode ATP 벤치마크 도입 [(원문)](https://arxiv.org/abs/2604.15839)
 - **2026-03-06**: interval arithmetic 기반 신경망의 Lebesgue/Sobolev norm 상한·하한 계산 [(원문)](https://arxiv.org/abs/2603.06431)
 - **2025-09-01**: SafeDec이 생성 액션을 런타임에 STL 스펙 충족 증명 가능하게 함 (재학습 불필요) [(원문)](https://arxiv.org/abs/2509.01728)
 - **2026-04-17**: 자연언어 추론으로 후보 증명서 제안, 개선, 검증하는 LLM 기반 안전성 검증 방법 [(원문)](https://arxiv.org/abs/2511.09363)
@@ -23,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Safety-Critical Reinforcement Learning]] | [[AI Safety]] | [[Autonomous Vehicles]]
+[[Code Generation]] | [[Formal Reasoning]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Cantor Fitzgerald 초기 커버리지 목표주가 $39 (Ethereum Treasury 규모 기반) [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3V1NUNKVmk3R0NCNGEtejN6R2xNcUJObFhZRHoxSlMxSXJVX3VhdFltSG9UVXBqSUp5SER4Q255ckd1ZS1Mc2phOFpzMW9WSm5YMVIzNmxTUXBJdDV0TnBPUmxaM1B4MzluX3hWNlJBaWszakdNSlNUWlZLMFFwbDhZUll5bjRzZ1QyVkxQaWFESkE2TXc?oc=5)
+- **2026-04-20**: 대규모 Ethereum 매입을 통한 자산 다각화 및 Fusaka 업그레이드 준비 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWRKUE04WFE0UGVIYzlvYlRyelFSc3F5TGJGWXNuampCdTYxY1BHYkJwZWE0Wlg2NnJtZkM5NlkxRV9BenZvcThnU2VHZVZrTnZ4a3RGcFlhWElFd21kVy04ZWdZVW1DM1dyZGxuZm11c1B3TW4xVlBjelc2dDJMQUw2dS15dFc1MHlyVE53RlNOTVJRUWc?oc=5)
+- **2026-04-20**: 스테이킹 사업이 핵심 경쟁력('Staking Juggernaut') [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXdmckxhZnhyUUIwN2Z6QXFUT1J1d2NicEYxem1RU2hpR1NvRUc1bmRIa0NZTHRHS2JpRmE0Y3Uyem5RNW1NVWNkRkRPSnJnTjNzdXdLanV0VGNQUmpVLXY4aFFhT0EtSzJFLS1aeWRHdHpwa3lnVTQ4M0NLNUozcmNSSWwwajBmZEozT2dn?oc=5)
+- **2026-04-20**: 14,618 ETH 추가 매입으로 보유 확대 지속 [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEo1d3NTcGFaTHhuY1k0VTZOSGY3amRMNElCUWwtbE0yU01BZDlmTGlzc3Y3UDQ2UkJuVEMxcXBSNXBXakxLZ2xDRmxMNXBjTmZyc1BPdWt3QUNDMFJ6NlpqNExmY0ZpQV9xSFAwVjE0STF4bThNaU9oZW1UWC1DTTNn?oc=5)
+- **2026-04-20**: 총 암호화폐 및 현금 보유액 $13.4B 공시 [(원문)](https://news.google.com/rss/articles/CBMijwJBVV95cUxNam1vRTBMaTdYdEVqN3hYZWQ5M2F1WGNacXNJYnZaSDV0WC1RLVdYSmZIZHlXYzI4dXF2SUtzSkp6b2VPU0RFcnhZWDVqbXdsbWhIdWFTTlNsVWpzOXhUZTFueVh2T3l0VUJhaU9fd2dISWxpR2xmVDZqRWt2MnoyYkRQLWFHZ1hZOEtYMFdIR0RnbHF3MEJzYndqYWM2MEJ6SzhHbkdSc1pPV0otMU1yZk4xUmw5X0tYUzhwZUMyMTdoOTJTMmlJYzVlUXlpT19razF3bjdNMFFKY2Q4OEU4eTJiYWg4VEF5bXV4amR4SGhESGc4RkVUWWhMaDBWNVg2ZG85NklPeVpYWGZ2WTU4?oc=5)
+- **2026-04-20**: 대규모 자사주 매입으로 투자 전략 전환 [(원문)](https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXFLVnViVWpLNzFPR1Vza1EySW5zYmhaX1UzNE5leE5oWEhzLS1vRVFteGYtVEpQc0NPajdudTFFSElqUi1pemVXZzZZa3RFcTcwRjcyTGZ3cTVsMUduc1gxUUJUVVBmcDk2LUZYZ09JVk05cEtWcEc0RVFqNUg3ZHRDRm9IRTFDV1RfREFCUTBzUTBYRGx6Tm5tWV8wTENPZlVBUmlINThSZ2dWdnRKQWNxUmlJcmc5aTZlTGhTSFVkZUFvdHc2SVVIby1JUmgzVXBZeHRBcVBWdHppWnVJV1Y5MHNENEdjakF0QkhBd0VTRGQ3NnRmdUFsNjlPQ052VWc?oc=5)
 - **2026-04-19**: 최근 주가 급등에 대한 펀더멘탈 분석 평가 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkkyRWVuX2FlNUl5Y3M4NGxOWXJoMHpEQ1JNY0hCbzE0T0sxRy0tcUN4eHM4REZwVHZyeWtRSkNpMzE0XzBaeVJMVDZ5LVV0ZVMzb20zcC1HejRkbmVubDFWRTdVTk13bHF4Z0NfWVJkbHVqUkhLd0dkaGlWVHkxS3dYakZQdFVNbVA3cjJfT0lTZnd2T09DX1cxTG56Q1BzUURPXzFfZ19WUQ?oc=5)
 - **2026-04-19**: ETH 홀딩 4.875M 토큰, 총 자산 $11.8B 달성 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxQczFwSU51LTRBV0lHMWNOZFpnY3Z2dngtTVN3QlNUdjJDZFc2ZlNUamdVX3gydXlOblJZd3dhZzhhRy1ENTVSaERHTzhYb0Z2VGo5czdJbDRWQVd6eDkteXdkZjJVV1NMTXVyRDN3Rm1EVVpTQ3hNblREREl1QnFFWGJZSHl4YnVUVlZqS3JGaS14X25aQnJtRTVJMkh4OWU0SWM3ejJVcEJURHVjSVRnVUNn?oc=5)
 - **2026-04-18**: ETH 보유량 4.875M 토큰 (공식 공시) [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsZ3RYSnBfQmFlMGhVeENUWGNLb051VGNjcHo0NmI1X01mTm9qMkp5TjhPODZMcVE3MldVQlpMOEVRYzZYOGgtMmpXVnpwdVV2TzNZUG5NOFgwZXVGejB4WWwzbDM?oc=5)

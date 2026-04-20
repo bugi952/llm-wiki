@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-20 00:06
+최종 갱신: 2026-04-20 07:34
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -43,6 +43,7 @@
 - [[entities/Lido|Lido]]
 - [[entities/Metaplanet|Metaplanet]]
 - [[entities/Mitsui|Mitsui]]
+- [[entities/Moody's|Moody's]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
 - [[entities/NYDIG|NYDIG]]
 - [[entities/Naver-Dunamu|Naver-Dunamu]]
@@ -61,8 +62,10 @@
 - [[entities/Solana|Solana]]
 - [[entities/Strategy (MSTR)|Strategy (MSTR)]]
 - [[entities/Stripe|Stripe]]
+- [[entities/Supply Chain Security|Supply Chain Security]]
 - [[entities/Tempo|Tempo]]
 - [[entities/Tether|Tether]]
+- [[entities/Vercel|Vercel]]
 - [[entities/World|World]]
 - [[entities/World Liberty Financial|World Liberty Financial]]
 - [[entities/X|X]]
@@ -88,6 +91,7 @@
 - [[concepts/Government Digital Asset Policy|Government Digital Asset Policy]]
 - [[concepts/Layer 2|Layer 2]]
 - [[concepts/Mainstream Adoption|Mainstream Adoption]]
+- [[concepts/Market Liquidation Mechanics|Market Liquidation Mechanics]]
 - [[concepts/Market Transparency|Market Transparency]]
 - [[concepts/Mining Supply Pressure|Mining Supply Pressure]]
 - [[concepts/Political Interference in Crypto Regulation|Political Interference in Crypto Regulation]]
@@ -101,6 +105,7 @@
 - [[concepts/Tokenized Assets|Tokenized Assets]]
 - [[concepts/Tokenized Stocks|Tokenized Stocks]]
 - [[concepts/Traditional Finance Integration|Traditional Finance Integration]]
+- [[concepts/Yield Farming Strategy|Yield Farming Strategy]]
 
 ## 📊 지표
 - [[indicators/BTC Price|BTC Price]]
