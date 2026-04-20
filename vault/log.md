@@ -1,105 +1,105 @@
 # 변경 이력
-최종 갱신: 2026-04-20 12:13
+최종 갱신: 2026-04-20 18:20
 
 ## [2026-04-20]
 
-- append: **Energy Market Policy** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
-- append: **Renewable Energy Policy** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
-- append: **Multimodal AI** ← 플리토, ‘이미지 번역 프로’ 출시…”디자인은 그대로·텍스트만 자연스럽게 변환”
-- append: **Text-to-Image Generation** ← 플리토, ‘이미지 번역 프로’ 출시…”디자인은 그대로·텍스트만 자연스럽게 변환”
-- append: **AI Infrastructure** ← 오픈AI·MS의 데이터센터 공사 40% 지연...서비스 확장 늦어지나
-- append: **Robotic Manipulation** ← 로보티즈, 휴머노이드 'AI 사피엔스' 프로토타입 공개...AI 소스코드 오픈 공개
-- append: **Medical AI** ← 과기부, AI 특화 병원 시범사업 공모..."권역별 의료 AI 네트워크 구축"
-- append: **AI Semiconductors** ← 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
-- append: **LLM-Based Hardware Optimization** ← 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
-- append: **Robotic Manipulation** ← 롯데이노베이트 "AI 로봇 두뇌 '아이멤버', 일상부터 산업 현장까지 확장 전략"
-- append: **AI Regulation** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
-- append: **Claude Miso** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
-- append: **Defense AI** ← 미 국가안보국, 블랙리스트 지정된 앤트로픽 '미소스' 이미 사용 중
-- append: **xAI** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
-- append: **Agentic AI** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
-- append: **Vision-Language Models** ← 에이전트·영상 이해 강화한 '그록 4.3' 출시..."2주 간격으로 업데이트"
-- append: **Agentic AI** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
-- append: **Google** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
-- append: **AI Deployment** ← 구글, 국내 기업 '에이전틱 AI' 비즈니스 혁신 사례 공개
-- append: **Text-to-Image Generation** ← 화제의 이미지 모델 '덕트 테이프'...'GPT-이미지-2' 출시 임박?
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (NYSE American: BMNR) withdraws common stock listing - Stock Titan
-- append: **China Interest Rates** ← China leaves lending benchmarks unchanged for 11th month in April - MSN
-- append: **Traditional Finance Integration** ← Lydian Launches Visa Platinum Crypto Card to Enable Everyday Spending of Digital Assets
-- append: **Mainstream Adoption** ← Lydian Launches Visa Platinum Crypto Card to Enable Everyday Spending of Digital Assets
-- append: **Hyperliquid** ← Hyperliquid HYPE Hits 60-Day High on HIP4 Momentum - Binance
-- append: **21Shares** ← 21Shares files to launch ETF tracking Hyperliquid’s HYPE token - MSN
-- append: **Hyperliquid** ← 21Shares files to launch ETF tracking Hyperliquid’s HYPE token - MSN
-- append: **Aave** ← A $300 million borrowing spike on Aave signals liquidity crunch after exploit
-- append: **Geopolitical Security Threats** ← Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks
-- append: **Kelp DAO** ← LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus
-- append: **DeFi** ← The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack
-- append: **Market Liquidation Mechanics** ← The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack
-- append: **Stablecoin** ← BIS warns dollar stablecoins could strain banks and policy
-- append: **Government Digital Asset Policy** ← BIS warns dollar stablecoins could strain banks and policy
-- append: **Strategy (MSTR)** ← Saylor teases 'bigger' BTC buy days after floating semi-monthly dividends
-- append: **AI Infrastructure** ← Coinbase is testing AI agents that show up on Slack and email
-- append: **Autonomous Onchain Agents** ← Coinbase is testing AI agents that show up on Slack and email
-- append: **Vercel** ← Cloud hosting firm Vercel confirms ‘limited’ hack of user info
-- append: **Supply Chain Security** ← Cloud hosting firm Vercel confirms ‘limited’ hack of user info
-- append: **Bitcoin** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
-- append: **Ethereum** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
-- append: **Quantum Security** ← The quantum gap: Why Bitcoin and Ethereum are taking different paths on security
-- append: **Prediction Markets** ← Polymarket in talks to raise $400M at a $15B valuation: Report
-- append: **Exchange Security Incidents** ← Hackers impersonated eth.limo team to hijack its domain: Post-mortem
-- append: **Bitcoin** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
-- append: **Geopolitical Security Threats** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
-- append: **BTC Price** ← Bitcoin erases weekend gains as US-Iran ceasefire faces pressure
-- append: **Tokenized Assets** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
-- append: **Traditional Finance Integration** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
-- append: **Nomura** ← Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain
-- append: **Claude Code** ← Claude Token Counter, now with model comparisons
-- append: **DeepSeek** ← "딥시크-V4, 이번 주 출시" 예측 등장...하드웨어 한계 돌파 가능성
-- append: **Mixture of Experts** ← "딥시크-V4, 이번 주 출시" 예측 등장...하드웨어 한계 돌파 가능성
-- append: **Physical Intelligence** ← 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
-- append: **Robotic Manipulation** ← 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
-- append: **Robotic Manipulation** ← 중국, 휴머노이드 하프 마라톤서 기술 도약 선보여..."인간 기록 돌파"
-- append: **Robotic Manipulation** ← [게시판] 아이엘, 애지봇과 휴머노이드 개발 MOU 등 단신
-- append: **AI Deployment** ← [게시판] 아이엘, 애지봇과 휴머노이드 개발 MOU 등 단신
-- append: **Community Solar** ← 캘리포니아 커뮤니티 태양광, 9조원 비용 절감 효과
-- append: **Evaluation Robustness** ← Fragile Thoughts: How Large Language Models Handle Chain-of-Thought Perturbations
-- append: **Speculative Decoding** ← ConFu: Contemplate the Future for Better Speculative Sampling
-- append: **Jailbreak Detection** ← Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover
-- append: **AI Safety** ← Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover
-- append: **Mechanistic Interpretability** ← Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks
-- append: **Transformer Expressivity** ← Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks
-- append: **Model Evaluation** ← vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models
-- append: **Vision-Language-Action Models** ← vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models
-- append: **Diffusion Models** ← CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language
-- append: **Continual Learning** ← SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators
-- append: **Catastrophic Forgetting** ← SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators
-- append: **Agentic AI** ← Seed1.8 Model Card: Towards Generalized Real-World Agency
-- append: **AGI** ← ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence
-- append: **Agent Safety Evaluation** ← ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence
-- append: **Semantic Drift** ← Measuring the Semantic Structure and Evolution of Conspiracy Theories
-- append: **Multi-Agent Systems** ← From Multi-Agent to Single-Agent: When Is Skill Distillation Beneficial?
-- append: **Neural Architecture Search** ← Plateaus, Optima, and Overfitting in Multi-Layer Perceptrons: A Saddle-Saddle-Attractor Scenario
-- append: **State Space Models** ← Olmo Hybrid: From Theory to Practice and Back
-- append: **Open Source Models** ← Olmo Hybrid: From Theory to Practice and Back
-- append: **Agent Communication** ← Context-Agent: Dynamic Discourse Trees for Non-Linear Dialogue
-- append: **Agent Memory** ← Context-Agent: Dynamic Discourse Trees for Non-Linear Dialogue
-- append: **World Model** ← Neural Computers
-- append: **Code Generation** ← Neural Computers
-- append: **Claude Code** ← AdaBoost Does Not Always Cycle: A Computer-Assisted Counterexample
-- append: **Agentic AI** ← When to Trust Tools? Adaptive Tool Trust Calibration For Tool-Integrated Math Reasoning
-- append: **Multimodal AI** ← DASB -- Discrete Audio and Speech Benchmark
-- append: **Causal Learning** ← Estimating Joint Interventional Distributions from Marginal Interventional Data
-- append: **Quantum Computing** ← Resource-efficient equivariant quantum convolutional neural networks
-- append: **Agent-Aided Design** ← VeriGraph: Scene Graphs for Execution Verifiable Robot Planning
-- append: **Robotic Manipulation** ← VeriGraph: Scene Graphs for Execution Verifiable Robot Planning
-- append: **Vision-Language Models** ← When Cultures Meet: Multicultural Text-to-Image Generation
-- append: **Multimodal AI** ← When Cultures Meet: Multicultural Text-to-Image Generation
-- append: **Quantum Computing** ← A PennyLane-Centric Dataset to Enhance LLM-based Quantum Code Generation using RAG
-- append: **RAG (Retrieval-Augmented Generation)** ← A PennyLane-Centric Dataset to Enhance LLM-based Quantum Code Generation using RAG
-- append: **Code Generation** ← A PennyLane-Centric Dataset to Enhance LLM-based Quantum Code Generation using RAG
-- append: **Model Efficiency** ← Designing Synthetic Discussion Generation Systems: A Case Study for Online Facilitation
-- append: **AI Persona** ← Creating and Evaluating Personas Using Generative AI: A Scoping Review of 81 Articles
-- append: **Spiking Neural Networks** ← Scalable Multi-Task Learning through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents
-- append: **Self-Evolving Agent Architecture** ← Scalable Multi-Task Learning through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents
-- append: **Time Series Reasoning** ← Sequential Regression Learning with Randomized Algorithms
-- append: **Medical AI** ← Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models
+- append: **Coinbase** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
+- append: **Tokenized Stocks** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
+- append: **Traditional Finance Integration** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
+- append: **Aave** ← CoinDesk 20 performance update: AAVE price plummets 22.9% over weekend
+- append: **BitMine (BMNR)** ← Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026
+- append: **Ethereum** ← Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026
+- append: **Strategy (MSTR)** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record
+- append: **Bitcoin** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record
+- append: **Geopolitical Security Threats** ← U.S.-Iran ceasefire ends, Tesla earnings: Crypto Week Ahead
+- append: **Bitcoin** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
+- append: **Kelp DAO** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
+- append: **DeFi** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
+- append: **BitMine (BMNR)** ← Bitmine buys 101,627 ETH in largest purchase since December 2025
+- append: **Ethereum** ← Bitmine buys 101,627 ETH in largest purchase since December 2025
+- append: **Tokenization** ← Japan to test government bonds as digital collateral on Canton
+- append: **Government Digital Asset Policy** ← Japan to test government bonds as digital collateral on Canton
+- append: **Mizuho** ← Japan to test government bonds as digital collateral on Canton
+- append: **Nomura** ← Japan to test government bonds as digital collateral on Canton
+- append: **Strategy (MSTR)** ← Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC
+- append: **Bitcoin** ← Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC
+- append: **Coinbase** ← Coinbase rolls out UK crypto-backed loans as FCA shapes rules
+- append: **Crypto Regulation** ← Coinbase rolls out UK crypto-backed loans as FCA shapes rules
+- append: **BTC Price** ← Crypto fund inflows hit $1.4B in second-strongest week since January
+- append: **Aave** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
+- append: **Kelp DAO** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
+- append: **LayerZero** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
+- append: **Stablecoin** ← How Mastercard plans to settle card payments with stablecoins
+- append: **Traditional Finance Integration** ← How Mastercard plans to settle card payments with stablecoins
+- append: **AI Infrastructure** ← Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs
+- append: **Coinbase** ← Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum
+- append: **Mainstream Adoption** ← Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum
+- append: **BitMine (BMNR)** ← Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year
+- append: **Ethereum** ← Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year
+- append: **Strategy (MSTR)** ← Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024
+- append: **Bitcoin** ← Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024
+- append: **Kelp DAO** ← Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit
+- append: **DeFi** ← Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit
+- append: **AI Infrastructure** ← Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit
+- append: **LayerZero** ← LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group
+- append: **Kelp DAO** ← LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group
+- append: **Geopolitical Security Threats** ← LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group
+- append: **Vercel** ← ‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO
+- append: **AI Infrastructure** ← ‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO
+- append: **Coinbase** ← Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs
+- append: **Stablecoin** ← Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service
+- append: **Mainstream Adoption** ← Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service
+- append: **Aave** ← DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment
+- append: **LayerZero** ← DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment
+- append: **Lido** ← DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment
+- append: **LayerZero** ← LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise
+- create: **KelpDAO** ← LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise
+- append: **Geopolitical Security Threats** ← LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (Bmnr) announces eth holdings reach 4.976 million tokens, and total crypto and total cash holdings of $12.9 billion - marketscreener.com
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (Bmnr) Announces Eth Holdings Reach 4.976 Million Tokens, And Total Crypto And Total Cash Holdings Of $12.9 Billion - TradingView
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies reports $12.9B crypto + cash holdings, 4.976M ETH (4.12%) and $1.12B cash - TradingView
+- append: **BitMine (BMNR)** ← BMNR Stock Falls as Tom Lee’s Bitmine Makes Largest Weekly Ethereum Buy This Year - CoinGape
+- append: **BitMine (BMNR)** ← Bitmine Stock Gains as ‘Alchemy of 5%’ Target Nears Following New Massive Ethereum Buy - TipRanks
+- append: **BitMine (BMNR)** ← Tom Lee's BMNR Nears $13B After Year’s Largest Ethereum Buy – Now Owns 4% of ETH Supply - Stocktwits
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion - PR Newswire
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion | Corporate - EQS News
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion - Morningstar
+- append: **BitMine (BMNR)** ← One company now holds 4% of all Ether—and says it is chasing 5% - Stock Titan
+- append: **Ethereum** ← One company now holds 4% of all Ether—and says it is chasing 5% - Stock Titan
+- append: **BitMine (BMNR)** ← One Company Now Owns 4% Of All Ethereum — Bitmine Adds 101,627 ETH In A Week - Yellow.com
+- append: **Ethereum** ← One Company Now Owns 4% Of All Ethereum — Bitmine Adds 101,627 ETH In A Week - Yellow.com
+- append: **BitMine (BMNR)** ← BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank - Yahoo Finance
+- append: **Ethereum** ← BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank - Yahoo Finance
+- append: **Strategy (MSTR)** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record - CoinDesk
+- append: **Bitcoin** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record - CoinDesk
+- append: **Iris Energy (IREN)** ← Fund Update: FMR LLC added 8,647,252 shares of IRIS ENERGY (IREN) to their portfolio - Quiver Quantitative
+- append: **Bank of Korea** ← Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea
+- append: **ECB** ← François Villeroy de Galhau: One year on - why the transatlantic partnership remains of mutual interest
+- append: **Financial Stability** ← Andrew Bailey: Central bank independence &#8211; in need of further thinking
+- append: **AI and Central Banking** ← Denis Beau: The challenges posed by AI from the perspective of the central bank
+- append: **Digital Euro** ← Piero Cipollone: Sparking the transformation of finance - tokenisation and the role of central banks
+- append: **ECB** ← Piero Cipollone: Sparking the transformation of finance - tokenisation and the role of central banks
+- append: **Financial Stability** ← Vasileios Madouros: Minding the tails - safeguarding resilience of non-bank finance
+- append: **US Employment** ← Philip N Jefferson: Economic outlook and the labor market
+- append: **China Interest Rates** ← China leaves lending benchmarks unchanged for 11th month in April - Reuters
+- append: **PBOC** ← Why China’s central bank won’t save the country from deflation - Mint
+- append: **Financial Stability** ← Why China’s central bank won’t save the country from deflation - Mint
+- append: **AI Workforce Impact** ← Revisions to 2025 state employment
+- append: **BTC Price** ← Spot Bitcoin ETFs Cross $1B Last Week in Inflows as Cumulative Flows Approach Record High
+- append: **Strategy (MSTR)** ← Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings
+- append: **Bitcoin** ← Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings
+- append: **HYPE Price** ← Hyperliquid Price Prediction: What Next as HYPE Nears $50 Resistance After Golden Cross - CryptoRank
+- append: **Bitcoin** ← UK gas-investment firm weighs bitcoin mining, draws criticism
+- append: **Mainstream Adoption** ← UK gas-investment firm weighs bitcoin mining, draws criticism
+- append: **RAVE** ← Blockchain sleuth accuses RaveDAO of knowing who manipulated the price of its token
+- append: **Exchange Security Incidents** ← Blockchain sleuth accuses RaveDAO of knowing who manipulated the price of its token
+- append: **Bitcoin** ← U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says
+- append: **Mainstream Adoption** ← U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says
+- append: **Kelp DAO** ← Kelp DAO claims LayerZero’s 'default' settings are what actually caused the massive $290 million disaster
+- append: **LayerZero** ← Kelp DAO claims LayerZero’s 'default' settings are what actually caused the massive $290 million disaster
+- append: **Stablecoin** ← Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks
+- append: **Crypto Regulation** ← Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks
+- append: **Tether** ← Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain
+- append: **Tokenization** ← Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain
+- append: **Traditional Finance Integration** ← Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain
+- append: **OpenAI** ← OpenAI helps Hyatt advance AI among colleagues

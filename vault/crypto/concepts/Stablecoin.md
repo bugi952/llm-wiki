@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Tangem Pay로 USDC 기반 소매 결제 서비스 Polygon에서 출시 [(원문)](https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay)
+- **2026-04-20**: Mastercard, SoFiUSD를 통한 카드 결제 시스템 테스트로 메인스트림 결제 사용 사례 확대 [(원문)](https://cointelegraph.com/news/mastercard-stablecoin-settlement-sofiusd-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 글로벌 규제 조화 부재로 시장 분열 위험 증가 (BIS 경고) [(원문)](https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks)
 - **2026-04-20**: BIS 총장 Pablo Hernández de Cos, 달러 스테이블코인이 금융안정성 위협 경고 [(원문)](https://cointelegraph.com/news/bis-warns-on-stablecoin-risks-urges-global-coordination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Moody's: yield-bearing stablecoin 금지 + 미국 결제 인프라 고도화로 은행 시장점유율 보호. 단기 위협 완화 [(원문)](https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 대규모 이체 시 유동성 분할로 인한 실행 복잡성 증가 (Eco CEO Ryne Saxe 언급) [(원문)](https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Government Digital Asset Policy]] | [[Traditional Finance Integration]]
+[[Tangem]] | [[Polygon]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

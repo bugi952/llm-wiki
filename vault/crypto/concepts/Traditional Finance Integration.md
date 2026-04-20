@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Mastercard, 스테이블코인 기반 카드 결제 결산 시스템 개발 중 [(원문)](https://cointelegraph.com/news/mastercard-stablecoin-settlement-sofiusd-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 암호화폐 거래소와 전통금융의 협력 심화 (주식 토큰화) [(원문)](https://www.coindesk.com/business/2026/04/20/coinbase-bybit-said-to-be-working-together-on-tokenization-custody-and-distribution-of-u-s-stocks)
+- **2026-04-20**: 중동 지역 금융기관의 토큰화 기반 구축 (Tether-KAIO) [(원문)](https://www.coindesk.com/business/2026/04/20/tether-backs-uae-tokenization-firm-kaio-in-usd8m-funding-round-to-bring-emirati-funds-onchain)
 - **2026-04-20**: 일본 주요 금융기관, 정부채권 토큰화로 담보 관리 자동화 및 정산 효율화 추진 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds)
 - **2026-04-20**: Lydian × Rain × Visa 협력으로 300+ 디지털 자산 결제 가능한 크립토 카드 런칭 [(원문)](https://bitcoinmagazine.com/news/lydian-launches-visa-platinum-crypto-card)
 - **2026-04-20**: 공개 상장 회사들의 대규모 Bitcoin 포트폴리오 편입 추세 확대 [(원문)](https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios)
@@ -26,7 +29,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Nomura]] | [[Tokenized Assets]] | [[Tokenization]]
+[[Mastercard]] | [[Stablecoin]]
 
 
 ## 모순/논쟁

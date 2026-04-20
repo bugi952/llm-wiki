@@ -11,6 +11,14 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 대형 상장사 MicroStrategy의 지속적 매입으로 기관 수용성 강화 [(원문)](https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024)
+- **2026-04-20**: 기관 수요 강화 - Strategy의 800,000 BTC 보유로 대규모 기관 축적 추세 확인 [(원문)](https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 현물 ETF 유입 거의 $1B, 기관 수요 강화 [(원문)](https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters)
+- **2026-04-20**: 전통 금융 기업의 대규모 매입 지속, 주류 채택 추진력 강화 [(원문)](https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion)
+- **2026-04-20**: 2026년 암호화폐 채택 리바운딩 추세 분석 (Deutsche Bank) [(원문)](https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says)
+- **2026-04-20**: 영국 가스 투자 회사의 비트코인 마이닝 진출 추진 (비판 동반) [(원문)](https://www.coindesk.com/business/2026/04/20/uk-gas-investment-firm-weighs-bitcoin-mining-draws-criticism)
+- **2026-04-20**: Strategy (MSTR), BlackRock를 초과한 상위 3대 Bitcoin 보유 기관 [(원문)](https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin)
+- **2026-04-20**: Strategy의 대규모 매수로 기관 자금 유입 신호 강화, 시장 신뢰도 극대 [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlWdF9xWjJqZDc3aUMzYVVwVXZxNE12aEgycjQ1YUNTWmRoSVc3NVNRcE5XNUVoTHpzdmZZR0VZN3daRmItNVJyZEJseEREanZVcTBPS0NrR1dTZWU4cGlLSHRpbkFQel9rZXFWUDlpTmI2dHh4YXRHS3ZsZ0VBWWVzaXNfak5oQ2NzUThfUmw5dlk2TlYw?oc=5)
 - **2026-04-20**: US-Iran 갈등으로 $74K 이하 급락 (미군 이란 화물선 나포) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 양자 컴퓨팅 위협 대응 전략이 Ethereum과 상이한 경로 추진 중 [(원문)](https://cointelegraph.com/explained/bitcoin-and-ethereum-quantum-threat-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 공개 상장사 중 Strategy(MSTR), 21Shares, Metaplanet 등이 수십억 달러 규모 Bitcoin 보유 [(원문)](https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios)
@@ -56,5 +64,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Geopolitical Security Threats]] | [[BTC Price]]
+[[Strategy (MSTR)]] | [[Asset Allocation]] | [[Mainstream Adoption]]
 

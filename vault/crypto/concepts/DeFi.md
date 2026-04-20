@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: KelpDAO 사건 후 TVL 130억 달러 급락, DeFi 보안 취약점 재조명 [(원문)](https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit)
+- **2026-04-20**: Kelp 해킹으로 리스크 재인식, 사용자 신뢰도 하락 [(원문)](https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters)
 - **2026-04-20**: 2026-04-20 Kelp DAO 익스플로잇 발화 → 2일간 $13B 시장 붕괴. DeFi 프로토콜 간 연쇄 청산 현상 실증 [(원문)](https://www.coindesk.com/markets/2026/04/20/defi-tvl-drops-more-than-usd13-billion-in-two-days-following-kelp-dao-hack)
 - **2026-04-20**: 프로토콜 간 신뢰 네트워크 붕괴로 DeFi 구조적 취약성 노출. 단일 사건의 생태계 규모 파급 확인 [(원문)](https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Kelp DAO 익스플로잇 심층 분석으로 DeFi 프로토콜 설계 취약성 패턴 파악 [(원문)](https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi)
@@ -31,7 +33,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Kelp DAO]] | [[Market Liquidation Mechanics]]
+[[Kelp DAO]] | [[Vercel]] | [[Exchange Security Incidents]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

@@ -14,6 +14,8 @@ last_updated: 2026-04-20
 
 
 ## 이력
+- **2026-04-20**: 2026년 4월 2주차: 암호화폐 펀드 유입 $1.4B (1월 이후 2번째 수준), AUM $154.8B 도달 [(원문)](https://cointelegraph.com/news/crypto-etp-1-4-billion-inflows-third-straight-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 현물 Bitcoin ETF 주간 순유입 $996.4M (3주 누적 $1.8B, YTD 회복세) [(원문)](https://bitcoinmagazine.com/news/spot-bitcoin-etfs-cross-1b)
 - **2026-04-20**: 2026-04-20: $74K 이하 주말 급락 (지정학 위험 요인) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: 호르무즈 해협 폐쇄(미국-이란 분쟁)로 유가 상승, 비트코인 $75K 하락 [(원문)](https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-18**: 이란 호르무즈 해협 개방 선언 및 ETF 유입으로 비트코인이 $78,000에 터치 [(원문)](https://thedefiant.io/news/markets/bitcoin-touches-usd78-000-as-iran-declares-strait-of-hormuz-completely-open)

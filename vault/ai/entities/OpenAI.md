@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-18
+last_updated: 2026-04-20
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Hyatt가 ChatGPT Enterprise 배포 (GPT-5.4, Codex 기반) [(원문)](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)
 - **2026-04-18**: 고위 임원진 대규모 퇴사, 업계에서 "Liberation Day"라 표현 (HN score 58) [(원문)](https://news.ycombinator.com/item?id=47813428)
 - **2026-04-17**: 사업 전략을 소비자 중심에서 B2B 중심으로 전환, 슈퍼앱 전략 추진. 과학팀 부사장(Kevin Wale), Sora팀 리더(Bill Pebbles) 등 핵심 임원 사임 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209438)
 - **2026-04-17**: OpenAI와 Cerebras의 파트너십 체결, Cerebras의 주요 수익원 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209431)

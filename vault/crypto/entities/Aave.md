@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 나쁜 채무 사건 발생, AAVE 토큰 10-22% 하락, DeFi 전반 감염 시작 [(원문)](https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw)
+- **2026-04-20**: $290M 익스플로잇 발생, Kelp DAO의 DVN 설정 취약성으로 손실 [(원문)](https://cointelegraph.com/news/layerzero-kelp-exploit-aave-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 주말 동안 22.9% 가격 하락 (시장 약세) [(원문)](https://www.coindesk.com/coindesk-indices/2026/04/20/coindesk-20-performance-update-aave-price-plummets-22-9-over-weekend)
 - **2026-04-20**: 2026-04-20 익스플로잇 후 $300M 차용 스파이크 - 유동성 위기 신호 [(원문)](https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit)
 - **2026-04-20**: Kelp DAO 해킹 후 24시간 내 TVL 80억 달러 이탈, 토큰 20% 급락 [(원문)](https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Kelp DAO 익스플로잇 피해로 V3/V4에서 $200M+ 대출 손실 [(원문)](https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9)
@@ -18,5 +21,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[DeFi]] | [[Exchange Security Incidents]]
+[[LayerZero]] | [[Lido]] | [[Ethena]] | [[DeFi]] | [[Market Liquidation Mechanics]]
 

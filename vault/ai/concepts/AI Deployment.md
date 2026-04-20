@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: Hyatt 사례: ChatGPT Enterprise로 직원 생산성·운영 효율성·고객 경험 개선 [(원문)](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)
 - **2026-04-20**: 한국 기업의 에이전틱 AI 채택: 금융(카카오뱅크), 미디어(CJ ENM), 클라우드(메가존소프트) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209475)
 - **2026-04-20**: 제조 공정 데이터 기반 휴머노이드 로봇의 산업 환경 최적화 및 양산 계획 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209502)
 - **2026-04-20**: 비전 트랜스포머 기반 크로스스펙트럼(RGB+NIR) 해충 탐지 시스템 도입 (SWNet) [(원문)](https://arxiv.org/abs/2604.16147)
@@ -47,7 +48,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[Google DeepMind]] | [[Agentic AI]]
+[[OpenAI]]
 
 
 ## 모순/논쟁

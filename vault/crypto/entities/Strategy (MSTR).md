@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 2026-04-20 주간 25.4억 달러 규모 BTC 매입, 16개월 만에 최대 규모 구매 [(원문)](https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024)
+- **2026-04-20**: 2026년 4월: 34,164 BTC를 $2.54B에 매입, 총 보유량 800,000 BTC 달성 [(원문)](https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 34,164 BTC를 $2.54B에 매입, 역사상 3번째 규모 거래 [(원문)](https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion)
+- **2026-04-20**: $2.54B 규모 Bitcoin 매입 (누적 보유액 BlackRock 초과) [(원문)](https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin)
+- **2026-04-20**: 비트코인 34,164개($2.54B) 매수, 역사적 3번째 규모 기록 (2026-04-20) [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnlWdF9xWjJqZDc3aUMzYVVwVXZxNE12aEgycjQ1YUNTWmRoSVc3NVNRcE5XNUVoTHpzdmZZR0VZN3daRmItNVJyZEJseEREanZVcTBPS0NrR1dTZWU4cGlLSHRpbkFQel9rZXFWUDlpTmI2dHh4YXRHS3ZsZ0VBWWVzaXNfak5oQ2NzUThfUmw5dlk2TlYw?oc=5)
 - **2026-04-20**: Saylor, semi-monthly dividend 제안 + BTC 대규모 매수 계획 지속 표현 [(원문)](https://cointelegraph.com/news/strategy-semi-monthly-dividends-saylor-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Bitcoin 포지션 수익성 회복 (BTC 가격 상승으로) [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9nTFlrZXNHcjRUWjZQQkFhR1VkTFZudkktV1ZoeEVfaGhaMDBOZ2h1RHlEal9KVGhkbzY3Tkw4d2ZHZ29vTkRvVzNUaGFDOFo3aUNDTWVvei0yalUxbElHWmhwaWtUTGs2ajZwdFM2X0lCR0ZQZXdZWUV3SkluNTQ0ckQtV1Z5RVFwekYyOWZsSEU3UTBoZGhtU1AtVVVJSnpEUTQxRTdrT2hNRXltS0s3WnJfbU9jSVZaTVZmWjdZVXc?oc=5)
 - **2026-04-19**: 1년 내 최대 규모 Bitcoin 매입으로 기관투자자의 암호화폐 포지션 강화 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
@@ -32,5 +37,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Asset Allocation]]
+[[Bitcoin]] | [[Asset Allocation]] | [[Mainstream Adoption]]
 

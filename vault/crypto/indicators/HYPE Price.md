@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 # HYPE Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-19
 
 
 ## 이력
+- **2026-04-20**: Golden Cross 형성, $50 저항선 도달 (2026-04-20) [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVNKV0x6NEx1RWxzZlMycV9XZXlNZ280WnBRYk1Za0NqZlNWTTBHbmNxX2tVZVZjOHJTMUoySF9Obl82NDZCS0liNXJrRGV1UzFyRUppVlNiRU1DRllhR2lrMjQ2dmFKM0xpbjVLdU1JazRwaHhRX1dkMWlMYVdMM0dRQlJSTGhLNW1ZbVR2akJZUVY1ZkFUbm9QVmZiblF4dlI4YXRPZGY0WlcyUkduT2prdlczcTF1WWJCank2VEk?oc=5)
 - **2026-04-19**: 귀금속 시장과의 예상 외 강한 연관성 확인 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuVm05ZXdiMExjUER3M2RCYWp3Z2hrazd5U01WdldRSGFmal9xZnltaTd6YWxtSklEWG1vX2VfM1RzVFI5R0szYzlXaXRJemVvVnJ4enlEdHdWbVlBWVZiZWdyVXljQ2JLUG8zOTJjQjJaTVNKV3VkeDVGLWxXUmwtcnpWcHRBOVVvVjU4OA?oc=5)
 - **2026-04-18**: Arthur Hayes는 $150을 목표로 하는 강세 전망 제시 [(원문)](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2pJV2lnN1lPU3NfS0ZKYV9DcEtxeGRpd0FKZlRoSklXZWhtNnNyVGdzWWZYei1iWUVHemt2RWpJbVVNN3g3dFF2Qi1UY0g2WUs4VzR4WW9YWGhkQ3gzT3p3a1lRQVJ2ekZSQnBCMGc2Y2pYa0hpSndlaFhhUWx6ZjFGcnp0Y21nazc1SG9ReHZjajRLR09KMWp0cHhmQnJGZk9hWk12UkI5bmQtVXY0bU1OYw?oc=5)
 - **2026-04-18**: HYPE 토큰이 $50을 상회 (Stablecoin 제안 경쟁 진행 중) [(원문)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVMxLWtkb0pyS2Q1QzBjdkZUSXAySW1nMUlzV0RXNFdMREVmaXkxRW9VOVZreGpkdUlrMVI0bnpybDJxZ29venBQQzg4SmNaV2d3SlRvemFBaU02ekxnVjFTT3d4dFNMZEpwLTJuU2M4Z0hmNURuUGJDbmlLZGdXUEhoRXZiZW8?oc=5)

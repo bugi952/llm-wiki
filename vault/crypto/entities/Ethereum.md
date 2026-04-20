@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 기관 투자자 BitMine의 대규모 매입 신호 [(원문)](https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year)
+- **2026-04-20**: BitMine의 대규모 장기 축적으로 총 공급량의 4.12% 보유 [(원문)](https://cointelegraph.com/news/bitmine-buys-101-627-eth-in-largest-purchase-since-december-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: BitMine 등 기관 매수자의 수요 확대, 주류 채택 신호 [(원문)](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)
+- **2026-04-20**: 마이닝 기업 BitMine의 약세장 대량 매수, 기관 신뢰도 강화 신호 [(원문)](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmRyWlpha1ZKdzNZWGFUM0dSLWNldWd4OGNzSzlLZ1VwZ3ZERkk1Q0tFNFUzd2tHMDlJU3B3dDJuYlczdloxZXBrczV2OUJxS2U2b2oyMmZzazVtMkJxcUNfRHFzeU5ERVY1dVQtZE5ra3l3bm15bmRZVmprMWdDcXE0UQ?oc=5)
+- **2026-04-20**: BitMine이 단일 기관으로 전체 공급량의 4% 보유, 시장 집중도 심화 [(원문)](https://news.google.com/rss/articles/CBMib0FVX3lxTFBlRjhwcWl1RzBqM19scm5nUGxHZGxrRGxXRWdCYTg2QmktbmJtMDROMlJaRGlvWkprRU5wT3pZSVYtVGd5YnZpSnVXNWRaTUxFSTl5Tl9jcm5yUnp1WWZ6TlRyOFRmREV3MmpiVUVtNA?oc=5)
+- **2026-04-20**: BMNR의 4% 보유로 단일 기관의 최대 보유자 지위 확립, 시장 지배 우려 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2RsWmxHNkdxdGJiQk4wSklqT0txWFZfb2NfY2VKTW1jb1hidHdBa05TZVBwQ2ZFaTNISDRacXJGcTJjUG5SZUNwVUdBMnlRNFduclBzY0lELVJvbXRRWE05QjRTTTJiNi0zYXdvTHZvY3QxTGtyQkRNWlZNcEVBMFR2QkZrWWRycXBkaVNzVGFHdEIzOVZRYi1jbU9rdk12Ujh4NndGX281Qm1KT1JrbDRfRkU5aWlWRjQ2ZDdB?oc=5)
 - **2026-04-20**: 양자 컴퓨팅 위협 대응 전략이 Bitcoin과 상이한 경로 추진 중 [(원문)](https://cointelegraph.com/explained/bitcoin-and-ethereum-quantum-threat-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 기관투자자(BitMine)의 대규모 매입 지속 [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEo1d3NTcGFaTHhuY1k0VTZOSGY3amRMNElCUWwtbE0yU01BZDlmTGlzc3Y3UDQ2UkJuVEMxcXBSNXBXakxLZ2xDRmxMNXBjTmZyc1BPdWt3QUNDMFJ6NlpqNExmY0ZpQV9xSFAwVjE0STF4bThNaU9oZW1UWC1DTTNn?oc=5)
 - **2026-04-20**: BitMine이 Ethereum 283만 토큰 보유 공시 [(원문)](https://news.google.com/rss/articles/CBMijwJBVV95cUxNam1vRTBMaTdYdEVqN3hYZWQ5M2F1WGNacXNJYnZaSDV0WC1RLVdYSmZIZHlXYzI4dXF2SUtzSkp6b2VPU0RFcnhZWDVqbXdsbWhIdWFTTlNsVWpzOXhUZTFueVh2T3l0VUJhaU9fd2dISWxpR2xmVDZqRWt2MnoyYkRQLWFHZ1hZOEtYMFdIR0RnbHF3MEJzYndqYWM2MEJ6SzhHbkdSc1pPV0otMU1yZk4xUmw5X0tYUzhwZUMyMTdoOTJTMmlJYzVlUXlpT19razF3bjdNMFFKY2Q4OEU4eTJiYWg4VEF5bXV4amR4SGhESGc4RkVUWWhMaDBWNVg2ZG85NklPeVpYWGZ2WTU4?oc=5)
@@ -30,5 +36,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Quantum Security]] | [[Quantum Threat]] | [[Quantum-Resistant Cryptography]] | [[Bitcoin Upgrade Strategy]]
+[[BitMine (BMNR)]] | [[Asset Allocation]] | [[Mainstream Adoption]]
 

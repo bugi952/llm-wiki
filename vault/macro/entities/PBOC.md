@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 2026-04-20: 통화정책만으로 디플레이션 해결 불가능 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRCdG9pY2dhbXhDREs0Rjc2bE9kdjBBMlpYLUV4MDB6U2FlY1d3TWYwUnZEbkh0VVZoUlhpZm9zWUdIcnJuNWxaUy0zSDRVU3hBQXE1WktuLXNzaG1zekk5OWFEbUdCQ0xYblJ3Uko4ZmJUNW80cVVLZ3JiVmxnSGVTVFlhX2xJaUZXYy1ucTdaelJTYzRDY3NYVEpSeFNjcWF1YWwwS3JBVVZPaHhnXzV0TDHSAboBQVVfeXFMTVBaa2xsaEtySC1HLUpRdkU4VE03UHRrVHVFcnBVdnYxRzZURHpPM0g2YTV1T2l4X3B1WVZlWVpPcDVKdHRIQnBfSDZxUGI2Q05XSWRwZjRlczRqbkFzdkZmdXN1VkZCV3JBZ2UwTHFnSWlNNkd2OUtGQXpDZGJKYlBmQ29oNWdibGRMd25jRHk5RGJzUE1FQVdNTlNzZHprZjBIZ2JKN3VrdjdaeXNEaFdpdjRLcjNXbV9B?oc=5)
 - **2026-04-20**: 금 매입 연장을 통한 외환보유 다양화 전략 지속 [(원문)](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHNNY1FRYXNNVkpyMUxaTjA2NFNQcHhHMHFuenlMajh3M3F4WnpjSUtib0lRWUhZRVJqcUtYMndPcEpDUEhPSG43cFQxdnE5MGlnNFBGRzliWDdjRGU2NUd4TjEzV0QzSXQzdE5nbk9qZ2ZsNFI4VDVpNTNMbFhPSXpLRThyZw?oc=5)
 - **2026-04-20**: 발표 이후 NZD/USD가 0.5900 근처까지 회복, PBOC 정책의 환율 영향 확인 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFByak4xai04NjZfVlVqYU1fa3R2Z0szbWFHbVFsemtFZFJvWkFzSzYwazVWVF8xNjRsaHgzWUhkbnphNjhQMWduUVpWMlE1X2NXQ3RjVVRXQ2ttX3FoZXfSAWNBVV95cUxQUjhiZmU0OGFlZ01tTWNIYkd5ZjBJSl82WUVJYThyOEVIOHZRSnN5VzRyMDBzN005X0JIY084OGk5Sm92ajJQc1NMam1iVFVGRjFfUWxQTzhwWnR3NmZnRnhwYXM?oc=5)
 - **2026-04-20**: 4월 기준금리 동절, 11개월 연속 유지 기록 [(원문)](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVHRzb2RUdXo1NjJIcHVxNnYtbWR0YllUVThlU2ppS3hERGRISDlsc3c5eGFUbC1hS1Y4c1ZRcTdfWnRyNE93U3dzOXZoWi1ua1g4VjJHNTAxYjIwcmxMZ1ZwVG8wTXFia0x2YUZOUzhpYkJCdjQ1ZUwzOTRNdmFtVGQyeXZUdnhWcEs5Wlpod3RmNzlnZ0thWERWZFVoYkVGT1d2bWNwU0oyNVBRemQ0NXpnWU9LeDgyQXNVVVpoMDlPNEhjUTNjSXZQT3ZCNDU2aUNqWURGQ0FkWWM?oc=5)
@@ -37,5 +38,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Monetary Policy Transmission]]
+[[Monetary Policy Transmission]] | [[Financial Stability]]
 

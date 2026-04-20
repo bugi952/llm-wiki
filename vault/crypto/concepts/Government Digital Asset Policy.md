@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 일본 정부가 Canton 네트워크에서 정부채 토큰화 실험 (Mizuho, Nomura, Digital Asset 참여) [(원문)](https://cointelegraph.com/news/jscc-to-test-use-of-japanese-bonds-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: BIS, 글로벌 규제 조율 강화 촉구 [(원문)](https://cointelegraph.com/news/bis-warns-on-stablecoin-risks-urges-global-coordination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Consensus 정책 정상에서 크립토 정책 방향 발표 [(원문)](https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto)
 - **2026-04-19**: 이란 정부, BTC를 석유 수수료 결제 수단으로 공식 선택 (몰수 저항성) [(원문)](https://cointelegraph.com/news/iran-btc-strategic-usdt-dominate-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Stablecoin]] | [[Traditional Finance Integration]]
+[[Mizuho]] | [[Nomura]] | [[Tokenization]] | [[Tokenized Assets]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

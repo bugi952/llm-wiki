@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: RaveDAO 토큰 조작 사건, 분산 금융 시장 투명성 문제 재점화 [(원문)](https://www.coindesk.com/business/2026/04/20/blockchain-sleuth-accuses-ravedao-of-knowing-who-manipulated-the-price-of-its-token)
 - **2026-04-20**: eth.limo 도메인 탈취: EasyDNS 대상 정교한 소셜엔지니어링 공격 (2026-04) [(원문)](https://cointelegraph.com/news/eth-limo-domain-hijack-dnssec-social-engineering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Kelp DAO $291M exploit (2026-04): DeFi 연쇄 위험의 구체적 사례 [(원문)](https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic)
 - **2026-04-19**: 2026년 최대 DeFi 해킹, 규제 논의 촉발 [(원문)](https://www.coindesk.com/news-analysis/2026/04/19/defi-is-dead-crypto-community-scrambles-after-usd292-million-hack-exposes-cross-chain-risks)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Kelp DAO]] | [[Aave]] | [[DeFi]]
+[[RAVE]] | [[Market Transparency]]
 
 
 ## 모순/논쟁

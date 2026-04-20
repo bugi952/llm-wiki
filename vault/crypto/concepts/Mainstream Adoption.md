@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 자기 관리 하드웨어 지갑에서 USDC 직결제 가능 서비스 상용화 [(원문)](https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay)
+- **2026-04-20**: TradFi 스타일의 금융 상품(대출)이 주요 암호 거래소의 표준 서비스로 확산 [(원문)](https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum)
+- **2026-04-20**: 주류 금융기관의 암호화폐 수용 확대 [(원문)](https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says)
+- **2026-04-20**: 전통 에너지 섹터의 비트코인 마이닝 사업화, 주류 금융 진입 가속화 [(원문)](https://www.coindesk.com/business/2026/04/20/uk-gas-investment-firm-weighs-bitcoin-mining-draws-criticism)
 - **2026-04-20**: 150만+ 전 세계 Visa 가맹점에서 암호화폐 직접 결제 인프라 완성 [(원문)](https://bitcoinmagazine.com/news/lydian-launches-visa-platinum-crypto-card)
 - **2026-04-19**: 금융기관 규모의 기관 투자자 암호화폐 편입 추세 확대 [(원문)](https://www.coindesk.com/business/2026/04/19/nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-diversifier)
 - **2026-04-19**: 나스닥 상장사 MicroStrategy의 역사적 규모 매입으로 제도권 수용 증명 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1ExWFFFcGUxZk02THlMRTVXSjE0OGdxMFZ6Z1c4SVN2MHV6Mk11Nm9wdlYwOXU2ai1jOThBTVEzTGI4YlA1cWU4U0FIaTZXTUEyVFVMdDJ4RE9ZTXk5Q3Y3ZGpZR043Yk56VERwVjlEODR1RU9GQS0ySnlad1Z2OUpDaEtxUjdrUGpMR0tNYmR5ZURaNWc?oc=5)
@@ -26,7 +30,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Stripe]] | [[Traditional Finance Integration]]
+[[Tangem]] | [[Polygon]] | [[Stablecoin]]
 
 
 ## 모순/논쟁

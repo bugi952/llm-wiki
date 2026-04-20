@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-20 12:13
+최종 갱신: 2026-04-20 18:20
 
 ## 🏢 엔티티
 - [[entities/Adobe|Adobe]]
@@ -16,24 +16,29 @@
 - [[entities/Google|Google]]
 - [[entities/Google DeepMind|Google DeepMind]]
 - [[entities/Hugging Face|Hugging Face]]
+- [[entities/Hyatt Hotels|Hyatt Hotels]]
 - [[entities/Lotte Innovate|Lotte Innovate]]
 - [[entities/Matrix Renewables|Matrix Renewables]]
 - [[entities/Meta AI|Meta AI]]
 - [[entities/Microsoft|Microsoft]]
+- [[entities/Naver|Naver]]
 - [[entities/Nvidia|Nvidia]]
 - [[entities/OpenAI|OpenAI]]
 - [[entities/PennyLane|PennyLane]]
 - [[entities/Physical Intelligence|Physical Intelligence]]
 - [[entities/Qualcomm|Qualcomm]]
 - [[entities/Recursive Superintelligence|Recursive Superintelligence]]
+- [[entities/Tata Consultancy Services|Tata Consultancy Services]]
 - [[entities/TelePIX|TelePIX]]
 - [[entities/Tesla|Tesla]]
 - [[entities/Uber|Uber]]
 - [[entities/Wayve|Wayve]]
+- [[entities/World Labs|World Labs]]
 - [[entities/xAI|xAI]]
 - [[entities/로보티즈|로보티즈]]
 
 ## 💡 개념
+- [[concepts/3D Gaussian Splatting|3D Gaussian Splatting]]
 - [[concepts/AADvark (Dynamic CAD Assembly Agent)|AADvark (Dynamic CAD Assembly Agent)]]
 - [[concepts/AGI|AGI]]
 - [[concepts/AI Agent Control Evaluation|AI Agent Control Evaluation]]
@@ -302,6 +307,7 @@
 - [[concepts/Neuro-Symbolic AI|Neuro-Symbolic AI]]
 - [[concepts/Neuron-Activated Graph Ranking|Neuron-Activated Graph Ranking]]
 - [[concepts/Object State Change in Video Generation|Object State Change in Video Generation]]
+- [[concepts/OmniShow|OmniShow]]
 - [[concepts/On-Device LLM Inference|On-Device LLM Inference]]
 - [[concepts/One-Sided Conversation Problem|One-Sided Conversation Problem]]
 - [[concepts/Open Source Models|Open Source Models]]

@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: FCA 규제 프레임워크 구성과 동시에 Coinbase의 대출 상품 출시로 규제 환경 구체화 [(원문)](https://cointelegraph.com/news/coinbase-crypto-backed-usdc-loans-uk-morpho-fca-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 국제 규제 협력 강화의 필요성 대두 (BIS) [(원문)](https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks)
 - **2026-04-20**: 미국, yield-bearing stablecoin 규제를 금융안정성 정책의 일부로 운영. 구조적 규제 설계 [(원문)](https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Hyper Foundation의 DC 로비 활동으로 DeFi 규제 방향 영향 시도 [(원문)](https://news.google.com/rss/articles/CBMidEFVX3lxTE9lNXZBUm9lS2ZMcEVJdmU0dF94R2c1WFBwUmdIbXBncUFvZ1Fib0NwTUxVX1JUODhadkpkLXJnTDlxMjQxRmNZMUFHSi1IcHhpTmNRMTZ0d1ZGUW4zWHA1eXpOV183TGo0Y3dCUW9jVFVlV1Vr?oc=5)
 - **2026-04-19**: 연방 판사, Caitlyn Jenner 밈코인을 증권 아닌 것으로 판정 [(원문)](https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,7 +48,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Moody's]] | [[Stablecoin]] | [[Traditional Finance Integration]]
+[[Coinbase]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

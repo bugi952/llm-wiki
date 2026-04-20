@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-18**: 북한 Lazarus Group, 크로스체인 인프라 공격으로 $290M 탈취 [(원문)](https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3)
+- **2026-04-20**: 북한 해킹 그룹의 크립토 생태계 표적화로 지정학적 사이버 위협 현실화 [(원문)](https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group)
+- **2026-04-20**: US-Iran 휴전 종료, 암호화폐 시장 변동성 영향 주시 [(원문)](https://www.coindesk.com/markets/2026/04/20/u-s-iran-ceasefire-ends-tesla-earnings-crypto-week-ahead)
 - **2026-04-20**: US-Iran 갈등 심화: 이란 보복 위협 → BTC 가격 즉각 반응 (2026-04) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 2026-04-20 US-Iran 전쟁 위험으로 BTC/ETH/SOL 동시 하락, 유가 상승 - 지정학적 리스크의 자산 연동 현상 [(원문)](https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks)
 - **2026-04-19**: 중동 지정학 위기가 유가를 매개로 비트코인 가격에 직접 영향 미침 [(원문)](https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[BTC Price]]
+[[LayerZero]] | [[KelpDAO]] | [[Lazarus Group]] | [[Exchange Security Incidents]]
 
 
 ## 모순/논쟁
