@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 해킹 그룹의 새로운 집중 공략 대상, 보안 위협 증대 [(원문)](https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit)
 - **2026-04-20**: KelpDAO 사건 후 TVL 130억 달러 급락, DeFi 보안 취약점 재조명 [(원문)](https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit)
 - **2026-04-20**: Kelp 해킹으로 리스크 재인식, 사용자 신뢰도 하락 [(원문)](https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters)
 - **2026-04-20**: 2026-04-20 Kelp DAO 익스플로잇 발화 → 2일간 $13B 시장 붕괴. DeFi 프로토콜 간 연쇄 청산 현상 실증 [(원문)](https://www.coindesk.com/markets/2026/04/20/defi-tvl-drops-more-than-usd13-billion-in-two-days-following-kelp-dao-hack)
@@ -33,7 +34,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Kelp DAO]] | [[Vercel]] | [[Exchange Security Incidents]] | [[AI Infrastructure]]
+[[Lazarus Group]] | [[Exchange Security Incidents]] | [[Geopolitical Security Threats]]
 
 
 ## 모순/논쟁

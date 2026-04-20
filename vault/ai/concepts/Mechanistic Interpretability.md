@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: VLM 해석가능성 연구에서 정보 유출 보안 이슈 제기 [(원문)](https://machinelearning.apple.com/research/what-do-your-logits-know)
 - **2026-01-26**: VLM의 attention head를 통한 hallucination 메커니즘 분석 및 모델별 차이점 규명 [(원문)](https://arxiv.org/abs/2601.05201)
 - **2026-04-20**: 특성 재구성 오류로 uMLIP 모델 간 정보 내용 정량 평가 가능 [(원문)](https://arxiv.org/abs/2512.05717)
 - **2026-04-20**: Attention Sinks는 최적화 부작용 아닌 필수 기능: trigger 토큰 조건부 작업에서 필연적 증명 [(원문)](https://arxiv.org/abs/2603.11487)
@@ -34,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hallucination Reduction]] | [[Vision-Language Models]]
+[[Vision-Language Models]] | [[LLM Privacy Attacks]] | [[Explainable AI]]
 
 
 ## 모순/논쟁

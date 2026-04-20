@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 2026-04-20: 화석연료 인프라의 폐기 에너지를 활용한 마이닝 프로젝트 확산. 채산성과 환경 간의 균형 모델 [(원문)](https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin)
+- **2026-04-20**: 트럼프 대통령의 정책 성명 5건이 가격 움직임 주도 [(원문)](https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week)
+- **2026-04-20**: KelpDAO 해킹 후 $76K 대 반등, DeFi 유동성 이탈과 역상관 [(원문)](https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack)
+- **2026-04-20**: Capital B가 12 BTC를 추가 매입하며 트레저리를 2,937 BTC로 확대 [(원문)](https://bitcoinmagazine.com/news/capital-b-buys-12-bitcoin)
 - **2026-04-20**: 대형 상장사 MicroStrategy의 지속적 매입으로 기관 수용성 강화 [(원문)](https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024)
 - **2026-04-20**: 기관 수요 강화 - Strategy의 800,000 BTC 보유로 대규모 기관 축적 추세 확인 [(원문)](https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 현물 ETF 유입 거의 $1B, 기관 수요 강화 [(원문)](https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters)
@@ -64,5 +68,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Asset Allocation]] | [[Mainstream Adoption]]
+[[Mining Supply Pressure]]
 

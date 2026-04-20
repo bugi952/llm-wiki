@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-20 18:20
+최종 갱신: 2026-04-21 00:13
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -28,6 +28,7 @@
 - [[concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]]
 - [[concepts/Digital Yuan|Digital Yuan]]
 - [[concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]]
+- [[concepts/Energy Shock|Energy Shock]]
 - [[concepts/Financial Stability|Financial Stability]]
 - [[concepts/Imported Inflation Risk|Imported Inflation Risk]]
 - [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]

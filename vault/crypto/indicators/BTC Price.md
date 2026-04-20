@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 # BTC Price
@@ -14,6 +14,9 @@ last_updated: 2026-04-20
 
 
 ## 이력
+- **2026-04-20**: 2월 초 이후 최고가 기록, 비트코인 투자 상품 주간 유입 $1.12B [(원문)](https://decrypt.co/364907/crypto-funds-add-1-4b-as-bitcoin-clears-two-month-range)
+- **2026-04-20**: 2026-04-20: Strategy(MSTR)의 대량 보유가 최근 BTC 가격 상승의 주요 드라이버로 분석됨 [(원문)](https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 이란-미국 긴장 및 유가 변동으로 $76,500대 유지 (2026-04-21) [(원문)](https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty)
 - **2026-04-20**: 2026년 4월 2주차: 암호화폐 펀드 유입 $1.4B (1월 이후 2번째 수준), AUM $154.8B 도달 [(원문)](https://cointelegraph.com/news/crypto-etp-1-4-billion-inflows-third-straight-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 현물 Bitcoin ETF 주간 순유입 $996.4M (3주 누적 $1.8B, YTD 회복세) [(원문)](https://bitcoinmagazine.com/news/spot-bitcoin-etfs-cross-1b)
 - **2026-04-20**: 2026-04-20: $74K 이하 주말 급락 (지정학 위험 요인) [(원문)](https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

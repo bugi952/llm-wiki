@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: 2026-04-20: MSTR 포트폴리오 규모가 BTC 시장 가격을 주도할 수 있는 수준의 영향력 보유 [(원문)](https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: $109M 규모 비트코인 추가 매입 [(원문)](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEtVYVFtVlh4alFOSHVwRGpNVUl3cllmV21pbjFXd0xSVU9KMG5ZM3RKa0xPT25TVWJyV29ZQ2FhUzlyOFBPLXVsOWJEYU5Jb3ZsUFcxdmpGendkZThXcjljY2tOU1JJc3FHMmlDbFVqVzY4T0oyRmRENThRczJLcGh4TGppVExtT2pmbQ?oc=5)
+- **2026-04-21**: 1년 누적 주가 하락 51.9% (Yahoo Finance 분석) [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEF6Z0Rlc25CSGY1OFVidlFLTW9TZ2E1a3o1LW5iYUpFeGsycWk4MWdSeEd6dTNTeTRlbkxFTkpfLXN2cHJtRWdHZm5BV3FXaC1tc1dRYnRYTlVjR3B2clQtbDBNSlF5OEhocWRwZU1VLWhnaDRqWUxwYzZtRmJDaDVR?oc=5)
 - **2026-04-20**: 2026-04-20 주간 25.4억 달러 규모 BTC 매입, 16개월 만에 최대 규모 구매 [(원문)](https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024)
 - **2026-04-20**: 2026년 4월: 34,164 BTC를 $2.54B에 매입, 총 보유량 800,000 BTC 달성 [(원문)](https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 34,164 BTC를 $2.54B에 매입, 역사상 3번째 규모 거래 [(원문)](https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion)
@@ -37,5 +40,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Asset Allocation]] | [[Mainstream Adoption]]
+[[Bitcoin]] | [[Market Transparency]]
 

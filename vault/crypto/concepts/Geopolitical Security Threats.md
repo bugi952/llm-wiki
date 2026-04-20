@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 해협 통행 차질이 글로벌 유가 상승으로 연결될 것으로 시장 평가 [(원문)](https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders)
+- **2026-04-21**: 미국 국방부가 비트코인을 인도-태평양 지역 전략자산으로 공식 검토 (Lowery 임명) [(원문)](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)
+- **2026-04-21**: 중동 지정학적 불안정이 비트코인 가격 변동성 주요 요인 (유가 연동) [(원문)](https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty)
 - **2026-04-18**: 북한 Lazarus Group, 크로스체인 인프라 공격으로 $290M 탈취 [(원문)](https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3)
 - **2026-04-20**: 북한 해킹 그룹의 크립토 생태계 표적화로 지정학적 사이버 위협 현실화 [(원문)](https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group)
 - **2026-04-20**: US-Iran 휴전 종료, 암호화폐 시장 변동성 영향 주시 [(원문)](https://www.coindesk.com/markets/2026/04/20/u-s-iran-ceasefire-ends-tesla-earnings-crypto-week-ahead)
@@ -28,7 +31,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[LayerZero]] | [[KelpDAO]] | [[Lazarus Group]] | [[Exchange Security Incidents]]
+[[Prediction Markets]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: Atkins 체제에서 SEC 암호화폐 규제 기조 변화 [(원문)](https://cointelegraph.com/news/paul-atkins-one-year-sec-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: FCA 규제 프레임워크 구성과 동시에 Coinbase의 대출 상품 출시로 규제 환경 구체화 [(원문)](https://cointelegraph.com/news/coinbase-crypto-backed-usdc-loans-uk-morpho-fca-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 국제 규제 협력 강화의 필요성 대두 (BIS) [(원문)](https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks)
 - **2026-04-20**: 미국, yield-bearing stablecoin 규제를 금융안정성 정책의 일부로 운영. 구조적 규제 설계 [(원문)](https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,7 +49,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Coinbase]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Paul Atkins]]
 
 
 ## 모순/논쟁

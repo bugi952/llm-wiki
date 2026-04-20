@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-20 18:20
+최종 갱신: 2026-04-21 00:13
 
 ## 🏢 엔티티
 - [[entities/Adobe|Adobe]]
@@ -25,6 +25,7 @@
 - [[entities/Nvidia|Nvidia]]
 - [[entities/OpenAI|OpenAI]]
 - [[entities/PennyLane|PennyLane]]
+- [[entities/Perplexity|Perplexity]]
 - [[entities/Physical Intelligence|Physical Intelligence]]
 - [[entities/Qualcomm|Qualcomm]]
 - [[entities/Recursive Superintelligence|Recursive Superintelligence]]

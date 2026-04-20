@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-20**: 대규모 기업의 Bitcoin 트레저리 전략 사례 추가 [(원문)](https://bitcoinmagazine.com/news/capital-b-buys-12-bitcoin)
 - **2026-04-20**: 자기 관리 하드웨어 지갑에서 USDC 직결제 가능 서비스 상용화 [(원문)](https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay)
 - **2026-04-20**: TradFi 스타일의 금융 상품(대출)이 주요 암호 거래소의 표준 서비스로 확산 [(원문)](https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum)
 - **2026-04-20**: 주류 금융기관의 암호화폐 수용 확대 [(원문)](https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says)
@@ -30,7 +31,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tangem]] | [[Polygon]] | [[Stablecoin]]
+[[Bitcoin]] | [[Asset Allocation]]
 
 
 ## 모순/논쟁

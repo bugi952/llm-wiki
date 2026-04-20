@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: 말레이시아 디지털 자산/토큰화 규제 프레임워크 확대 [(원문)](https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-20**: 미국 정부 리더십의 발언이 암호화폐 시장의 주요 드라이버 역할 [(원문)](https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week)
+- **2026-04-21**: Jason Lowery가 US Indo-Pacific Command 특별보좌관으로 임명 — 비트코인 전략 자문 역할 시작 [(원문)](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)
 - **2026-04-20**: 일본 정부가 Canton 네트워크에서 정부채 토큰화 실험 (Mizuho, Nomura, Digital Asset 참여) [(원문)](https://cointelegraph.com/news/jscc-to-test-use-of-japanese-bonds-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: BIS, 글로벌 규제 조율 강화 촉구 [(원문)](https://cointelegraph.com/news/bis-warns-on-stablecoin-risks-urges-global-coordination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-19**: Consensus 정책 정상에서 크립토 정책 방향 발표 [(원문)](https://www.coindesk.com/policy/2026/04/19/previewing-consensus-policy-summit-state-of-crypto)
@@ -23,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mizuho]] | [[Nomura]] | [[Tokenization]] | [[Tokenized Assets]] | [[Traditional Finance Integration]]
+[[Bybit]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: macro
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 # China Interest Rates
@@ -14,6 +14,7 @@ last_updated: 2026-04-20
 
 
 ## 이력
+- **2026-04-21**: PBOC 11개월 연속 주요 기준금리(LPR) 동결 유지, 지표금리는 변동 없음 [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMDNaLVcyR0tuTGl3d3dkalFraE9KTGpZaEtrQWt6Q3I0VG1oZWFnOHVhQU14Wkdwc0VyaDFESWtlOXFSRmIyYUNHVm9USXhFaDRxQUF3SWM?oc=5)
 - **2026-04-01**: PBOC 기준금리 11개월 연속 동결 (2026년 4월) [(원문)](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHNvZkotTWJQeVRhejk4WkN6Q3RxUWJxVXpTY0tENHJ2bVRuSmlIbklSQVhmWWtQLUNFN3E4X1RCNk9aNy1ON294cU5PTzRUME5pQXdQVW1jU1FaNE5YUkJhbmJXb0h2eC1mUENoVERHNHA5M1BpUW1aaF9Ra1MtelZ6ZDRuTFpGZzMxbUQwTEpHWlJVMW5wVUZCcHg5TDdjc2FGdlFRYnN0TTYwVklXcw?oc=5)
 - **2026-04-20**: 대출금리벤치마크(LPR) 11개월 연속 동결 [(원문)](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWW5wZ1NXMWNSNzUxZmE0aWZ3cllCQXBSYkFzbkRXbFpjVGFZV1RBeWpGVWZLdmJaNkhJWmY5dFZ1MkRBdm5GUnlhV0RPQ21TZnFkWU5xWFcyMnBtb05DdUFDNnA2UnhGaGlDYUhXWTl2TFh4UW80SHN4VC0wVEJGcmNTTkgwVzlGZm1adksxZ2I4SVJUWXdESjE1V0Q3SUtMcU5vdXdTand3LU0td1J3YW9RUzE0SXE2VlFIRktTZm1wZWdKdmhGY1YtOXhmRHFYdDR6TnRVaVlZWU0?oc=5)
 - **2026-04-20**: PBOC 공식 발표: 4월 LPR 결정 확정 (1년 3%, 5년 3.5%) [(원문)](https://news.google.com/rss/articles/CBMib0FVX3lxTE92ZVoxRUNYLTYxRjJFM1dRSFQxSFZVTVF0Z2Y1NUdLMEZlMDNnOVB1akRZZXRRQUdWX0kzZ1JpZU9NUmNoaEVrVTNFbXAtXzFTc2h3QkFqSlFPcUk0ZkpQVDVPQ2ZSWDdYSnJqdmpwZw?oc=5)

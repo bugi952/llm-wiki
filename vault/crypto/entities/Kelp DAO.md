@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: LayerZero 브릿지 설정 오류로 rsETH 해킹당함 [(원문)](https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to)
+- **2026-04-20**: 브릿지 익스플로잇으로 Aave 등 주요 프로토콜에 대규모 손실 유발 [(원문)](https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos)
 - **2026-04-20**: 2026-04-20 북한 라자루스 그룹의 연관성 의심, 지정학적 위협 확대 [(원문)](https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group)
 - **2026-04-20**: 2026-04-20 2.92억 달러 규모 브릿지 해킹으로 DeFi 시스템 신뢰도 심화 [(원문)](https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit)
 - **2026-04-20**: DVN(Decentralized Validator Network) 설정 이슈가 크로스체인 익스플로잇 가능하게 함 [(원문)](https://cointelegraph.com/news/layerzero-kelp-exploit-aave-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[LayerZero]] | [[Geopolitical Security Threats]] | [[Cross-chain Bridge]] | [[Exchange Security Incidents]]
+[[Aave]] | [[LayerZero]] | [[Bridge Security]]
 

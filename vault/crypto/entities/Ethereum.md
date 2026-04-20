@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Vitalik Buterin, 'The chain you can rely on' 슬로건의 4년 개발 계획 공개 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbHVZck5zSFdiRjNRUHd1aTZmcjhyQm8xSzVseVRMZDRzVjNmakVJSXl3X3dscDVVam95V3JMX1A0R2JZZjJkUEJzbDlBUFpkQWltX2wwY3M1N09SbGVFSTRNek40UzQ2YlRnc1JIQkpYZFdBbjF1cVh1b0JJWXRmLTdjZkJIWk90VlgwOWFLcklkQmRvVTYtQXJSWWhqZzhDUG1ad3kwSUlIV2xJcm9DZ3hwYThtTXdGLWs0R3d3WGhEQ0V3YzdBODlzdERyZ3d4RnpkSkh0Q09GOFFOenFwelhqdmszSjRYZlRoNA?oc=5)
+- **2026-04-21**: 주요 기관 BitMine의 4.97M ETH 보유가 시장 수렴 신호로 주목 [(원문)](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbVU5RVFIbndLNlZWMkhOc1hxOThVZGphcm82RFNjdjNtNXRUUWl3Y3lZRVZNX1k0d0NuelY5aTQ3STZMSTlESkdEazBGZmJYdHRudUF5RGdwWXFXR0lYN0gtdEFpNEhFNXlnV1JQQkRxU1NMUHhDc1Z3QWZCeFZmejhkeks5Q3RlVjYzdklmbVl3NU52ei13cEsyUDVlVlhHUUxRckgwcERhV3U4UnY5ZmZNay1XZTlaVGxUVndqMmttWkVUVHE4WnMwYlM1ZzJIWDNMVVVzdlJMVFBiYXFZQ0pKTEZveEt5ZFE?oc=5)
 - **2026-04-20**: 기관 투자자 BitMine의 대규모 매입 신호 [(원문)](https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year)
 - **2026-04-20**: BitMine의 대규모 장기 축적으로 총 공급량의 4.12% 보유 [(원문)](https://cointelegraph.com/news/bitmine-buys-101-627-eth-in-largest-purchase-since-december-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: BitMine 등 기관 매수자의 수요 확대, 주류 채택 신호 [(원문)](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)
@@ -36,5 +38,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Asset Allocation]] | [[Mainstream Adoption]]
+[[BitMine (BMNR)]] | [[Market Transparency]] | [[Mainstream Adoption]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: ETH 보유량 487만 토큰. 총 암호자산 및 현금자산 규모 공시 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTdHczZlVDBISEtMeHlVTFZHZWVlNjRKbHZjVW51ZnFhbWxEZUNqNkRqeHdlSlRPWWtGZExfRGxZX0dDYmxxb1QwNk1hTnJmTVNxS2VvZThCaTRBMEFQbkpnRWJobXFWNG5PcTFTNEhBSUdBRHBLWmxVeWRVUnBOeHdmRmZRd0hYNDUyQ3F3U3BDQ2xkdlNOZUhHcFU4SHdzbmhBMFNHN2REblZzTm8yOTN6ZERlRElFbmJiWkxB?oc=5)
+- **2026-04-20**: ETH 보유량 466만 토큰. 총 암호자산 및 현금자산 규모 공시 [(원문)](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNDVpN0RnSk9JVnZBOXlkcFZveG1oaVJCTG51b2tvdlNqVG1mTC03ZXVoMWJNN3h6UzJMRDFqLVhjRkp1VlIyYUhOamI1Z21Kdjhab2tTLWdONWJpYXYzU3NkdVBNSmxXanhwbWZNVGlpRlVHSEtXdGFJZEpaNTVOMTVMSTdRbDA5YXFfVzNnM2NLMjJaMmIybm1tMVotUlZERlRYYWNJNG5zb3R1bmU0dWdmUXQ4bFdZZUlIQ0x0b19lT1FNcDA2VlFMTUlkNDFEenF0ejMwdElKMnNRNVZncUM2S1ZqVjBjdjczajJGTExFc2ROdllmQnFINkxQRUFHMU9DdkRRNm14emxBRjIwSXhKaFM3WTVZZVNvUUFrYUZ4Ym9BUGJIYQ?oc=5)
+- **2026-04-20**: ETH 보유량 496만 토큰 도달. 총 암호자산 및 현금자산 규모 공시 [(원문)](https://news.google.com/rss/articles/CBMingFBVV95cUxOR09MaDNSMmpOSXNJbTMxUzBkQ1BaR0oyeTJvN0VlZ2NvRzhVbnB6M2I4WlUwdE16alluVU9kTjlnVFVyZWt0OGNkMTZmMGN6RzJYTWVsRE9ISGVrdWdPZWNiS0tXTGM5eE5oMXZoYkktWExFd0E1RExQaFMyZlhSaDBGaXhCV0Ywd1NhdHp3dWhTcDh0cFZfOTRFTkhKZw?oc=5)
+- **2026-04-20**: 2026년 최대 주간 ETH 매입: 101,627 토큰 (~$230M) [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMUxoUFhEZVpELWJGNXBqeGt4cEs0dWV5ZEZtQ243eFp5UEg5NG5jancxU3BFVThFSVVJZTZ0dHVCbE5CeUNWMlVpUy0ySGF5azE0blo3QnJ2dw?oc=5)
+- **2026-04-21**: 2026-04-21 Ethereum 4.97M ETH 보유 (공급의 약 5%) [(원문)](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbVU5RVFIbndLNlZWMkhOc1hxOThVZGphcm82RFNjdjNtNXRUUWl3Y3lZRVZNX1k0d0NuelY5aTQ3STZMSTlESkdEazBGZmJYdHRudUF5RGdwWXFXR0lYN0gtdEFpNEhFNXlnV1JQQkRxU1NMUHhDc1Z3QWZCeFZmejhkeks5Q3RlVjYzdklmbVl3NU52ei13cEsyUDVlVlhHUUxRckgwcERhV3U4UnY5ZmZNay1XZTlaVGxUVndqMmttWkVUVHE4WnMwYlM1ZzJIWDNMVVVzdlJMVFBiYXFZQ0pKTEZveEt5ZFE?oc=5)
+- **2026-04-21**: 2026-04-21 Ethereum 공급의 4.21% 보유. Wall Street AI 인프라 전력 공급 역할 [(원문)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdGQ2WFNwcVBZaDJsUVhxR2dxekFrNEgzd0RZczJEUlk0Zkw2OVZTU0FUZ00wUFV6Z0FpM212S0s2aGZYU2xyVm9Lc0tjamZIeXNMNml5M2hfWmJvdjJxTFRFZ2FRNW1Ea2Iyd29DTi0wbFNDS29zTVpuNVNzYXZ6Ny1UWjlwM1Njcm9yVFFlLWpFeklYcEtiX2VfckhRZ0ltR2g3NUVDQzNsVDl6YnNVNDRjMzVmR2NlZ2VfZ3lhSzJIZVpoUGx4N213T05RY1BUTVE?oc=5)
+- **2026-04-21**: 2026-04-21 101,627 ETH 추가 매입. 누적 보유량 지속 증가 중 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkIyM2J1S2Fwdng1RWQzSEtRTHFWWUhsX2VLem5pVVFLMlU1a3lIRktBSlk2c0xVb2JBMUw2TlhhTDRETG1oTlFqRmNLUGl4RWtaaHBGa2NiaXROdko3ajg0UFNkdjU1XzdXQzNEbnUyNlNmQTZNU3FGUFFMTUd4eGZoZ0t5UDZZUjBXUUR4eWpVSktTVTgwbHlPTUVTLXZBZmlsWEM5UFVDdGhMUk1TcUpMRHZMMUgxSm5LOENyZw?oc=5)
 - **2026-04-20**: 2026-04-20 주간 2.35억 달러 규모 ETH 매입, 총 보유량 약 500만 ETH [(원문)](https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year)
 - **2026-04-20**: 101,627 ETH 추가 매입 (2026-04월), 총 4,976,485 ETH 보유 (공급량 4.12%), 5% 목표 진행 중 [(원문)](https://cointelegraph.com/news/bitmine-buys-101-627-eth-in-largest-purchase-since-december-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 101,627 ETH 매입 ($230M), 2026년 최대 주간 거래 [(원문)](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)
@@ -70,5 +77,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Asset Allocation]] | [[Mainstream Adoption]]
+[[Asset Allocation]]
 

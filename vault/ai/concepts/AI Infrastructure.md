@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: Nginx 로그 분석으로 ChatGPT, Claude, Perplexity, Gemini의 실제 API 호출 패턴 비교 [(원문)](https://news.ycombinator.com/item?id=47835646)
 - **2026-04-20**: 미국 데이터센터 프로젝트 약 40%가 2026년 완공 지연 위험 (MS, OpenAI 등 대형 프로젝트 최소 3개월+ 지연) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209486)
 - **2026-04-20**: 국방 기술 4축: 반도체, AI, 로봇, 신소재. 전통적 화력·플랫폼 중심에서 소프트웨어 정의 국방으로 전환 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209465)
 - **2026-01-07**: AscendKernelGen: LLM으로 Ascend NPU 커널 생성. CoT 데이터로 복잡 DSL 제약 극복 [(원문)](https://arxiv.org/abs/2601.07160)
@@ -80,7 +81,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Microsoft]] | [[OpenAI]]
+[[OpenAI]] | [[Anthropic]] | [[Google]] | [[Perplexity]] | [[Model Evaluation]]
 
 
 ## 모순/논쟁

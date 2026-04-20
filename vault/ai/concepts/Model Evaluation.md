@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: LLM의 실제 사용 패턴 분석을 통한 비교 평가 가능성 [(원문)](https://news.ycombinator.com/item?id=47835646)
 - **2025-09-13**: LLM 합성 데이터의 신뢰성은 모델 선택, 샘링 매개변수, 프롬프트 형식에 크게 의존 (252가지 구성 변수 테스트) [(원문)](https://arxiv.org/abs/2509.13397)
 - **2026-04-20**: vla-eval: 14개 시뮬레이션 벤치마크와 6개 모델 서버를 지원하는 통합 평가 하네스 제시 [(원문)](https://arxiv.org/abs/2603.13966)
 - **2026-04-20**: 과학 글쓰기는 도메인 지식·task-specific 요구·추론이 결합되어 일반 벤치마크 부적합 [(원문)](https://arxiv.org/abs/2601.11374)
@@ -99,7 +100,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Evaluation Robustness]] | [[User Behavior Simulation]]
+[[OpenAI]] | [[Anthropic]] | [[Google]] | [[Perplexity]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

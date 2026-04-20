@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: Logit probing을 통해 residual stream의 정보가 저차원 projection에도 유출될 수 있음 [(원문)](https://machinelearning.apple.com/research/what-do-your-logits-know)
 - **2026-04-17**: Grok 4.3에서 더 긴 문맥 처리와 영상 이해 능력 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209481)
 - **2026-01-26**: 객체 수 추정 시 시각 증거보다 텍스트 프롬프트를 선호하는 경향; 객체 수 증가 시 더 강해짐 [(원문)](https://arxiv.org/abs/2601.05201)
 - **2025-09-13**: VLM을 의료 영상 해석에 적용, 좌표 검증 및 가우시안 확률 모델링으로 이상치 분포 표현 [(원문)](https://arxiv.org/abs/2509.13590)
@@ -34,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[xAI]] | [[Agentic AI]]
+[[Mechanistic Interpretability]] | [[LLM Privacy Attacks]] | [[Explainable AI]]
 
 
 ## 모순/논쟁

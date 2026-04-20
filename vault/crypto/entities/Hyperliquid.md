@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-20**: Arthur Hayes의 $150 가격 목표 공개 [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmdzTkxhNVJ2ZkhVUFg0dVNpOWlxS0RUQTgwMk5TLU5nTWs2MWxRbnVPaVl6UnlIVzNtQXcySDZoZXRPOW05OVFPeTVlVTg2ekloOTcxV0dvMUdQcFFwMFVHZ0lrMnU4MG02aVd4OTNKMFVaanNsUmNRLWxXaXJEVXVrekFseGtZdmVOSV9VNG1EZlVuZzFMcG5ycFlBYkF1anpqMGtWS2MwM2J5NjB1eGtkM0JnZHRyS0U0MGRzN000cWVtVVhhUXJSNHJDY3NfTEpweEc3UkFVdFVybmQw?oc=5)
 - **2026-04-20**: 21Shares의 HYPE 추적 ETF 출시 신청 [(원문)](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMlV4aW1jVWxqcmhrZ3BtalhITFFIQW5ZNHJmLVAzbEpPX1JlWnVYYVZuNndEeDVza0RDYnBHR3dTUjdLdE5vZ05adVdldmdEbUxBR2hONHZPQ1hIV3BYRHZHQWh6YXBSMWRPLWxoMkRraGpUU2tVT1RjcGtlb3RFcm9mTzQ1cDRoNUlQV0Y3Z1FteVFRYmFUTlctSkVZdUFLNlhmQko3ZFhFdmhFc1NKMnA1RGd4TjF4N3M5WHF1UG1VblB3aFZMOFBndm9hZHlDLW1FNUpqYU1RbWNfbjkxb21DSkdDSHFmOUZUUXMwZ21mNmNBdEhFQzdFR3daU3VXX1Mybmh6cGY5WXMwdHhBQWJMWFpxNm0zMU9heF9vQ3pram01cV9BREJ1VXhJVGdzTXEydkk4N1UxUjk4M2hfMHpKU291Q2k4MndHSUNOSndHU2ppNkRFMkZJUzNfX1hiNnFj?oc=5)
 - **2026-04-20**: HIP4 모멘텀으로 60일 최고가 달성 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaUxkMUJfakR0cDhkX0gtaEFoWWVxR2xwelNmOEhxOWp6aVNNUWk1SkJYa2hSUzQtWU8yc2tIVHFSaTBSaHgtY3R2eVBIM3V1MWhYSmlteFB3MmZCZVhYM2JNS1A?oc=5)
 - **2026-04-20**: 마켓 청산 규모 증가가 HYPE에 긍정적 영향 (시장 메커니즘) [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTFB1Nnl6MjZqaDZaM1ZSTW9DTUdXZm10NlNnR0xRY3FhQ2E2cGR3U3ExaC1GT0dMblhvV0Z3VDRsLU5rSWtWTEtoTno5X0ZKa2J0MUc4Q2N5NE9xY0kzMDExZWhHd3pWd2VNNDhDZS1lQkNHLU9TOFZJcnVR?oc=5)
@@ -46,5 +47,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[21Shares]] | [[Tokenized Assets]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Chainlink]] | [[Arthur Hayes]] | [[Mainstream Adoption]]
 
