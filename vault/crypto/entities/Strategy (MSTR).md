@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,30 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 2026-04: 3,273 BTC 추가 매입 (~$255M) [(원문)](https://thedefiant.io/news/markets/microstrategy-buys-3273-bitcoin-255-million-ptqepo)
+- **2026-04-27**: STRC 쿨다운으로 구매 페이스 91% 감소, 자본 조달 수단 다각화 [(원문)](https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown)
+- **2026-04-26**: 2026년 4월 3,273 BTC 추가 매수 (총 818,334 BTC 보유) [(원문)](https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-27**: 3,273 BTC 추가 매입, 100만 비트코인 목표 진행 중 [(원문)](https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target)
+- **2026-04-27**: 818,334 BTC 보유 (약 $63.7B). 최근 $255M에 3,273 BTC 추가 매입 [(원문)](https://bitcoinmagazine.com/news/strategy-mstr-expands-bitcoin-holdings)
+- **2025-12-09**: 비트코인 중심 트레저리 전략이 주가 회복에 미치는 영향에 대한 시장 분석 [(원문)](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkpqaFM2QldhVG1PNkpNcXg4RzdCZ0JubW5PNVhfNU5OaGhjY0J3MW9fTXNLd3FtdDFOQmlrQ0d4Z3d2cW10NC11cmw1YXFRWXZCaTdFZmlxRTktdjNqbUNOYUl5eVRvUVVTVXJZYTg1MWNLSnFGMTQxRWFJN1dYbU1WQmFFbDVDU19lYkJhaXdJY0hY?oc=5)
+- **2026-04-27**: 2026-04-27: 'The Bitcoin Treasury King' 리포트 발표 - Bitcoin 축적 전략의 체계적 분석 [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUZOTnlLVTgxQ1RvRDJDN052S0tOdjItVXUwYzNRMWtjVmRoaWExZUJYdW40bGF4OTIxMkx1NlFYZWVyeVltTGtQZmVaYVZWWVAxajczZWV6NDdjXy1vWTRlT0ZXcTNrZko5U3FjSWotTERDNDM2SDZucExKYkpjdVNXSE50WHJFNGtLNVFJZUFYNUk3d2pkSG40N0VodEZKb2poQlRVcFpEckVVV3E4U1VFZlJIb1ByS2w2d0FuWHlpNXpXQWRWWXNSZXRicE1FU3d3Vl9DTERSQWZQcmdN?oc=5)
+- **2026-04-27**: 마이클 세일러, BTC 추가 구매 암시 — Treasury 3.3% 수익 달성 [(원문)](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: Bitcoin 집중 투자 전략에 대한 투자 커뮤니티의 비판적 분석 제시 [(원문)](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnNsbUFTSUlQbGFiRjFJbUl1M1g5RjBmRWJVZkJPdnhLZjRCWFRhUFNQX29fdVR6blZzZjVjVHoxVHdCbVVFNXZ6eW5RdXpleTJtZ0o2M0NsWmxNZXpaWkdncnhOQjBieGVrX0xsa3l2X2hGX2pvRF94dlIta25rbw?oc=5)
+- **2026-04-25**: Saylor CEO 어닝콜에서 Bitcoin 중심 전략 및 매입 계획 재확인 - 국가 자산으로서의 Bitcoin 위상 강조 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWhfVEJ0aVdfSzlVaXk0S0JNY1F0aTFRdmY0b1RYX01LWlBXRTBBeGl6R1E4d2hmSnVHc1BZUEF2UE1UV3BIQjF6TXdJcWpMTF9QRlMyWnRIUE5VWml6SEdpTFhiWVJNU3ZoT3QtaWdmZ3FxREh3S3NDeXR0d0lWbl9DOUltSUFsaldHOFozem9CLUZ0VXJmNm9fUjY?oc=5)
+- **2026-04-26**: 약세장에서 공격적 BTC 매수로 BlackRock IBIT를 추월 - 기관 수탁 시장 1위 달성 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlctY1FnN3pOZzVHaGgwbHhTcDhQOWV2TjN4NTZGY2NqalpmWmFGb0g3em1KTFpXR05mM0Y1d3V2dWszOVFaMnREMnp0aVAxNGZoYmRIQVg3cDE3QzlFd3F0UEdrTFpxMmIzcXRpeHFUMUhibWhZNkxxRjZzRXVzUUhFUVNpTElacVZKdXIyYUYzU0dQXzZZcmVKbEdKdmF1VlJpaTl3YUlNWmY5U3pGUjVvRmtQX1R5RnYyR2Q3aw?oc=5)
+- **2026-04**: 비트코인 treasury 중심 전략 및 analytics 사업 포커스로 구조 재편 [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVQ2a1FvTmJXRG9yOUJnTHUwMWwxa1MxY0poM3JidDByZUFfZGFOUDV2TnRyalo2TzBQRllzeG05RjA1Q1J5YlFtVkN2YmpJdm5uM2NmUC1sOUdqSDNhXzBvTl9oeDRRM1h4UFZnUEFkNnd3bkQwMzdPUGZZUmJWblVLTGlNbDZqUkZCYzVsWFUyQ0dpcEh2MDBzSTV5TEVpT2F0QXJTY0U1OUh4OF9KUmNleTdYclpNemhlWU9CZjFaR2pD0gHKAUFVX3lxTFBMbVpGSEp2SE9EVkpaR2FGcmJ3QVI1eTUySXZManNZMGRwUm84STJZUXlfdHotXzVXTE5vX2RjUzZlWXlnVXU3Wl91ZUhJUExmekhCc2hKMk00c2Yzc1pwa0JTU3REa180ZWsxNWQ4X3N5bk9PcXI2NmRvWC1QZXlNc0NBVEN4V2RNTFpzRkd4SVNaYXdscXJEem1CZDVLMk9BWjg2Z3RyYjJqQ2wwTmlPMVpSWGFDVzJ4WFZHVXBxWjNRSEdURUN2eEE?oc=5)
+- **2026-04-25**: MicroStrategy 외 저평가 비트코인 기업 비교 분석 제시 [(원문)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0k0b2hxNlZjUmhzR0VYUkNJMS0ydDZVRmZhUDA2bmZuN0tkTlc3d2lLMXk1SGphMGNhQ19JUkFXNmRzcEc1SXBKQk9KN2FfNE80SWxFbF9xb1RFb05iWjZIY0ZsLXhMSXV0dndJeGM2bVJpc0NKcF82eXBXTFlKcjlWV0pYdlhU?oc=5)
+- **2026-04-25**: 비트코인 1년 최저 달성 시 주가 8% 하락으로 높은 연동성 확인 [(원문)](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmazl6RkFwemVlQjIyY01Fd0ZOS0pTTkdLQXhCRU9Qby1lUEg5bm52SkxSenJNNW9rTXhMXzdvSDFBb3A3bm9kODBKN3AtdEVIQktDVDBuX19GR3hfN3R0bEk2YjV5d3RtVEduVjMyQ1hrY2FXbzEyVQ?oc=5)
+- **2026-04-25**: 주가 급락(nosedive) 보도, 위험 요인 분석 [(원문)](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmZfV0RBMUZQdTkxN2pvQXRLWkJuQUlQR29NVGNtQ1E5VHE1SklEWThTaHhMOUpGbTFNT3hUend2NkM3c25iRk55bTlJS0Jmb1YwSlZmYzROdEdfSXR2MHV4RkpzVWpVS1BNVXZMYm1NNWtNRWl1WjRCT1FRNXJBcnNMbmNQbWc?oc=5)
+- **2026-04-24**: MSTR 월간 25% 상승, BTC 대비 아웃퍼포먼스 → 기관 위험회피 심화, 약세장 바닥 신호 [(원문)](https://cointelegraph.com/markets/strategy-mstr-beats-bitcoin-rising-25percent-month-btc-bottom-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: CEO Michael Saylor이 Bitcoin 판매 가능성 검토 발언 - 기존 buy-and-hold 전략 변경 신호 [(원문)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2ozNXJnb2xJbDI5eGlKaWY0YXVPZk9zcEU5eXhtVjhNZUJnUFpmMUtseTRLU0s3SzNfc2R0TjBJMGtHX2NwN3VDN3p6WGppTVhUR3FzdElidG1vdlk5c0FKRWdHdUhZamVoX2lZSUZNLUh2Z0lpR0tjX3pRa29XRUpuaHpVYnZ3?oc=5)
+- **2026-04-24**: Michael Saylor CEO가 월스트릿 거인들(JPMorgan, Morgan Stanley 등)과의 3배 격차 공개 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2VwRW5XWDRhRk9uZDZPMllYaklCdm5QZGxtdXJ5cnpuT3ZfVUJsSFpwdTQtQ09GdU1aejQ1V1FIMWI2TlNPNmozQXc0X0I3amhaOUhzeTRWdXNud3FkVHRrdGthRC14MXB0a05paTE2aUJHWmtKcUlPTjRVNkVIdGxRRmxjQjZieTY5TTlGTQ?oc=5)
+- **2026-04-21**: MSTR에 대한 약세 케이스 이론 분석 공개 (Yahoo Finance) [(원문)](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVF2eXc0Y1BXV3JacE4zMTVtTHdnZmtlUWVFTHJVak52cW12Wmh1ZE9lVV9mT1IyQ1JhOFpnSTdScF9ub1BQeDdkTExTTjBtUkY1TG1qRERtakhFZ012N3FEWEVqWGtyV3FQOGpOSWlKcDlKcTIybnpsVEFldkY4NnNBNF9UVWppZ2c?oc=5)
+- **2026-04-21**: Galaxy Research, MSTR의 BTC 축적이 Satoshi 보유량을 초과할 시점 분석 제시 [(원문)](https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRXZ0cnhNU2FfczBnWEdJVS01dWpqc2IwV1lwMi1qc3N4cG9YcWN4LW04aTRMRjFDdFlqWmtvckRTS01uTHE2eTlhempLSmxHMjRoOVBiRVdOd0lTZVQ0VmY3RldXSDVTampaTHBtTE9xVXlP?oc=5)
+- **2026-04-21**: Capital Group이 MicroStrategy 투자 2배 증대 [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxONXBJalB6QjIxblRTWFdzVndidE1xV3NjSUQ4V1loM0pOcXU4ZE5ZZEhhZndJMTFZaVpkd2lKMVdnUng1ZEFrQ1lrcG1yRHhVbFhRTkp4RzhkN1o2V25rRDZKa2lsUWRDd1k5d1dHTklPYXJiVlJ6YW1Ib1ZaUUZQRGFKWWN5ZWpTeGJNUkhOT0hjZ2tsMWViUW90MTJYcW5JaWs1blJwQ3JnS0h1TnJQRE5hUU9xTmtmaXdGejJ5eXVjdVpQ?oc=5)
+- **2026-04-22**: 620억 달러 규모의 비트코인 보유, 사상 최대 기록 경신 [(원문)](https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys)
+- **2026-04**: 4월 비트코인 수익률과 주가 동시 상승. BTC 보유 전략의 주가 영향력 강화 확인 [(원문)](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rTVRLVVNEMHE4N2dsN3RtTzM0Z2JIWV9ScWRiRzJtT2F6V2tiSHBEOVBBNU9uTVEwRGFsTVc5WFNjNEdidWZ6X3Z2bmNLdmxhcHJ0NXZiVDFJNEJaVzNuSEpGMFR2SG5nV2ZUX283Z0VlckRycVE?oc=5)
+- **2026-04-21**: BlackRock IBIT을 비트코인 보유량에서 초월 (약세장 매수) [(원문)](https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying)
 - **2026-04-20**: 2026-04-20: MSTR 포트폴리오 규모가 BTC 시장 가격을 주도할 수 있는 수준의 영향력 보유 [(원문)](https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: $109M 규모 비트코인 추가 매입 [(원문)](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEtVYVFtVlh4alFOSHVwRGpNVUl3cllmV21pbjFXd0xSVU9KMG5ZM3RKa0xPT25TVWJyV29ZQ2FhUzlyOFBPLXVsOWJEYU5Jb3ZsUFcxdmpGendkZThXcjljY2tOU1JJc3FHMmlDbFVqVzY4T0oyRmRENThRczJLcGh4TGppVExtT2pmbQ?oc=5)
 - **2026-04-21**: 1년 누적 주가 하락 51.9% (Yahoo Finance 분석) [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEF6Z0Rlc25CSGY1OFVidlFLTW9TZ2E1a3o1LW5iYUpFeGsycWk4MWdSeEd6dTNTeTRlbkxFTkpfLXN2cHJtRWdHZm5BV3FXaC1tc1dRYnRYTlVjR3B2clQtbDBNSlF5OEhocWRwZU1VLWhnaDRqWUxwYzZtRmJDaDVR?oc=5)
@@ -40,5 +64,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Market Transparency]]
+[[Polymarket]] | [[Mainstream Adoption]] | [[Asset Allocation]] | [[Prediction Markets]]
 

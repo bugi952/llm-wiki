@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,18 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-22**: Claude Opus 4.6: EIR ~0.2%로 자가 교정 통해 +0.6pp 성능 개선 (7개 모델 중 유일한 non-degrading 사례) [(원문)](https://arxiv.org/abs/2604.22273)
+- **2026-04-25**: Google로부터 총 최대 400억달러 투자 계약, 기업가치 3500억~3800억달러 평가, 컴퓨팅 인프라 확장에 집중 투입 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209736)
+- **2026-04-24**: Claude Opus 4.7: Vending-Bench Arena 벤치마크 평가 참여 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209711)
+- **2026-04-25**: Amazon과 협력해 5GW 규모 컴퓨팅 인프라 확장 [(원문)](https://www.anthropic.com/news/anthropic-amazon-compute)
+- **2026-04-25**: Google로부터 $40B 규모 전략적 투자 유치 [(원문)](https://news.ycombinator.com/item?id=47892074)
+- **2026-04-23**: Claude 4.7 출시 후 성능 저하 논란에 대해 공식 기술 보고서로 응답, 하네스 변경이 원인이라 명확히 함 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209714)
+- **2026-04-23**: 비상장 주식 시장에서 기업가치 1조달러 돌파 (2차 시장 거래, IPO 임박) (2026-04-23) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209716)
+- **2026-04-23**: NEC와 협력하여 일본의 AI 공학 인력 양성 프로젝트 시작 (2026-04-23) [(원문)](https://www.anthropic.com/news/anthropic-nec)
+- **2026-04-21**: Amazon으로부터 $5B 투자 유치, 향후 $100B 클라우드 지출 약속 [(원문)](https://news.ycombinator.com/item?id=47848276)
+- **2026-04-20**: Claude 코딩 도구가 Google Gemini보다 성능 우위, 경쟁 심화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209522)
+- **2026-04-21**: OpenClaw 스타일 Claude CLI 사용 재허가 공식 발표 [(원문)](https://news.ycombinator.com/item?id=47844269)
+- **2026-04-20**: 향후 10년간 AWS에 1000억달러 이상 투자하여 Claude용 최대 5GW 컴퓨팅 확보 협정 체결 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209521)
 - **2026-04-20**: Uber와의 협력 추진 중 기술/사업 장벽 (2026-04-20) [(원문)](https://news.ycombinator.com/item?id=47826328)
 - **2026-04-17**: 2026년 4월 17일 Claude 사용자 일부에 신원 인증(정부 신분증+실시간 사진) 도입. 사기/정책 위반 감시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209442)
 - **2026-04-19**: Claude 모델의 설계는 사용자 신뢰와 감정 경험을 우선하는 철학 기반 (HN 129점 논의) [(원문)](https://news.ycombinator.com/item?id=47818700)
@@ -40,5 +52,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Uber]] | [[AI Deployment]] | [[Agent Economics]]
+[[OpenAI]] | [[Self-Correction]] | [[Prompt Engineering Framework]] | [[Cost-Aware Model Selection]]
 

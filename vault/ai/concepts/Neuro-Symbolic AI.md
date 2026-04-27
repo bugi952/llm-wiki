@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,20 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: VLM에서 비순차적 신경기호 언어 사용으로 분석 추론 능력 개선 및 효율성 증대 [(원문)](https://arxiv.org/abs/2604.22062)
+- **2026-04-24**: 메모리스터 크로스바(~136k 접합)로 domain-scoped 3진 논리 추론 하드웨어화 (ICD-11 호흡기 분류 칩) [(원문)](https://arxiv.org/abs/2604.20891)
+- **2026-04-24**: 기호화된 입력으로 성능 급격히 개선 → 신경-기호 하이브리드의 효과 증명 [(원문)](https://arxiv.org/abs/2604.21346)
+- **2026-04-18**: LLM의 end-to-end generation을 modular pipeline으로 재구성하여 구조적 오류를 sub-tree 단위로 정확히 위치 파악 및 수정 [(원문)](https://arxiv.org/abs/2604.19000)
+- **2026-04-22**: Neural Language Interpreter가 미분 가능한 신경 실행기를 통해 자체 discrete programming language를 자율 발견. 기호적 합성성과 신경망의 유연성 결합 [(원문)](https://arxiv.org/abs/2604.18907)
+- **2026-04-22**: NARS-Reasoning-v0.1: 자연언어 추론을 FOL/Narsese로 자동 변환하는 파이프라인 및 벤치마크 (3가지 라벨: True/False/Uncertain) [(원문)](https://arxiv.org/abs/2604.18873)
+- **2025-12-07**: accuracy-auditability trade-off: 과도한 최적화는 자연언어 위임으로 귀결 [(원문)](https://arxiv.org/abs/2512.07407)
+- **2026-04-21**: SynthFix: 신경 Router가 SFT(패턴학습)과 RFT(도구피드백) 중 선택, FixJS/CodeFlaws에서 18-32% 개선 [(원문)](https://arxiv.org/abs/2604.17184)
+- **2026-04-21**: LLM 앙상블의 disagreement를 신호로 삼아 Z3 SMT 솔버 형식 검증으로 대체하면 내용 편향(believability bias) 효과를 2.85로 감소시킬 수 있음 [(원문)](https://arxiv.org/abs/2604.18328)
+- **2026-04-21**: EXACT DSL: 인간 행동을 underspecified motion program으로 모델링. Forward-backward representation 활용 zero-shot policy inference [(원문)](https://arxiv.org/abs/2604.18064)
+- **2026-04-21**: AlphaGeometry의 log-linear 병목을 Logic-to-Topology 인코딩으로 해결. Domain-specific language와 natural language 간 representation 동형 발견 [(원문)](https://arxiv.org/abs/2604.18050)
+- **2026-04-21**: 2026-04: PDDL-Mind - 명시적 상태·동작 표현 + 도메인 검증으로 이론 심리학 추론 5% 향상 (MMToM-QA, MuMA, FanToM) [(원문)](https://arxiv.org/abs/2604.17819)
+- **2026-04-21**: 자연어 clinical guidelines를 symbolic logic으로 변환, SAT solver로 logical consistency 검증 (Local Conflict detection) [(원문)](https://arxiv.org/abs/2604.17340)
+- **2026-04-21**: GRAIL은 LLM의 일반 개념 표현을 약한 감독으로 활용하여 환경 상호작용을 통해 관계적 개념(좌측, 근처 등)의 환경 특화 의미론을 자율 학습 [(원문)](https://arxiv.org/abs/2604.16871)
 - **2026-04-20**: LLM과 논리 추론 결합으로 코드 지역화의 결정론적 추론 능력 강화 필요 (LogicLoc 프레임워크) [(원문)](https://arxiv.org/abs/2604.16021)
 - **2026-04-20**: Latent Grammar Flow로 데이터 기반 미분방정식 발견 (domain knowledge & constraints 포함 가능) [(원문)](https://arxiv.org/abs/2604.16232)
 - **2026-04-20**: DALM: 도메인 격자 위 명시적 대수 제약으로 3단계 생성(도메인→관계→개념), 도메인 간 오염 방지 [(원문)](https://arxiv.org/abs/2604.15593)
@@ -26,7 +40,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Code Generation]] | [[AI in Systems Engineering]]
+[[Vision-Language Models]] | [[Reinforcement Learning from Verifiable Rewards]]
 
 
 ## 모순/논쟁

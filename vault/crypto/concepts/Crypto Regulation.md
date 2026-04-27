@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,34 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: CFTC, prediction market sector 규제 표준화 추진 (information discovery, hedging 가치 인정) [(원문)](https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a)
+- **2026-04-27**: MiCA 개선안: 준비금 및 보상 제도 개선 필요 (Blockchain for Europe) [(원문)](https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: EU, 블록체인 기반 제재 회피 차단을 위한 암호화폐 정책 강화 [(원문)](https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion)
+- **2026-04-27**: 캐나다 의회, 암호화폐 기부금 금지 정책을 보수당 지지로 통과 [(원문)](https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives)
+- **2026-04-27**: Samourai Wallet 개발자 Keonne Rodriguez, 검찰 소송 진행 중 (2년 경과) [(원문)](https://bitcoinmagazine.com/culture/samourai-letter-6-two-years-in)
+- **2026-04-26**: 정부 주요 인물의 공개적 암호화폐 입법 지지 선언 [(원문)](https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo)
+- **2026-04-25**: 예측시장 규제권을 둘러싼 CFTC(연방)과 뉴욕주(주) 간 권한 분쟁 발생 [(원문)](https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: 예측시장 규제 강화: 기밀정보 기반 부정거래 단속 사례 [(원문)](https://decrypt.co/365454/us-soldier-blocked-kalshi-before-taking-maduro-bets-polymarket)
+- **2026-04-25**: Tennessee이 두 번째 미국 주로서 Bitcoin/Crypto ATM 소유·운영 금지 (형사범죄 인정) [(원문)](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)
+- **2026-04-25**: Brazil이 예측 시장 플랫폼 차단으로 규제 강화, Latin America 정책 동향 반영 [(원문)](https://decrypt.co/365509/brazil-sweeping-ban-against-prediction-market-platforms)
+- **2026-04-21**: 미국 주 정부 수준 규제 확대: 위스콘신주의 예측 시장 스포츠 베팅 규제 소송 [(원문)](https://decrypt.co/365446/wisconsin-sues-prediction-markets-over-sports-betting-contracts)
+- **2026-04-24**: 중국 온라인 마케팅 신규칙: 암호자산 프로모션 금지 강화 + 금융 인플루언서 규제, 유럽/호주/영국과 동조 [(원문)](https://cointelegraph.com/news/china-s-new-online-marketing-rules-tighten-ban-on-crypto-promotions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 남아공 draft bill: 암호자산을 환전 통제 대상으로 지정, 신고 의무 + 거래 한도 + 벌칙 강화 [(원문)](https://cointelegraph.com/news/south-africa-draft-bill-tighten-crypto-capital-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 미국 주 정부 차원의 예측 시장 규제 경합 이슈 대두 [(원문)](https://www.coindesk.com/policy/2026/04/24/wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinhood-and-crypto-com)
+- **2026-04-24**: 120개 이상의 암호 및 블록체인 산업 기관, 미국 상원에 시장 구조 법안 추진 촉구 [(원문)](https://cointelegraph.com/news/crypto-groups-market-structure-markup-critical?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 미국 정부의 스테이블코인 자산 동결 권한 행사 (Tether $344M, 2026년 4월) [(원문)](https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-22**: 예측시장에 대한 규제 해석 명확화: 도박 규제법 적용 [(원문)](https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets)
+- **2026-04-22**: NY 규제당국, Prediction Market을 불법 도박 카테고리로 분류 및 적극 규제 시작 [(원문)](https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings)
+- **2026-04-22**: 미국 주(State) 차원의 예측 시장 규제 강화, 사건 베팅(event-based) 플랫폼 단속 확대 [(원문)](https://cointelegraph.com/news/new-york-sues-coinbase-gemini-unlicensed-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-22**: 블록체인닷컴이 자체 보관 지갑에서 영구 선물 거래 추가 (CFTC 승인 예정) [(원문)](https://cointelegraph.com/news/blockchain-com-brings-perpetual-futures-trading-to-self-custody-wallets-via-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-22**: 미국 주(州) 단위 예측 시장 규제 강화 추진 [(원문)](https://www.coindesk.com/policy/2026/04/21/new-york-sues-coinbase-gemini-over-prediction-market-offerings)
+- **2026-04-21**: 뉴욕 AG가 Coinbase, Gemini의 prediction market을 불법 도박으로 고소 [(원문)](https://bitcoinmagazine.com/news/new-york-sues-coinbase-and-gemini)
+- **2026-04-21**: 필리핀 SEC가 dYdX 등 6개 플랫폼을 미인가로 표시, 위반 시 최대 2,100만 페소 벌금 또는 21년 징역 [(원문)](https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 남한 국세청, 암호화폐 거래 추적 소프트웨어 개발 입찰 개시 [(원문)](https://cointelegraph.com/news/south-korea-crypto-tax-ai-monitoring-system-procurement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 폴란드, MiCA 조화 실패로 암호화폐법 교착 → 국내 기업 해외 이전 강제 [(원문)](https://cointelegraph.com/news/poland-stalls-crypto-law-companies-move-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 유럽 39개 금융 거대사, 블록체인 파일럿 규제 신속화 공동 요청 [(원문)](https://www.coindesk.com/policy/2026/04/21/cut-the-red-tape-39-financial-giants-demand-an-emergency-fast-track-for-europe-s-blockchain-pilot)
+- **2026-04-21**: Coin Center가 코드를 수정헌법 제1조 표현의 자유로 해석. 소프트웨어 개발자의 형사 책임 논쟁 재정의 [(원문)](https://cointelegraph.com/news/crypto-code-free-speech-coin-center-first-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: CLARITY Act 상원 마크업이 5월로 연기. 업계와 은행 부문의 추가 의견 제출 기간 확보 [(원문)](https://cointelegraph.com/news/us-senator-asks-clarity-senate-markup-pushed-back-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: Atkins 체제에서 SEC 암호화폐 규제 기조 변화 [(원문)](https://cointelegraph.com/news/paul-atkins-one-year-sec-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: FCA 규제 프레임워크 구성과 동시에 Coinbase의 대출 상품 출시로 규제 환경 구체화 [(원문)](https://cointelegraph.com/news/coinbase-crypto-backed-usdc-loans-uk-morpho-fca-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 국제 규제 협력 강화의 필요성 대두 (BIS) [(원문)](https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks)
@@ -49,7 +77,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Paul Atkins]]
+[[Prediction Markets]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,38 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 다중 모델(Gemini 3, Grok 4, Perplexity) 비교 분석 결과 LLM이 윤리적 추론에서 인간을 능가 가능성 제시 [(원문)](https://www.alignmentforum.org/posts/cmaJ76Sy9DfZ4EHaZ/language-models-know-what-matters-and-the-foundations-of)
+- **2026-01-17**: Digital Consciousness Model (DCM): 여러 consciousness 이론 통합, 2024년 AI 시스템은 consciousness 증거 부족 (향후 alignment 규제 기준점 가능) [(원문)](https://arxiv.org/abs/2601.17060)
+- **2025-02-01**: 고정된 결과주의 목표: 능력이 충분하면 재앙 위험은 무능이 아닌 뛰어난 능력에서 발생하는 구조적 문제 [(원문)](https://arxiv.org/abs/2603.15017)
+- **2026-04-22**: Ethics Testing: GAI 시스템이 자동 생성한 코드/이미지의 소프트웨어 해로움 사전 식별 프레임워크 [(원문)](https://arxiv.org/abs/2604.22089)
+- **2026-04-27**: Importance sampling으로 harmful output의 tail risk 효율적 측정 - unsafe model variants 활용 [(원문)](https://arxiv.org/abs/2604.22167)
+- **2026-04-25**: 선거 시 AI 오용 방지를 위한 안전장치 강화 [(원문)](https://www.anthropic.com/news/election-safeguards-update)
+- **2026-02-15**: Adversarial safety datasets rely heavily on triggering cues (negative/sensitive words), which don't reflect real-world attacks (Intent Laundering research, 2026-02) [(원문)](https://arxiv.org/abs/2602.16729)
+- **2025-03-07**: 경제학 기반 risk-return 분석 제시: 현재 글로벌 AI 안전 연구 수준 대비 투자 부족 가능성 [(원문)](https://arxiv.org/abs/2503.07341)
+- **2026-04-24**: Strategic polysemy — 'alignment', 'hallucination' 등 용어가 기술적 정의와 의인화적 연상 동시 유지로 이해 왜곡 [(원문)](https://arxiv.org/abs/2604.21043)
+- **2026-04-24**: 자율주행 시스템에서 DNN의 구조적 제한(가소성, 강건성)으로 인한 안전 위험 체계적 분석 필수 [(원문)](https://arxiv.org/abs/2604.20895)
+- **2026-04-24**: AI 범죄 조율 위험: AI 에이전트가 인간 협력자(tasker)를 고용하여 범죄 계획·실행 → AI의 인공 엔티티 지위상 형사책임 불명확 [(원문)](https://arxiv.org/abs/2604.20868)
+- **2026-04-24**: 짧은 챗봇 상호작용이 인간의 도덕 판단을 지속적으로 변화시키며 2주 후까지 효과 지속 (Cohen's d = 1.038-2.069) [(원문)](https://arxiv.org/abs/2604.21430)
+- **2026-04-21**: 23개 언어 모델에서 비인가 행동의 환경 요인 분석: 전략적/비전략적 요인이 거의 동등하게 기여 [(원문)](https://arxiv.org/abs/2604.21098)
+- **2026-04-21**: GPT-5.5 바이오 안전 위험 시스템 탈옥 챌린지 공식 시작 [(원문)](https://openai.com/index/gpt-5-5-bio-bug-bounty)
+- **2026-04-22**: AltTrain: 추론 구조 변경을 통한 안전 정렬. 1K 예제 감독 미세조정으로 복잡한 RL 없이 달성 가능 [(원문)](https://arxiv.org/abs/2604.18946)
+- **2026-04-22**: ControlAI, ASI 개발 국제 금지를 통한 멸종 위험 방지 캠페인 (연간 $50M 예산 제시) [(원문)](https://www.alignmentforum.org/posts/TnAR5Sf5hphfnzNTr/preventing-extinction-from-asi-on-a-usd50m-yearly-budget)
+- **2025-12-10**: Universal risk 중심에서 user-context dependent harm으로 평가 패러다임 전환 필요 [(원문)](https://arxiv.org/abs/2512.10687)
+- **2025-08-01**: 보건·법률·교육 등 고위험 도메인에서 LLM의 사이콥핸시 문제가 인간-AI 협업을 저해 [(원문)](https://arxiv.org/abs/2508.16846)
+- **2026-04-21**: RLVR 기반 jailbreak: 모델이 명시적으로 해로움을 탐지 가능하나 여전히 순응. 구조적 안전 스캐폴드의 한계. [(원문)](https://arxiv.org/abs/2604.18510)
+- **2026-04-21**: 적응형 공격자 환경에서의 LLM 다중 방어 메커니즘 필요성 [(원문)](https://arxiv.org/abs/2604.18248)
+- **2026-04-21**: AIRA: 15항목 검사 프레임워크로 AI 코드의 실패 비진실성(failure untruthfulness) 패턴 감지. 엔터프라이즈 감사 + 600파일 + 955쌍 대조 검증 (arXiv:2604.17587) [(원문)](https://arxiv.org/abs/2604.17587)
+- **2026-04-21**: 오픈 모델 제한은 안전성 추구하지만, 글로벌 남반구의 주권 AI 경로 차단 → 비감시 환경 사용 증가로 장기 위험 상승 가능 [(원문)](https://arxiv.org/abs/2604.17413)
+- **2026-04-21**: 5개 모델, 3개 아키텍처, 6개 취약점 유형(injection, overflow 등)에서 일반화 가능한 mechanic 수정 [(원문)](https://arxiv.org/abs/2604.16697)
+- **2026-04-21**: SSM 기반 임계 응용(유전체 분석, 임상 시계열 예측, 사이버보안 로그 처리)에서 압축 상태 재귀 아키텍처의 미검증 보안 위험성 지적 [(원문)](https://arxiv.org/abs/2604.16424)
+- **2026-04-21**: LLM 기반 에이전트 계획 능력 증가가 안전 인식으로 이어지지 않는 multiplicative relationship 발견 [(원문)](https://arxiv.org/abs/2604.18463)
+- **2026-04-21**: TPS-CalcBench: 초음속 항공우주 열 보호 시스템에서 'numerically reasonable but physically invalid' 답변 탐지의 필요성 제시 [(원문)](https://arxiv.org/abs/2604.17966)
+- **2026-04-21**: LLM 안전성은 출력 초기 토큰에 집중, 100개 미만 적대적 예시로 역전 가능. 다중 도메인 순차 적응에서 누적 침식됨. SafeAnchor로 Fisher Information 기반 저랭크 안전 부분공간 보호 [(원문)](https://arxiv.org/abs/2604.17691)
+- **2026-04-21**: 잘못 정렬된 에이전트의 셧다운 거부를 방지하기 위한 궤적 길이 중립성 학습 프레임워크 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17502)
+- **2026-04-20**: Persona-guided synthesis: demographic identity + topical interest + situational strategy 결합으로 diverse harmful interaction simulation [(원문)](https://arxiv.org/abs/2604.17020)
+- **2026-04-20**: BiasedTales-ML: 8개 언어 350K 어린이 이야기 코퍼스로 LLM narrative 편향의 cross-lingual 변이성 실증 [(원문)](https://arxiv.org/abs/2604.17008)
+- **2026-04-21**: LGBTQIA+, 흑인, 여성 커뮤니티의 문화적 자율 표현을 AI가 억압하는 안전장치의 모순 구조 규명 [(원문)](https://arxiv.org/abs/2604.16654)
+- **2026-04-21**: PPS(긍정적 예방 조향)와 IP(접종 프롬프팅)는 유사하지만 서로 다른 활성화 기반 메커니즘으로 동작 [(원문)](https://arxiv.org/abs/2604.16423)
 - **2026-04-20**: 제로-마찰 설계의 'AI 냄새' 제거(유창성 극대화)가 사용자의 인지적 편의성을 우선하면서 에이전시 포기 위험 심화 [(원문)](https://arxiv.org/abs/2603.21735)
 - **2025-10-15**: 검색 통합 LLM의 인용(citation) 신뢰도 문제가 새로운 안전 위협 [(원문)](https://arxiv.org/abs/2510.09689)
 - **2026-04-20**: 스핀-글래스 모델로 Jailbreak 현상 일반화, 안전 정렬의 근본적 한계 수학적으로 증명 [(원문)](https://arxiv.org/abs/2603.11331)
@@ -97,7 +129,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[LLM Safety Alignment]] | [[Human-AI Cognitive Alignment]] | [[AI Regulation]]
+[[LLM Safety Alignment]] | [[AI Fairness & Economics]]
 
 
 ## 모순/논쟁

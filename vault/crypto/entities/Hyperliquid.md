@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,28 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: Perpetuals 거래량 10개월 저점 기록 [(원문)](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzNtUWVtT1RuNm9NMERBMjY2RTlpdWFVc3ozd3Rsd3dHckM5ZkkzNHc1UDBxdkhNcFNCUlVrWElCN2hDU3Jrb09LNXBkb0N3SHpqa0g3VEpkdmxfQTZDakQ5VkdKLV9oOXFhY1JFR25qUlozekNJc0JZeldaVy0zUkd6NWg4TzdSanlFMXMtendHd9IBlwFBVV95cUxPR21LUzlmeVNiMmItdlBZTjdXbzh4MnNGSkhUQjB4cnoyckI2b3pMb3VhRHhxSGdMYzRJd2wtdkJPcjdVVEF1R2EyZXNoMUl6clBEb1g4TGxnLUhzWVJmc0wzX1EyQ2NXbmJoRjNod3ZINzBVU0NGc0NMYmFCQUN1ZVYxYzhlWkdhN2RVcEpFMFJheWtKdk84?oc=5)
+- **2026-04**: Grayscale이 HYPE 기반 ETF 상품 개발, 기관 자본 진출 가속화 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU21VaDNBT095Nm91WTFsMkcyQ2pRWk9RVlpYTkJRVC1sZUFBdE5QQzY3STVSM0d3dkExeFVDVnd1eXBLTlFHUktpYklJNUpjN2p6LTljVzNqR2UwUFJITnJ5bVg3dGRpZGlTaUd0cHlZdWhGaDE0b3VrbW9FM1F5Q2dzWk81bDBpaXV0VVhQUFF3TVpQTlcyTGhySWo?oc=5)
+- **2026-04**: EVM 레이어 출시, 영구선물 중심 성장으로 시가총액 $10B 달성 [(원문)](https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQm1sRU16NGdkT0daUUdudjRaZVFNQklhY3pzRmlMbDJ0bjdjMG00NkViNHpZOUx6U3dLTlhOZTA4NHVPSW0xWDM4SDFYcV95Z0hZU1BSWHczVF9FaEREaHVrRnFVczUxMGZ3ZHlKZHAxc1Vza2IxQTRGZTdtUQ?oc=5)
+- **2026-04-27**: 월스트리트의 온체인 시장 진출 주도, 변동성 확대 전망 [(원문)](https://news.google.com/rss/articles/CBMizAFBVV95cUxONHdFSzZQdXYwcS1DSDNkZ2JCZTJwVG4yaVpDcVpxVXpyZG52SU9aVDZ0YjRUY1kwUnB6X1Z0dWlYWXZ4a2QyVGkxT3JYLU5zaXdXSUNGOWRiT0lDOGltVGFDN0J4NTRDVGFpY1cxSkJvYkhkUGk0LTBad3lwTFlLVU1fTGQtZV9qN0pQX2R5RVlIRE9pX2hSdzEzSjIzZXJRLWtabk5LbExJRGNLdlQxNklqUWQ1ZE80N2RMdzJSVkpnLThvYVYxN3VLdk4?oc=5)
+- **2026-04-27**: HYPE ETF 4건 등록 신청 진행 중 [(원문)](https://news.google.com/rss/articles/CBMimwFBVV95cUxONFRFM21qVTFaZHhCZElIVHlabHlnX083b1hiU2RZQVpzcFdDNVNkOFE0dDVsUkRQaGlfN2JnN3VwRmZCU1JEV0piYUwzZ01odVlIbWtoLUo5MzRmRE5oZGI4S0k0R28wR1ZrTDVhT3M5SEpoWjBVSF85Q1VfOW0wbjRHajViZVRpZmdJa3NLVmRfVTdkSEd3c2xYTQ?oc=5)
+- **2026-04-26**: HYPE 80% 급등 후 성장 곡선 둔화 신호 포착 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSjVwUWt5WjJlYllqbU5KSjNOTXpadkl0S2ZOakVvUk9ncTN0Q3duQ00ydkFIaUh6dE5XQ3EtcUNsa2doUTlySWdsWEswQUFiMkVycGZ4dGFqM0k?oc=5)
+- **2026-04-26**: 2026-04-26: 가격 상승 중에도 유저 성장 속도 감소 신호 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbnMxOXdNMlFHdW1yaTBySGNtY2EyNEl5b1JEV0FPU1NTcmgtamRxanlsTHpqRTl1TzRjUWVtTXR0blBFem12TjlDYTNKUEptR0c3MHBIMU1IZ04zaFHSAWNBVV95cUxQdlhTeDU2QlNwazVyYVZZQk1QUUdicTJCSTRyS0ljQXUtWGpUaEFVdkRvYU1YcFliNXhwMnF5WWVVSkU2MXRTdFlhSWtWUl9hNmlVYU0ydF9KMEw4cHBSZkU3dUE?oc=5)
+- **2026-04-21**: Grayscale과 Bitwise가 HYPE 스팟 ETF 신청 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEFhdjJOS0w5cUs1WXNVWHZPeFZycU9IbjBENHg0NGptOEg5WGlrRjhSYTNrLUQ0ZEJqeHdRMWp1cmhqMHdXbmJ6dk1scHlpeTcxR3pUajNFREdzWFNIY0lzM0FxVlBNaV9nd0FmTE1wbE1HNXBmZTItczZUUkQ2X3BwakJ2WFk3RHliZ3ZaMFU2ZUM2VTFtN1dnbUk?oc=5)
+- **2026-04-25**: Cathie Wood (ARK Invest): HYPE는 초기 단계 Solana 수준 잠재력 보유 [(원문)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbG1nMUZjU0FIRnY0MVNCWnNGcHhlMWFpeVpDSDNoUTR4QVVzTHM3U05CeWFXTURiQnVhdkNIdnJ4RFFSa3NhbWZRalNuVnRiaERJSjJCWUJydEVrYUZDVXYxWHdkNlExOEU2V05FQWd3R2d5OWN4d1V4N2VCNnptajB2UWFRaVRE?oc=5)
+- **2026-04-25**: 대형 투자자(whale) 2,290만 달러 규모 HYPE 포지션 청산, 최고점 인근에서 진행 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeDhSLTFBaHhNbURhZldfam1OMGhiZWNzVEdYbENnaldiRHRCN3Mzc2FmME1LdmtYLUI5X3RPZWRHUHUwNGYxZ1BpVFc0RG51SUVNd2RsTUprQlE?oc=5)
+- **2026-04-25**: 이란 유가 위기 심화에 따른 HYPE 토큰 3배 상승($150) 가능성 제기 [(원문)](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlVBYjNzZ1h1WTdmN2xxejBRdk1XOEZ0TWRzQlJHc0tsdU02RFJwRGsydHRaYktrcTdQQTBjS01BSXY0b0ZhaUxBTENxUG5YU0JpSk1wVFpnQU02Rm9MWl9JckV3d3B5eFVQQlE1UW9JVGo2WXhlTjJacUxLMldKMk4zWnZCeXdnQUp5cGJHclM?oc=5)
+- **2026-04-25**: 대형 고래가 비트코인 대비 3,800만 달러 규모 공매도 포지션 유지 [(원문)](https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 고래 지갑이 비트코인에 대해 $38M 쇼트 포지션 보유 [(원문)](https://news.google.com/rss/articles/CBMizAFBVV95cUxObUsxb1U2Z2hLYjVqSjNSblVONnprZ2o0THdCZ3E3SlM5TlNfZGwwVmJzT0x6VGY4cllkQ3ZDY2hFVFBKbkQwTl83T2Uyd0lrVlBBa0ZRalFPTEpuMENvV3NFY19JY0FKSjlPUFlIcXNhY0lpdVRBaU80cFZwZkZqeHA0aV9pWEdjdU04SWVaN2FnaWRjRkJqanFGOWpZWmpJQ3JCWkcyLVh0dmowN3g5ejJEdmJUYmRBT0lOc2FLa1dIVGNldzhKVEFTMVo?oc=5)
+- **2026-04-25**: Grayscale이 HYPE 스팟 ETF 신청 (2026-04-25) [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGpuTWdlajFmVTdRM3BaSy1KdmpQOFBiWWhsSElVbW1pa093ZS1Ja2p6cEVrZDhEVy05MkNHLUk2VTJJYURESHJIVnhLR1ZNdUNIZ0FWa2FGc0ttSFZiRVhYVDdsOVB2YUo2cjhPRkxLUGFLT0FEUF9SRkVBNjhHdjZtMWw2UVF1djFMT1hIQUxyT3AyS2M1SktLaGxjZjZp?oc=5)
+- **2026-04-25**: $100B 일일 선물 시장 규모 확대 중 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QMEc5U28wN19GbWRRcGpjNUhNV1FLaVE5WmVLX1hGUEdCMmllUEtSSmN2V3JHUF9IUFBMbVh1MHNPd0dIc1Ffc0diTlQ1dnphMGdhS0Yzc2tBNUVFSEHSAWNBVV95cUxQSENRbjJoWDJUMmc3VnY0dF90bHpkbEttYkcxN0M0M2R0OEdMT1JocEE5YjB0UFBXLURFVmY5S3p3V291ZnJNRzBwX0FtUEU2dG41Z3N0bWM1S01kemZNdzI5NHc?oc=5)
+- **2026-04-24**: 팀 지갑 $9.8M 토큰 매도 [(원문)](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdV95dFdJbWx3OHE5NzcwcUNaOFkzMzMwanJnb05DVXNsdUlfaVg4eXlrV3ZmLWk5YVJ0SXZTOWNuZjJuRC1YTDhsT28tSnFmZktCOEZQLUpicnhkamtRc1hYSWxmeldJYlQwcTVKRFBxVU5GQ21BdEk5Rng0YTk4WnN6U1VkRWtPZEExRVcxSWhOUW5qdHQ0TWZ1MDVzSDTSAaQBQVVfeXFMTTlrajBxQ3RpU2t4eTJnck04dlJHeXpXdnJISE1LRXhRbExoNGQtVFcxbHdhT3d4VEtPNnBJUjFBUGpwWUR5VzhxUXMtT2lnOTAxaUN3eklfVnRxOVNmMl9qUVBGRGJnR0oyMjZla3VQRjFuVVdiNEhaM044RnJkOFZreVhFbUlIcDZheXZfTmt0cFQ0UVBDaUo3N0ZURWRkN1Fhd1Q?oc=5)
+- **2026-04-24**: Hyperion과의 파트너십으로 토큰 수익화 전략 구현 [(원문)](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iQko1RGdEVmV0YXNNS2VEYkg4WkdjNEU3WUh4dURySk1CbEs4VlRSb3VLUklTSml3dzNWdHU3bGRickxVamkyV2ZOUEhyejUxMHpqXw?oc=5)
+- **2026-04-24**: Ripple과 파트너십 체결로 크로스체인 브릿지 및 유동성 강화 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkFrT2ZfellPQXJOTkNsX1FxbnNuZEw2SzRvY1pNTWhPWUl3ZkxjQ21QTk9RQ2RGUGYtNkQ4YzllNTFIRWRQenBPVWgyMUw1dkJUTzYxXy1YQWZ0TVdXWkpjaXotYVVlQklCcUFfUmdyUmlEc0NDdFllMnYwR25MdC1uclBfRmJLM0dN?oc=5)
+- **2026-04-24**: HIP-3 업그레이드로 강세 지속, $60 가격 목표 테스트 [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE84WWNOSWVNd2hMWmpPV3p6am1kMVpENndnVG9ZQjhQWFBLRlJFbGVLd3JpSGlMSVJfaGpYZ1RIUjdMdHpkTDlnaXBGSUFJVjVzd0dJRlFfZjBETU5LVmo4Um1LSHdERWNET3hRbklIN0dHTnRqNHlycjVn?oc=5)
+- **2026-04-21**: Grayscale이 HYPE ETF를 SEC에 신청 - 기관 투자자 접근성 확대 [(원문)](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdk9TLXZjNWYyTENodWJLTHBsZFJZbjU0bFNWckVQeWxfcnBMaDBWR3IwUlZVdVZ4cW1RSHYtcGhrb1Q4S2xRSERaZzZURFZyVkx5RGlldUhRSHVuMEpkVGNBNFFId1I1ckpwYXBaN2lXdTZoRkpMbnJjeFAyQzBMbA?oc=5)
+- **2026-04-21**: Grayscale ETF 진행 상황: 규제당국 협의 계속 - 수탁 기관 조정 진행 [(원문)](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOERPdkRMTDJzYXhsaE5jMmdPWFZBM1RLRmotOGptZWNwRmJXT0V1LS1SNE8yOC1kdG5rcXA1QXdzbFh3WlhXbFJ0eS00clRuVlh1RHhVd2RvUkVELWl5US1NQzMydk5wTlpaOV9QRENoQjlSM0NxWGh2d1pUbXlvQ2RPTjNkZGlvMDNfUDJJYVRiVUswR1FaY2YtaUJJc3h5UE14TzVWN0pLcEUw?oc=5)
+- **2026-04-21**: RWA 거래량 $1.9B 도달, HYPE 가격 목표 $40 [(원문)](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGtuaEFLS0Qya3VheENEamtvRFVfZjNOT1NCZ0RBNWVMM1hiQ0l5ckFyOXp4UEItT25LQUVRWlhKbl9rNVRONmJLRmRZcHI5dHVZZFdTa2liOTlIZUFNT2MzVHpROV9PY19PS0JtYjkwZl80bmRDMkFCYndqb0ptYUhNUlRXNnQ0T2UzUXVn0gGTAUFVX3lxTE9UQl9CZUdoZUJfWS1JWkxQLWtMSU1mOGNQbUljMHdRdHo2VzY0U3NPd0Mtc0FWUncxdUMtZVRhYU5lazQwLU4tSThiYWRLb3BNUXBMTHN3SGhKUmhNOUZ4Z2Y3ZHctNXJDQW45eHUyMGRBTEl6cjhfNTZQVnFmVldoY2IyUlFmbnAyVVptT0RyblRhWQ?oc=5)
 - **2026-04-20**: Arthur Hayes의 $150 가격 목표 공개 [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmdzTkxhNVJ2ZkhVUFg0dVNpOWlxS0RUQTgwMk5TLU5nTWs2MWxRbnVPaVl6UnlIVzNtQXcySDZoZXRPOW05OVFPeTVlVTg2ekloOTcxV0dvMUdQcFFwMFVHZ0lrMnU4MG02aVd4OTNKMFVaanNsUmNRLWxXaXJEVXVrekFseGtZdmVOSV9VNG1EZlVuZzFMcG5ycFlBYkF1anpqMGtWS2MwM2J5NjB1eGtkM0JnZHRyS0U0MGRzN000cWVtVVhhUXJSNHJDY3NfTEpweEc3UkFVdFVybmQw?oc=5)
 - **2026-04-20**: 21Shares의 HYPE 추적 ETF 출시 신청 [(원문)](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPMlV4aW1jVWxqcmhrZ3BtalhITFFIQW5ZNHJmLVAzbEpPX1JlWnVYYVZuNndEeDVza0RDYnBHR3dTUjdLdE5vZ05adVdldmdEbUxBR2hONHZPQ1hIV3BYRHZHQWh6YXBSMWRPLWxoMkRraGpUU2tVT1RjcGtlb3RFcm9mTzQ1cDRoNUlQV0Y3Z1FteVFRYmFUTlctSkVZdUFLNlhmQko3ZFhFdmhFc1NKMnA1RGd4TjF4N3M5WHF1UG1VblB3aFZMOFBndm9hZHlDLW1FNUpqYU1RbWNfbjkxb21DSkdDSHFmOUZUUXMwZ21mNmNBdEhFQzdFR3daU3VXX1Mybmh6cGY5WXMwdHhBQWJMWFpxNm0zMU9heF9vQ3pram01cV9BREJ1VXhJVGdzTXEydkk4N1UxUjk4M2hfMHpKU291Q2k4MndHSUNOSndHU2ppNkRFMkZJUzNfX1hiNnFj?oc=5)
 - **2026-04-20**: HIP4 모멘텀으로 60일 최고가 달성 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaUxkMUJfakR0cDhkX0gtaEFoWWVxR2xwelNmOEhxOWp6aVNNUWk1SkJYa2hSUzQtWU8yc2tIVHFSaTBSaHgtY3R2eVBIM3V1MWhYSmlteFB3MmZCZVhYM2JNS1A?oc=5)
@@ -47,5 +69,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Chainlink]] | [[Arthur Hayes]] | [[Mainstream Adoption]]
+[[Market Liquidation Mechanics]]
 

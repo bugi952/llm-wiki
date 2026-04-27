@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,25 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: Satori Coin, 미국 진출. Tamper-evident 코인에 개인 키 내장한 collectibles 출시 [(원문)](https://bitcoinmagazine.com/news/satori-coin-enters-u-s-market)
+- **2026-04-21**: 미국 암호화폐 거래자 1/3이 일상 소비 축소, 미실현 손실로 인한 가계 영향 [(원문)](https://cointelegraph.com/news/market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-26**: BlackRock ETF 성과로 기관 투자자의 대규모 채택 증명 [(원문)](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)
+- **2026-04-25**: 2026-04-25 미국 현물 Bitcoin ETF 연속 유입으로 기관 채택 모멘텀 확인 [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 현직 대통령이 TRUMP memecoin 이벤트에 공식 참석 예정 [(원문)](https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: Fold, 기업 고용자용 비트코인 보너스 프로그램 출시 [(원문)](https://decrypt.co/365295/fold-bitcoin-bonus-program-employers-steak-shake)
+- **2026-04-24**: 2026 Q1 소매 암호화폐 활동 11% 감소 (거시경제 압박), 터키·신흥국은 회복력 유지 [(원문)](https://cointelegraph.com/news/global-crypto-adoption-q1-2026-trm-labs-turkey-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 미국 현물 Ether ETF 지속적 순유입, 제도권 수용 가속화 신호 [(원문)](https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: Fold이 기업 payroll에 recurring Bitcoin 보너스 자동 통합 (보관, vesting 포함) [(원문)](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)
+- **2026-04-21**: Capital Group MSTR 투자 증대는 기관 자본의 암호 보유 기업 진출 심화를 시사 [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxONXBJalB6QjIxblRTWFdzVndidE1xV3NjSUQ4V1loM0pOcXU4ZE5ZZEhhZndJMTFZaVpkd2lKMVdnUng1ZEFrQ1lrcG1yRHhVbFhRTkp4RzhkN1o2V25rRDZKa2lsUWRDd1k5d1dHTklPYXJiVlJ6YW1Ib1ZaUUZQRGFKWWN5ZWpTeGJNUkhOT0hjZ2tsMWViUW90MTJYcW5JaWs1blJwQ3JnS0h1TnJQRE5hUU9xTmtmaXdGejJ5eXVjdVpQ?oc=5)
+- **2026-04-22**: 음식 배달 앱의 스테이블코인 결제 도입으로 실제 사용 사례 확대 [(원문)](https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra)
+- **2026-04-21**: DoorDash가 Tempo stablecoin 결제 인프라 도입 [(원문)](https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: Kevin Warsh, Admiral Paparo 등 미국 정부 고위층이 비트코인의 금융·국가안보 역할 공개 지지 [(원문)](https://bitcoinmagazine.com/news/bitcoin-whales-accumulate-45000-btc)
+- **2026-04-21**: Cash App의 youth account 출시로 차세대 사용자 기반 확대 시도, 규제 회피 위해 Bitcoin 제외 [(원문)](https://decrypt.co/365024/block-cash-app-accounts-young-kids-without-bitcoin-access)
+- **2026-04-21**: DoorDash가 40개국 이상의 배달 기사에게 stablecoin 급여 지급 시작, 대규모 전통 기업의 채택 사례 [(원문)](https://decrypt.co/365028/doordash-pay-delivery-workers-tablecoins-stripe-tempo-blockchain)
+- **2026-04-21**: 유럽 투자자 35%, 암호화폐 접근성 더 나은 은행으로 전환 의향 (Börse Stuttgart 조사) [(원문)](https://cointelegraph.com/news/one-third-european-investors-switch-banks-crypto-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 일본 기관투자자 80%가 3년 내 암호화폐 매입 의향 [(원문)](https://www.coindesk.com/markets/2026/04/21/almost-80-of-japanese-institutional-investors-are-eyeing-crypto-for-their-portfolios-by-2029)
+- **2026-04-21**: 일상 결제(음식 배달)에서의 stablecoin 도입 확대 [(원문)](https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain)
+- **2026-04-21**: Morgan Stanley 현물 Bitcoin ETF: 글로벌 투자은행의 직접 상품화 [(원문)](https://bitcoinmagazine.com/news/morgan-stanleys-spot-bitcoin-etf-tops-139m-in-assets-within-nine-days)
 - **2026-04-20**: 대규모 기업의 Bitcoin 트레저리 전략 사례 추가 [(원문)](https://bitcoinmagazine.com/news/capital-b-buys-12-bitcoin)
 - **2026-04-20**: 자기 관리 하드웨어 지갑에서 USDC 직결제 가능 서비스 상용화 [(원문)](https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay)
 - **2026-04-20**: TradFi 스타일의 금융 상품(대출)이 주요 암호 거래소의 표준 서비스로 확산 [(원문)](https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum)
@@ -31,7 +50,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Asset Allocation]]
+[[Tokenization]]
 
 
 ## 모순/논쟁

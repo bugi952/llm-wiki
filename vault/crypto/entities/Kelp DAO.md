@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 스마트 컨트랙트 exploit로 인한 $200M 규모 손실 발생 [(원문)](https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit)
+- **2026-04-25**: 4월 18일 브릿지 사건 이후 DeFi 생태계 일괄 복구펀드 조성, Aave 등 대형 프로토콜 참여 [(원문)](https://thedefiant.io/news/defi/aave-dao-rseth-kelp-funding-proposal-pbrxrh)
 - **2026-04-20**: LayerZero 브릿지 설정 오류로 rsETH 해킹당함 [(원문)](https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to)
 - **2026-04-20**: 브릿지 익스플로잇으로 Aave 등 주요 프로토콜에 대규모 손실 유발 [(원문)](https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos)
 - **2026-04-20**: 2026-04-20 북한 라자루스 그룹의 연관성 의심, 지정학적 위협 확대 [(원문)](https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group)
@@ -29,5 +31,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Aave]] | [[LayerZero]] | [[Bridge Security]]
+[[Aave]] | [[DeFi]] | [[Exchange Security Incidents]]
 

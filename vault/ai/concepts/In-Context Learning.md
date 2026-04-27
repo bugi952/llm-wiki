@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,20 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: LLMs는 prompt 내 HMM 예제로부터 pattern을 inferring하여 이론적 최적값에 근접한 예측 성능 달성 가능; 동물 의사결정 같은 현실 시계열 데이터에서도 expert 모델과 경쟁 가능 [(원문)](https://arxiv.org/abs/2506.07298)
+- **2025-10-01**: 저랭크 회귀 작업에서 통계 요동이 암묵적 정규화 유발, 과제 구조에 따라 일반화 오류의 급격한 위상 전이 발생 [(원문)](https://arxiv.org/abs/2510.04548)
+- **2026-04-24**: Embedding 자체의 성능을 downstream classifier 영향 제거하고 직접 평가하는 classifier-independent 방법론 [(원문)](https://arxiv.org/abs/2604.21555)
+- **2026-04-22**: 그래프의 homophily, community structure를 in-context에서 학습하는 foundation model 접근 [(원문)](https://arxiv.org/abs/2604.19028)
+- **2026-04-21**: 16개 ICL 예제로 Gemini, Kimi-K2, Grok, Qwen 전 모델에서 1-24% 이상정렬률 발생, 2개 예제로도 나타남 [(원문)](https://arxiv.org/abs/2510.11288)
+- **2025-10-14**: 2025년 controlled experiment: parametric/in-context 지식의 robust 균형 활용은 intra-document inconsistency(moderate level)와 반복성의 co-occurrence 필요 [(원문)](https://arxiv.org/abs/2510.02370)
+- **2026-04-21**: Context-memory 충돌 상황에서 context reiteration이 context-only task는 개선하지만 parametric knowledge 필요 task는 성능 저하 (2026-04-21) [(원문)](https://arxiv.org/abs/2506.06485)
+- **2026-04-21**: 쌍 비교 추론이 오디오 도메인의 할루시네이션 필터링에 효과적 [(원문)](https://arxiv.org/abs/2604.16749)
+- **2026-04-21**: 시계열의 맥락 동역학을 자연언어 설명으로 변환하여 LLM의 체인오브싱크 추론 패턴 활용 [(원문)](https://arxiv.org/abs/2604.18305)
+- **2026-04-21**: 컨텍스트 메모리의 동적 활용 시점 결정이 성능 향상의 핵심, 증거 기반 메모리 은행 관리로 장기 효율성 보장 [(원문)](https://arxiv.org/abs/2604.18206)
+- **2026-04-21**: ICL과 LoRA는 저차원 대응(low-rank correspondence) 원리로 동일한 기하학적 구조 탐색 [(원문)](https://arxiv.org/abs/2604.17384)
+- **2026-04-16**: Non-stationary sequences에서 transformer는 unknown change-point 감지 후 동적 적응 가능 (형식적 증명), model complexity는 change-point 정보 수준에 따라 결정 [(원문)](https://arxiv.org/abs/2604.16988)
+- **2026-04-21**: SemanticQA: 다중어 표현(MwE), 관용구, 명사 복합어에서 LLM의 의미 추론 성능 편차 분석 [(원문)](https://arxiv.org/abs/2604.16593)
+- **2026-04-21**: LiFT: 시간적 난이도 증가 커리큘럼과 few-shot 구조화로 역사 컨텍스트 통합 개선 [(원문)](https://arxiv.org/abs/2604.16382)
 - **2026-04-20**: 다중 심리 패턴의 강화·갈등·조절 상호작용이 in-context 성능에 영향 [(원문)](https://arxiv.org/abs/2601.10198)
 - **2025-12**: In-Context Distillation: Teacher의 시범 학습 후 저비용 Student에 In-Context 예제로 배포 [(원문)](https://arxiv.org/abs/2512.02543)
 - **2026-04-20**: ICL을 활용한 개인화 보상 모델링으로 재훈련 없이 사용자 적응 가능 [(원문)](https://arxiv.org/abs/2502.19312)
@@ -36,7 +50,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Persona]] | [[Prompt Engineering Framework]]
+[[Latent Reasoning]] | [[Time Series Reasoning]]
 
 
 ## 모순/논쟁

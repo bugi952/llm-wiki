@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,87 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 도덕적 에이전트 설계의 철학적 기초: 의도성(intentionality)과 행동의 인과적 연결 분석 [(원문)](https://www.alignmentforum.org/posts/9qkTDDEZ23HN3d6su/from-nothing-to-important-actions-agents-that-act-morally)
+- **2026-04-27**: 한국 과기부, NC AI·LG AI연구원·카카오 등 민간기업과 AISI·NIA·NIPA·TTA 등 정부기관 참여 '에이전틱 AI 얼라이언스' 워크숍 개최 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209773)
+- **2026-04-27**: Agentic 시스템이 데이터베이스의 암묵적 가정(isolation, consistency, durability)을 위배하는 구조적 특성 지적 [(원문)](https://news.ycombinator.com/item?id=47897140)
+- **2026-04-27**: 에이전트 배포 시 IP 보호 및 regulatory provenance 필요성 대두, behavioral watermarking 기술 등장 [(원문)](https://arxiv.org/abs/2601.03294)
+- **2025-10-16**: 에이전트 부등식: 접근성, 성능, 배포 수량의 격차로 인한 권력 및 기회 분배 이슈 (arXiv:2510.16853) [(원문)](https://arxiv.org/abs/2510.16853)
+- **2026-01-14**: Memory construction 단순화 + sophisticated utilization로 장기 의사결정 성능 향상 [(원문)](https://arxiv.org/abs/2601.14287)
+- **2026-01-12**: Diffusion-based LLM (dLLM)은 embodied/tool-calling 에이전트에서 신뢰도 부족 → symbolic precision 상실, temporal feedback 처리 미흡 [(원문)](https://arxiv.org/abs/2601.12979)
+- **2025-02-02**: LLM 기반 multi-agent 시스템의 자체 학습에서 데이터 영향도 추정을 통한 미분 불가능 지표 최적화 [(원문)](https://arxiv.org/abs/2502.00955)
+- **2026-04-27**: Closed-loop learning으로 반복 LLM 호출 대신 local method 재사용 → 효율성 및 응답성 개선 [(원문)](https://arxiv.org/abs/2604.22199)
+- **2026-04-21**: IT 프로젝트 관리에서 프로세스별 AI 에이전트(계획, 실행, 모니터링 등), 역할별 에이전트(PM, 개발자, QA), 협업 네트워크 구성의 필요성 대두 [(원문)](https://arxiv.org/abs/2604.21958)
+- **2026-04-27**: AgentSearchBench: 10,000+ 실제 에이전트를 포함한 대규모 벤치마크로 검색/재순위 문제 형식화 및 실행 기반 성능 신호로 관련성 평가 [(원문)](https://arxiv.org/abs/2604.22436)
+- **2026-04-27**: AI 생성 연구 파이프라인의 출판 인정을 위한 2계층 인증 프레임워크 제안: Category A (파이프라인 도달 가능), Category B (특정 단계 인간 개입), Category C (파이프라인 불가) [(원문)](https://arxiv.org/abs/2604.22026)
+- **2026-04-21**: Artifact 계약(contract) 개념: 중간·최종 출력을 명시화하고 모듈식 규칙 라이브러리에서 목표-조건 워크플로우 자동 조립 [(원문)](https://arxiv.org/abs/2604.21936)
+- **2026-04-25**: PrismaDV는 데이터셋 프로파일과 작업 코드를 함께 분석해 암묵적 데이터 가정과 접근 패턴 추론 [(원문)](https://arxiv.org/abs/2604.21765v1)
+- **2026-04-25**: Shannon의 게임 분류(사전 기반·명확 해석·휴리스틱·학습 기반)를 LLM 에이전트(Nemobot)로 구현하여 전략 학습 및 설명 생성 [(원문)](https://arxiv.org/abs/2604.21896v1)
+- **2026-04-25**: Agent 기반 과학 워크플로우 자동화에서 LLM 비결정성을 semantic layer에만 제한, 검증된 generator와 domain expert skill markdown으로 재현성 보장 [(원문)](https://arxiv.org/abs/2604.21910v1)
+- **2026-04-23**: 에이전트 시스템 확산에 따른 CPU 수요 급증으로 Intel 1분기 매출 7% 증가 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209706)
+- **2026-04-23**: MoonShot이 Kimi K2.6에서 300개 하위 에이전트 동시 운영 및 4000단계 병렬 처리 (Agent Swarm) 공개 (2026-04-23) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209726)
+- **2025-12**: 우주 궤적 생성(SAGES)에서 자연언어 명령 해석 및 실시간 자율 제어 실현 [(원문)](https://arxiv.org/abs/2512.09111)
+- **2026-04-24**: 그래프 토폴로지 인식 네비게이션, 검색 제약 사고, 그래프 기반 커리큘럼 RL로 장기 정책 학습 안정화 [(원문)](https://arxiv.org/abs/2604.05846)
+- **2025-11-17**: LLM 에이전트들은 사용자 지시 없이도 규제 기관에 위법 혐의를 신고. 모델 계열·과제 복잡도·도덕 누징에 따라 빈도 다양 [(원문)](https://arxiv.org/abs/2511.17085)
+- **2025-10-04**: Speculative Actions — 빠른 모델로 미래 액션 예측 후 병렬 실행, 일치 시 커밋. 55% latency 감소 [(원문)](https://arxiv.org/abs/2510.04371)
+- **2025-08-10**: 멀티에이전트 기반 AutoML 파이프라인 자동 생성: MCTS 솔루션 병합 + RAG(Kaggle·arXiv) 기반 가설 공간 확대 [(원문)](https://arxiv.org/abs/2508.10177)
+- **2025-03-20**: LLM 기반 에이전트의 계획, 도구 사용, 환경 상호작용 종합 평가 체계 확립 [(원문)](https://arxiv.org/abs/2503.16416)
+- **2026-04-24**: DeepSeek-V3 전문가 + Qwen3-8B 검증자로 cloud-local 하이브리드 아키텍처 구현 [(원문)](https://arxiv.org/abs/2604.21282)
+- **2026-04-24**: 과학 워크플로우 자동화: 의도해석(LLM)→DAG생성(validator)→skill저작(domain expert) 3계층 분해로 비결정성 제한 [(원문)](https://arxiv.org/abs/2604.21910)
+- **2026-04-21**: Claude Shannon 게임 분류를 LLM 기반 에이전트로 구현 (Nemobot), 사전/수학/휴리스틱 게임 지원 [(원문)](https://arxiv.org/abs/2604.21896)
+- **2026-04-24**: Alibaba AgenticQwen: 비용/지연시간 제약 하에서 작은 모델의 멀티스텝 추론과 실제 산업 도구 사용 실현 [(원문)](https://arxiv.org/abs/2604.21590)
+- **2026-04-24**: 도메인 특화 에이전트: 인식-추론-분석 모듈 기반 순차적 추론 (GeoMind, 리소그래피 분류) [(원문)](https://arxiv.org/abs/2604.21501)
+- **2026-04-24**: Customer-facing LLM agent의 multi-turn 상호작용 평가에서 드문 사용자 행동에 의한 deep failure mode 발견 강화 [(원문)](https://arxiv.org/abs/2604.21480)
+- **2026-04-24**: 18개 모델 평가: Kimi-K2(thinking) 82.6% 노드 유사도로 가장 높은 행동 동질화 관찰 [(원문)](https://arxiv.org/abs/2604.21255)
+- **2026-04-24**: 임상 기록 파싱·비디오 합성·비전 처리·진단 피드백의 4개 마이크로 에이전트가 원격 재활(tele-rehabilitation) 폐쇄루프 구현 [(원문)](https://arxiv.org/abs/2604.21154)
+- **2026-04-22**: AlphaEarth 임베딩 기하학 활용한 환경 추론 에이전트: 12.1M 미국 샘플 분석으로 매니폴드 구조 규명 [(원문)](https://arxiv.org/abs/2604.18715)
+- **2026-04-21**: 헬스케어 에이전트 사례: 음성 AI 기반 노인 돌봄 자동화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209557)
+- **2026-04-21**: 의료 분야 에이전트 적용: 조직 분석→치료 전략을 1일 내 자동화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209523)
+- **2026-04-21**: 2026-04-21: 롯데이노베이트, Aimember 5대 브랜드 체계 공개 (Work: 비즈니스 에이전트, Onflow: MCP 조립, Robo: 휴머노이드 AI) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209555)
+- **2026-04-21**: 국가AI전략위 산하에 휴머노이드 로봇 전담 소분과 신설 (14명 규모) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209563)
+- **2025-12**: 멀티모달 추론 모델의 에이전트 작업 훈련에서 결과 기반 보상을 넘어 토큰 단계 세밀한 보상 신호 활용 [(원문)](https://arxiv.org/abs/2512.03438)
+- **2024-10-14**: EAGLET: 동형 합의 필터링 + RL로 에이전트 글로벌 계획 능력 학습. 장기 작업에서 시행착오 제거 (2024) [(원문)](https://arxiv.org/abs/2510.05608)
+- **2025-09-01**: Agentic RL: LLM을 복잡한 환경의 자율 agent로 재정의. 6가지 core capability - planning, tool use, memory, reasoning, self-improvement, perception (2025-09 arXiv survey) [(원문)](https://arxiv.org/abs/2509.02547)
+- **2025-08**: Structured dual-agent 프레임워크로 전문가 수준의 모델링 원칙 자동 적용. 다중 에이전트 불안정성 해결. [(원문)](https://arxiv.org/abs/2508.14410)
+- **2025-08**: HeroBench - RPG 환경에서 수백~수천 개 action의 end-to-end 계획 실행 평가. 계층적 추론, 자원 관리, 공간 추론 통합. [(원문)](https://arxiv.org/abs/2508.12782)
+- **2026-04-21**: ScienceBoard: 과학 워크플로우 자동화를 위한 멀티모달 에이전트 벤치마크 (169개 고품질 작업) [(원문)](https://arxiv.org/abs/2505.19897)
+- **2026-04-21**: 협업 안정성은 모델 성능뿐만 아니라 상호작용의 토대 조건(grounding conditions)에 의존 [(원문)](https://arxiv.org/abs/2604.18096)
+- **2026-04-21**: 텍스트 입력 대비 스크린샷 입력이 근소한 성능 향상 (DailyDroid: 75 tasks) [(원문)](https://arxiv.org/abs/2604.17817)
+- **2026-04-21**: 재귀적 에이전트 실행을 Causal-Temporal Event Graphs(CTEGs)로 형식화 가능. 단일 부모 관계 아래 유한 시퀀스 구조 증명 (arXiv:2604.17557) [(원문)](https://arxiv.org/abs/2604.17557)
+- **2026-04-21**: 인간 이동 예측에 표준화된 특성 관리, 반복 최적화, 사용자 맞춤화를 통해 LLM 기반 에이전트 확장 (ARMove) [(원문)](https://arxiv.org/abs/2604.17419)
+- **2026-04-21**: D-CIPHER 멀티-에이전트 프레임워크로 도구 발견 및 환경 상호작용 자동화, 대형 언어 모델의 자율적 사이버 작업 능력 실증 [(원문)](https://arxiv.org/abs/2604.17159)
+- **2026-04-21**: ProtoCycle: 단백질 설계를 위한 LLM 플래너 + 경량 도구 환경 기반 멀티라운드 피드백 루프 [(원문)](https://arxiv.org/abs/2604.16896)
+- **2026-04-21**: LLM 에이전트가 외부 도구 오케스트레이션으로 3D 의료 영상의 복합 다단계 워크플로우 자동 실행 [(원문)](https://arxiv.org/abs/2604.16729)
+- **2025-02-01**: Tool-interleaved turns의 long-lived context가 power optimization을 stateless LLM serving과 근본적으로 구분. Frequency scaling만으로는 memory thrashing 악화 [(원문)](https://arxiv.org/abs/2604.16682)
+- **2026-04-21**: Long-horizon coding agent의 test-time scaling: rollout trajectory를 compact summary로 변환하여 재사용 [(원문)](https://arxiv.org/abs/2604.16529)
+- **2026-04-21**: 쌍방 협상 게임에서 LLM 에이전트는 적극적 앵커링·보정된 양보·시간 인내심으로 최고 잉여 달성 (2026-04) [(원문)](https://arxiv.org/abs/2604.16472)
+- **2026-04-21**: 하이브리드 데이터셋 검색 아키텍처: LLM 에이전트 오케스트레이션으로 BM25+Dense+RRF 통합, 메타데이터 의사쿼리 증강 [(원문)](https://arxiv.org/abs/2604.16394)
+- **2026-04-21**: 이상적 웹 환경에서 높은 성공률의 LLM web agent도 실제 상호작용 변동성(레이아웃 변경, 의미 변경, 실행 방해)에서 강건성 저하: StressWeb 벤치마크로 진단 필요 [(원문)](https://arxiv.org/abs/2604.16385)
+- **2026-04-21**: Agentic Entropy - 자율 코딩 에이전트의 고속 연산이 유발하는 agentic actions와 architectural intent 간 누적 괴리. Code diff 및 HCXAI 기반 방식으로는 global agentic behaviour drift 포착 불가능. [(원문)](https://arxiv.org/abs/2604.16323)
+- **2026-04-21**: BLF(Bayesian Linguistic Forecaster): Bayesian linguistic belief state로 binary forecasting, ForecastBench SOTA [(원문)](https://arxiv.org/abs/2604.18576)
+- **2026-04-21**: StepPO: 토큰 단위 아님 스텝 단위 정책 최적화로 지연 희소 보상 해결 [(원문)](https://arxiv.org/abs/2604.18401)
+- **2026-04-21**: IceBreaker: 공명 유발 + 맥락 이해로 cold-start에서 개인화 대화 시작문 생성 (arXiv:2604.18375v1) [(원문)](https://arxiv.org/abs/2604.18375)
+- **2026-04-21**: Agent-World는 환경 합성과 자기진화 강화학습을 결합하여 범용 에이전트 지능 발전 제시 [(원문)](https://arxiv.org/abs/2604.18292)
+- **2026-04-21**: World knowledge 탐색 기반 내재적 메타 진화로 미지 환경 자율 적응 [(원문)](https://arxiv.org/abs/2604.18131)
+- **2026-04-21**: AIT Academy 프레임워크: 자연과학/기술(Domain I), 인문/창의(Domain II), 사회과학/윤리(Domain III) 3영역 curriculum. 전문화 대신 완전한 교육을 받은 에이전트 개발 추구. [(원문)](https://arxiv.org/abs/2604.17989)
+- **2026-04-21**: LiteResearcher 프레임워크는 lite virtual world 구성으로 agentic RL 스케일링 문제를 해결, 4B 모델로 GAIA 71.3%, Xbench 78.0% SOTA 달성 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17931)
+- **2026-04-20**: 스킬 과잉 문제 정량화: 2-3개 초점 스킬이 전체 문서보다 우수 성능. 에이전트는 더 많은 스킬이 아닌 구조화된 스킬 오케스트레이션 필요 [(원문)](https://arxiv.org/abs/2604.17870)
+- **2026-04-21**: 컴퓨터 에이전트는 같은 작업 반복 시 성공/실패가 불안정 - 실행 확률성, 작업 명확성, 행동 변이성이 주요 원인 [(원문)](https://arxiv.org/abs/2604.17849)
+- **2026-04-21**: WebUncertainty: 웹 에이전트의 planning(Task Uncertainty) / reasoning(Action Uncertainty) 단계를 분리하여 MCTS 기반 적응형 탐색으로 hallucination 감소 [(원문)](https://arxiv.org/abs/2604.17821)
+- **2026-04-21**: TRUSTEE: 무료 8B 모델로 작업/사용자/도구 동적 시뮬레이션 + 적응형 커리큘럼으로 에이전트 RL 학습 [(원문)](https://arxiv.org/abs/2604.17739)
+- **2026-04-21**: 현재 LLM 평가의 4가지 체계적 실패: distributional invalidity, temporal invalidity, scope invalidity (단일 턴 vs 궤적), process invalidity (출력 vs 추론) [(원문)](https://arxiv.org/abs/2604.17573)
+- **2026-04-21**: 클레임 수준 특이성 제어(CSS)로 LongFact 신뢰도 0.846→0.913 향상 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17487)
+- **2026-04-21**: 알고리즘·작업 레벨 스케일링: 복잡한 작업을 부분 문제로 분해 및 다중 에이전트 위임으로 병렬화·확장성 향상 [(원문)](https://arxiv.org/abs/2604.17353)
+- **2026-04-21**: AutoSearch: RL 기반 self-answering으로 multi-step 검색의 최소 충분 깊이 자동 결정 [(원문)](https://arxiv.org/abs/2604.17337)
+- **2026-04-21**: Embodied agents의 belief inertia는 환경 피드백 무시로 suboptimal decisions 유발 [(원문)](https://arxiv.org/abs/2604.17252)
+- **2026-04-21**: DORA Explorer: 훈련 없이 LLM 에이전트의 다양한 출력 생성으로 충분한 탐색 확보 [(원문)](https://arxiv.org/abs/2604.17244)
+- **2026-04-21**: SAE Level 3 autonomous driving과 pharma에서 safety-critical agentic workflow 평가 [(원문)](https://arxiv.org/abs/2604.17025)
+- **2026-04-16**: Bolzano multi-agent system: 6개 수학·CS 문제 중 3개 자율적 해결, 4개가 출판 수준 기여 달성 [(원문)](https://arxiv.org/abs/2604.16989)
+- **2026-04-21**: ClimAgent: 기후 과학 다중 도메인 작업 자동화. 멀티스케일 데이터셋, 복잡한 분석 도구 통합. 단순 QA를 넘어 물리 제약 고려 [(원문)](https://arxiv.org/abs/2604.16922)
+- **2026-04-21**: Task 복잡도 증가에 따른 agent 성능 체계적 저하 발견 (unimodal/multimodal 관찰 조건) [(원문)](https://arxiv.org/abs/2604.16813)
+- **2026-04-21**: 다중 에이전트 debate를 reward judge로 사용하여 과학적 아이디어 생성의 reward hacking 문제 해결 [(원문)](https://arxiv.org/abs/2604.16723)
+- **2026-04-21**: 에이전트 프레임워크 벤치마크(2023-2025): 22개 중 12개 안정적 성능(74.6-75.9% 정확도, 4-6초/태스크, $0.14-0.18/태스크) [(원문)](https://arxiv.org/abs/2604.16646)
+- **2026-04-21**: AdaExplore: 실행 피드백 누적으로 Triton 커널 생성의 정확성·성능 동시 개선, 추가 파인튜닝 불필요 [(원문)](https://arxiv.org/abs/2604.16625)
+- **2026-04-21**: 실시간 음성 어시스턴트는 전이중(full-duplex) 중단 처리에서 contextual inertia, interruption amnesia, objective displacement 3가지 주요 실패 패턴을 보임 [(원문)](https://arxiv.org/abs/2604.16456)
 - **2026-04-20**: Google Cloud 에이전틱 AI 실제 도입 사례: 카카오뱅크(Gemini Enterprise 1800명), CJ ENM(Veo 영상생성, Imagen 이미지생성), 메가존소프트 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209475)
 - **2026-04-17**: xAI Grok 4.3에서 에이전트 능력 강화 및 아키텍처 개선 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209481)
 - **2026-04-20**: Evolve-CTF를 통해 13개 모델 구성의 강건성 검증 및 일반화 한계 실증 [(원문)](https://arxiv.org/abs/2602.05523)
@@ -182,7 +263,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[Google DeepMind]] | [[AI Deployment]]
+[[Agent Safety Evaluation]] | [[AI Safety]]
 
 
 ## 모순/논쟁

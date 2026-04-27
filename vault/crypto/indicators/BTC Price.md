@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 ---
 
 # BTC Price
@@ -14,6 +14,13 @@ last_updated: 2026-04-21
 
 
 ## 이력
+- **2026-04-27**: Bitcoin ETF 9일 연속 순유입 $2.1B (9월 이후 최장 기록, 2026년) [(원문)](https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags)
+- **2026-04-21**: 2026년 4월 암호화폐 ETF 누적자산 최고치 갱신, $933M 순유입 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february)
+- **2026-04-25**: 4월 월간 최고 수익률 경신, USDT 유입 $5B 주도 (2026-04-25) [(원문)](https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound)
+- **2026-04-25**: VanEck 분석: 음수 펀딩레이트 + 해시율 하락 = 기술적 강세 신호, 시장 심리는 경계적 [(원문)](https://bitcoinmagazine.com/news/vaneck-flags-dual-bullish-for-bitcoin)
+- **2026-04-24**: BTC ETF 8일간 $20억 순유출, 단기 보유자 매도 신호 포착 [(원문)](https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling)
+- **2026-04-22**: 비트코인 목표가 $80K 설정, 거래소별 유입/유출 분석 상 강세 [(원문)](https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: $75,000 부근에서 거래 중 [(원문)](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)
 - **2026-04-20**: 2월 초 이후 최고가 기록, 비트코인 투자 상품 주간 유입 $1.12B [(원문)](https://decrypt.co/364907/crypto-funds-add-1-4b-as-bitcoin-clears-two-month-range)
 - **2026-04-20**: 2026-04-20: Strategy(MSTR)의 대량 보유가 최근 BTC 가격 상승의 주요 드라이버로 분석됨 [(원문)](https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 이란-미국 긴장 및 유가 변동으로 $76,500대 유지 (2026-04-21) [(원문)](https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty)

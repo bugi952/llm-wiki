@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,20 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-23**: Google DeepMind, 비동기 분산 학습 아키텍처(Decoupled DiLoCo) 공개로 GPU 동기화 제약 근본 해결 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209767)
+- **2026-04-22**: 불확실성 인식 실험 설계로 스케일링 법칙 피팅 시 전체 예산의 ~10%만으로 전체 실험 대비 유사한 외삽 정확도 달성 (arXiv:2604.22753) [(원문)](https://arxiv.org/abs/2604.22753)
+- **2026-04-26**: 구조화 의료 데이터는 제한 어휘·희소 관찰로 인해 NLP와 다른 스케일링 효과 가능성 제시 [(원문)](https://arxiv.org/abs/2604.22348)
+- **2026-04-24**: 딥러닝 이론의 5가지 축(수해석적 설정, 추적가능 극한, 수학 법칙, 하이퍼파라미터, 보편 현상)의 통합 프레임워크 [(원문)](https://arxiv.org/abs/2604.21691)
+- **2026-04-24**: 깊이 고정 시 추가 반복의 검증 손실을 새 스케일링 법칙으로 정량화: L = E + A(N_once + r^0.46·N_rec)^-α + B·D^-β (R²=0.997) [(원문)](https://arxiv.org/abs/2604.21106)
+- **2026-04-24**: SGD는 배치 크기 감소에 따라 sharpness가 2/η 아래로 억제되는 현상 설명 (stochastic self-stabilization) [(원문)](https://arxiv.org/abs/2604.21016)
+- **2026-04-21**: RLVR 훈련에서 엔트로피 유지 ↔ 응답 다양성, 캘리브레이션, 벤치마크 성능 간 상관관계 [(원문)](https://arxiv.org/abs/2511.05993)
+- **2025-10-14**: 2025년 발견: 훈련 데이터의 intra-doc 반복, inconsistency, skewed distribution의 조합이 emergent knowledge arbitration 능력 촉발 [(원문)](https://arxiv.org/abs/2510.02370)
+- **2026-04-21**: 신호 강도와 입력 공분산에 따른 학습 시간 창의 의존성. 과적합 전 신호 감지 가능 구간의 수학적 조건 [(원문)](https://arxiv.org/abs/2604.18450)
+- **2026-04-21**: 생의학 데이터 성능을 제타 함수 기반 모델로 설명. 누적 신호-노이즈 에너지가 코버리언스 연산자의 스펙트럼 모드를 따라 축적 [(원문)](https://arxiv.org/abs/2604.17581)
+- **2026-04-21**: Frontier supercomputer 32K GPU에서 63% strong scaling efficiency 달성—exascale 추론의 bottleneck 해소 [(원문)](https://arxiv.org/abs/2604.16590)
+- **2026-04-21**: Test-time scaling: Best-of-N 선택에서 가벼운 calibration 기반 scorer로 expensive process reward model 대체 [(원문)](https://arxiv.org/abs/2604.16535)
+- **2026-04-21**: Grokking 전이점이 TDU-OFC 오프라인 avalanche probe로 유한 크기 스케일링 D(t)로 정량화 가능 (modular addition, XOR) [(원문)](https://arxiv.org/abs/2604.16431)
+- **2026-04-21**: Data Mixing: 샘플 선택이 아닌 도메인 가중치 최적화로 계산 예산 제약 하 효율성 극대화 [(원문)](https://arxiv.org/abs/2604.16380)
 - **2025-09-01**: RL post-training의 스케일링 법칙: 모델 스케일(0.5B~72B), 데이터량, 컴퓨트 예산의 상호작용을 거듭제곱 함수로 모델링. 대형 모델의 학습 효율 우월성 실증 [(원문)](https://arxiv.org/abs/2509.25300)
 - **2026-04-20**: 추론 스펙트럼이 모델 크기에 로그 스케일링 의존 (α_reasoning ∝ -0.074 ln N) [(원문)](https://arxiv.org/abs/2604.15350)
 - **2026-04-19**: 훈련 데이터 커버리지가 성능 한계를 설정하며, RL은 안정성만 개선할 뿐 한계를 확장하지 못함 [(원문)](https://arxiv.org/abs/2604.15306v1)
@@ -42,7 +56,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Reinforcement Learning from Verifiable Rewards]]
+[[Google DeepMind]] | [[Model Efficiency]]
 
 
 ## 모순/논쟁

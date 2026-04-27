@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,94 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-07**: UNIKIE-BENCH: 15개 SOTA LMM의 문서 KIE 성능 평가, 스키마 정의 변화에 따른 성능 저하 확인 [(원문)](https://arxiv.org/abs/2602.07038)
+- **2026-01-13**: SAM 3의 단일 promptable model을 Change Detection에 적용해 CLIP+DINO 조합 대신 unified framework 구성, feature matching 안정성 향상 [(원문)](https://arxiv.org/abs/2601.13895)
+- **2026-01-12**: System 토큰의 redundant weight가 image/text attention 감소 → yes-bias 유발. Attention 재분배로 억제 가능 [(원문)](https://arxiv.org/abs/2601.12430)
+- **2025-02-15**: Test-Time Matching(TTM)으로 compositional reasoning 성능 향상; SigLIP-B16이 Winoground 이전 기록 갱신, GPT-4.1이 인간 성능 추정치 초과 (arXiv:2510.07632) [(원문)](https://arxiv.org/abs/2510.07632)
+- **2025-03-01**: VLM이 지식그래프, 플로우차트, 마인드맵, 경로맵 등 다양한 멀티그래프 추론 가능성 입증 (graph parsing, reasoning consistency, instruction-following) [(원문)](https://arxiv.org/abs/2503.21435)
+- **2026-04-27**: CGC (Compositional Grounded Contrast): MLLM의 spatial hallucination/object constancy 문제 해결. Inter-Image Contrast (이미지 간 차별화) + Intra-Image Contrast (object 일관성) + GRPO spatial reward [(원문)](https://arxiv.org/abs/2604.22498)
+- **2026-04-27**: SAR 데이터 통합 재해 상황 인식 멀티모달 프레임워크 (ChangeQuery) [(원문)](https://arxiv.org/abs/2604.22333)
+- **2026-04-21**: Land Transportation Dataset (LTD): 로드사이드 카메라 11.6K VQA 쌍으로 도시 교통 안전의 개방형 추론 벤치마크 [(원문)](https://arxiv.org/abs/2604.22260)
+- **2026-04-22**: 의료 영상 안전 평가에서 구조화된 추론(check decomposition)이 단순 프롬팅 대비 신뢰성 증가 [(원문)](https://arxiv.org/abs/2604.22156)
+- **2026-04-27**: 신경기호 언어 중심의 추론으로 수학·과학·일반상식에서 정확도 3.33% 향상, 추론 토큰 75% 감소 [(원문)](https://arxiv.org/abs/2604.22062)
+- **2026-04-27**: 멀티모달 정보 출처 추적(source-modality monitoring) 능력이 모달리티 바인딩 성능 좌우 [(원문)](https://arxiv.org/abs/2604.22038)
+- **2026-04-24**: 단일 모델이 생성과 시각 이해 작업을 동시에 수행하는 통합 아키텍처 실증 (2026-04-24) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209749)
+- **2025-10-01**: 적응형 패치 선택(APT)으로 동질 영역은 큰 패치, 복잡 영역은 작은 패치 할당하여 시퀀스 길이 단축 [(원문)](https://arxiv.org/abs/2510.18091)
+- **2026-04-24**: Geo-R1: 지리공간 참조 표현(geospatial referring expressions) 이해를 위한 few-shot RFT. 명시적 추론 체인 생성 → 객체 위치화 순차 프로세스로 일반화 강화. [(원문)](https://arxiv.org/abs/2509.21976)
+- **2026-04-24**: 세그멘테이션 VLM의 반사실적 이미지 추론 평가: 텍스트 기반 평가의 한계 극복 [(원문)](https://arxiv.org/abs/2506.21546)
+- **2025-09-23**: 약한 모달리티가 전체 성능을 하락시키는 drag-down 효과, 모든 스케일에서 재현 [(원문)](https://arxiv.org/abs/2509.23744)
+- **2026-04-24**: DPO 기반 HalluVL-DPO로 prompt-induced hallucination 완화 [(원문)](https://arxiv.org/abs/2604.21911)
+- **2026-04-24**: 단일 자극의 모달 내 표현 분산이 비전-언어 모델의 정렬(cross-modal alignment) 강도 결정 [(원문)](https://arxiv.org/abs/2604.21836)
+- **2026-04-24**: Ramen 프레임워크: 도메인 일관성 + 예측 균형 기준으로 테스트 타임 적응 [(원문)](https://arxiv.org/abs/2604.21728)
+- **2026-04-24**: CHAI 프레임워크: 전문가 critique → model pre-caption 검증/개선 [(원문)](https://arxiv.org/abs/2604.21718)
+- **2026-04-24**: 평가 패러다임(single-answer, pairwise, reference-guided) 모두 특정 error dimension에 취약 [(원문)](https://arxiv.org/abs/2604.21523)
+- **2026-04-24**: VG-CoT 데이터셋으로 LVLM의 각 추론 단계를 이미지 영역과 명시적 그라운딩하여 신뢰성 검증 [(원문)](https://arxiv.org/abs/2604.21396)
+- **2026-04-24**: Universal Multimodal Retrieval에서 멀티모달 정렬 방식(조기/후기 융합)의 성능-견고성 트레이드오프 분석 [(원문)](https://arxiv.org/abs/2604.21326)
+- **2026-04-24**: Chain of Inquiry 프레임워크로 VLM의 다단계 의도 주도 시각 추론 평가. 24,950개 식물 이미지 + 138,068개 Q&A 쌍 데이터셋 [(원문)](https://arxiv.org/abs/2604.20983)
+- **2026-04-24**: 비디오-텍스트 검색 모델이 query shift에 취약하며, hubness 현상(소수 항목이 과도한 인력을 끌어당김) 완화가 핵심 (HAT-VTR) [(원문)](https://arxiv.org/abs/2604.20851)
+- **2026-04-24**: VLM의 추상 시각 추론 실패가 추론이 아닌 표현 병목 때문임을 실증적으로 입증 [(원문)](https://arxiv.org/abs/2604.21346)
+- **2026-04-24**: 다중 차트 QA에서 인간 작성 질문은 모델 생성 질문 대비 27.4% 정확도 하락 [(원문)](https://arxiv.org/abs/2604.21344)
+- **2026-04-21**: 명시적 프롬프트 없이 마스크된 텍스트를 시각 맥락에서 복원하는 암묵적 능력 평가 (2,771 샘플) [(원문)](https://arxiv.org/abs/2604.21277)
+- **2026-04-21**: 제안-비판 공진화 강화학습으로 시각적으로 유사한 GUI 요소 간 정밀 픽셀 좌표 구별 [(원문)](https://arxiv.org/abs/2604.21268)
+- **2026-04-24**: IVG: 차트 스펙 쿼리(결정적 증거)와 뷰 상호작용(모호성 해소)을 결합해 VLM의 값 오독과 환각 감소 [(원문)](https://arxiv.org/abs/2604.21134)
+- **2026-04-21**: 의료 리포트 생성에서 토큰 가중치 조정으로 10배 데이터 효율성 향상 가능 [(원문)](https://arxiv.org/abs/2604.21082)
+- **2026-04-20**: 비디오 이해 작업에서 sink token 인식 pruning으로 coarse-grained task와 달리 fine-grained task에서 성능 collapse 방지 [(원문)](https://arxiv.org/abs/2604.20937)
+- **2026-04-24**: MLLM은 교통사고 비디오 분석으로 다단계 법적 추론 수행 가능 (6.7만 비디오, 19.5만 문답쌍 데이터셋) [(원문)](https://arxiv.org/abs/2604.20878)
+- **2026-04-21**: 시각 문서의 구조화된 추론을 위해 VLM과 KG의 결합 제시 [(원문)](https://arxiv.org/abs/2512.20626)
+- **2026-04-21**: Open-vocabulary 객체 탐지에서 LLM 기반 agentic visual reasoning으로 고정 카테고리 제약 극복 및 weakly markovian decision process로 자동 개선 가능 [(원문)](https://arxiv.org/abs/2511.21064)
+- **2026-04-21**: MLLM의 텍스트 편향이 시각 키 벡터가 언어 사전학습 키 공간 외부 분포(OOD)에서 비롯 [(원문)](https://arxiv.org/abs/2510.26721)
+- **2026-04-21**: 특정 뉴런 제거 시 해당 문화 질문 성능이 대폭 하락하면서 다른 문화에는 영향 미미 [(원문)](https://arxiv.org/abs/2510.24942)
+- **2025-09**: VLM 기반 자율주행 위험 평가는 정적 이미지 기반으로 시공간 추론 부족 (NuRisk 벤치마크 노출) [(원문)](https://arxiv.org/abs/2509.25944)
+- **2026-04-21**: 시계열의 수치적 뉘앙스 포착에서 proprietary 모델도 어려움 실증 [(원문)](https://arxiv.org/abs/2509.20823)
+- **2026-04-21**: CoCoT (Perception-Situation-Norm 3단계 구조)로 multimodal intent disambiguation, theory of mind, commonsense reasoning 등에서 평균 5.9% 성능 향상 [(원문)](https://arxiv.org/abs/2507.20409)
+- **2026-04-21**: SOTA VLM들이 개수 세기(로고 줄무늬, 동물 등)에서 평균 17% 정확도로 강한 편향 시현 [(원문)](https://arxiv.org/abs/2505.23941)
+- **2025-02-01**: 다중 페이지 손글씨 문서에서 페이지 간 의미·필체 공유 문맥을 MLLM으로 활용 (arXiv:2502.20295) [(원문)](https://arxiv.org/abs/2502.20295)
+- **2025-02-13**: 문장 확장 시 의미 변화량으로 상식적 그럴듯함을 세밀하게 평가, VLM 성능 측정 [(원문)](https://arxiv.org/abs/2502.13464)
+- **2025-02-02**: 시각 정보와 언어 모델의 조합으로 과학적 현상 해석 및 가설 검증 강화 [(원문)](https://arxiv.org/abs/2502.02871)
+- **2026-04-21**: Platonic Representation Hypothesis: 모달 표현 수렴은 소규모 데이셋(~1K)에서만 측정 가능하며 대규모 확장 시 조악한 의미 중첩만 유지 (arXiv:2604.18572) [(원문)](https://arxiv.org/abs/2604.18572)
+- **2026-04-21**: 과학 논문 검색에서 VLM의 한계: 텍스트-중심 다중모달 문서에서 구조화 정보 처리 미흡. [(원문)](https://arxiv.org/abs/2604.18508)
+- **2026-04-21**: 저자원 설정(소규모 데이터셋, 엣지 디바이스): 두 탑 인코더가 단일 탑보다 우수. CNN 통합으로 파라미터 효율성 향상 [(원문)](https://arxiv.org/abs/2604.18452)
+- **2026-04-21**: 원격 감지 시계열 변화 VQA: Qwen3-VL(구조화된 파이프라인)과 Qwen3.5(단일 단계 네이티브)의 성능. 모델 크기와 정확도의 비단조 관계 확인 [(원문)](https://arxiv.org/abs/2604.18429)
+- **2026-04-21**: WebCompass: 웹 코딩에서 visual fidelity + interaction quality 평가 [(원문)](https://arxiv.org/abs/2604.18224)
+- **2026-04-21**: 다중모달 환각의 단계별 패턴 포착 및 자기 보상 기반 완화 [(원문)](https://arxiv.org/abs/2604.17982)
+- **2026-04-21**: SAR 위성 이미지에서 YOLOv11 + SAM2로 픽셀 레벨 주석 없이 선박 탐지·크기 추정 가능 (arXiv:2604.17920) [(원문)](https://arxiv.org/abs/2604.17920)
+- **2026-04-21**: 모바일 UI 해석에서 UI 접근성 및 입력 양식 설계가 성능에 큰 영향 [(원문)](https://arxiv.org/abs/2604.17817)
+- **2026-04-21**: 병리학 분야 최초 멀티레벨 WSI-VLM: 전체 슬라이드 + 세포 수준 이중 추론 능력 (arXiv:2604.17570) [(원문)](https://arxiv.org/abs/2604.17570)
+- **2026-04-21**: 원격 감지 이미지 분석에서 RL 보상 최적화 시 perceptual inertia 발생, 하이브리드 보상으로 해결 [(원문)](https://arxiv.org/abs/2604.17504)
+- **2026-04-21**: Vision Transformer 앙상블(DINOv2, AIMv2, ViT-L/14)이 DF-Wild 데이터셋에서 딥페이크 탐지 AUC 96.77%, EER 9% 달성 [(원문)](https://arxiv.org/abs/2604.17376)
+- **2026-04-21**: TOIH(Text Overlay-Induced Hallucination): 화면 텍스트가 시각과 모순될 때 VLM의 텍스트 우선 환각. VisualTextTrap 벤치마크(6,057 샘플, 88개 속성) 통해 광범위 검증 [(원문)](https://arxiv.org/abs/2604.17375)
+- **2026-04-21**: E2E-GMNER: 멀티모달 NER을 end-to-end 생성 프레임워크로 통합, chain-of-thought로 시각적 증거와 배경지식 활용 [(원문)](https://arxiv.org/abs/2604.17319)
+- **2026-04-21**: VLM이 시각 정보보다 텍스트 설명에 과도하게 의존하는 text shortcut learning 현상 발견 [(원문)](https://arxiv.org/abs/2604.17217)
+- **2026-04-21**: 의료 분야 데이터 부족 극복을 위한 임상 키워드와 시각 데이터의 동적 가중치 fusion 기법 [(원문)](https://arxiv.org/abs/2604.17209)
+- **2026-04-21**: MLLM이 SVG 코드의 symbolic organization을 직접 해석, 벡터그래픽의 구조 정보 손실 방지 [(원문)](https://arxiv.org/abs/2604.17054)
+- **2026-04-21**: Pre-trained 범용 모델로 target 데이터 미노출 상태에서도 품질/정렬 평가 가능 (DOSE) [(원문)](https://arxiv.org/abs/2604.16979)
+- **2026-04-21**: Lorentz 쌍곡선 공간에서 텍스트 임베딩 기반 pixel-wise 계층적 표현학습. 불확실성, 경계 추출, zero-shot 성능 제공 [(원문)](https://arxiv.org/abs/2604.16836)
+- **2026-04-21**: Vision Transformer-GCN 하이브리드: 1D 위치 임베딩을 그래프 구조로 대체하여 패치 간 공간 관계 표현 개선 [(원문)](https://arxiv.org/abs/2604.16823)
+- **2026-04-21**: HyMOR: MLLM과 CLIP을 결합하여 코스-그레인과 파인-그레인 객체 인식을 통합하는 하이브리드 프레임워크 [(원문)](https://arxiv.org/abs/2604.16785)
+- **2026-04-21**: Prefill 단계에서 고정 메모리 제어로 MLLM 추론 병목 해결 [(원문)](https://arxiv.org/abs/2604.16734)
+- **2026-04-21**: VLM의 고유 3D 공간 추론 제약을 에이전트 기반 도구 조율로 극복하는 설계 패턴 [(원문)](https://arxiv.org/abs/2604.16729)
+- **2026-04-21**: Visual attribution streaming in thinking models provides real-time evidence grounding during code generation and math reasoning from images [(원문)](https://arxiv.org/abs/2604.16587)
+- **2026-04-21**: GNN 통합 소형 VLM이 대형 모델 성능 초과 (최대 16.24% 향상) [(원문)](https://arxiv.org/abs/2604.16517)
+- **2026-04-21**: 시각 adversarial perturbation으로 MLLM의 가격 제약 무효화, GPT-4o/Gemini-1.5 35-41% ASR 달성 [(원문)](https://arxiv.org/abs/2604.16515)
+- **2026-04-21**: Diffusion 기반 VLM이 점진적 블록 병합과 단계별 증류로 추론 효율성 극대화 제시 [(원문)](https://arxiv.org/abs/2604.16514)
+- **2026-04-16**: MedThinkVQA: 8067개 의료 케이스, 평균 6.62개 이미지로 다중 뷰 임상 추론 평가 (기존 1.43 이미지 대비) [(원문)](https://arxiv.org/abs/2604.16506)
+- **2026-04-16**: 의료 양식 벤치마크: GPT-5.4가 85% 정확도, 6% hallucination rate 달성 [(원문)](https://arxiv.org/abs/2604.16504)
+- **2026-04-21**: HQA-VLAttack: 이미지-텍스트 동시 섭동 black-box adversarial attack [(원문)](https://arxiv.org/abs/2604.16499)
+- **2026-04-21**: Hungarian matching 기반 동네 재순위화 + 쿼리 조건부 국소 조향으로 CLIP 합성 검색 성능 개선 (기하 일관성 강화) [(원문)](https://arxiv.org/abs/2604.16487)
+- **2026-04-21**: Saccade 패턴으로 sequence length 단축 시 유사한 성능 유지하면서 계산량 80% 감소 가능 [(원문)](https://arxiv.org/abs/2604.16485)
+- **2026-04-21**: 시각 토큰 중복을 보편적(IVR) 및 아키텍처 특화(SSR) 성분으로 분해 (arXiv:2604.16462) [(원문)](https://arxiv.org/abs/2604.16462)
+- **2026-04-21**: Multi-PixMo 벤치마크: 5개 유럽언어(영문, 프랑스, 독일, 이탈리아, 스페인) VLM 학습/평가 리소스 [(원문)](https://arxiv.org/abs/2604.18347)
+- **2026-04-21**: MLLM을 자동 평가자로 사용 시 비주얼-텍스트 통합 실패, 불안정성 문제 존재 [(원문)](https://arxiv.org/abs/2604.18164)
+- **2026-04-21**: VLM-as-Judge는 informativeness bias로 image content 무시하고 정보성 높은 답변 선호 경향 [(원문)](https://arxiv.org/abs/2604.17768)
+- **2026-04-21**: Visual Multiagent Systems (VMAS)에서 콘텐츠-인식 에이전트 라우팅 실현 [(원문)](https://arxiv.org/abs/2604.17503)
+- **2026-04-21**: DIVA 벤치마크로 visual fidelity 증가 시 literal compositionality 편향 확인 (Literal Superiority Bias) [(원문)](https://arxiv.org/abs/2604.17354)
+- **2026-04-21**: 4단계 인지 난이도 분류 time series 벤치마크 + 멀티스테이지 커리큘럼 fine-tuning으로 out-of-distribution generalization 강화 [(원문)](https://arxiv.org/abs/2604.17295)
+- **2026-04-16**: Coarse-to-fine VLM framework로 subtle visual/behavioral constraint 감지 가능 (SNRM 모듈) [(원문)](https://arxiv.org/abs/2604.16993)
+- **2026-04-21**: UniCon: RKHS 커널 관점으로 대조 정렬의 폐쇄형 해 유도, 스펙트럼 방법으로 미니배치 역전파 대체 [(원문)](https://arxiv.org/abs/2604.16678)
+- **2026-04-21**: S-GRPO: SFT의 catastrophic forgetting과 RL의 optimization collapse를 통합 post-training으로 해결. Imitation learning의 지도성과 preference optimization의 다중 궤적 탐색 결합 [(원문)](https://arxiv.org/abs/2604.16557)
+- **2026-04-21**: SynopticBench: NWS 기상청 137만 건 예측 텍스트 샘플 + 위치 관측 이미지(500mb, 2m, 850mb) 페어링 데이터셋 및 SPACE 평가 프레임워크 [(원문)](https://arxiv.org/abs/2604.16451)
+- **2026-04-21**: CLIP ViT-B/32 domain adaptation (EuroSAT, Oxford-IIIT Pets)에서 learning rate가 attention drift와 transfer retention 모두 조절 [(원문)](https://arxiv.org/abs/2604.16410)
+- **2026-04-21**: 멀티모달 LLM이 비형식적 텍스트와 밈, 스크린샷, 사진의 조합에서 맥락 단서 파악 부족 [(원문)](https://arxiv.org/abs/2604.16311)
 - **2026-04-21**: Logit probing을 통해 residual stream의 정보가 저차원 projection에도 유출될 수 있음 [(원문)](https://machinelearning.apple.com/research/what-do-your-logits-know)
 - **2026-04-17**: Grok 4.3에서 더 긴 문맥 처리와 영상 이해 능력 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209481)
 - **2026-01-26**: 객체 수 추정 시 시각 증거보다 텍스트 프롬프트를 선호하는 경향; 객체 수 증가 시 더 강해짐 [(원문)](https://arxiv.org/abs/2601.05201)
@@ -35,7 +123,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mechanistic Interpretability]] | [[LLM Privacy Attacks]] | [[Explainable AI]]
+[[Model Evaluation]]
 
 
 ## 모순/논쟁

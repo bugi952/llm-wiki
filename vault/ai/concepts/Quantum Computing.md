@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-02**: Post-quantum cryptography: k-colorability NP-문제 기반 Eidolon scheme, GNN 공격에 대한 security analysis (n>=60일 때 classical+learning-based 공격 모두 저항) [(원문)](https://arxiv.org/abs/2602.02689)
+- **2025-05-01**: von Neumann 엔트로피 계산의 특이점 문제 개선으로 양자 컴퓨팅 도구의 계산 효율 향상 가능 [(원문)](https://arxiv.org/abs/2505.14234)
+- **2026-04-22**: 고정된 차수 순수 모멘트 tr(ρ^t)의 정확한 복제 임계값: ⌈t/2⌉ (t≥3). ⌈t/2⌉-1 복제는 차원-증가 표본 복잡도 필요 [(원문)](https://arxiv.org/abs/2604.22627)
+- **2026-04-25**: ReaPER+ 알고리즘으로 양자-고전 혼합 회로 최적화의 표본 효율성 4-32배 개선, LunarLander 등에도 확장 가능 [(원문)](https://arxiv.org/abs/2604.21863v1)
+- **2026-01-10**: H-EFT-VA가 Barren Plateau 회피 증명 및 109배 수렴 개선 달성 [(원문)](https://arxiv.org/abs/2601.10479)
+- **2026-04-24**: Feedback Hamiltonian이 score function과 수학적 동등성을 가짐 (García-Pintos-Liu-Gorshkov protocol) [(원문)](https://arxiv.org/abs/2604.21210)
+- **2026-04-21**: HHL + coherent Fourier oracle: 음악 인지 이론(Narmour implication-realization, Krumhansl-Kessler tonal stability)을 encoding하여 melody-harmony 동시 선택. quantum speedup은 coherent output 직접 소비 시에만 유지 [(원문)](https://arxiv.org/abs/2604.20882)
+- **2026-04-21**: Block-encoding은 non-unitary 연산을 큰 unitary 행렬에 포함시키는 방식. Eclipse Qrisp가 고수준 프로그래밍 추상화 제공 [(원문)](https://arxiv.org/abs/2604.18276)
+- **2026-04-21**: GEM (Graph-Enhanced Mitigation): 물리 정보를 GNN의 노드/엣지 특성으로 임베딩하여 NISQ 에러 완화의 확장성 개선 [(원문)](https://arxiv.org/abs/2604.16815)
 - **2026-04-20**: 원격 감지 이미지 분할에 양자 회로를 적응형 라우팅 메커니즘으로 통합, DINOv3 ViT-L/16 백본과 조합 [(원문)](https://arxiv.org/abs/2604.06715)
 - **2025-03-02**: PennyLane 기반 3,347개 고품질 양자 코드 데이터셋(PennyLang) 공개, LLM 코드 생성 정확도 향상 [(원문)](https://arxiv.org/abs/2503.02497)
 - **2024-10-01**: Equivariant split-parallelizing QCNN: 풀링 계층 분할로 측정 효율성을 큐비트 수의 배수로 개선 (근기 양자 장치 적용) [(원문)](https://arxiv.org/abs/2410.01252)
@@ -29,7 +38,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mixture-of-Experts]] | [[Model Efficiency]]
+[[Hardware Security]] | [[Graph Neural Networks]]
 
 
 ## 모순/논쟁

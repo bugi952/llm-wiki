@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 ---
 
 # HYPE Price
@@ -14,6 +14,15 @@ last_updated: 2026-04-20
 
 
 ## 이력
+- **2026-04-27**: HYPE 토큰이 $50 저항선 근처에서 Golden Cross 패턴 형성 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kb3ptX0RCeGdMN0VVTE9NM2hWd0NtQnBCLUpKc1o1QVlyMzYtNVhfUFpCX3lMazVJTWMzTUJuMGtSN2dUQ2tkMlpWOWNrVzdMX2k2c3NjWmpxMkh2aWM3UlFkYUs?oc=5)
+- **2026-04-27**: 고래가 72K HYPE ($30.6M) 축적 - 시장 강세 신호 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZjF5c29qMXBjRE1uVVlrdmRLdk8wSVlwa19tN0Z3MUY1WFNtSFlFdmtwQS1BdWFQSDRxbHFEbVAtMDYtdW9NZWZnTVo5TE42M3gxaUJTZmJkbXk0VVdKRlE1LXhURkhfRE9v?oc=5)
+- **2026-04-27**: $40 이상 유지 중. Leverage 증가로 청산 위험 상존 [(원문)](https://news.google.com/rss/articles/CBMiVEFVX3lxTE90NlNFbmZaOXU1M1U2Sl8ybzZXX2JnWG1UOGNTQVcwZ3FzQjdiRFVra1dqRHltQlFxQUQ1VFBQaTFrS2FHN1ByWE5fRE1NNFB0dXJyYQ?oc=5)
+- **2026-04-26**: 2026-04-26: 80% 급등했으나 플랫폼 성장 지표는 둔화 추세 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbnMxOXdNMlFHdW1yaTBySGNtY2EyNEl5b1JEV0FPU1NTcmgtamRxanlsTHpqRTl1TzRjUWVtTXR0blBFem12TjlDYTNKUEptR0c3MHBIMU1IZ04zaFHSAWNBVV95cUxQdlhTeDU2QlNwazVyYVZZQk1QUUdicTJCSTRyS0ljQXUtWGpUaEFVdkRvYU1YcFliNXhwMnF5WWVVSkU2MXRTdFlhSWtWUl9hNmlVYU0ydF9KMEw4cHBSZkU3dUE?oc=5)
+- **2026-04-25**: 2035년 $200 도달 가능성 제시 (CoinMarketCap) [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkRTVnFZQk1KSlVUVkFZa1B0X3dLVnl6RmxmT1BvRFhQT1FMVUVGQTBMUC1GTHczSXk5R091QVRUVXBQeDhkOS1DRlljUkpMSDM3cDQwOVMxVVFzMHNLMGtBRktSM19NazBZeE5mNzh6NUJONGozNTE5cm80N2Z6bWdlVmozb2w2Zy1JdzlDY3drTF9iLXIw?oc=5)
+- **2026-04-25**: 약세 역전 패턴 형성, $11M 고래 숏 포지션 진입 보고 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QMEc5U28wN19GbWRRcGpjNUhNV1FLaVE5WmVLX1hGUEdCMmllUEtSSmN2V3JHUF9IUFBMbVh1MHNPd0dIc1Ffc0diTlQ1dnphMGdhS0Yzc2tBNUVFSEHSAWNBVV95cUxQSENRbjJoWDJUMmc3VnY0dF90bHpkbEttYkcxN0M0M2R0OEdMT1JocEE5YjB0UFBXLURFVmY5S3p3V291ZnJNRzBwX0FtUEU2dG41Z3N0bWM1S01kemZNdzI5NHc?oc=5)
+- **2026-04-21**: 2026-04-21: Open Interest $1.5B 도달 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KcGV6dnFQbGlHZFY5SjJJQ1pQN2pvS09GamJlZDdxWmpkUXI4SmdDUXdTSGtxSnExZzFzMm9vWG40M0RzM2VyV0FXb1RPZkhRN3F5S3ZYLUZ6Vm8?oc=5)
+- **2026-04-21**: 2026-04-21: 60일 고점 달성 (HIP4 발표 연동) [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xqeEx4YVQ1YjRnQkpMVkdPcjM5cGNoTHVJem80dTZhdllHaUdWZmk5TC1wekoyQ1IxcXBNYlYyTmc1Y29vWU96ZUVaUDIzSzFxYlBwQlhoeVo5LXBmTGExUGluTXNDNjhGaWpsVlh0eEVJQzQ1bnlrdHdxSm5iZ29tRUUyN0FNV0NMTkQ2NXBxQ0E2YndxNWtXTGplbWI1LVhqb1dvR2JheHhNZ2pGc01lRlpSSVpWb2lKdlR3?oc=5)
+- **2026-04-21**: 2026-04-21: $1.96B 토큰 연소 진행 중 [(원문)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUc4Z09WVDlxRlBZN2h6WlRQQXkxbEpJRnpxY0N2a0FvWU8tRVhfRkJzbUV3U05MOUFOc0lVQ281R1JuUDl2MFF0Q1ZHSVZPTTh1THI1NzhhQzBJeFltWFhEVDNaWW1VcEI4ZUNoMkNBTzN6VVRtRmw5OHhuektCaUtuRnVpaHZFXzN1M2R0MWhZWkNPcndNcEM0bnh1WU0xN2J3Y1pVdUNVT3VxZGt1Vlgwb2pwUElQQi1GQVpIZ1RycXZBdWpleXQyQjY4ZkFUUW5QTWhveHM?oc=5)
 - **2026-04-20**: Golden Cross 형성, $50 저항선 도달 (2026-04-20) [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVNKV0x6NEx1RWxzZlMycV9XZXlNZ280WnBRYk1Za0NqZlNWTTBHbmNxX2tVZVZjOHJTMUoySF9Obl82NDZCS0liNXJrRGV1UzFyRUppVlNiRU1DRllhR2lrMjQ2dmFKM0xpbjVLdU1JazRwaHhRX1dkMWlMYVdMM0dRQlJSTGhLNW1ZbVR2akJZUVY1ZkFUbm9QVmZiblF4dlI4YXRPZGY0WlcyUkduT2prdlczcTF1WWJCank2VEk?oc=5)
 - **2026-04-19**: 귀금속 시장과의 예상 외 강한 연관성 확인 [(원문)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjhuVm05ZXdiMExjUER3M2RCYWp3Z2hrazd5U01WdldRSGFmal9xZnltaTd6YWxtSklEWG1vX2VfM1RzVFI5R0szYzlXaXRJemVvVnJ4enlEdHdWbVlBWVZiZWdyVXljQ2JLUG8zOTJjQjJaTVNKV3VkeDVGLWxXUmwtcnpWcHRBOVVvVjU4OA?oc=5)
 - **2026-04-18**: Arthur Hayes는 $150을 목표로 하는 강세 전망 제시 [(원문)](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2pJV2lnN1lPU3NfS0ZKYV9DcEtxeGRpd0FKZlRoSklXZWhtNnNyVGdzWWZYei1iWUVHemt2RWpJbVVNN3g3dFF2Qi1UY0g2WUs4VzR4WW9YWGhkQ3gzT3p3a1lRQVJ2ekZSQnBCMGc2Y2pYa0hpSndlaFhhUWx6ZjFGcnp0Y21nazc1SG9ReHZjajRLR09KMWp0cHhmQnJGZk9hWk12UkI5bmQtVXY0bU1OYw?oc=5)

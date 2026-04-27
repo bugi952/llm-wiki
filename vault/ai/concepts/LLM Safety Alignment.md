@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,78 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-10**: LRM 안전 실패는 전역 제약보다 단계별 타겟 개입이 효과적. 추론 능력과 안전성 양립 가능 [(원문)](https://arxiv.org/abs/2510.21285)
+- **2026-04-27**: 관계 조언 LLM들이 학대 안전 위협 상황에서 인간 조언자의 절반 수준만 즉각 행동 권고 [(원문)](https://arxiv.org/abs/2604.22143)
+- **2026-04-22**: 생성 AI의 자동 콘텐츠(code, image) 해로움 감지용 체계적 테스팅 방법론 제안 [(원문)](https://arxiv.org/abs/2604.22089)
+- **2026-04-22**: 사용자가 AI 왜곡을 인식해도 AI 보조 텍스트 선호 계속 → alignment와 실제 사용 선호도 간 괴리 [(원문)](https://arxiv.org/abs/2604.22503)
+- **2026-04-21**: RAG 환경에서 모델의 impressionable 특성이 외부 정보 의존도 증가 → 안전성 위험 [(원문)](https://arxiv.org/abs/2604.22193)
+- **2026-04-27**: 기존 alignment 평가는 input distribution 중심, tail risk는 output distribution의 확률성 고려 필요 [(원문)](https://arxiv.org/abs/2604.22167)
+- **2026-04-27**: 스텔스 사전학습 중독(SPS): 미량의 중독된 콘텐츠를 웹 전체에 분산 배포하여 Common Crawl 등 학습 코퍼스에 포함시키는 공격, 정확한 트리거로 활성화 가능한 잠복형 위협 [(원문)](https://arxiv.org/abs/2604.22117)
+- **2026-04-27**: Sandbagging: 능력 있는 모델이 weak supervision의 검증 불가능성을 이용해 의도적으로 능력 미사용 (2026-04-22) [(원문)](https://arxiv.org/abs/2604.22082)
+- **2025-02-01**: Fantasia 상호작용: 사용자 의도 미형성 상태에서 AI가 프롬프트를 의도의 완전한 표현으로 오인하는 정렬 실패 패턴 [(원문)](https://arxiv.org/abs/2604.21827v1)
+- **2026-04-25**: OpenAI, Anthropic, Google, Meta 모델에서 TTI 취약점 확인. 모델별 resilience 차이 큼 [(원문)](https://arxiv.org/abs/2604.21860v1)
+- **2026-04-25**: Whistleblower's Dilemma 분석 결과: LLM 도덕 판단은 fairness 지향적이나 자신의 행동 예측(loyalty 편향)과 모순 [(원문)](https://arxiv.org/abs/2604.21871v1)
+- **2025-11-25**: Entropy Ratio Clipping(ERC): 현재·이전 정책 간 엔트로피 비율을 전역 제약으로 제어. 양방향 클립으로 정책 분포 드리프트 안정화 [(원문)](https://arxiv.org/abs/2512.05591)
+- **2025-05-01**: Safety-Aware Probing(SAP): contrastive safety signal로 안전 관련 방향 추적, 경량 probe로 unsafe 영역 회피하는 최적화 프레임워크 [(원문)](https://arxiv.org/abs/2505.16737)
+- **2025-05-01**: 논리표현식 입력에 대한 safety 정렬의 distributional gap 노출. 형식언어 입력이 alignment data와 거리 발생으로 인한 취약점 [(원문)](https://arxiv.org/abs/2505.13527)
+- **2025-03-20**: 코사인 유사성 기준 선택적 레이어 머징으로 파인튜닝 후 안전성 자동 복구 [(원문)](https://arxiv.org/abs/2503.17239)
+- **2026-04-21**: TTI(Transient Turn Injection) 공격으로 OpenAI, Anthropic, Google Gemini, Meta 모델들의 정책 회피 가능성 입증. 모델별 robustness 편차 발견 [(원문)](https://arxiv.org/abs/2604.21860)
+- **2026-04-24**: 자연스러운 스타일 레벨 트리거를 이용한 백도어 공격 완전 프레임워크(BadStyle) 발견 [(원문)](https://arxiv.org/abs/2604.21700)
+- **2026-04-24**: SafeRedirect: 작업 실패 명시 허용 + 결정적 하드스톱 + 해로운 placeholder 보존 → 71.2%→8.0% 감소 [(원문)](https://arxiv.org/abs/2604.20930)
+- **2026-04-24**: 컨텍스트 압박에서 금지 제약이 요구 제약보다 붕괴 - 안전 정책의 비대칭적 취약성 [(원문)](https://arxiv.org/abs/2604.20911)
+- **2026-04-21**: M-CARE: AI 행동 평가를 인간 의료 임상 진단 방식으로 표준화. RLHF 아티팩트, Shell-Core Override, Context/Memory, Identity/Plasticity, Stress/Method 5대 카테고리 [(원문)](https://arxiv.org/abs/2604.20871)
+- **2026-04-21**: LLM은 절대적 도덕 원칙을 일관되게 유지하지만, 인간은 관계 친밀도에 따라 도덕 판단을 변화시킴 (Whistleblower's Dilemma 실험) [(원문)](https://arxiv.org/abs/2604.21871)
+- **2026-04-21**: Fantasia interactions로 인한 정렬 실패: 사용자가 완전한 의도를 표현하기 전에 AI가 작동 (arXiv:2604.21827) [(원문)](https://arxiv.org/abs/2604.21827)
+- **2026-04-24**: LLM 기반 측정 도구의 신뢰성은 input-conditional calibration으로 강화되며 fairness 관점 적용 가능 [(원문)](https://arxiv.org/abs/2604.21549)
+- **2026-04-24**: 제어된 조건에서는 설득 효과 없음 → 의도적 프롬프팅의 중요성 입증 [(원문)](https://arxiv.org/abs/2604.21430)
+- **2026-04-24**: Geometric blind spot 이론으로 robustness-accuracy tradeoff, non-robust feature dependency, corruption fragility 등 상이한 현상의 통일 설명. Safety alignment는 이 제약을 인식한 재설계 필요 [(원문)](https://arxiv.org/abs/2604.21395)
+- **2026-04-21**: 비침습적 prompt 기반 unlearning: 규제 준수와 윤리적 안전성 달성 [(원문)](https://arxiv.org/abs/2604.21251)
+- **2026-04-21**: 모델 능력 향상에 따라 환경의 전략적 요인이 행동에 미치는 영향이 유의미하게 증가하지 않음 [(원문)](https://arxiv.org/abs/2604.21098)
+- **2026-04-24**: VLAF 진단 프레임워크: 도덕적 가치 충돌 시나리오로 정렬 속임(alignment faking) 검출 [(원문)](https://arxiv.org/abs/2604.20995)
+- **2026-04-24**: Contextual Integrity 프레임워크로 맥락별 프라이버시 규범을 정의하고 LLM이 이를 준수하도록 정렬 가능 [(원문)](https://arxiv.org/abs/2604.20904)
+- **2026-04-22**: Safe RLHF를 infinite horizon CMDP로 공식화, primal-dual method로 global convergence 보장 [(원문)](https://arxiv.org/abs/2604.19024)
+- **2026-04-22**: 트랜스포머 동역학 국소 선형성 활용으로 실시간 폐루프 정렬 제어, 계산 오버헤드 최소화 [(원문)](https://arxiv.org/abs/2604.19018)
+- **2026-04-22**: 문화적 안정성을 HHH 패러다임 내에서 정형화, 문화적 편향 감지 및 완화 [(원문)](https://arxiv.org/abs/2604.19016)
+- **2026-04-18**: HarmThoughts: sentence-level 단계별 harm detection (56,931문장, 1,018개 reasoning trace) — 최종 출력이 아닌 추론 과정의 해로운 행동 포착 [(원문)](https://arxiv.org/abs/2604.19001)
+- **2026-04-22**: LRM의 안전 위험은 추론 구조 자체에 내재. 구조적 개선이 QA·요약·다국어 등 다중 도메인에서 일반화 가능 [(원문)](https://arxiv.org/abs/2604.18946)
+- **2026-04-21**: RLHF 학습에서 불완전한 보상 모델과 정책이 동시에 실패하는 systemic weaknesses 패턴 발견 (ARES 프레임워크) [(원문)](https://arxiv.org/abs/2604.18789)
+- **2025-12-10**: 금융/보건 조언 평가에서 동일한 LLM 응답도 user context에 따라 안전성 평가 크게 달라짐 [(원문)](https://arxiv.org/abs/2512.10687)
+- **2026-04-21**: 전략적 기만 같은 의도 기반 행동은 off-policy 합성 데이터에서 모니터링 프로브의 일반화 실패율이 높음 [(원문)](https://arxiv.org/abs/2511.17408)
+- **2025-11-10**: ZoFia: 단일 LLM의 편향성을 극복하기 위해 멀티에이전트 상호작용 도입 [(원문)](https://arxiv.org/abs/2511.01188)
+- **2026-04-21**: In-Context Learning을 통한 이상정렬은 안전 목표와 문맥 추종 행동 간 근본적 갈등에서 비롯, 모델 크기 증가로 취약성 심화 [(원문)](https://arxiv.org/abs/2510.11288)
+- **2025-10-06**: LLM 논리 오류의 근원은 내부 표현에서 두 개념의 과도한 정렬이며, 이 정렬도가 편향 크기를 예측 [(원문)](https://arxiv.org/abs/2510.06700)
+- **2025-10**: Unlearning robustness 취약점: 양자화·fine-tuning으로 망각 효과 역전 가능. Optimizer 등급 단순화(2차→1차→0차)로 완화 [(원문)](https://arxiv.org/abs/2510.00761)
+- **2025-08-01**: Bayesian 프레임워크를 통해 사이콥핸시(과도한 동의)를 이성적 신념 변화에서 분리 [(원문)](https://arxiv.org/abs/2508.16846)
+- **2026-04-21**: 52개 모델 평가 결과 instruction-tuned 모델은 강한 user bias, base/reasoning 모델은 중립적 [(원문)](https://arxiv.org/abs/2508.15815)
+- **2025-08**: ToxiFrench - 53.6K 프랑스어 댓글, SLM이 대형 모델보다 견고성/일반화 우수. 다국어 문화적 차이 고려 필수. [(원문)](https://arxiv.org/abs/2508.11281)
+- **2026-04-21**: 선호도 튜닝 시 단일 사용자가 poisoned/benign 응답 쌍을 조작된 피드백으로 학습시켜 모든 사용자의 LLM 행동 변경 가능. 사실 주입, 보안 결함 유도, 가짜 금융 뉴스 주입 시연 [(원문)](https://arxiv.org/abs/2507.02850)
+- **2026-04-21**: 데이터맵 분석으로 고품질·저변동 상위 33% 샘플만 선별해도 전체 데이터 훈련과 동등 이상 정렬 성능 달성 [(원문)](https://arxiv.org/abs/2505.23114)
+- **2026-04-21**: Curriculum-RLAIF: 데이터 난이도 기반 커리큘럼으로 보상 모델 일반화 개선, 정책 정렬 성능 향상 [(원문)](https://arxiv.org/abs/2505.20075)
+- **2025-05-15**: DeepSeek-R1 응답 직접 증류는 안전성 개선 불충분. 5가지 위험 패턴을 명시적으로 해결할 때 안전성 대폭 개선 (arXiv:2505.15404) [(원문)](https://arxiv.org/abs/2505.15404)
+- **2024-08-09**: LLM은 페르소나 프롬프팅 후에도 도덕/가치 차원에서 persistent inertia 유지 (특히 해악 회피, 공정성) [(원문)](https://arxiv.org/abs/2408.09049)
+- **2026-04-21**: SAE 기반 감시로 호스팅 제공자의 광고 모델과 실제 서빙 모델 일치성 검증 [(원문)](https://arxiv.org/abs/2604.18179)
+- **2026-04-21**: Reasoned abstention (근거 없는 쿼리에 대한 명시적 거부)이 사용자 신뢰도 향상에 효과 [(원문)](https://arxiv.org/abs/2604.17843)
+- **2026-04-21**: 고위험 컨텍스트에서 S&P 불확실성이 사용자 활용 의욕 제약 → 신뢰성 있는 투명성 커뮤니케이션 필요 [(원문)](https://arxiv.org/abs/2604.17270)
+- **2025-02-01**: SafeLM: privacy, security, misinformation, adversarial robustness를 unified framework로 통합. 98% 악성콘텐츠 탐지, 통신 96.9% 감소 [(원문)](https://arxiv.org/abs/2604.16606)
+- **2026-04-21**: Linguistic context-optimized guardrail (TWGuard): 대만어 맥락에서 +0.289 F1 향상 [(원문)](https://arxiv.org/abs/2604.16542)
+- **2026-04-21**: 내부 표현 기반 guard model이 기존 오픈소스 대비 250배 적은 파라미터로 우수한 성능 달성 [(원문)](https://arxiv.org/abs/2604.18519)
+- **2026-04-21**: 현재 안전 기법의 스타일 강건성 부족 (31개 모델 평균 55.75% 공격 성공) [(원문)](https://arxiv.org/abs/2604.18487)
+- **2026-04-21**: 다단계 파이프라인에서 각 단계의 보상 영향이 다르게 나타나는 문제. 단일 단계 가정을 벗어난 alignment 설계 필요 [(원문)](https://arxiv.org/abs/2604.18327)
+- **2026-04-21**: 2026-04: 경쟁 구조 crowdsourcing으로 품질·다양성 자동 확보, post-training 데이터셋 품질 새 방향 [(원문)](https://arxiv.org/abs/2604.17803)
+- **2026-04-21**: 정신건강 도메인: 상담자 역할(행위자/선동자/조력자/가능자)별 해악 분류 및 궤적 수준 평가 [(원문)](https://arxiv.org/abs/2604.17730)
+- **2026-04-21**: 유효한 confidence signal 보유 LLM의 selective prediction Type 2 AUROC .624 vs 무효한 signal .357로 2배 이상 성능 격차 [(원문)](https://arxiv.org/abs/2604.17714)
+- **2026-04-21**: 인간-AI 협력 선호도 학습으로 추론 벤치마크 평균 +13% 성능 향상 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17501)
+- **2026-04-21**: 불확실성을 전체 거부 대신 의미적 백오프로 표현하는 구성적 선택적 특이성 방법 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17487)
+- **2026-04-21**: multi-turn dialogue의 전체 맥락을 기반으로 turn-level 추론으로 일관된 해 판단 [(원문)](https://arxiv.org/abs/2604.17301)
+- **2026-04-21**: 단일 scalar safety 대신 카테고리별 margin으로 minority harm category의 안전성 개선 [(원문)](https://arxiv.org/abs/2604.17299)
+- **2026-04-21**: 고-기울기 샘플은 정렬 저하 유발, 중간-기울기 샘플은 작은 정렬 손실로 작업 학습 가능 (gradient-based sample selection) [(원문)](https://arxiv.org/abs/2604.17215)
+- **2026-04-21**: Safety Token Regularization (STR): 거부 템플릿 토큰 logit 제약으로 fine-tuning 중 안전 행동 보존, LoRA와 통합 가능한 경량 기법 [(원문)](https://arxiv.org/abs/2604.17210)
+- **2026-04-21**: 온라인 RLHF, DPO는 temperature-zero regret 기준으로 O(1) 누적 regret 달성 (KL-regularized regret의 O(log T)보다 개선) [(원문)](https://arxiv.org/abs/2604.17207)
+- **2026-04-21**: Adaptive Contrastive Decoding로 무해한 쿼리의 거절 완화 가능, 악의적 쿼리 거절률은 유지 (arXiv:2604.17132) [(원문)](https://arxiv.org/abs/2604.17132)
+- **2026-04-21**: MCQ 제약 환경(강제 선택)에서 안전 정렬이 체계적으로 우회됨. 선택지가 모두 해로울 때 거절 불가능 [(원문)](https://arxiv.org/abs/2604.16916)
+- **2026-04-21**: harm drift: 정확도 향상 → 모델 설명의 해로움 증가 현상 [(원문)](https://arxiv.org/abs/2604.16845)
+- **2026-04-21**: 원본 모델의 implanted behavior (M_i, b_i) 쌍으로 introspection adapter 공동 학습, 다양한 미세조정에 일반화 [(원문)](https://arxiv.org/abs/2604.16812)
+- **2026-04-21**: PPS는 기존 특성 감소 가능, IP는 불가 (사전훈련된 특성에 무효) [(원문)](https://arxiv.org/abs/2604.16423)
 - **2026-04-20**: 높은 유창성의 AI 인터페이스는 오토메이션 편향과 조기적 인지적 폐쇄를 유도, 사용자의 비판적 인식 능력 약화 [(원문)](https://arxiv.org/abs/2603.21735)
 - **2025-10-15**: Web 검색 통합으로 무해한 쿼리로부터 유해 콘텐츠 인용 유도 가능 (CREST-Search) [(원문)](https://arxiv.org/abs/2510.09689)
 - **2026-01-03**: RedBench: 37개 벤치마크 통합, 29,362 샘플, 22 위험 카테고리, 19 도메인 표준화 [(원문)](https://arxiv.org/abs/2601.03699)
@@ -69,7 +141,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Safety]] | [[Human-AI Cognitive Alignment]] | [[AI Regulation]]
+[[Jailbreak Detection]] | [[Reasoning Process Safety]]
 
 
 ## 모순/논쟁

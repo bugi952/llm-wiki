@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-03-07**: Post-scarcity vs AI doom 시나리오의 경제학적 분석: 저확률 재앙적 결과도 안전·정렬 연구 대규모 투자 정당화 [(원문)](https://arxiv.org/abs/2503.07341)
+- **2025-12**: 주관적 함수(subjective function) 개념으로 에이전트의 자율적 목표 생성 메커니즘 연구 가능 [(원문)](https://arxiv.org/abs/2512.15948)
 - **2026-04-20**: ARC-AGI-3: 추상 턴 기반 환경에서 목표 추론, 환경 동역학 학습, 계획 능력을 측정하는 벤치마크. 인간 정답률 100% vs 최첨단 AI 1% 미만(2026-03) [(원문)](https://arxiv.org/abs/2603.24621)
 - **2026-04-15**: AI의 자기개선 능력 시연: 에이전트가 자신의 도구를 자동으로 개선하는 피드백 루프 구현. [(원문)](https://arxiv.org/abs/2604.15082)
 - **2026-04-17**: Turing의 '아이 머신' 유추를 통해 제어 감소적 양육 모델로 AGI의 독립적 자율성 발전 제안 [(원문)](https://arxiv.org/abs/2604.14990)
@@ -19,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agentic AI]] | [[Agent Safety Evaluation]]
+[[AI Safety]] | [[AI Fairness & Economics]]
 
 
 ## 모순/논쟁

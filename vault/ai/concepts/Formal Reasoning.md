@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-25**: Lambda Calculus 기반 AI 평가 벤치마크 개발 [(원문)](https://news.ycombinator.com/item?id=47900506)
+- **2026-04-18**: DSR: operator tree 기반 hierarchical 구조 매핑으로 자연언어 정리의 논리 성분을 형식 언어(Lean 4)로 분해·변환·수정 [(원문)](https://arxiv.org/abs/2604.19000)
+- **2026-04-22**: OpenNARS for Applications(ONA)을 이용한 executable formal program 검증으로 symbolic reasoning의 실행 가능성 입증 [(원문)](https://arxiv.org/abs/2604.18873)
+- **2025-12-07**: Qwen2.5-3B + Prolog, MMLU-Pro에서 7B few-shot 대비 경쟁력 있는 성능 [(원문)](https://arxiv.org/abs/2512.07407)
+- **2026-04-21**: 신경-기호 하이브리드가 논리적 타당성 판단에서 94.3% 정확도 달성. LLM 다수결의 한계를 형식 검증으로 보완하는 실증 사례 [(원문)](https://arxiv.org/abs/2604.18328)
+- **2026-04-21**: Project Yanasse: 수학 분야 간 증명 전략 아날로지 전이로 새로운 정리 증명 발견 (Probability→Representation Theory 40% 성공) [(원문)](https://arxiv.org/abs/2604.17229)
 - **2025-04-20**: 다단계 수치 추론 + 표 기반 추론 능력의 별도 평가 필요 [(원문)](https://arxiv.org/abs/2505.19563)
 - **2026-04-20**: 비형식적 정리 증명: proof sketch 중심의 multi-stage SFT가 핵심 기법 인식과 insightful reasoning 활성화 [(원문)](https://arxiv.org/abs/2604.16278)
 - **2026-04-20**: DAP 프레임워크로 LLM 에이전트의 명시적 자기 반성을 정리 발견에 활용 [(원문)](https://arxiv.org/abs/2604.15839)
@@ -26,7 +32,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Model Evaluation]] | [[Knowledge Graph Question Answering]]
+[[Mathematical Reasoning Benchmarks]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-17
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 2026년 4월 27일 한국 과학기술정보통신부와 K-문샷 프로젝트 협력 MOU 체결 (데미스 허사비스 CEO) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209809)
+- **2026-04-24**: Vision Banana 모델 발표: 이미지 생성 유지하면서 의미론적 분할, 객체 분할, 깊이 추정 등 다중 시각 작업 통합 (2026-04-24) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209749)
 - **2026-04-17**: 구글이 미국 국방부와 Gemini의 기밀 환경 활용 방안을 협상 중 (정책 기조 변화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
 - **2026-04-17**: Demis Hassabis CEO가 'Google for Korea' 행사 참석 및 AlphaGo 10주년 기념 (2026-04-29) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209404)
 - **2026-04-16**: 크롬 데스크톱 AI 모드 확대: 웹페이지-검색 결과 동시 표시로 멀티탭 워크플로우 통합 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209394)
@@ -103,5 +105,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Regulation]] | [[AI Deployment]] | [[AI Safety]]
+[[AI Regulation]] | [[AI Infrastructure]]
 

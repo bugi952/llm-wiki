@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 선언적 프로그래밍(ASP) 문제 해결 능력 평가를 통한 추론 체계성 측정 [(원문)](https://arxiv.org/abs/2604.22306)
+- **2026-04-24**: LLM의 귀추적 추론을 '가설 생성(epistemic gap 해소)'과 '가설 선택(평가)'으로 정식화한 첫 통합 분류 [(원문)](https://arxiv.org/abs/2604.08016)
+- **2026-04-24**: 기호논리 추론 실패는 토큰 생성 어려움뿐 아니라 representational collapse도 원인 [(원문)](https://arxiv.org/abs/2604.21632)
+- **2025-12-07**: Prolog fine-tuning(GRPO)으로 자동검증 가능한 reasoning trace 생성 가능 [(원문)](https://arxiv.org/abs/2512.07407)
+- **2026-04-21**: 국소 상호작용만으로도 산술식 문법 구조를 인식할 수 있는 신경망의 구문 처리 능력 [(원문)](https://arxiv.org/abs/2604.17857)
+- **2026-04-21**: ArgBench: 46개 computational argumentation 태스크 벤치마크, 5개 LLM 패밀리 평가 (few-shot, reasoning step, model size 영향 분석) [(원문)](https://arxiv.org/abs/2604.17366)
+- **2026-04-21**: 논리적 종속성 체인은 길이 무관 100% 신뢰도 유지. 통계적 의존성(신뢰도 <100%)과 대비하며 생명 중요 NLP 응용의 완벽한 처리 지향 [(원문)](https://arxiv.org/abs/2604.17346)
+- **2026-04-21**: GRPO with reasoning traces (arXiv:2604.17188): teacher 모델 reasoning trace를 감독신호로 사용하는 dialogue summarization [(원문)](https://arxiv.org/abs/2604.17188)
+- **2026-04-21**: topic similarity, semantic coherence, entity linking으로 논증 관계 모델링 [(원문)](https://arxiv.org/abs/2604.16852)
 - **2026-04-20**: LRM은 명시적 CoT 이전에 내재적 추론으로 정확한 답변 도달 (11개 언어 확인) [(원문)](https://arxiv.org/abs/2601.02996)
 - **2026-04-20**: arXiv:2510.06953 - 고품질 추론은 로컬 균일성은 높으나 전역 비균일성 보임. UID 가설이 LLM 추론에는 인간과 다른 패턴 [(원문)](https://arxiv.org/abs/2510.06953)
 - **2026-04-20**: 제어 흐름 그래프 구조 회복과 프로그램 의미 보존 능력 검증 (2026-04-20) [(원문)](https://arxiv.org/abs/2604.15390)
@@ -36,7 +45,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mechanistic Interpretability]] | [[System-2 Learning]]
+[[Model Evaluation]] | [[Code Generation]] | [[Formal Reasoning]]
 
 
 ## 모순/논쟁

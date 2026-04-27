@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,80 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: GPU 리소스의 미가동 비용을 직관적 금액 단위로 가시화하여 경영진 의사결정 지원 (2026-04-27) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209781)
+- **2026-04-23**: 완전 동기화 구조 제거로 학습 시간/비용 획기적 감소 가능 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209767)
+- **2026-04-27**: 단백질 언어 모델(PLM)에서도 Curse of Depth 현상 확인: 자동회귀·마스크드·확산 목표 모델에서 후반 레이어 기여도 저하 [(원문)](https://arxiv.org/abs/2602.21750)
+- **2026-02-06**: 사전학습된 LLM의 추론 속도를 3배 이상 가속화하면서 GSM8K에서 5% 미만의 정확도 손실 (arXiv:2602.06019) [(원문)](https://arxiv.org/abs/2602.06019)
+- **2025-10**: NeuronMLP: SVD 압축과 tiling으로 AWS Trainium의 systolic array 아키텍처에 최적화된 LLM 추론 [(원문)](https://arxiv.org/abs/2510.25977)
+- **2025-02-15**: 활성화 프루닝(activation pruning)이 동일 sparsity 수준에서 가중치 프루닝보다 생성 능력 더 잘 보존 (arXiv:2509.22166) [(원문)](https://arxiv.org/abs/2509.22166)
+- **2025-09-20**: 학습 증강 캐싱 알고리즘으로 LRU 대비 히트율 향상, 예측 완벽성과 오류 강건성 양립 가능 [(원문)](https://arxiv.org/abs/2509.20979)
+- **2025-05-01**: MoE의 배포 효율화를 위해 학습 단계 없이 router logit 기반 expert 선택으로 계산 비용 절감 가능 [(원문)](https://arxiv.org/abs/2505.17639)
+- **2024-10-21**: 변수 길이 토큰 기반 LLM 훈련으로 BERT/GPT 수준 정확도 달성하며 3배 시간 단축 [(원문)](https://arxiv.org/abs/2410.21548)
+- **2026-04-27**: ReLU 신경망의 bound-based 정규화와 LP relaxation gap 정규화로 MILP 트랙터빌리티 향상 (arXiv:2604.22746) [(원문)](https://arxiv.org/abs/2604.22746)
+- **2026-04-27**: LUT 기반 아키텍처로 초저지연 하드웨어 효율성 확보 [(원문)](https://arxiv.org/abs/2604.22293)
+- **2026-04-22**: RouteLMT: 소형 모델의 prompt token 표현을 분석해 예상 gain을 실시간 예측, 하이브리드 시스템에서 in-model 라우터로 동작 [(원문)](https://arxiv.org/abs/2604.22520)
+- **2026-04-27**: HubRouter: O(n²) attention을 O(nM) hub-mediated routing으로 대체, 4.2% PPL 개선 및 ~90배 학습 처리량 향상 (Jamba 하이브리드, 시퀀스 길이 1024) [(원문)](https://arxiv.org/abs/2604.22442)
+- **2026-04-27**: 계층별 차등 주의 최적화로 재학습 없이 성능 유지하며 추론 속도 개선 [(원문)](https://arxiv.org/abs/2604.22050)
+- **2026-04-27**: KAN의 느린 재귀 계산을 탈피해 MLP 수준의 추론 속도 달성 [(원문)](https://arxiv.org/abs/2604.22034)
+- **2025-10-01**: Vision Transformer에 APT 적용 시 ViT-L 40%, ViT-H 50% 처리량 증가, 미세 작업에서 30% 빠른 학습/추론 [(원문)](https://arxiv.org/abs/2510.18091)
+- **2025-10-15**: Speculative Decoding 드래프트 선택을 이론적 무후회 보장으로 최적화, 추론 레이턴시 획기적 감소 [(원문)](https://arxiv.org/abs/2510.20064)
+- **2025-09**: LoRA 등 기존 PEFT 대비 훨씬 적은 파라미터로 고차원 변환 유도 가능 [(원문)](https://arxiv.org/abs/2509.18629)
+- **2025-02-20**: 재훈련 없이 기존 모델을 MoE로 변환해 추론 비용 획기적 절감 (칼리브레이션 데이터만 필요) [(원문)](https://arxiv.org/abs/2502.04416)
+- **2026-04-24**: Boolean circuit으로 이산화 가능한 Logic Gate Network로 비디오 복사 탐지 극저자원화 [(원문)](https://arxiv.org/abs/2604.21694)
+- **2026-04-21**: GiVA(gradient-informed vector adaptation)로 LoRA 수준의 극저 순위 달성, 벡터 기반 적응 효율성 극대화 [(원문)](https://arxiv.org/abs/2604.21901)
+- **2026-04-24**: X-GRAM: 하이브리드 해싱+앨리어스 믹싱으로 지프니언 꼬리 압축, 메모리-FLOPs 분리 달성 (0.73B-1.15B 스케일) [(원문)](https://arxiv.org/abs/2604.21724)
+- **2026-04-24**: Fused AVX-512 kernels로 16배 weight compression 및 곱셈 연산 완전 제거 [(원문)](https://arxiv.org/abs/2604.20913)
+- **2026-04-18**: R²-dLLM: confidence cluster와 positional ambiguity (spatial), token remasking (temporal) redundancy 제거로 decoding latency 50%+ 감소 [(원문)](https://arxiv.org/abs/2604.18995)
+- **2026-04-22**: Critic 용량 확장 시 LoRA로 과적합/부팅 불안정성 방지. SAC/FastTD3에서 로보틱스 성능 개선 [(원문)](https://arxiv.org/abs/2604.18978)
+- **2026-04-22**: 강화 미세조정(RFT) 기반 사후 보정: 작업 유틸리티·KL 앵커·토크나이저 간 보정 보상 결합으로 교사의 증류 가능성 제어 [(원문)](https://arxiv.org/abs/2604.18963)
+- **2026-04-18**: 점진적 레이어 활성화와 센텐스별 처리로 분류 효율성 대폭 개선 (Llama 3.1/3.2, Gemma, Qwen 3-8B) [(원문)](https://arxiv.org/abs/2604.18592)
+- **2025-12**: F2D2: 연속 정규화 흐름의 샘플링과 우도 평가 NFE를 동시에 100배 감소시키는 결합 증류 기법 [(원문)](https://arxiv.org/abs/2512.02636)
+- **2025-11-27**: 암묵적 신경망 기반 하이퍼네트워크로 비정렬 그리드/비데카르트 기하학 위의 복잡 시뮬레이션 고압축률 달성 [(원문)](https://arxiv.org/abs/2511.02659)
+- **2025-10-17**: 2025: 변환벡터로 단어 형태 변동(walk/walked) 표현하여 토큰 어휘 압축 기법 [(원문)](https://arxiv.org/abs/2510.17001)
+- **2026-04-21**: Gauss-Newton 사전조건화가 150M 트랜스포머 훈련에서 SOAP, Muon 대비 5.4배 반복 감소 달성 [(원문)](https://arxiv.org/abs/2510.09378)
+- **2025-09-01**: Low-rank orthogonalization: gradient low-rank 특성을 활용해 Muon 옵티마이저 개선, foundation model 사전학습에서 성능 향상 (2025-09 arXiv) [(원문)](https://arxiv.org/abs/2509.11983)
+- **2025-08-01**: INT8 QAT(양자화 인식 학습)와 적응형 다중센서 융합으로 우주급 제약 환경에서 추론 가능 [(원문)](https://arxiv.org/abs/2508.18025)
+- **2026-04-21**: 동적 어휘 선택으로 prefill 단계의 정보 손실 회피 및 단어별 계산 특성 비대칭 활용 [(원문)](https://arxiv.org/abs/2508.15229)
+- **2026-04-21**: Lizard 프레임워크로 적응형 메모리 제어가 가능한 subquadratic attention 달성 [(원문)](https://arxiv.org/abs/2507.09025)
+- **2026-04-21**: 8:16 반-구조화 스파시티가 2:4 대비 더 유연한 구조로 메모리 효율 유지(0.875 vs 0.75 bits/element) [(원문)](https://arxiv.org/abs/2507.03052)
+- **2025-06-15**: 파라미터 효율적 미세 조정에서 메모리 오버헤드 감소, full fine-tuning 대비 성능 유지 [(원문)](https://arxiv.org/abs/2506.13674)
+- **2026-04-21**: 스파스 미세조정으로 과적합·catastrophic forgetting 위험 감소 및 계산 비용 절감 (LLM 에라 검증) [(원문)](https://arxiv.org/abs/2506.00772)
+- **2026-04-21**: SparseGPT·Wanda는 높은 희소성에서 성능 유지 어려움 → SEFT로 후학습 미세조정 가능 [(원문)](https://arxiv.org/abs/2505.24037)
+- **2026-04-21**: PiCa: 사전학습 가중치의 주성분 열 공간으로 그래디언트 투영하여 PEFT 효율 개선 [(원문)](https://arxiv.org/abs/2505.20211)
+- **2024-12-18**: DRL과 그래프 학습을 결합한 자동 프루닝으로 엣지 디바이스 배포 최적화 [(원문)](https://arxiv.org/abs/2412.18091)
+- **2024-12-01**: ConDense-MoE: MoE 레이어 제거 대신 압축(condensing)으로 메모리 사용량 감소·성능 유지 동시 달성. Shared experts와 fine-grained MoE에 특화 [(원문)](https://arxiv.org/abs/2412.00069)
+- **2026-04-21**: 언어 학습 발달 단계(child development)에 영감받은 점진적 학습과 크로스모달 손실 최적화로 경량 VLM 달성 [(원문)](https://arxiv.org/abs/2604.18452)
+- **2026-04-18**: BACO: 협업 신호 기반 사용자-아이템 공동 클러스터링으로 embedding table 압축 [(원문)](https://arxiv.org/abs/2604.18351)
+- **2026-04-21**: 중간층 표현이 최종층보다 추천 작업에 우수한 성능 (Mid-layer Representation Advantage, MRA) [(원문)](https://arxiv.org/abs/2604.18146)
+- **2026-04-21**: DuQuant++: fine-grained rotation으로 MXFP4 microscaling format의 activation outlier 문제 해결, 양자화 오류 감소 [(원문)](https://arxiv.org/abs/2604.17789)
+- **2026-04-21**: 커널 대칭성 활용 DoF-based 코덱: 신경망 전송 대역폭 감소 및 노이즈 환경에서 오류 완화 [(원문)](https://arxiv.org/abs/2604.17371)
+- **2026-04-21**: CCCL: in-GPU 압축 커널로 NVLink 대역폭 3배 달성, microbenchmark 30% throughput 향상, tensor/expert parallelism 등 기존 workload에 seamless 적용 [(원문)](https://arxiv.org/abs/2604.17172)
+- **2026-04-21**: 모델 저장소의 성능 손실 최소화하며 스토리지 절감: annotation 불필요한 자동 중복 식별 및 압축 [(원문)](https://arxiv.org/abs/2604.17104)
+- **2026-04-21**: Lightweight encoder-only 트랜스포머 압축기로 high-resolution/multi-image 시나리오의 추론 오버헤드 감소 [(원문)](https://arxiv.org/abs/2604.17087)
+- **2025-02-01**: Agentic serving은 단순 frequency scaling으로 thrashing regime 진입 → power/performance 동시 악화. Context-aware scheduling으로 해결 [(원문)](https://arxiv.org/abs/2604.16682)
+- **2026-04-21**: SDLLM: 희소 덧셈만으로 밀집 행렬 곱셈을 완전 제거, 수십억 파라미터 LLM 에너지 효율성 극대화 (2026-04) [(원문)](https://arxiv.org/abs/2604.16475)
+- **2026-04-21**: HalfV 프레임워크: 아키텍처별 가중 전략으로 이식성 높은 추론 가속 [(원문)](https://arxiv.org/abs/2604.16462)
+- **2026-04-21**: Cost-aware reward로 multi-model 선택 최적화 [(원문)](https://arxiv.org/abs/2604.16401)
+- **2026-04-21**: context 검색과 inference 파이프라인화: 멀티테넌트 GPU 메모리 경합 최적화, 동적 preemption 전략 [(원문)](https://arxiv.org/abs/2604.16395)
+- **2026-04-21**: GSQ는 per-coordinate 그리드 + per-group 스케일을 jointly 학습. Scalar 방식으로 3-4 bits 정확도 경계 돌파 [(원문)](https://arxiv.org/abs/2604.18556)
+- **2026-04-21**: TurboQuant_mse는 EDEN의 특수 사례(S=1 고정). 차원↑시 최적값으로 수렴하나 저차원에서 비최적 [(원문)](https://arxiv.org/abs/2604.18555)
+- **2026-04-21**: KV-Shared Exit River로 decoder early exit의 이론적 층 감소를 실제 wall-clock 가속으로 변환 (arXiv 2604.18396) [(원문)](https://arxiv.org/abs/2604.18396)
+- **2026-04-18**: RWKV, xLSTM 등 순환형 아키텍처의 일관된 런타임-메모리 트레이드오프 확인 [(원문)](https://arxiv.org/abs/2604.18199)
+- **2026-04-21**: Depth Registers와 잔차축 매그니튜드 제어로 W4A4 양자화에서 PPL 14배 개선 (SwiGLU) [(원문)](https://arxiv.org/abs/2604.18128)
+- **2026-04-21**: 저순위 근사 기반 4비트 양자화로 메모리 오버헤드 유지 대비 성능 향상 (LoRaQ) [(원문)](https://arxiv.org/abs/2604.18117)
+- **2026-04-21**: 저랭크 압축 성능 저하를 stable rank × 정보밀도(bits/parameter)로 사전 예측 가능 (attention layer 0.890, MLP layer 0.839 상관계수) [(원문)](https://arxiv.org/abs/2604.18085)
+- **2026-04-21**: DeInfer: 분해된 LLM의 병렬 추론 시스템, 다중 최적화 기법으로 상태 최적화 기술과 호환성 보장 [(원문)](https://arxiv.org/abs/2604.17709)
+- **2026-04-21**: ONTO (Object Notation for Token Optimization): 컬럼형 표기법으로 JSON 대비 46-51% 토큰 감소 [(원문)](https://arxiv.org/abs/2604.17512)
+- **2026-04-21**: 적응형 전조건화 그래디언트 기반 1차 최적화의 비볼록 경우 통합 수렴 분석 (AdaGrad, Shampoo, Muon) [(원문)](https://arxiv.org/abs/2604.17423)
+- **2026-04-21**: Conditional depth execution: 토큰 부분집합만 full FFN 수행, 나머지는 lightweight FFN 사용 [(원문)](https://arxiv.org/abs/2604.17228)
+- **2026-04-21**: Algorithmic sparsity와 deployed cost 간 괴리: software stack overhead가 neuromorphic 이점을 상쇄 [(원문)](https://arxiv.org/abs/2604.17040)
+- **2026-04-21**: Freshness-Aware PER이 on-policy 알고리즘(PPO, GRPO)의 샘플 낭비(single-use trajectories) 개선. 다중 환경 상호작용 비용 절감 [(원문)](https://arxiv.org/abs/2604.16918)
+- **2026-04-21**: Token reduction 메서드(ToMe, ToFu, PiToMe)의 cliff-like collapse: pairwise scoring signal의 ranking consistency가 deep layer에서 0.88→0.27로 급격히 저하 [(원문)](https://arxiv.org/abs/2604.16745)
+- **2026-04-21**: Adaptive Strategy Selection: estimated output cost vs OGC 비율로 최적 생성 전략(direct/chunked/deferred) 동적 선택 [(원문)](https://arxiv.org/abs/2604.16736)
+- **2026-04-21**: 커널화된 대조목적으로 확률론적 최적성 보증하면서 계산 효율 개선 [(원문)](https://arxiv.org/abs/2604.16678)
+- **2026-04-21**: 다언어 어휘 확장으로 비라틴 언어 사용자의 LLM 접근 비용 및 지연시간 개선 가능 [(원문)](https://arxiv.org/abs/2604.16656)
+- **2026-04-21**: 폴란드어 Bielik 11B 모델: 크로스패밀리 스펙데코딩으로 Apple Silicon 추론 최적화 [(원문)](https://arxiv.org/abs/2604.16368)
+- **2026-04-21**: BASIS 알고리즘으로 백프로파게이션 메모리를 O(L×B×N)에서 O(L×N)으로 감소, 정확한 오차 신호 전파 유지 [(원문)](https://arxiv.org/abs/2604.16324)
 - **2026-04-20**: Dense passage retrieval에서 학습-무료 방식으로 목표 차원에 따른 최적 감마값 자동 도출, 검색 임베딩의 무거운 꼬리 분포 활용 [(원문)](https://arxiv.org/abs/2603.19339)
 - **2025-02-20**: 7B-8B 정량화 모델이 프로프라이어터리 모델 대비 44배 저렴한 비용으로 동등 품질 달성 가능 (합성 토론 생성 작업) [(원문)](https://arxiv.org/abs/2503.16505)
 - **2026-04-20**: layer-level pipeline parallelism으로 극도로 긴 시퀀스 fine-tuning 가능, pre-trained 모델 최소 적응 [(원문)](https://arxiv.org/abs/2602.01766)
@@ -123,7 +197,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[RAG (Retrieval-Augmented Generation)]]
+[[AI Infrastructure]]
 
 
 ## 모순/논쟁

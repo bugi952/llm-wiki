@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,26 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 주요 treasury 플레이어 BitMine이 5M ETH 보유 달성, 생태계 집중도 증가 [(원문)](https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone)
+- **2026-04-27**: Foundation의 보유 자산 판매 단행, 가격 상승과 역행하는 내부자 신호 발생 [(원문)](https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-27**: 톰 리가 '전쟁 시대의 가치저장 수단'으로 평가 [(원문)](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)
+- **2026-04-21**: Foundation이 BitMine에 직접 판매 — 기관 정규화 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjdzY2FsaURORnpQanNtZW5oRHNJMWxoR3NZclRWYThaSmljd3dSYXRwZWFiMW8wZ3VFRGZ4OFBiQlM4dkxqNE5tOWxMc29RcEtrZGtldXVCdDB6TE1NWDEwS2ZqTkVoMEYtLWpiRzBzY0tPclRuOWVnSWxNeVRVV2lEUzZKT21MRU1EWjZZVVp3MWt1ZzNseGdpeExlYzFZeFhUUEVObFh4VVhpdmdja3YwWmtlR0xYdWFiWDRR?oc=5)
+- **2026-04-21**: 단일 기관(BitMine)의 공급량 5% 집중도 도달 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zUEc5YjZ3cGRKV0NncHZpN1U4WGpqYTQ0Y2VuX2JGMVAtZGFydzdIejVLSWhDS3ZkVDVvYVVCOGVCd1p0VlBXZmZ5UDhsTWZIU1hlcmtCeHV3ZEVCWXM2bkNPTQ?oc=5)
+- **2026-04-21**: 단일 보유자(Bitmine)가 전체 ETH 공급량의 ~5% 차지. 시장 집중도 심화 [(원문)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHozRTJtcXFYbDV3eENBX1F0Q1FMdDhyZ2pTQ3BqRTRCSkZYSTFYVjJXQTJqc0pDWEtaU2VpUm5HeFduSlVwS2RpbVZHLXQzaHVCU2lXYTBvSEt1c2xkbEQzWmw0UFFSQl8yTC1zMUtTYUNzU09fbW9GN1YtdXJoWVV0ejVhclVZTDY2bTh4MFdkdzl0M2t4TEc5Ulp6dk9Ha2FFb2tXXy0?oc=5)
+- **2026-04-21**: 톱 투자전략가 Tom Lee: ETH를 '전시 시대 저축 수단(wartime store of value)'으로 표현 [(원문)](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmEtWjNYQ2xmVnYwYTFRWEo1X2h6MTVsdUxpN2VOdUlReGxZUkMtS1pNTkVSOVJjZjVzYmFibS12TVJzUm9ucFZCbUl2SEFCZVozUVM5Z0FzR3NZYWhGOGdpVXl4ZWFuMVV4Z01OQnlrVFpNVWV2SEVacDJfcnNfa3lGYXVkSUZkcnFOaElZUEJ1ZTFtY2dWLXJaS1M3TEtLR3A2NnREekJQU2kyUm1TNlRRWS0yRndEYnYydzBFNjI1ZGt1M2I4?oc=5)
+- **2026-04-21**: 단일 보유자(Bitmine) 508만 개 보유, 기관 수요 강화 [(원문)](https://news.google.com/rss/articles/CBMizAJBVV95cUxQcTJnY3JSM0prU2FoTFQ4QnhackhpNkg5WlFLR1R2OVJhNWR3Y0l4VEtEZ3RjTjJCSlFPUm1iM0JPcGJRRi0ySkJFNEQ2MHlhTEFUd1d0VUppajZGcXdTSXk5WWNJR3JkZnlaS0xtVWY5b1A1TURiZ0t1dGlkZkZkQ0VISWpvR1VhZmRubEZQYk1OT1hyWWZ0aHdQblZvMUZLYjZaZXY3MVgzLUp6MExSSXFTU3Y4ajY0WUtkZU5lT2U4YUcyMGQ3RnFBakoyZm1JMnNrV0NleFluUzkwNEhIQ3BhRVNEd2FXdUVVWW1HSUZkLWF2ZkdKOFJYYjVGalo1TV9GNHZVSHRjOXQ1SzB6cjRBdEJIMDZzSUh2OWI4Sjc0VDFCN2VQaWdTWGQyU0U4V3FtSmw3SVlEb29TU3o2UlNhR3IyckROaGdFdw?oc=5)
+- **2026-04-21**: Foundation이 70K ETH 스테이킹 목표 근처에서 17K ETH 언스테이킹 ($40M 상당) [(원문)](https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-26**: BitMine이 4.976M ETH를 보유하는 주요 기관 수탁자로 부상 [(원문)](https://news.google.com/rss/articles/CBMiogJBVV95cUxQUFBIdFF6WVREdjJzWElRRUlmdVpXaDVOT3RmNXh1YVBhY1JxQzBBejhwUkFCazAyb1VzUlhfX21ueHl4N093OFpNd3BmZV9LQ2xBeml5ajV2dUx6Q05aeG5DaE9yZVNRbERaS2FrUjJFalVUbTRmUG44ZlRKLTlseVQ2VkYxNjc2bWJaMFF1ZTdDbW9JUHIxc3c1R0N0YjE2bGM0R2g3OXdQeEtKWFJuR3RSODdOTzBscG9yVHJscE1IWnJGYVFuRk1SSkljbGctNjhuWmkxU2JEM0FpRWNKc05tSzIxTWVLVFBybGR4ZlNvMnRrZnU4Z25FQ2F4NXFKcF9GNUUzcmdhVGxrenI2Vi1tZUoydVRFVmNPLTYtWVU2dw?oc=5)
+- **2026-04**: BMNR 자산 규모 $14.5B 도달, 기관 ETH 채택 가속화 신호 [(원문)](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZC1GRU1aeXVFZmRwUHV4czcxMUZmYTVYajNtS1FubGVTOU5qRERkZnlYQjdyb2xxekpYaEpyU2c5WWFfM05VTlg4dVBoRmItVGpIOUZtekJ1R0ZQa0pJeWxIUmhHVVg0LTdtN0xfWTFUNm5tQWh6QkNHeE9tMUlpNVF6NmRmYnVGWmlLSzRzbUx0cEx5M0N2UWhSek1uN2pIMktHMXgxbTFTR3JDYVZ0ZkNNS0JMUTlqX3h1NVNhR0JrVnJjT0c5ZUZ4RXdlUVAzT00xUlNxNGpuMVNDLXNnTjY1NWk0RkxyV21fWDRTTTBxLW1kYnNkOXEtZjhwRnBPNENyVUFzR0JBX2VsRXVVNGRSbmg4Z2RtMUFJek9JaGthT2QtOVdmRA?oc=5)
+- **2026-04**: 기관 투자자 BMNR, 500만 근처 ETH 보유로 주요 홀더 위치 확보 [(원문)](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNSE80SFNoYlNVLTVhelp2LWJSSUJRN296di1iWlNnS1JTcE1mSVJZVkFsT0NNYXlMcDYtWVptR0N1ZWFmUDZHakVCQUY4SEtqOEJKQzN1ZFJCYy1ZMWM5S29vM19McVhxTDVjdjJaYnNuWUJPNk8yNHNNZThqMlNvNmNnQXNoUng1ZTE0N0FHZzhHZnNodGc3WjBiU3lKbVB2RmdMOEVvSExzaV9yY0RmTDBCTU5md2lzbEdpa1FlVGZiel91TUFOQl9ma2xqX2c2aEtLb2VNU2RZeERJQ1BHYXluOUtkRnZFZ0Y5dU9oODF0TEtRdEREeGxJQmlxdnlFZXd3MXBUSWdNMzUxTEctRFFaWTNLZU00Um5NdmV2RllKNXZjaW9sZ2FR?oc=5)
+- **2026-04-25**: Ethereum Foundation의 전략적 ETH 대량 판매로 채굴 생태계 자본 유입 지원 [(원문)](https://thedefiant.io/news/markets/ethereum-foundation-sells-10000-eth-to-bitmnr-otc-ss1db6)
+- **2026-04-24**: BitMine의 대규모 ETH 매입 (10,000 ETH) [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkIwamtKa3lZSWNpMVYyMnZGQkNGLWUxNW9CZm9YQkdtTndOWkF1dFAzV2pqQnNhWUl5T3RmcHFidG9DYTBTREFzT3haMmRXX3hyWEgzTm92aUdsQzhVbm53WkF4MVpkSFR3SDBTVm5qTnlRblBvTlNSSmtyR1BQaDNjeFRiQmk5OVNMcE1EN05FNVNVb1BN?oc=5)
+- **2026-04-24**: Lighter, Unified Trading Accounts를 통해 ETH 포함 다양한 자산을 퍼프스 담보로 지원 시작 [(원문)](https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth)
+- **2026-04-21**: BitMine, Ethereum Foundation ETH 구매로 기관 투자자 수요 증가 신호 [(원문)](https://decrypt.co/365449/tom-lees-bitmine-buys-3-million-eth-ethereum-foundation)
+- **2026-04-21**: Validator 서명 및 지갑 암호화가 미래 양자 컴퓨터에 의해 무너질 수 있는 구체적 위협 벡터 [(원문)](https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk)
+- **2026-04-21**: Michael Saylor, Ethereum 대량 매수 지속 [(원문)](https://decrypt.co/365006/morning-minute-saylors-2-54b-buy-buoys-bitcoin)
+- **2026-04-21**: BitMine, 279,000 ETH 축적으로 2026 시장 회복 신호 제시 [(원문)](https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0syRnloQ2ktSXpPM2FndXAtanFTczg5YzFUMG9HZFFnWDFfNDNvNVZVaDJaZUpDZEdlY1NJZ0FUbVlOZHloVXh5MDFqNHQ0anY3bGFCZm5kUUtJLThnNF9HZjNQdTZoemtTeUlFQzdBNG1mXzZmX0JlQWpZN0tQbGRJem9jR3htM3BMZnl6VjlWV294YmhrSE5n?oc=5)
+- **2026-04-21**: Tom Lee가 ETH 목표가 $60,000 제시 [(원문)](https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1Mzdk0xaVNsNzNPbHp6dWp6RzFpMWJQZ09obnhxbGg0dUtrbHliS3NpWUV0TW9lU052Q05Qc256ZmtHVGZKSFBXeXppN1hScXhpMTQwa3RQQ3Z4Vk53SWdZTWthN25JdUVNVlpCdzl6VUZScUE2aktEZ3VxQURFZmZXNTd0VFplTHl6ZnVFOHY4aVE?oc=5)
 - **2026-04-20**: Vitalik Buterin, 'The chain you can rely on' 슬로건의 4년 개발 계획 공개 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbHVZck5zSFdiRjNRUHd1aTZmcjhyQm8xSzVseVRMZDRzVjNmakVJSXl3X3dscDVVam95V3JMX1A0R2JZZjJkUEJzbDlBUFpkQWltX2wwY3M1N09SbGVFSTRNek40UzQ2YlRnc1JIQkpYZFdBbjF1cVh1b0JJWXRmLTdjZkJIWk90VlgwOWFLcklkQmRvVTYtQXJSWWhqZzhDUG1ad3kwSUlIV2xJcm9DZ3hwYThtTXdGLWs0R3d3WGhEQ0V3YzdBODlzdERyZ3d4RnpkSkh0Q09GOFFOenFwelhqdmszSjRYZlRoNA?oc=5)
 - **2026-04-21**: 주요 기관 BitMine의 4.97M ETH 보유가 시장 수렴 신호로 주목 [(원문)](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbVU5RVFIbndLNlZWMkhOc1hxOThVZGphcm82RFNjdjNtNXRUUWl3Y3lZRVZNX1k0d0NuelY5aTQ3STZMSTlESkdEazBGZmJYdHRudUF5RGdwWXFXR0lYN0gtdEFpNEhFNXlnV1JQQkRxU1NMUHhDc1Z3QWZCeFZmejhkeks5Q3RlVjYzdklmbVl3NU52ei13cEsyUDVlVlhHUUxRckgwcERhV3U4UnY5ZmZNay1XZTlaVGxUVndqMmttWkVUVHE4WnMwYlM1ZzJIWDNMVVVzdlJMVFBiYXFZQ0pKTEZveEt5ZFE?oc=5)
 - **2026-04-20**: 기관 투자자 BitMine의 대규모 매입 신호 [(원문)](https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year)
@@ -38,5 +58,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Market Transparency]] | [[Mainstream Adoption]]
+[[BitMine (BMNR)]] | [[Mainstream Adoption]] | [[Asset Allocation]]
 

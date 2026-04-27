@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,35 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 한국 정부, NIPA 주관 GPU 확보·구축·운용지원 사업 추진. 2조800억원 규모, 약 15,000장 GPU 구매 계획 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209764)
+- **2026-04-27**: GPU 효율 모니터링 솔루션(아스트라몬): 고가 AI 자원의 실질 가동률 추적 및 미가동 손실액 정량화 (2026-04-27) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209781)
+- **2026-04-27**: SK텔레콤, 2026년 베트남 응에안성에 1.5GW 규모 AI 데이터센터 구축 계획 (가스복합화력발전 연계) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209775)
+- **2026-04-27**: Google의 TPU 확장으로 GPU 보유량 기준 MS 추월, AI 인프라 경쟁에서 칩 다양화 중요성 입증 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209792)
+- **2025-12-01**: HFX가 요청 스케줄링과 탄력적 확장 공동 최적화로 다중 SLO 달성, D2D 가중치 전송으로 cold-start 지연 단축 [(원문)](https://arxiv.org/abs/2508.15919)
+- **2026-04-22**: AWS Lambda 등 serverless 플랫폼에서 FL aggregation 확장성 해결 (메모리 한계 극복) [(원문)](https://arxiv.org/abs/2604.22072)
+- **2026-04-24**: 하이퍼스케일러(MS, Amazon, Google)와 AI 업체(Meta, OpenAI, Anthropic)의 자체 데이터센터 구축 가속화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209744)
+- **2026-04-25**: 대규모 클라우드 협력으로 AI 학습/배포 인프라 확대 [(원문)](https://www.anthropic.com/news/anthropic-amazon-compute)
+- **2026-04-23**: 스페이스X, 우주 데이터센터 건설 계획 발표하나 기술 검증 부족 및 상업성 불확실 경고 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209717)
+- **2026-01-20**: Diffusion LLM의 양방향 어텐션 및 블록식 KV 캐시 요구로 NPU ISA 혁신 필요 [(원문)](https://arxiv.org/abs/2601.20706)
+- **2026-04-24**: Stage-Aware Chunk-Level Adaptive Checkpointing으로 그래디언트 체크포인팅과 EPP 통합, 통신 오버헤드 감소 [(원문)](https://arxiv.org/abs/2509.21275)
+- **2025-11-22**: 무선 통신의 CSI 획득 오버헤드는 5G에서 스펙트럼의 25%. AI 재구성으로 오버헤드 감소 → 네트워크 용량 향상 [(원문)](https://arxiv.org/abs/2511.22793)
+- **2026-04-24**: 알고리즘 촉매의 속도 향상은 substrate·분류자 간 상호정보로 상한 제약 (Landauer 소거 비용 연계) [(원문)](https://arxiv.org/abs/2604.20897)
+- **2026-04-21**: TingIS: Multi-stage event linking과 cascaded routing으로 엔터프라이즈 규모의 실시간 인시던트 발견 구현, 클라우드 서비스 신뢰성 강화 (arXiv:2604.21889) [(원문)](https://arxiv.org/abs/2604.21889)
+- **2026-04-24**: Decoupled DiLoCo: 독립 학습기의 비동기 파라미터 통신으로 시스템 지연·장애 복원력 향상 [(원문)](https://arxiv.org/abs/2604.21428)
+- **2026-04-24**: 분산 AI 추론 파이프라인에서 노드 간 5ms 이상 clock skew는 성능·정확도는 정상이나 timestamp 기반 observability의 인과관계 위반 (Kafka, ZeroMQ 양쪽 재현) [(원문)](https://arxiv.org/abs/2604.21361)
+- **2026-04-22**: Go 기반 오픈소스 AI 게이트웨이 구현 공개 (HN 147) [(원문)](https://news.ycombinator.com/item?id=47849097)
+- **2026-04-20**: Amazon이 Anthropic에 총 330억달러(기존 80억+추가 250억) 투자하여 AI 인프라 협력 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209521)
+- **2026-04-21**: SK하이닉스, SOCAMM2 192GB AI 서버 메모리 모듈 본격 양산 시작 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209546)
+- **2026-04-21**: MORPH: TPU의 행렬 처리 능력을 활용하여 ZKP 커널(MSM, NTT) 최적화, Big-T complexity 모델로 layout-transformation 비용 최소화 [(원문)](https://arxiv.org/abs/2604.17808)
+- **2026-04-21**: vLLM Prefix Caching의 공유 KV-cache에서 rowhammer 공격으로 silent divergence 가능 [(원문)](https://arxiv.org/abs/2604.17249)
+- **2026-04-21**: LLM 워크로드의 collective communication을 압축-coupled로 최적화 (allreduce/alltoall 지원), vLLM PD disaggregation에서 10.1% throughput 향상, user-side 코드 변경 불필요 [(원문)](https://arxiv.org/abs/2604.17172)
+- **2026-04-21**: TensorHub: 모델 허브의 스토리지 병목 해결을 위해 tensor-level fingerprinting과 clustering 기반 세밀한 중복 제거 시스템 개발 [(원문)](https://arxiv.org/abs/2604.17104)
+- **2026-04-21**: 그래프 구조와 하드웨어 특성 기반 자동 병렬화로 sparse graph attention 3.8배 가속, 메모리 78% 감소 [(원문)](https://arxiv.org/abs/2604.16715)
+- **2025-02-01**: KAIROS: Agent context를 제1제어신호로 GPU frequency, concurrency, multi-instance placement 동시 최적화. Memory headroom 기반 dynamic power management [(원문)](https://arxiv.org/abs/2604.16682)
+- **2026-04-21**: 저탄소 에너지 활용을 극대화하기 위한 에너지 획득과 소비의 분리 (temporal buffering) [(원문)](https://arxiv.org/abs/2604.16448)
+- **2026-04-21**: Stream2LLM: vLLM 확장으로 context 스트리밍 지원, 멀티테넌트 adaptive scheduling으로 TTFT 단축 [(원문)](https://arxiv.org/abs/2604.16395)
+- **2026-04-21**: Li Auto의 M100: 자율주행/LLM/휴먼 인터랙션용 데이터플로우 병렬 아키텍처 [(원문)](https://arxiv.org/abs/2604.17862)
+- **2026-04-21**: SLO-Guard: vLLM 기반 레이턴시 SLO 제약 하 자동 튜닝. 크래시-aware 탐색, TBA + TPE 기반 구성 최적화, GPU KV-cache 메모리 가드, 4분류 크래시 분류. [(원문)](https://arxiv.org/abs/2604.17627)
 - **2026-04-21**: Nginx 로그 분석으로 ChatGPT, Claude, Perplexity, Gemini의 실제 API 호출 패턴 비교 [(원문)](https://news.ycombinator.com/item?id=47835646)
 - **2026-04-20**: 미국 데이터센터 프로젝트 약 40%가 2026년 완공 지연 위험 (MS, OpenAI 등 대형 프로젝트 최소 3개월+ 지연) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209486)
 - **2026-04-20**: 국방 기술 4축: 반도체, AI, 로봇, 신소재. 전통적 화력·플랫폼 중심에서 소프트웨어 정의 국방으로 전환 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209465)
@@ -81,7 +110,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OpenAI]] | [[Anthropic]] | [[Google]] | [[Perplexity]] | [[Model Evaluation]]
+[[AI Deployment]] | [[AI Semiconductors]]
 
 
 ## 모순/논쟁

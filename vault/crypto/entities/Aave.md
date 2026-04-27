@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,16 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: Kelp 익스플로이트 피해자 구제를 위해 Arbitrum에 30K ETH 이체 요청 [(원문)](https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-27**: Kelp DAO exploit 피해 규모 $200M 보상금 조성 주도, 80% 모금 달성 [(원문)](https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit)
+- **2026-04-25**: Kelp DAO rsETH 복구를 위해 25,000 ETH 펀드에 기여하는 DAO 투표 진행 [(원문)](https://thedefiant.io/news/defi/aave-dao-rseth-kelp-funding-proposal-pbrxrh)
+- **2026-04-24**: Kelp Exploit 대응. Aave 창립자 5000 ETH 개인 자금 제공 [(원문)](https://decrypt.co/365431/aave-leads-defi-united-push-to-contain-292m-kelpdao-fallout)
+- **2026-04-24**: DeFi United 구호기금 발표로 Kelp Exploit 피해 복구 주도 [(원문)](https://thedefiant.io/news/defi/aave-announces-defi-united-relief-fund-to-restore-rseth-backing-after-kelp-exploit)
+- **2026-04-24**: USDC 유동성 위기 해결을 위해 Circle 경제학자가 50% 금리 상한 제안 [(원문)](https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis)
+- **2026-04-24**: KelpDAO 해킹 사건 생태계 안정화를 위해 DeFi 파트너들과 협력 [(원문)](https://www.coindesk.com/business/2026/04/23/aave-rallies-defi-partners-to-contain-fallout-from-usd292-million-kelpdao-hack)
+- **2026-04-22**: WETH 마켓 동결로 Kelp 익스플로잇 악용 공격 방어 [(원문)](https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit)
+- **2026-04-21**: 코어 마켓 활용도가 동시에 100%에 도달하여 유동성 위험 신호 발생 [(원문)](https://www.coindesk.com/business/2026/04/21/aave-s-core-markets-hit-100-utilization-at-once-here-is-what-it-means-and-it-s-not-good)
+- **2026-04-21**: Kelp DAO Exploit 파급력 평가 및 DeFi 시스템 리스크 관리 시나리오 분석 수행 [(원문)](https://cointelegraph.com/news/aave-s-risk-manager-shares-2-scenarios-to-allocate-losses-from-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Kelp rsETH 해킹으로 $124M-$230M 손실 리스크 [(원문)](https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to)
 - **2026-04-20**: Kelp DAO 브릿지 익스플로잇으로 최대 $230M 손실 가능 [(원문)](https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos)
 - **2026-04-20**: 나쁜 채무 사건 발생, AAVE 토큰 10-22% 하락, DeFi 전반 감염 시작 [(원문)](https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw)
@@ -23,5 +33,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Kelp DAO]] | [[LayerZero]] | [[Bridge Security]]
+[[Kelp Exploit]]
 

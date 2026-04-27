@@ -125,13 +125,16 @@ def ingest(conn, vault_dir="vault"):
         updated_slugs = set()
         for fact in routing.get("facts", []):
             page_title = fact["page"]
+            entry_text = fact.get("entry") or fact.get("reason", "")
+            if not entry_text:
+                continue
             # Try to find this page in entities or concepts
             for ptype in ["entity", "concept", "indicator"]:
                 slug = _page_slug(page_title, ptype, domain)
                 if page_exists(conn, slug):
                     success = append_timeline_entry(
                         slug, fact.get("date", date_str),
-                        fact["entry"], url
+                        entry_text, url
                     )
                     if success:
                         increment_source_count(conn, slug)
@@ -141,7 +144,7 @@ def ingest(conn, vault_dir="vault"):
             else:
                 # Page doesn't exist yet - create as entity by default
                 slug = _ensure_page(conn, page_title, "entity", domain)
-                append_timeline_entry(slug, fact.get("date", date_str), fact["entry"], url)
+                append_timeline_entry(slug, fact.get("date", date_str), entry_text, url)
                 increment_source_count(conn, slug)
                 record_update(conn, slug, source_id, "create")
                 updated_slugs.add(slug)

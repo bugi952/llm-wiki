@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-21**: 기업 보상 구조를 Bitcoin으로 tokenize하는 새로운 mainstream adoption 경로 [(원문)](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)
+- **2026-04-21**: 공개 블록체인 기반 RWA 규모 $29B 이상, 30일간 10% 성장으로 주류 금융 도입 가속화 [(원문)](https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 일본 JSCC의 Canton 네트워크 기반 정부채 디지털 담보화 테스트 [(원문)](https://cointelegraph.com/news/jscc-to-test-use-of-japanese-bonds-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: UAE 현지 자금의 온체인 유입 프로젝트 (Tether 투자) [(원문)](https://www.coindesk.com/business/2026/04/20/tether-backs-uae-tokenization-firm-kaio-in-usd8m-funding-round-to-bring-emirati-funds-onchain)
 - **2026-03-01**: 2026년 3월 토큰 unlock 이벤트 주목 필요 [(원문)](https://news.google.com/rss/articles/CBMifkFVX3lxTFBUY0o1R0pmRVlGaWNhQUxyNkVsTWlwWkpSSW1GY0JWb194YlJpdzhJTy1xblNjWUVFbjRpX05WT19oNFdFNjN2NllqLVRGcWgtaUZWWk5lOS16eTRVdmppd29sMV9SQ0pkaEM5S1R1MjZYVGxydXI3UUUxejVlQQ?oc=5)
@@ -19,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mizuho]] | [[Nomura]] | [[Tokenized Assets]] | [[Government Digital Asset Policy]] | [[Traditional Finance Integration]]
+[[Bitcoin]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

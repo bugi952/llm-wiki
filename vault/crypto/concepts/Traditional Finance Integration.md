@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,23 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-05**: Western Union: 송금 특화 금융기관 → 스테이블코인 발행사로 전환 [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
+- **2026-05-01**: Western Union (연 송금 1B건 규모)이 Solana에 스테이블코인 발행 [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
+- **2026-04-21**: 아시아 주요 은행의 블록체인 기반 국제송금 실도입 사례 [(원문)](https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple)
+- **2026-04-25**: 스페이스X 750억 달러 IPO가 암호화폐 시장 유동성 흡수 가능성 - 자금 이탈 위험 [(원문)](https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto)
+- **2026-04-25**: 전통금융과 DeFi의 공식 접점 확대: 모건스탠리의 stablecoin MMF 정규상품화 [(원문)](https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers)
+- **2026-04-25**: AWS를 통해 엔터프라이즈 기업이 기존 클라우드 도구로 블록체인 네트워크에 접근 가능 [(원문)](https://decrypt.co/365476/amazon-web-services-marketplace-chainlink-crypto-oracle-services)
+- **2026-04-24**: Grayscale의 HYPE ETF는 기관 자산 운용사의 DeFi 자산 통합 신호 [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjR2WWM1Q01tQm1Xc0xoREdVdnhvUVdBQ0xJTFVWbHJBMnQ0ZUpZbmVzeEhnRnFqVTRMN3VkeHZHZmo2blNqeGhzcEY3dDlZU0Z6aVpWd0RpWUljeF9TclgteG1kMi16RUFkY2RtTDRWX0tJbnZJMlBpZ0pGWVcyR0FVMEpkODZpc0VuQ19BX1UwbFVEV0pj?oc=5)
+- **2026-04-24**: 월스트리트 투자은행의 규제 준수 기반 스테이블코인 인프라 제공 [(원문)](https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 대형 투행(Morgan Stanley)이 DeFi 핵심 인프라(준비금 관리)의 주도권 장악 [(원문)](https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry)
+- **2026-04-22**: 전통 기업(DoorDash)이 스테이블코인을 결제 수단으로 공식 채택 [(원문)](https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra)
+- **2026-04-22**: B2B 결제 회사가 스테이블코인을 국제 결제 네트워크에 통합, Fiat 결제와 병행 옵션 제공 [(원문)](https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-22**: 보안 리스크로 인한 전통금융의 DeFi 신중 접근 심화 [(원문)](https://www.coindesk.com/business/2026/04/21/crypto-s-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-jefferies-warns)
+- **2026-04-21**: BitMEX-Zodia Custody 파트너십으로 오프체인 담보 기반 기관 파생상품 거래 개시 [(원문)](https://cointelegraph.com/news/bitmex-zodia-custody-tighten-post-ftx-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 유럽 금융기관 간 암호화폐 서비스 경쟁 심화로 고객 이탈 압력 가중 [(원문)](https://cointelegraph.com/news/one-third-european-investors-switch-banks-crypto-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 유럽 은행들이 암호화폐 도구 미도입 시 고객 이탈 위험 [(원문)](https://www.coindesk.com/business/2026/04/21/european-banks-are-at-risk-of-losing-customers-to-rivals-with-better-crypto-tools)
+- **2026-04-21**: Onramp, 암호화폐·현금·금속을 단일 계정으로 관리하는 통합 플랫폼 출시 [(원문)](https://bitcoinmagazine.com/news/onramp-launches-finance-platform-bitcoin)
+- **2026-04-21**: 유럽 주요 은행들의 규제된 스테이블코인 구현으로 TradFi-Crypto 통합 가속 [(원문)](https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: Mastercard, 스테이블코인 기반 카드 결제 결산 시스템 개발 중 [(원문)](https://cointelegraph.com/news/mastercard-stablecoin-settlement-sofiusd-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 암호화폐 거래소와 전통금융의 협력 심화 (주식 토큰화) [(원문)](https://www.coindesk.com/business/2026/04/20/coinbase-bybit-said-to-be-working-together-on-tokenization-custody-and-distribution-of-u-s-stocks)
 - **2026-04-20**: 중동 지역 금융기관의 토큰화 기반 구축 (Tether-KAIO) [(원문)](https://www.coindesk.com/business/2026/04/20/tether-backs-uae-tokenization-firm-kaio-in-usd8m-funding-round-to-bring-emirati-funds-onchain)
@@ -29,7 +46,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mastercard]] | [[Stablecoin]]
+[[Stablecoin]] | [[CBDC]]
 
 
 ## 모순/논쟁

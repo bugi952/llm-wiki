@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,19 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-26**: Trump, Mike Tyson, Tether CEO와의 프라이빗 이벤트에서 암호화폐 입법 옹호 [(원문)](https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo)
+- **2026-04-25**: 스테이블코인 발행자의 정부 요청 동결 권한 행사 (테더 사례) [(원문)](https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: Trump 정부, Federal Reserve 임명 장애 제거 - 암호화폐 친화 정책 신호 (2026-04-25) [(원문)](https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve)
+- **2026-04-25**: 스테이블코인이 정부 제재의 실행 도구로 기능 (2026-04-25) [(원문)](https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime)
+- **2026-04-24**: 일본 거래소(JPX), 암호자산 TOPIX 배제 제안 - 업계에서 7가지 이의 제기 [(원문)](https://bitcoinmagazine.com/news/jpx-crypto-exclusion-topix)
+- **2026-04-21**: Kevin Warsh Fed 의장 후보, $100M+ 자산 공개 및 이해충돌 우려 청문회 지적 [(원문)](https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 영국, 디지털 시장 전략 강화를 위해 前 FCA 관료 Chris Woolard 영입 [(원문)](https://cointelegraph.com/news/uk-plans-payments-rule-changes-for-stablecoins-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: EU 39개 기업 연합, DLT 규칙 신속화 촉구 및 미국 대비 경쟁력 강화 [(원문)](https://cointelegraph.com/news/eu-finance-firms-dlt-rules-fast-track-us-tokenization-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 한국, 중앙은행 디지털 화폐와 은행토큰 우선 정책으로 스테이블코인과 차별화 [(원문)](https://www.coindesk.com/policy/2026/04/21/bank-of-korea-s-new-governor-signals-cbdc-and-bank-token-push-skips-stablecoins-in-key-address)
+- **2026-04-21**: 일본 기관투자자의 대규모 암호화폐 수용 의향 증가 [(원문)](https://www.coindesk.com/markets/2026/04/21/almost-80-of-japanese-institutional-investors-are-eyeing-crypto-for-their-portfolios-by-2029)
+- **2026-04-21**: 유럽 금융권 주도 블록체인 파일럿 촉진 운동 강화 [(원문)](https://www.coindesk.com/policy/2026/04/21/cut-the-red-tape-39-financial-giants-demand-an-emergency-fast-track-for-europe-s-blockchain-pilot)
+- **2026-04-21**: 미군 태평양사령관의 의회 증언으로 비트코인이 국방 전략의 핵심 도구로 공식 인정 [(원문)](https://bitcoinmagazine.com/news/pacific-commander-calls-bitcoin-valuable)
+- **2026-04-21**: 한국 정부, 스테이블코인 제외하고 CBDC·deposit tokens에 선택적 지원 [(원문)](https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 말레이시아 디지털 자산/토큰화 규제 프레임워크 확대 [(원문)](https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 미국 정부 리더십의 발언이 암호화폐 시장의 주요 드라이버 역할 [(원문)](https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week)
 - **2026-04-21**: Jason Lowery가 US Indo-Pacific Command 특별보좌관으로 임명 — 비트코인 전략 자문 역할 시작 [(원문)](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)
@@ -26,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bybit]] | [[Traditional Finance Integration]]
+[[Tether]] | [[Crypto Regulation]]
 
 
 ## 모순/논쟁

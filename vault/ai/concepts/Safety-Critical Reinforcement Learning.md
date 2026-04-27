@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,15 @@ source_count: 0
 
 
 ## 주요 발전
+- **2024-08-16**: Worst-case 환경에서 제약 만족하는 정책 식별 알고리즘 첫 증명 [(원문)](https://arxiv.org/abs/2408.16286)
+- **2026-04-24**: 확률적 disturbance 환경에서 neural network 제어의 안전 확률 범위를 guaranteed range로 계산 [(원문)](https://arxiv.org/abs/2604.21556)
+- **2026-04-24**: Dynamical Prior RL: evidence accumulation, hysteresis 구현으로 abrupt shift, oscillation 제거 및 temporal coherence 달성 [(원문)](https://arxiv.org/abs/2604.21464)
+- **2026-04-24**: POMDP 정책 관측 견고성: 센서 드리프트/캘리브레이션 오류 시 성능 하한 보장을 위한 쌍 최적화 문제 [(원문)](https://arxiv.org/abs/2604.21256)
+- **2026-04-22**: Streaming 환경에서 step size를 intended outcome에서 역산하여 학습 안정성 강화 [(원문)](https://arxiv.org/abs/2604.19033)
+- **2026-04-22**: Fixed trajectory length 가정 제거, flexible trajectory length 지원하는 decoupled constraint 접근 [(원문)](https://arxiv.org/abs/2604.19024)
+- **2025-06-15**: DR-SAC로 오프라인 RL에서 환경 불확실성에 대한 robust 정책 학습 (arXiv:2506.12622) [(원문)](https://arxiv.org/abs/2506.12622)
+- **2026-04-21**: 적응형 conformal inference로 학습 기반 필터의 신뢰성과 확장성 개선 [(원문)](https://arxiv.org/abs/2604.18482)
+- **2026-04-21**: Heterogeneous agent self-play로 희귀한 안전 위험 시나리오 생성 및 다중 에이전트 상호작용 현실성 확보 [(원문)](https://arxiv.org/abs/2604.16406)
 - **2026-03-01**: 배포 중 에이전트의 구조적 성능 저하를 상호정보(mutual information)로 모니터링하는 방법 [(원문)](https://arxiv.org/abs/2603.01283)
 - **2026-04-20**: DDPG + 실시간 적응형 안전 필터로 건물 난방 제어 시 그리드 수요 요청 준수 보증 [(원문)](https://arxiv.org/abs/2604.16033)
 - **2026-04-20**: 에이전트 간 stochastic noise가 협력 임계값을 초과할 위험 [(원문)](https://arxiv.org/abs/2604.15695)
@@ -26,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Reinforcement Learning from Verifiable Rewards]] | [[Agent Safety Evaluation]] | [[Information Theory]]
+[[Inverse Reinforcement Learning]] | [[Multi-objective Reinforcement Learning]]
 
 
 ## 모순/논쟁

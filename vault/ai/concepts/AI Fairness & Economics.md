@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,35 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 공급망 의존성으로 인한 편향이 개별 요소 아닌 상호작용에서 발생하며, 소유권 분산으로 책임 추적 불가능 [(원문)](https://arxiv.org/abs/2604.22679)
+- **2026-04-22**: AI 조언 시스템의 문화적 공정성 편향이 개인 의사결정에 큰 영향 [(원문)](https://arxiv.org/abs/2604.22153)
+- **2025-03-07**: TAI (Transformative AI) 시나리오별 aggregate welfare 평가 프레임: cornucopia vs extinction [(원문)](https://arxiv.org/abs/2503.07341)
+- **2025-10-15**: 동적 프루닝으로 훈련 재투자 없이 배포 후 공정성 조정 가능한 새 방향 제시 [(원문)](https://arxiv.org/abs/2510.18914)
+- **2026-04-24**: Equity Bias 프레임워크: bias를 투명성·이의가능성 문제로 재해석. 3단계 생명주기 (Equity Archaeology→Co-Creating Meaning→Ongoing Accountability) [(원문)](https://arxiv.org/abs/2604.21907)
+- **2026-04-24**: AAVE/Singlish 같은 방언 신호가 명시적 신원 표시보다 LLM 안전 필터에 더 큰 영향 미침 [(원문)](https://arxiv.org/abs/2604.21152)
+- **2026-04-24**: 순차 의사결정에서 모델/피드백/예측 불확실성이 소수집단에 축적되는 메커니즘 (신용거절, 선택적 피드백, 유한표본) [(원문)](https://arxiv.org/abs/2604.21711)
+- **2026-04-24**: FairQE: 성별 모호·명시 맥락 모두에서 번역 품질 평가 편향 완화하는 다중에이전트 프레임워크 [(원문)](https://arxiv.org/abs/2604.21420)
+- **2026-04-24**: LLM의 경제 인과 추론에서 이데올로기 편향 발견: 정부 지향 vs 시장 지향 관점 대립 사례가 일관되게 어려움 (EconCausal 벤치마크) [(원문)](https://arxiv.org/abs/2604.21334)
+- **2026-04-21**: 43,000 발화 대상 5개 인구통계 축 평가로 음성 인식 시스템의 공정성 격차 규명 [(원문)](https://arxiv.org/abs/2604.21276)
+- **2026-04-24**: ASR 시스템의 방언별 편향은 기술적 오류뿐 아니라 사용자의 심리적 좌절감과 신뢰 상실 유발 [(원문)](https://arxiv.org/abs/2604.21148)
+- **2026-04-21**: Stable Diffusion, DALL-E: 의사(doctor)는 밝은 피부, 청소원(janitor)은 다양한 인종으로 렌더링되는 직업-인종 스테레오타입 실증 [(원문)](https://arxiv.org/abs/2604.21036)
+- **2026-04-22**: Counterfactual fairness 평가: speaker/audience 정체성 교환 시 모델 응답의 비대칭성 측정. malicious 판정도 64.7% 차이 [(원문)](https://arxiv.org/abs/2604.18729)
+- **2026-04-18**: 범죄 위험만 기반 순찰의 순환 편향 제거를 위한 공정성 제약 및 폐루프 피드백 시뮬레이션 (arXiv 2604.18644, FASE) [(원문)](https://arxiv.org/abs/2604.18644)
+- **2026-04-21**: LLM 기반 Nash bargaining을 활용한 자동화된 공정 협상 도구 등장 (Mediator.ai) [(원문)](https://news.ycombinator.com/item?id=47835411)
+- **2026-04-21**: 의료 LLM의 인종별 역학 분포 편향 완화; EU AI Act 거버넌스 프레임워크 적용 [(원문)](https://arxiv.org/abs/2604.18038)
+- **2026-04-21**: 고위험 커뮤니티의 AI 신뢰도는 투명성·지역 맥락·상호 학습에 의존 [(원문)](https://arxiv.org/abs/2604.17755)
+- **2026-04-21**: 오디오-언어 모델에서 성별 큐가 악센트보다 큰 distributional shift 유발 [(원문)](https://arxiv.org/abs/2604.17248)
+- **2026-04-21**: FairNVT: pretrained transformer에 lightweight adapter + calibrated Gaussian noise로 sensitive embedding 억제, representation/prediction-level fairness 동시 개선 [(원문)](https://arxiv.org/abs/2604.16780)
+- **2025-02-01**: Fairness constraint를 sensitive attributes 접근 없이 auxiliary features로부터 infer하여 bias 완화 가능. Privacy/legal 제약 환경에서 equitable decision-making 구현 [(원문)](https://arxiv.org/abs/2604.16610)
+- **2026-04-21**: T2I fairness에서 규범적 이상(target fairness)과 실행 기준(threshold fairness) 간 운영 gap 지적 [(원문)](https://arxiv.org/abs/2604.16516)
+- **2026-04-21**: 교차적 인구통계 그룹에 대한 공정성 감시 (FairLogue 도구), 단일축 분석 대비 더 큰 격차 발견 [(원문)](https://arxiv.org/abs/2604.16450)
+- **2026-04-21**: 채용 스크리닝 등 고위험 의사결정에서 다중 AI 패널 사용 시 편향 완화 및 정밀도 개선 가능 — 패널 규모와 다양성에 따른 정량적 설계 기초 [(원문)](https://arxiv.org/abs/2604.16432)
+- **2026-04-21**: 공정성 메커니즘의 과도한 다양성 증대가 사용자 참여도 저하 초래 가능 — 사용자별 탐색 포화도 현상 확인 [(원문)](https://arxiv.org/abs/2604.16419)
+- **2026-04-21**: Socio-Contrastive Learning: 사회인구학적 속성과 어노테이션 관점 동시 모델링. 다층 인구통계 특성이 인간 관점 설명력 향상 [(원문)](https://arxiv.org/abs/2604.18069)
+- **2026-04-21**: 의료 LLM의 공정성 위기: 동성애 마커는 성능 저하, 교차 정체성은 예측 불가능한 복합 피해 초래 [(원문)](https://arxiv.org/abs/2604.17316)
+- **2026-04-21**: identity-blindness: 안전 조정이 인구통계 차이 인식 능력 약화 [(원문)](https://arxiv.org/abs/2604.16845)
+- **2026-04-21**: 자동화 콘텐츠 모더레이션 시스템이 회수된 차별용어(reclaimed slurs)를 혐오표현으로 오분류 → 소수커뮤니티 정당한 음성 억압 [(원문)](https://arxiv.org/abs/2604.16654)
+- **2026-04-21**: Healthcare에서 AI의 공정성 문제는 거래비용(정보 검색, 의사결정, 모니터링) 강도와 연동. 직종별 거래비용 프로필 파악이 정책 설계의 기반 [(원문)](https://arxiv.org/abs/2604.16465)
 - **2026-04-20**: ACM FAccT의 참여식 설계 기반 거버넌스: 학술-정부-시민사회 협력을 통한 AI 공정성 검토 체계 [(원문)](https://arxiv.org/abs/2604.16224)
 - **2026-04-20**: LLM 기반 추천의 편향은 일부는 견고하고 일부는 프롬프트에 민감. Toxicity 처리에서는 engaging/controversial 전략 간 역전 현상 (arXiv:2604.15937) [(원문)](https://arxiv.org/abs/2604.15937)
 - **2026-04-20**: 인간 노력 단서(process cues)가 불완벽함보다 신뢰 형성에 강력히 작용. 프로세스 투명성이 AI-인간 간 authenticity gap 부분 해소 가능 [(원문)](https://arxiv.org/abs/2604.15324)
@@ -35,7 +64,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Regulation]]
+[[AI Regulation]] | [[Explainable AI]]
 
 
 ## 모순/논쟁

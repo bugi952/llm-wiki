@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,32 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-01-12**: System modality에서 image/text로 attention 재분배하여 VLM yes-bias 완화 (기존 image-centric 접근 초과) [(원문)](https://arxiv.org/abs/2601.12430)
+- **2026-04-22**: Context-Fidelity Boosting: 로짓 수준 적응형 가중치로 맥락 지원 토큰의 생성 확률 증가 [(원문)](https://arxiv.org/abs/2604.22335)
+- **2026-04-25**: LVLM hallucination의 주요 원인은 vision backbone 제약이 아니라 textual instruction prior의 과도한 영향; preference optimization (HalluVL-DPO)로 시각 기반성 향상 [(원문)](https://arxiv.org/abs/2604.21911v1)
+- **2026-04-24**: Counterfactual Segmentation Reasoning으로 세그멘테이션 VLM의 공간적 환각 심각도 측정. HalluSegBench 벤치마크 첫 제시 (arXiv:2506.21546) [(원문)](https://arxiv.org/abs/2506.21546)
+- **2025-09-25**: 과학 confabulation 오류의 61%가 의미론적 무관한 분석기(salient distractor), 모든 스케일에서 근본적 결함 [(원문)](https://arxiv.org/abs/2509.25868)
+- **2026-04-24**: HalluScope 벤치마크: LVLM hallucination의 주요 원인은 텍스트 지시문의 과도한 언어 선행 지식 [(원문)](https://arxiv.org/abs/2604.21911)
+- **2026-04-24**: 카메라 ISP의 capture-time hallucination은 저조도 향상이나 AI 줌에서 의미론적 변화 유발 [(원문)](https://arxiv.org/abs/2604.21879)
+- **2026-04-24**: SRICL: 의미 검색(SR) + 문맥 학습(ICL) + 미세조정(SFT) + 결정적 검증기로 구조화 출력 강제 (BIO 유효성, 경계 드리프트 해결) [(원문)](https://arxiv.org/abs/2604.21525)
+- **2026-04-24**: DAVinCI: Claim을 내부/외부 소스에 귀속 → entailment+confidence calibration으로 검증. FEVER/CLIMATE-FEVER에서 baseline 대비 정확도 향상 (arXiv:2604.21193) [(원문)](https://arxiv.org/abs/2604.21193)
+- **2025-12**: Faithfulness hallucination 검출에 설명 생성을 함께 제공하는 FaithLens 모델 (8B 파라미터) [(원문)](https://arxiv.org/abs/2512.20182)
+- **2026-04-21**: Knowledge-driven hallucination: 모델의 사전학습 지식이 명시적 source evidence를 override하는 현상 (BPM 도메인에서 실증) [(원문)](https://arxiv.org/abs/2509.15336)
+- **2025-05**: fs1 방법은 3.9K 팩트 기반 추론 추적으로 8개 instruction-tuned LLM을 미세조정하여 pass@16에서 6-14 포인트 개선하며, 특히 3홉 이상 KG 경로 질문과 숫자 답변 유형에서 효과적 [(원문)](https://arxiv.org/abs/2505.11140)
+- **2024-12-02**: 불확실성 인식 인과 언어 모델링 손실함수로 모델이 신뢰할 수 있는 불확실성 추정 능력 확보 [(원문)](https://arxiv.org/abs/2412.02904)
+- **2026-04-21**: 단계별 자기 보상 신호를 통한 추론 시점 동적 환각 완화 기법 (PSRD) [(원문)](https://arxiv.org/abs/2604.17982)
+- **2026-04-21**: World Bank 큐레이션 데이터셋으로 hallucination 근본 감소 + 2,200명 평가에서 주당 2.4-3.9시간 업무 시간 절감 [(원문)](https://arxiv.org/abs/2604.17843)
+- **2026-04-21**: 다중 프롬프트 투표(majority voting)로 LLM 인용 재현성 및 분산 크게 개선, 검증 없는 인용은 팩트 회상보다 학습 패턴 재구성 [(원문)](https://arxiv.org/abs/2604.16407)
+- **2026-04-21**: 생성 전 증거 수준의 갈등 해결로 신뢰 불가 주장 사전 억제 [(원문)](https://arxiv.org/abs/2604.18362)
+- **2026-04-21**: DoRA SFT 모델이 Llama3.1-8B 대비 QA 성공률 26% 개선, hallucination 47% 감소 [(원문)](https://arxiv.org/abs/2604.17943)
+- **2026-04-20**: SPREG: 실시간 엔트로피 쌍중 임계값으로 논리적 할루시네이션 감지. 엔트로피 스파이크를 오류 신호로 활용하여 동적 가이던스 트리거 [(원문)](https://arxiv.org/abs/2604.17884)
+- **2026-04-21**: 잠재 공간 기반 RAG로 텍스트 쿼리 단계 제거, 검증된 증거 기반 생성 강화 [(원문)](https://arxiv.org/abs/2604.17866)
+- **2026-04-21**: 문체 재작성(style-controlled rewriting)을 통해 LLM이 factual evidence를 더 잘 활용하도록 유도 [(원문)](https://arxiv.org/abs/2604.17325)
+- **2026-04-21**: GUI 에이전트의 hallucination은 cascading failures 유발; 3단계 캘리브레이션 평가 워크플로우로 VLM-as-a-judge 신뢰도 향상 [(원문)](https://arxiv.org/abs/2604.17284)
+- **2026-04-21**: MeasHalu: 과학 문헌의 측정값 추출 시 hallucination을 quantities, units, modifiers, relations의 세분화된 분류로 정리. Process-based supervision과 progressive reward curriculum으로 특정 hallucination 타입 페널티 [(원문)](https://arxiv.org/abs/2604.16929)
+- **2026-04-21**: PRISM 프레임: memory/instruction/reasoning/knowledge 4개 차원의 hallucination 원인 진단 (9,448 instances, 24 LLMs) [(원문)](https://arxiv.org/abs/2604.16909)
+- **2026-04-21**: 검색 컨텍스트가 이미 정답인 출력까지 덮어쓰는 중립 회귀 현상 형식화 및 대응 [(원문)](https://arxiv.org/abs/2604.16686)
+- **2026-04-21**: SAE 기반 위상 전이 모델로 잠재 동역학(latent dynamics)의 임계점 탐지 → 인수분해 가능한 오류 귀인 가능 [(원문)](https://arxiv.org/abs/2604.16430)
 - **2026-01-27**: VIB 이론으로 VLM의 attention head 출력에서 환각 신호 추출 가능; 의미론적 노이즈 필터링으로 내부 메커니즘 기반 탐지/완화 [(원문)](https://arxiv.org/abs/2601.05547)
 - **2026-01-26**: VLM의 prompt-induced hallucination은 특정 attention head의 prompt copying으로 발생; 해당 head ablation으로 최소 40% 감소 가능 [(원문)](https://arxiv.org/abs/2601.05201)
 - **2025-02-20**: TPA로 다음 토큰 확률을 Query/Context/FFN/LayerNorm 등 7개 출처로 분해, 품사별 hallucination 기여도 정량화 (arXiv:2512.07515) [(원문)](https://arxiv.org/abs/2512.07515)
@@ -48,7 +74,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Vision-Language Models]] | [[Information Theory]]
+[[Vision-Language Models]] | [[Modality Dominance in Vision-Language Models]]
 
 
 ## 모순/논쟁

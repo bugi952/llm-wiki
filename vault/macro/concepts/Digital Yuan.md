@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: macro
-last_updated: 2026-04-17
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,12 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-26**: PBOC, 가상자산의 법적 지위 부재 공식 경고 - 디지털 통화와 명확히 구분 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxONDZrSnVnWi1GRjRZOHB3cWxkVUlneGR3ZnRpOHo3WWlGal80SkVmZWFGSzJBNHRiWGpjc2hoWFZlV0tUTkFINzdYb2d5SUQzWUF1NlVheVFuakdDcnBCYWljNHRpNFJXcUdTcmc5WEJLZ0NqU3c1eG9mTl9GUTBTRW9XcmZuMHRJYVA3SENMekF0ZlJocWxlWjdSQ0s1WVJETENNUGhuRDY3ZXdnUWdXeTZoS3A?oc=5)
 - **2026-04-17**: CoinDesk 보도: 새 체계 하 e-CNY 보유자의 이자 획득 가능성 강조 [(원문)](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnd2UzUyTGdSS2hKcm1GbnVwMm4yWW84V1QwNTduX2NTRDU2R04zYVJ1RmF3bFV1SGdsSnp0Z3o2Sy0yc1A1YmJBZ1g0czk0T05hMHpSNldtbUdJaUlyaWEydnMxbk82M2tkYVpLYklRVUhoZFhMaEJmM0RDV0VvODVyekNBRGJxcENqR204Y3dxMXgzaE0wRlptUU15NFhWS3JGRXJCZWhrb1dLWW5WV3Qzc0s1LUU?oc=5)
 - **2026-04-17**: 이자 지급 체계 도입으로 금융상품 성격 강화, 기술 시범 → 상용화 진전 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxObVJmOHZkQlpUZ1Z3RXpwcE5SekJWLW5VRGRpSy1JOUZtazNRaVFSbXU4VnAyTzgxb3p2ZldSd3BzYjdrMkU5dnFvS3RIR21aaXRRc2JzXzhEeEk1ZUY3a19LYkhuR2tKdkVmanR2VE95WUJVVjV3Wm9ZYS04bE1aQjBmMVZZOUNXUm5Cd3JSUkdsXzMteU9tMUtNdmk4bUtHeDNJeFhaeWxoLU1BSkxUTDVn?oc=5)
 
 
 ## 핵심 주체
-[[PBOC]] | [[Monetary Policy]]
+[[PBOC]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,52 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-08-06**: 검색과 추론의 불균형을 개선하는 난이도 인식 커리큘럼 전략 [(원문)](https://arxiv.org/abs/2508.06165)
+- **2026-04-21**: DROL: 잠재 조건부 1-step 액터에 top-1 동적 라우팅 적용 → BC와 크리틱 가이던스 양립 [(원문)](https://arxiv.org/abs/2604.22229)
+- **2026-04-26**: RIC: 분류 태스크에서 stepwise prediction quality 개선에 RL 적용, value function으로 anytime halting 구현 [(원문)](https://arxiv.org/abs/2604.22110)
+- **2026-04-27**: RLVR 훈련 전 소량의 SFT를 거치면 추론 체인의 CIR/SR 개선 가능 (Qwen2.5 실험) [(원문)](https://arxiv.org/abs/2604.22074)
+- **2026-04-25**: TD error 초기 단계→신뢰도 성숙 후 안정성 기반 샘플링으로 전환, hardware noise trajectory 재활용 [(원문)](https://arxiv.org/abs/2604.21863v1)
+- **2026-04-24**: DynaMO: sequence 수준 variance-minimizing rollout allocation과 token 수준 gradient-aware advantage modulation으로 resource 최적화 [(원문)](https://arxiv.org/abs/2602.19208)
+- **2026-04-24**: GeoRA는 RL update subspace의 anisotropic, compressible 구조를 활용한 geometry-aware adaptation [(원문)](https://arxiv.org/abs/2601.09361)
+- **2026-04-24**: RIFT는 모든 positive/negative trajectories에서 학습하는 데이터 효율적 RLVR 기법 [(원문)](https://arxiv.org/abs/2601.09253)
+- **2025-11-25**: LLM RL 포스트트레이닝의 off-policy 훈련: importance clipping(PPO-Clip)만으로는 전역 분포 변화 미흡. ERC는 엔트로피 비율로 보정 [(원문)](https://arxiv.org/abs/2512.05591)
+- **2025-10-15**: 다턴 대화의 Lost-in-Conversation 문제를 RLAAR(커리큘럼 RL + 추상화 보상)로 해결, 신뢰도 향상 [(원문)](https://arxiv.org/abs/2510.18731)
+- **2025-10-01**: 역강화학습(AIRL)으로 전문가 시연에서 추론 리워드 모델 학습, SFT와 결과 기반 RL의 중간 접근 [(원문)](https://arxiv.org/abs/2510.01857)
+- **2025-09**: CE-GPPO: PPO 클리핑 구간 밖 저확률 토큰의 경사 신호를 제한된 범위 내에서 복원해 엔트로피 조율 [(원문)](https://arxiv.org/abs/2509.20712)
+- **2026-04-24**: RAW-UCB로 reward decay 문제의 rested/restless 구분 통합 처리 (recommender, tutoring systems) [(원문)](https://arxiv.org/abs/2604.21432)
+- **2026-04-21**: DDRL의 consensus-based off-policy 검증으로 reward noise 감소, 수학 추론 성능 향상 [(원문)](https://arxiv.org/abs/2604.21327)
+- **2026-04-22**: Tabular 도메인에서 검증 가능한 reward signal (coverage, distinctness) 설계 및 적용 [(원문)](https://arxiv.org/abs/2604.18966)
+- **2026-04-22**: Groupwise Ranking Reward로 검증된 궤적 내에서 더 강한 추론을 우선시하여 answer-correctness와 reasoning-validity 동시 최적화 [(원문)](https://arxiv.org/abs/2604.18892)
+- **2025-12**: Argos: 다중 교사 모델 및 규칙 기반 점수 함수 풀에서 동적 선택하여 최종 정확도+공간시간 지역화 종합 평가 [(원문)](https://arxiv.org/abs/2512.03438)
+- **2026-04-21**: Turn-level 보상으로 다중 턴 도구 사용 추론 학습 신호 개선 (GTPO) [(원문)](https://arxiv.org/abs/2511.14846)
+- **2026-04-21**: 엔트로피 붕괴 원인 분석: 클리핑 임계값, 정책 외 업데이트 수, 학습 데이터 다양성 3가지 핵심 요인 [(원문)](https://arxiv.org/abs/2511.05993)
+- **2025-10-14**: 루브릭 기반+결과 리워드 결합으로 추론 신뢰성 향상 (6개 멀티모달 벤치마크) [(원문)](https://arxiv.org/abs/2510.14738)
+- **2026-04-21**: 비동기 평균화 Q-learning의 비점근 중심극한정리 증명 (Wasserstein 수렴) [(원문)](https://arxiv.org/abs/2509.18964)
+- **2026-04-21**: Self-evolving CoT curriculum (EvoCoT)으로 sparse reward 조건에서도 hard problem 탐색 병목 해결, 다양 LLM family에서 reasoning 능력 향상 [(원문)](https://arxiv.org/abs/2508.07809)
+- **2026-04-21**: 기하학 문제에서 검증된 보상으로 소규모 모델 학습 (arXiv:2506.07160) [(원문)](https://arxiv.org/abs/2506.07160)
+- **2026-04-21**: Ground-truth 없는 long-form writing 최적화에 pairwise comparison 기반 보상 메커니즘 적용 (2026-04-21) [(원문)](https://arxiv.org/abs/2506.05760)
+- **2024-11-04**: Plasticity loss는 RL 성능 plateau와 scaling failure의 주요 원인. 50+ 완화 전략 정리됨 [(원문)](https://arxiv.org/abs/2411.04832)
+- **2026-04-21**: 심층 양자 프로세스 회귀 기반 OPE(DQPOPE)로 정책 평가 분포 추정, 통계적 신뢰도 향상 [(원문)](https://arxiv.org/abs/2604.18143)
+- **2026-04-21**: Q-값 반복에서 정책이 실질적으로 최적인 해의 집합(POS) 정의 및 스위칭 시스템으로 기하학적 분석 [(원문)](https://arxiv.org/abs/2604.17457)
+- **2026-04-21**: EasyVideoR1: RLVR을 비디오 이해에 확장한 최초의 완전한 프로덕션 프레임워크 공개 [(원문)](https://arxiv.org/abs/2604.16893)
+- **2026-04-21**: BRRL(Bounded Ratio RL)로 신뢰 영역 방법의 이론적 기초 재정의 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.18578)
+- **2026-04-21**: Weak supervision (희소 데이터/노이즈/자체 감독)에서 일반화는 training reward saturation 동역학이 지배 [(원문)](https://arxiv.org/abs/2604.18574)
+- **2026-04-21**: 다중 교사 협업 훈련과 엔트로피 기반 탐색 보상으로 LLM 추론 능력 향상 [(원문)](https://arxiv.org/abs/2604.18530)
+- **2026-04-21**: 포화 벤치마크 환경에서 CUTS(Constrained Uniform Top-K Sampling)로 고신뢰도 후보 영역 내 균일 샘플링 강제, Mixed-CUTS로 exploit/explore 롤아웃 합성하여 그룹 내 우위 분산 증폭 [(원문)](https://arxiv.org/abs/2604.18493)
+- **2026-04-21**: 저 데이터 환경에서 procedural dataset으로 SLM RLVR 성능의 세밀한 스케일링 가능 (arXiv 2604.18381) [(원문)](https://arxiv.org/abs/2604.18381)
+- **2026-04-21**: 검증 기반 보상 모델(VRM)과 적응형 보상 융합(ARF)으로 양자 역학 등 과학 도메인의 LLM 신뢰성 강화 [(원문)](https://arxiv.org/abs/2604.18176)
+- **2026-04-21**: 불연속 동역학에서 梯度 편향 문제를 DDCG 방법으로 해결 [(원문)](https://arxiv.org/abs/2604.18161)
+- **2026-04-21**: Entropy collapse는 저자원 환경의 RLVR 성능을 제약하며, 고일반도메인 데이터와 EDA 메커니즘으로 해결 가능 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17928)
+- **2026-04-21**: 다중 시도 CoT에서 단순한 성공/실패 가중치는 편향된 그래디언트를 야기하며, 보정된 시도 레벨 가중치(CAL GRPO)로 불편향 추정 달성 [(원문)](https://arxiv.org/abs/2604.17912)
+- **2026-04-20**: 연속 잠재 표현에 직접 RL 적용으로 이산 공간 정책 최적화 대비 탐색 다양성 개선. 확률적 샘플링이 명시적 탐색 메커니즘 대체 [(원문)](https://arxiv.org/abs/2604.17892)
+- **2026-04-21**: SVL: 목표까지의 시간을 확률분포로 모델링, hazard model 기반 최대우도 추정으로 안정성 향상 [(원문)](https://arxiv.org/abs/2604.17551)
+- **2026-04-21**: 데이터 희소성 조건에서 LLM RL의 3가지 관점(데이터중심, 훈련중심, 프레임워크중심) 분류 및 방법론 체계화 [(원문)](https://arxiv.org/abs/2604.17312)
+- **2026-04-21**: Verifiable reward를 활용한 abstention과 post-refusal clarification의 동시 최적화 구현 [(원문)](https://arxiv.org/abs/2604.17073)
+- **2026-04-16**: On-policy rollout을 IRL demonstration으로 활용하여 reward trajectory 다양성 회복 [(원문)](https://arxiv.org/abs/2604.16995)
+- **2026-04-21**: MCPO: Mastery 프롬프트에 hinge-KL regularizer 적용으로 정책 드리프트 방지, 부분 정답→완전 정답 수렴 강화 [(원문)](https://arxiv.org/abs/2604.16972)
+- **2026-04-21**: LLM RL의 Priority staleness 문제: 빠른 정책 진화로 저장된 우선순위가 낡음. Freshness-Aware PER로 개선 [(원문)](https://arxiv.org/abs/2604.16918)
+- **2026-04-21**: Cross-cultural entity translation에서 entity-level verifiable reward 활용 (EA-RLVR 프레임워크) [(원문)](https://arxiv.org/abs/2604.16881)
+- **2026-04-21**: DARLING: 비정상 MDP 변화점 감지로 동적 회귀 경계 첫 달성 (타뷸러·선형 통합) [(원문)](https://arxiv.org/abs/2604.16684)
 - **2026-04-20**: 과정 감독 기반 reward model로 trajectory-level 페널티의 과도한 단축 문제 개선, 미세한 신용 할당 [(원문)](https://arxiv.org/abs/2602.09953)
 - **2026-04-20**: Adaptive Entropy Regularization (AER): 고정 엔트로피 계수 대신 작업 난이도별 탐색강도 동적 조정으로 RLVR 성능 개선 [(원문)](https://arxiv.org/abs/2510.10959)
 - **2025-09-05**: Self-Aligned Reward(SAR)로 검증 가능 보상의 이진 피드백 한계 극복 [(원문)](https://arxiv.org/abs/2509.05489)
@@ -41,7 +87,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Reasoning Budget Control]] | [[Chain-of-Thought Controllability]]
+[[RAG (Retrieval-Augmented Generation)]]
 
 
 ## 모순/논쟁

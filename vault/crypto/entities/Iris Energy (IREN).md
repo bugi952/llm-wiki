@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: AI 인프라 사업으로의 전략적 방향 전환 및 자금 조달 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUtdUNtMGNLeEZDeEJ6dmljaXp3NjFnN01qTTBZWUgyQXdHVVg5SWJCR2VwY2FZNlBRNTlQLUxXSXlnUHJ6ejFKU3ZBYllUQ3pmMG1hdVROTWNxSG82Y2VlVXpRZW5vV1B0a05vSVBTa1JDbnBzUG9lZ3dXRF9NR2xzMFo0WUtlMkZ6bG03dEdOdHBMRmtDcEpOZ25ZdVd3MzhBcmhETnRjcjRiSFZha0RacE5uQ1l5eXlTcHhfSQ?oc=5)
+- **2026-04-25**: Microsoft GPU 딜 발표로 Canaccord Genuity가 주가 목표를 $70으로 상향 조정 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUl4VkszNmZ1bGpYbnB3cVlCRW5CRWo4RUp6SGFuZXBySUFQVGJ3MUpVdmthRU56Y01iWXpVV1hEQUg1SFJucUc0R3FqNkRjNm4tdkQzcEFYUHo2S0FrS29USW1ua29acXB3dkNiTkM1Z0ZyNkhZRjI2cjYwUWpGRTJlMHhDRUI3VkdNZDBLWUVPY3hzdnA2dGhGUWNxQVRLblY4SklqZnJiQnpTUXVUXzY1UlRISXpabFkyRzhIcHA3X0puS1o2aHFSU0ltS0dOSVlyMGZJSQ?oc=5)
+- **2026-04-25**: AI 및 채굴 사업에 대담한 투자 공식화, 사업 다각화 진행 [(원문)](https://news.google.com/rss/articles/CBMikgFBVV95cUxNQjdXZlVxMTRSeElhSklrYlZFSURQME15ZkJFRGdKcWJ1MmlDSmROcWkwTU53aDBHenpsdUhZSzk4UGZqUVIwVldjOXFteWs1ZVBoWVdDWGpEWWloa1JROUh3aVpBVnR3Ry1iM2Zvemo4MkNXZy1GYkV6SlZRRDVFY2ZCWTl5Uk53MzBFdHp5SUVVdw?oc=5)
+- **2025-12-08**: Microsoft 9.7B AI 거래 관련 자본 조달 진행 중 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEJmTmJpaWRFUWl2VFp3eEc4WXdoVGFUSjNSakFXZFVvamdSU0JuZVhmVUZHSWxoODd6dm9wQmdZQ1Q0Z3lkcTJBRDZWa2V0MkkwV2pzVHhVelR5b2FwSkJHclV0SzV0NE85dEZVUUxqUV9tS0ZCSVpVVHF5X1V1c3FvWkNSZmtYNGZHNUxZS01pZGdRZnZsblI5Yk1pUHZvWVJkbHYzbk1EaWxjdGhjS0ZIMmQ2N1pHODk0ajZ1OWFzYTg0Z0JlZ01MY2M4S25fb0pN?oc=5)
+- **2026-04-22**: Q2 2026 earnings 발표 임박. 채굴 실적에 대한 시장 의견 분석 주목 [(원문)](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1FDQndrM24yRDhDMERMWXBzWEY3cTM0ZGV6RHRBV1VOODRUeGVDYjJUT21EWGN3SjNMa3llaVctSG1NZ251TTJ1Y3BZNmtTUmdnbG9KSzF5eGJ5eXB1MngxYzFVUnpCVkRnX3R2YzRuTml6bzE3ME9KajcwSmpQdTUzWEFLZEkxSFhiYjdHcTRYcDI5dWVvRA?oc=5)
 - **2026-04-21**: H.C. Wainwright 분석가, Microsoft 협력에도 불구하고 Sell 등급 유지 [(원문)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGJyNFV1NU5ldHc0MllheG1lRXFHbmhmdTg4MklrcGtUS0NOTWlac3gySnFYa2Q2TFdtbFEyMGRfVEh2MGJGRDd2SGE0TWR6WkZoVzNTZVhjUHViV1djVWZwVUxZTnlVQ2g4RklQVXpNeUxoelBhR2JTaGdDY3lMbDQ3MFBreUtCOWNmbkpFcWpWVFRlZjJYNUVPd0NhcktOd21lN1gyRWVMbktDTnRPOWhBYXJUYWJaOGhfbnd0bExpYURMbEs3eEJUYVFMUlE1bHhaLQ?oc=5)
 - **2026-04-21**: JPMorgan이 주식에 Underweight 등급 부여 — 주가 부진 신호 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQODZHamhPdGFnZkVpZVh0TW1fU2dIUW0tTUdtN0lfVzhKbE8yYTI3SEVkUGU4STJlbnVNRFF0WmxxU3RDZEdSaXN2TlJjR3d6dnF1QVViSm9sdUFKOHhHYzJJYVM2d0kzaG1ZT0FqMmlpOGJORlpzQVF2dUwxU0lUYWRIR0ppUmFhXzRUdldzN05KZ19pRS1vc1pvdHI?oc=5)
 - **2026-04-21**: Microsoft 거래 체결, Bernstein 목표가 $125 인상 [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXFhTWFzUlZJaHJ2NlFJaGltekxIZDZzMy1Ob0dXR2lEVmgtSV9qYjJiMjdObGhjUzRnemxRTEwtSkotNklVaEZrc2hsSUVwSVJFSDlrUGE0SmFIdmVKcTVMSzVUTVRrLXdiZkRQRm9tNWtLckR3RXp6Q1lKVTB2OGJka2xwWHQ4TEhMV3NIYmlYZTd0T0o0TnVNMDk2VVAyM3p6dEhUdmZMQzlrUTc4ekptTnRzNGU1dHhjVDZlb2NHZTg?oc=5)
@@ -27,5 +32,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[JPMorgan]] | [[Asset Allocation]]
+[[AI Infrastructure]]
 

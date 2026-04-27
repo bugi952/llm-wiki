@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,41 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: AromaGen: 텍스트/시각 입력을 12개 base odorant 혼합으로 실시간 변환하는 wearable 후각 인터페이스 [(원문)](https://arxiv.org/abs/2604.01650)
+- **2026-04-27**: 저비용 multi-image 학습: 기존 단일 이미지 grounding 어노테이션을 compositional 인스턴스로 재활용하여 대규모 CoT 데이터 생성 필요성 제거 [(원문)](https://arxiv.org/abs/2604.22498)
+- **2026-04-27**: 자연·인위적 재해 감지를 위한 광학-SAR 통합 분석 접근 [(원문)](https://arxiv.org/abs/2604.22333)
+- **2026-04-27**: VLM에서 syntactic signals보다 semantic signals가 이질 모달리티 바인딩에서 지배적 (분포적 거리가 멀수록) [(원문)](https://arxiv.org/abs/2604.22038)
+- **2026-04-21**: MFM 멀티레이어 가속화: 혼합정밀도 양자화·구조 프루닝(트랜스포머/MLP)·추론 캐스케이딩·동적 해상도/시퀀스 최적화로 계산·메모리 비용 감소 [(원문)](https://arxiv.org/abs/2604.21952)
+- **2026-04-25**: MODEE: 그래프 기반 학습과 LLM 텍스트 표현을 결합한 오픈도메인 이벤트 추출 [(원문)](https://arxiv.org/abs/2604.21885v1)
+- **2026-04-24**: MLLMs의 시각 지시문 안전 실패: 시각 네러티브 내 역할극 프롬프트 (롤플레이) 조합이 텍스트 기반 방어 회피 [(원문)](https://arxiv.org/abs/2603.21697)
+- **2025-09-23**: 모달리티 독립성과 충분성이 추론 성능 향상의 필요조건, 중복/연쇄 관계는 악화 [(원문)](https://arxiv.org/abs/2509.23744)
+- **2026-04-24**: 신경망의 표현 수렴이 자극 특성(intra-modal dispersion)에 의존하여 모달 간 정렬 예측 가능 [(원문)](https://arxiv.org/abs/2604.21836)
+- **2026-04-24**: SemanticID 생성형 추천: 텍스트-이미지 modality 정렬 실패(quantizer misalignment) → 통합 목표로 embedding+quantization 공동최적화 [(원문)](https://arxiv.org/abs/2604.20861)
+- **2026-04-24**: 화학-그라운드 시각 의미 추론으로 Markush 구조 자동 복원 및 구조 관계 추론 [(원문)](https://arxiv.org/abs/2604.21508)
+- **2026-04-24**: 복수 관련 차트의 통합 해석이 필요한 실무 시각화 이해 문제의 첫 대규모 벤치마크 [(원문)](https://arxiv.org/abs/2604.21344)
+- **2026-04-21**: MLLM의 문장·단락 수준 텍스트 복원이 주요 도전 과제이며 모델별 성능 편차 명확 [(원문)](https://arxiv.org/abs/2604.21277)
+- **2026-04-21**: MaLoRA의 게이트 모달리티별 LoRA로 LLaVA, Qwen2.5-VL의 시각 모달리티 활용도 개선 [(원문)](https://arxiv.org/abs/2510.26721)
+- **2025-10-15**: 2025: 문서 이해를 위한 멀티모달 RAG가 OCR-LLM과 MLLM의 한계 극복 기술로 주목 [(원문)](https://arxiv.org/abs/2510.15253)
+- **2026-04-21**: Multimodal Policy Internalization으로 텍스트·시각 정책을 모델 파라미터에 인코딩하여 추론 효율성 향상 [(원문)](https://arxiv.org/abs/2510.09474)
+- **2026-04-21**: 인지 심리학 기반 구조화 추론으로 VLM의 사회적 상황 이해 및 규범 판단 능력 개선 [(원문)](https://arxiv.org/abs/2507.20409)
+- **2025-02-02**: MLLMs의 텍스트-이미지-도표 통합이 도메인 간 과학 추론 일반화 개선 [(원문)](https://arxiv.org/abs/2502.02871)
+- **2024-10-04**: ErrorRadar 벤치마크: MLLM의 수학 오류 단계 식별·분류 능력 평가 (2,500개 K-12 문제) [(원문)](https://arxiv.org/abs/2410.04509)
+- **2026-04-21**: 다대다 실제 설정에서 모달리티 alignment 저하, 모달리티 선택의 실질적 영향 재확인 [(원문)](https://arxiv.org/abs/2604.18572)
+- **2026-04-21**: EVE 프레임워크: 실행 가능한 시각 변환(executable visual transformations)을 통한 MLLM 자가진화. Challenger-Solver 이중정책으로 pseudo-label 품질 저하 문제 해결 [(원문)](https://arxiv.org/abs/2604.18320)
+- **2026-04-21**: 비디오-음악 생성의 자동회귀 계획 + 확산 합성: 시각/텍스트 의미 정렬(semantic alignment)과 음악 고충실도(fidelity) 균형 [(원문)](https://arxiv.org/abs/2604.17656)
+- **2026-04-21**: MLLM의 암묵적 토큰 레벨 신뢰도와 명시적 자가평가 신뢰도 간 significant misalignment 발견 [(원문)](https://arxiv.org/abs/2604.17274)
+- **2026-04-21**: EvoComp: MLLM의 visual token을 vocabulary-based grouping + evolutionary search로 선별적 압축 (정확도 유지) [(원문)](https://arxiv.org/abs/2604.17087)
+- **2026-04-21**: mEOL: SVG 기하 구조를 보존한 채 텍스트/래스터와 공유 임베딩 공간에 매핑, MLLM의 instruction guidance로 training-free 구현 [(원문)](https://arxiv.org/abs/2604.17054)
+- **2026-04-21**: Adaptive weighted sampling으로 informative samples 선택 시 훈련 효율 40-50% 개선 가능 [(원문)](https://arxiv.org/abs/2604.16979)
+- **2026-04-16**: 손글씨 의료 양식 인식에서 최신 VLM 모델들 85% 정확도 도달 [(원문)](https://arxiv.org/abs/2604.16504)
+- **2026-04-21**: MARA: 멀티모달 문서의 쿼리 정렬 영역 인코딩과 자체 수정을 통한 적응형 RAG [(원문)](https://arxiv.org/abs/2604.16313)
+- **2026-04-21**: 인과추론으로 모달리티 표현을 causal invariant와 spurious로 분리하여 분포 변화 강건성 향상 (arXiv:2604.18460) [(원문)](https://arxiv.org/abs/2604.18460)
+- **2026-04-21**: 다국어 multimodal 데이터셋 부족 및 cross-lingual 평가 벤치마크 부재 문제 해결 [(원문)](https://arxiv.org/abs/2604.18347)
+- **2026-04-18**: 수치 인식 능력은 모달리티별로 다양하지만, 정확한 산술 수행은 모달리티 관계없이 실패 일관 [(원문)](https://arxiv.org/abs/2604.18203)
+- **2026-04-21**: 뉴스 이미지와 텍스트 크로스 인스턴스 일관성 검증에 멀티모달 MLLM 적용 [(원문)](https://arxiv.org/abs/2604.18112)
+- **2026-04-21**: 통합 표현 공간의 OLLMs에서 modality preference는 중층~후층에 걸쳐 점진적으로 발생, cross-modal hallucination 진단 활용 가능 [(원문)](https://arxiv.org/abs/2604.16902)
+- **2026-04-21**: 오디오-텍스트 모달리티 통합: 내부 텍스트 피처와 외부 음성 신호를 단층 헤드로 결합 [(원문)](https://arxiv.org/abs/2604.16615)
+- **2026-04-21**: CFMS: 2,796개 중국 이미지-텍스트 쌍의 풍자 데이터셋, 세분화된 설명 주석 포함 [(원문)](https://arxiv.org/abs/2604.16372)
 - **2026-04-20**: 이미지 번역 시 텍스트 속성(색상, 테두리 등) 인식·복원 기술 발전으로 디자인 무결성 보존 가능 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209500)
 - **2026-04-20**: AcuLa: 언어 모델을 음성 인코더와 정렬하여 임상 의미 이해 강화 [(원문)](https://arxiv.org/abs/2512.04847)
 - **2025-10-15**: Video-to-audio 생성 모델이 음성 분리 다운스트림 태스크에 효율적 활용 (MMAudioSep) [(원문)](https://arxiv.org/abs/2510.09065)
@@ -110,7 +145,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Text-to-Image Generation]] | [[Vision-Language Models]]
+[[Generative Models]]
 
 
 ## 모순/논쟁

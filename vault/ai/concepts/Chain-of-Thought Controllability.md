@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: Abstract 토큰 masking으로 CoT 프로세스 제어 가능 [(원문)](https://arxiv.org/abs/2604.22709)
+- **2026-04-22**: LLM의 early decision 분석으로 토큰 예산 동적 할당 가능성 실증, 불필요한 설명 토큰 제거 시 지연 시간 단축 가능 [(원문)](https://arxiv.org/abs/2604.22266)
+- **2026-04-24**: 추론 과정의 재사용 가능 스킬 저장/재호출로 토큰 소비 감소 및 추론 정확도 향상 [(원문)](https://arxiv.org/abs/2604.21764)
+- **2026-04-21**: 추론 과정과 캐시 eviction 결정을 이산 행동으로 모델링 → 강화학습으로 관리 가능한 chain-of-thought 확보 [(원문)](https://arxiv.org/abs/2604.18002)
 - **2026-03-03**: 수학 오류, 단위 변환, 추종, 단계 생략, 여분 단계의 5가지 CoT 섭동에 대해 모델별 차등 취약성 확인 (소규모 모델이 수학 오류에 50-60% 정확도 저하) [(원문)](https://arxiv.org/abs/2603.03332)
 - **2025-04-20**: CoT 추적의 의미론적 정확성과 사용자 해석 가능성이 불일치 [(원문)](https://arxiv.org/abs/2505.13792)
 - **2026-04-20**: CoT 프롬프팅이 멀티모달 모델의 공간 추론 성능을 일관되게 저하, 텍스트 기반 CoT의 공간 영역 한계 [(원문)](https://arxiv.org/abs/2604.16060)
@@ -21,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Evaluation Robustness]] | [[Formal Verification]]
+[[Latent Reasoning]] | [[System-2 Learning]] | [[In-Context Learning]]
 
 
 ## 모순/논쟁

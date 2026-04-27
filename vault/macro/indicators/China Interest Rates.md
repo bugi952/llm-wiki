@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: macro
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 ---
 
 # China Interest Rates
@@ -14,6 +14,11 @@ last_updated: 2026-04-21
 
 
 ## 이력
+- **2026-04**: PBOC 1년물/5년물 LPR 각각 3%/3.5%로 동결 [(원문)](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lWHpEdk5IemVtMFBTYWd6TUxYNUo1T19JMHNDM3h0MGg2a1ZFaVZXWVNqYnA4UzZaYUVsQTAxNXMtQjZNbWtWTXdRQ2taS2VFQUxKUVE4d2lhd3ZOZjM3M1JPTTd0UFhiUFRZUTBvWQ?oc=5)
+- **2026-04-25**: PBOC 기준금리 5개월 연속 동결, 완화 정책 일관성 신호 [(원문)](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2otYW9qQ3hMUHpvZVVjeXB2S3dYS0Q2S3Vmd0dtZTNJb3pYTTFNQzN2Y2dsYmNHcUt4d2ozaWNSeUxXUnRkLWFhYTdFS1RJbTNIRXFNRzlJanEtNk9UNFppc3RJWkdCQ3l6MlhfTGZabXh4bHdsZkRGMlZVU1NldHBkWW53eGFEUk15alhRRF9mWHgtcElDdFFlY3BNOFdVQ1lvSXdwZVcxQ21fTkprT3lyaXI5QzhBbFdzZkNsZVZteUlteGhj?oc=5)
+- **2026-04-25**: PBOC 기준 대출금리 변경 없음 (예상대로) [(원문)](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXpSUnZnNHlVcERaNjhsdEFtcy1NWjhlSURkUi10YkdmN2N1MVNTb0FBOERpREYtaUQzTXdpUzNveWx0LXNyTldsckFoOWhUSFpzMEFHb3haSmZyOGxMa3hQaEdGNmNxOTE5NlRleWxRM2p6UnFSWjFJdUVyQXEzZ2pJbU9SREpEUDVHYnlVSFIxX2pMVGVDMFJvVmpjazZLdWE5S01WZDVmaFJKakFvN0R1VDRPQQ?oc=5)
+- **2026-04-21**: 기준금리 3%로 유지. 시장 반응 제한적 [(원문)](https://news.google.com/rss/articles/CBMizgFBVV95cUxPXzd0V1U4TUkxMUVxV3owNGUxZlN4cnpxb0tEaFozMW0xaXBNTVFzRU9RRzkwS2pBa00zOXB2TmpxQ0VfeHRoaFBfelp6TlVhSmtQNGZsU2Z0alJodkVrTUZNRDBOUV9fX2NMaGxxOHBYWXRobkdyMDhGUzJFRlpRUHljeGpEYjZyN0F3QWdXWUNDZF9YX1dnSDN2UlJ3SWlzSjFfWnFlRDlyY25vN0ZqREEyZWg0Nm5Ta19ZWV9xcFJwUVQteXVKM1NOLUNWQQ?oc=5)
+- **2026-04-21**: PBOC, 강한 GDP 성장에도 기준 대출금리 동결 유지 [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXJaNlRnMVVOVWI3SWI4Rl9yejdGcXNNcVJ5Tk1xMHZON3pLTFQxVE9xdmlpeWp0YWZBQ0hHczdQeU9wQzdqRVN3dW9BbUxnQ0pKQ0VnU25CTG05TFgxeWtuUWZRWDduazIyVzlIZl91T0kxeGNZZ2tkbTZxQ193ckxoMFZ3ZzBPWm1IVHFnOWUzNkdxSlBXSmZTc05tWVJ4UElBVW93TXhqTHFNS0o2My03ZVVSc2hkOElvRmFyOVRrR28?oc=5)
 - **2026-04-21**: PBOC 11개월 연속 주요 기준금리(LPR) 동결 유지, 지표금리는 변동 없음 [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMDNaLVcyR0tuTGl3d3dkalFraE9KTGpZaEtrQWt6Q3I0VG1oZWFnOHVhQU14Wkdwc0VyaDFESWtlOXFSRmIyYUNHVm9USXhFaDRxQUF3SWM?oc=5)
 - **2026-04-01**: PBOC 기준금리 11개월 연속 동결 (2026년 4월) [(원문)](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHNvZkotTWJQeVRhejk4WkN6Q3RxUWJxVXpTY0tENHJ2bVRuSmlIbklSQVhmWWtQLUNFN3E4X1RCNk9aNy1ON294cU5PTzRUME5pQXdQVW1jU1FaNE5YUkJhbmJXb0h2eC1mUENoVERHNHA5M1BpUW1aaF9Ra1MtelZ6ZDRuTFpGZzMxbUQwTEpHWlJVMW5wVUZCcHg5TDdjc2FGdlFRYnN0TTYwVklXcw?oc=5)
 - **2026-04-20**: 대출금리벤치마크(LPR) 11개월 연속 동결 [(원문)](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWW5wZ1NXMWNSNzUxZmE0aWZ3cllCQXBSYkFzbkRXbFpjVGFZV1RBeWpGVWZLdmJaNkhJWmY5dFZ1MkRBdm5GUnlhV0RPQ21TZnFkWU5xWFcyMnBtb05DdUFDNnA2UnhGaGlDYUhXWTl2TFh4UW80SHN4VC0wVEJGcmNTTkgwVzlGZm1adksxZ2I4SVJUWXdESjE1V0Q3SUtMcU5vdXdTand3LU0td1J3YW9RUzE0SXE2VlFIRktTZm1wZWdKdmhGY1YtOXhmRHFYdDR6TnRVaVlZWU0?oc=5)

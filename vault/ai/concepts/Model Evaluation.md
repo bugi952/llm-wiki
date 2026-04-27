@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,75 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-02-07**: 문서 레이아웃 다양성, 비주류 필드(long-tail)에서 LMM 성능 저하 측정 [(원문)](https://arxiv.org/abs/2602.07038)
+- **2026-04-27**: LLM을 relevance assessor로 사용 시 passage 수준의 판단 신뢰성 검증 필요, highlight 정확성 평가 중요 [(원문)](https://arxiv.org/abs/2601.08919)
+- **2026-04-27**: TS-Arena는 라이브 포캐스팅 플랫폼으로 pre-registration 프로토콜을 통해 test-set contamination을 원칙적으로 방지 [(원문)](https://arxiv.org/abs/2512.20761)
+- **2025-02-15**: Group matching score가 기존 평가 메트릭의 체계적 편향 교정, 모델 능력 더 정확히 반영 [(원문)](https://arxiv.org/abs/2510.07632)
+- **2026-04-27**: Answer Set Programming 벤치마크로 LLM 코드 생성 평가 (BLAST) [(원문)](https://arxiv.org/abs/2604.22306)
+- **2026-04-22**: Benchmark hacking as strategic equilibrium: low-type contestants allocate effort to task-specific mechanistic improvement over true capability [(원문)](https://arxiv.org/abs/2604.22230)
+- **2026-04-27**: High-stakes risk workflow에서 표준 XAI 평가 메트릭만으로 인간 유용성 예측 불가능함을 증명 [(원문)](https://arxiv.org/abs/2604.22662)
+- **2026-04-22**: 기호 비교 기반 평가 대신 LLM 판단으로 서로 다른 답안 표현 형식 인정 [(원문)](https://arxiv.org/abs/2604.22597)
+- **2026-04-22**: 다차원 사업 아이디어 평가에서 전문가 의견 불일치는 세부 점수(ordinal)에서는 높지만, 조악한 선택(coarse selection)에서는 높음 → 구조적 이질성 [(원문)](https://arxiv.org/abs/2604.22517)
+- **2026-04-25**: Interactive leaderboard: 프롬프트 슬라이스별 모델 순위 변동 가시화, 사용자 가중치 정의로 맞춤 평가 가능 [(원문)](https://arxiv.org/abs/2604.21769v1)
+- **2026-04-25**: EVENT5Ws: 대규모 수동 주석 오픈도메인 이벤트 추출 데이터셋 — 지리적 이전 가능성 검증 [(원문)](https://arxiv.org/abs/2604.21890v1)
+- **2026-04-25**: Multicalibration의 배치 설정 샘플 복잡도는 Õ(ε^-3), 일반 calibration의 Õ(ε^-2)보다 어려움; 온라인/배치 동등성은 일반 calibration과 다름 [(원문)](https://arxiv.org/abs/2604.21923v1)
+- **2026-04-23**: 제품 하네스(harness) 변경이 모델 평가 결과에 미치는 영향을 실증한 사례 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209714)
+- **2026-03-26**: Crystal: LLM 조인트 랭킹과 위치 편향 완화(무작위 순서+다수결 투표)로 인용 영향도 평가 [(원문)](https://arxiv.org/abs/2603.26791)
+- **2026-02-05**: DMAP (Distribution Map): LLM next-token 확률 분포를 unit interval 샘플로 매핑, rank와 probability 정보 동시 인코딩으로 context-aware 분석 가능 [(원문)](https://arxiv.org/abs/2602.11871)
+- **2025-10-15**: 문화적 복잡성 높은 작업에서 LLM-as-Judge 단독 평가의 위험성, 인간-모델 하이브리드 검증 체계 필요 [(원문)](https://arxiv.org/abs/2510.15313)
+- **2025-10-15**: 불확실성 추론 평가를 위한 다도메인 벤치마크 OpenEstimate 제안, 의료·금융·지식업 실무 평가 표준화 [(원문)](https://arxiv.org/abs/2510.15096)
+- **2025-09**: 컨텍스트 윈도우 효율성 평가 표준화 방법론: 다양한 크기와 문제 유형에서 성공/실패점 비교 [(원문)](https://arxiv.org/abs/2509.21361)
+- **2025-06-01**: RewardBench 2 발행 — 명령어, 추론, 안전 다중 스킬 평가 [(원문)](https://arxiv.org/abs/2506.01937)
+- **2026-04-21**: 객관성 부재 시 다수결 투표보다 각 평가자별 점수 후 평균이 더 원칙적; 평가 등가성(rater equivalence) 개념으로 벤치마크 신뢰성 강화 [(원문)](https://arxiv.org/abs/2106.01254)
+- **2026-04-24**: ML 해석 가능성을 non-functional requirement(NFR)로 정의하고 provenance로 검증하는 방법론 [(원문)](https://arxiv.org/abs/2604.21599)
+- **2026-04-24**: Text-to-SQL 평가 시 query 유형별 세분화된 메트릭과 오류 분석의 필요성 강조 [(원문)](https://arxiv.org/abs/2604.21214)
+- **2026-04-24**: Self-play 기반 수학 벤치마크: 출제 능력과 풀이 능력의 부분적 분리 발견 (19개 frontier 모델) [(원문)](https://arxiv.org/abs/2604.21916)
+- **2026-04-21**: LLM은 동일 사실도 엔티티 표기(정규명, 약자, 철자 오류)에 따라 다르게 예측 (RedirectQA 데이터셋 기반 13개 LLM 평가) [(원문)](https://arxiv.org/abs/2604.21882)
+- **2026-04-21**: LLM 리더보드 랭킹은 설계자의 우선순위를 반영하며 사용자의 다양한 목표를 포함하지 못함 [(원문)](https://arxiv.org/abs/2604.21769)
+- **2026-04-24**: 미팅 요약 평가를 위한 5단계 재사용 파이프라인: 소스 인테이크→참조 구성→후보 생성→구조화 채점→리포팅 [(원문)](https://arxiv.org/abs/2604.21345)
+- **2026-04-21**: 레이아웃 이해, 시각 그라운딩, 지식 통합의 직교적 평가를 위한 level-aware 평가 프로토콜 [(원문)](https://arxiv.org/abs/2604.21277)
+- **2026-04-21**: 최적 분위수 회귀 트리 세트를 단일 트리 학습과 동일 효율로 학습 가능하여 모델 다양성 확보 [(원문)](https://arxiv.org/abs/2604.21042)
+- **2026-04-24**: Agreement Trap 문제 해결로 규칙 기반 AI의 정책 정합성 검증 가능 (193K+ 데이터셋 검증) [(원문)](https://arxiv.org/abs/2604.20972)
+- **2026-04-24**: EL-MIATTs 프레임워크로 모호한 목표 환경에서의 평가 및 학습 방법론 체계화 [(원문)](https://arxiv.org/abs/2604.20944)
+- **2026-04-22**: 소셜미디어 분석 종합 벤치마크: 저작권 검증·게시물 생성·사용자 속성 추론. GPT-4/4o vs Gemini 1.5 Pro vs DeepSeek-V3 성능 차이 지속 [(원문)](https://arxiv.org/abs/2604.18955)
+- **2026-04-22**: LLM judge는 문서 초반부 의미 변화에 더 강하게 반응하는 positional bias 보유 (arXiv:2604.18835) [(원문)](https://arxiv.org/abs/2604.18835)
+- **2026-04-22**: LM 생성 다중성을 오버래핑 경로로 표현하여 분기점과 군집 시각화 (3개 사용성 연구 검증) [(원문)](https://arxiv.org/abs/2604.18724)
+- **2026-04-21**: Reference-free 로그 요약 평가를 위한 LLM 판단 기반 REFLEX 메트릭 [(원문)](https://arxiv.org/abs/2511.07458)
+- **2026-04-21**: Fine-tuned LLM 판사의 shelf life 결정 요소: Future-proofing, backward-compatibility, question generalization [(원문)](https://arxiv.org/abs/2509.23542)
+- **2026-04-21**: 표현 분산도(hidden vector 간 평균 코사인 거리)가 perplexity와 강한 음의 상관관계. LLaMA, Qwen 등 다중 모델 계열에서 도메인 무관하게 검증됨. 레이블 데이터 없이 모델 난이도 순위 매김 가능 [(원문)](https://arxiv.org/abs/2506.24106)
+- **2025-06-15**: Linearity score로 Surrogate의 선형 복호화 정도 진단, Fidelity와 실제 성능 괴리 측정 [(원문)](https://arxiv.org/abs/2506.12176)
+- **2026-04-21**: 시간 흐름에 따른 연속적 행동 시뮬레이션 능력을 평가하는 벤치마크 필요성 대두 (2026-04-21) [(원문)](https://arxiv.org/abs/2506.05606)
+- **2025-05-15**: 로그 가능도 공간의 KL 발산 척도로 사전학습, 모델 크기, 양자화, 파인튜닝 간 통일 비교 가능 (arXiv:2505.15353) [(원문)](https://arxiv.org/abs/2505.15353)
+- **2026-04-21**: LLM-as-judge 기반 retriever 평가 방법론 비교 연구 [(원문)](https://arxiv.org/abs/2604.18234)
+- **2026-04-21**: WebCompass - 웹 엔지니어링 역량의 lifecycle 평가 (generation/editing/repair 포함) [(원문)](https://arxiv.org/abs/2604.18224)
+- **2026-04-21**: 비디오 모델 평가에서 단문 시각 품질(프레임 레벨)과 장문 컨텍스트(전역 일관성)를 직교 차원으로 분리하는 벤치마크 설계 [(원문)](https://arxiv.org/abs/2604.17428)
+- **2026-04-21**: PDB 프레임워크: atomic bug 합성 및 composition으로 single/multi-line 디버깅 벤치마크 자동 생성, 정밀도 기반 평가 [(원문)](https://arxiv.org/abs/2604.17338)
+- **2026-04-21**: 다중 AI 패널의 정밀도 = (ρn^b + q(1-ρ))/(1+(n^b-1)ρ) 수식으로 정량화. 모델 상관계수(ρ) 낮을수록 패널 다양성 증대로 상위 q 분위수 정밀도 향상 [(원문)](https://arxiv.org/abs/2604.16432)
+- **2026-04-21**: CRUXEval benchmark - program execution 예측 성능 측정. Perturbations(코드 변형, input 변경)이 frontier models의 brittleness 노출. [(원문)](https://arxiv.org/abs/2604.16320)
+- **2026-04-21**: LLM-based cross-encoder reranker의 cold-start 추천에서 3가지 critical failure: 낮은 coverage(recall@200=0.109), severe exposure bias(3 items vs. 497 random), 약한 score discrimination(Cohen's d=0.13) [(원문)](https://arxiv.org/abs/2604.16318)
+- **2026-04-21**: Results-Actionability Gap: 평가 데이터 수집 후 실행 가능한 개선으로 연결하지 못하는 실무 장애 [(원문)](https://arxiv.org/abs/2604.16304)
+- **2026-04-21**: CLD 추출 벤치마크: 클라우드 모델 77-89%, 로컬 최고 모델(Kimi K2.5) 77% 달성 [(원문)](https://arxiv.org/abs/2604.18566)
+- **2026-04-18**: 산술 부하(C=자릿수×0자리수)로 계산량 정량화, C>100에서 정확도 급락 [(원문)](https://arxiv.org/abs/2604.18203)
+- **2026-04-18**: STaD 프레임워크: 스캐폴딩으로 모델의 조합적 기술 격차 식별 가능 [(원문)](https://arxiv.org/abs/2604.18177)
+- **2026-04-21**: MLLM 평가 벤치마크(MM-JudgeBias)에서 Bias-Deviation, Bias-Conformity 메트릭 도입 [(원문)](https://arxiv.org/abs/2604.18164)
+- **2026-04-21**: LLM은 저분산(low variance)과 표현-처리 편향의 비결합으로 인해 특정 조건에서 인간 주석자보다 통계적으로 우월 → 집단 수준 주관적 의견 예측에서 우위 [(원문)](https://arxiv.org/abs/2604.17968)
+- **2026-04-21**: 안전-비판적 도메인 평가는 최종 답변뿐 아니라 엔지니어링 추론 과정 진단 필수 [(원문)](https://arxiv.org/abs/2604.17966)
+- **2026-04-21**: PRM 데이셋이 수학 외 도메인으로 확장, 도메인 무관 자동 생성 방식으로 확장성 달성 [(원문)](https://arxiv.org/abs/2604.17957)
+- **2026-04-21**: COUP 알고리즘을 활용한 동적 벤치마크 하드 케이스 식별 방법 제안 [(원문)](https://arxiv.org/abs/2604.17842)
+- **2026-04-21**: NL2SQL 벤치마크 오염 탐지를 위해 syntactic variant로 robustness 측정, temporal alignment로 메모리 효과 확인 [(원문)](https://arxiv.org/abs/2604.17771)
+- **2026-04-21**: BIRCH 패러다임으로 VLM judge의 informativeness bias 17% 감소, 평가 신뢰성 개선 [(원문)](https://arxiv.org/abs/2604.17768)
+- **2026-04-21**: Validity tier (Invalid/Indeterminate/Valid)가 selective prediction AUROC의 47% 분산 설명. Valid .624 > Indeterminate .554 > Invalid .357로 단조 증가 [(원문)](https://arxiv.org/abs/2604.17716)
+- **2026-04-21**: 타당한 프로필 모델은 항목 민감도 높은 신뢰도(r=.18, 14/16 유의), 타당하지 않은 모델은 음의 상관(r=-.20, d=2.17, p=.001) [(원문)](https://arxiv.org/abs/2604.17707)
+- **2026-04-21**: KnowledgeBerg 벤치마크: 지식 폭(universe enumeration)과 추론 깊이(set operations) 2차원으로 LLM 능력 평가. 10개 도메인, 17개 언어, 4,800개 문제. [(원문)](https://arxiv.org/abs/2604.17621)
+- **2026-04-21**: FLARE: 정규화된 스트림 기반 무레이블 임베딩 평가, 고차원(d≥3584)에서도 안정성 유지 (Spearman ρ 0.90) [(원문)](https://arxiv.org/abs/2604.17344)
+- **2026-04-21**: Meta-learning 기반으로 새로운 survey의 pilot data 없이 각 질문별 LLM 신뢰도 예측 가능 [(원문)](https://arxiv.org/abs/2604.17267)
+- **2026-04-21**: Annotation schema의 instability와 systematic overlap을 진단하여 labeling disagreement의 구조 파악 가능 [(원문)](https://arxiv.org/abs/2604.17022)
+- **2026-04-21**: 배포 맥락에서 모델 신뢰도 평가 시 학습 시 특권 정보 제거 필요. CaOPD 프레임워크로 calibration-aware OPD 가능 [(원문)](https://arxiv.org/abs/2604.16830)
+- **2026-04-21**: 자동 평가자와 인간 평가 간 일치도 측정 및 보정 필요, 보수적 편향 확인 [(원문)](https://arxiv.org/abs/2604.16706)
+- **2026-04-21**: BBH/GSM8K/ARC 3중 벤치마크로 에이전트 정확도·실행시간·비용·교차벤치 일관성 측정 [(원문)](https://arxiv.org/abs/2604.16646)
+- **2026-04-21**: 의미 구문 처리(추출, 분류, 해석)에서 LM의 이해도 평가 체계 [(원문)](https://arxiv.org/abs/2604.16593)
+- **2026-04-21**: SCATR 방법으로 hidden representation 기반 scorer 학습, inference cost 절감하며 성능 유지 [(원문)](https://arxiv.org/abs/2604.16535)
+- **2026-04-21**: GeoRepEval: Euclidean/coordinate/vector 형식 변환에 대한 LLM 정확도, 불변성, 일관성 측정 프레임워크 (158개 고난도 기하 문제) [(원문)](https://arxiv.org/abs/2604.16421)
 - **2026-04-21**: LLM의 실제 사용 패턴 분석을 통한 비교 평가 가능성 [(원문)](https://news.ycombinator.com/item?id=47835646)
 - **2025-09-13**: LLM 합성 데이터의 신뢰성은 모델 선택, 샘링 매개변수, 프롬프트 형식에 크게 의존 (252가지 구성 변수 테스트) [(원문)](https://arxiv.org/abs/2509.13397)
 - **2026-04-20**: vla-eval: 14개 시뮬레이션 벤치마크와 6개 모델 서버를 지원하는 통합 평가 하네스 제시 [(원문)](https://arxiv.org/abs/2603.13966)
@@ -100,7 +169,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OpenAI]] | [[Anthropic]] | [[Google]] | [[Perplexity]] | [[AI Infrastructure]]
+[[Vision-Language Models]]
 
 
 ## 모순/논쟁

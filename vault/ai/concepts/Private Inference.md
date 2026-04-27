@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-24**: Differential Privacy: 재식별 공격 방어 및 책임 있는 데이터 사용을 위한 수학적 프레임워크. 메커니즘, 적용, 사용성 문제 종합 정리 [(원문)](https://arxiv.org/abs/2509.03294)
+- **2026-04-24**: 프리필 단계의 KV 캐시 계산을 클라우드와 엣지 간 동적 분배로 레이턴시 숨김 [(원문)](https://arxiv.org/abs/2604.21231)
+- **2026-04-24**: Rényi 차분 프라이버시 회계로 추론 단계 개인정보 보호 요구사항 충족 [(원문)](https://arxiv.org/abs/2604.20985)
+- **2026-04-18**: GDP 기반 감사 프레임워크로 MST, AIM의 프라이버시 보증 검증 (μ_emp≈0.43 vs μ=0.45) [(원문)](https://arxiv.org/abs/2604.18352)
+- **2026-04-21**: 배치 HE 최적화로 ResNet-20/34의 CIFAR 암호화 추론 구현. 고처리량 시나리오와 훈련 워크로드 지원 [(원문)](https://arxiv.org/abs/2604.16834)
+- **2026-04-21**: LLM을 추론 엔진으로만 사용, 모든 계산과 개인 건강 데이터는 사용자 디바이스 로컬에서만 처리 (arXiv:2604.17133) [(원문)](https://arxiv.org/abs/2604.17133)
+- **2026-04-21**: CSS(Composite Selection Score)로 교통 네트워크의 이질성을 처리하며 15-60분 예측 수행 [(원문)](https://arxiv.org/abs/2604.16612)
 - **2026-03-01**: 차등 프라이버시는 표현 공간을 구조적으로 변환하며, 선형 분리 유지 시에도 작업 활용도 손실(utilization gap) 발생 [(원문)](https://arxiv.org/abs/2603.01098)
 - **2025-10-15**: 소규모 노이즈 주입으로 멤버십 신호 증폭 가능한 새로운 공격 방식 [(원문)](https://arxiv.org/abs/2510.21783)
 - **2025-10**: DP fine-tuning에서 clipping bound C와 batch size B의 이론-실무 갭 분석: 강한 프라이버시 조건에서도 큰 C가 나음 [(원문)](https://arxiv.org/abs/2510.20616)
@@ -30,7 +37,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Clinical AI]] | [[Medical AI]] | [[Uncertainty Quantification]]
+[[Federated Learning]] | [[Federated Learning Security]]
 
 
 ## 모순/논쟁

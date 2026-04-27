@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-03-01**: VLM 기반의 멀티그래프 추론 벤치마크로 이질 그룹의 복잡한 추론 과제 평가 가능 [(원문)](https://arxiv.org/abs/2503.21435)
+- **2026-04-24**: Bipartite dependency networks에서 Shapley value 기반 critical contributors 식별 (ShapleyCov 중심성) [(원문)](https://arxiv.org/abs/2604.21537)
+- **2026-04-22**: Data warehouse FK와 데이터 선형화 엣지를 포함한 그래프 토폴로지 추론 능력 평가 [(원문)](https://arxiv.org/abs/2604.18964)
+- **2026-04-21**: 스펙트럼 밴딧: 그래프 구조의 평활성을 활용한 온라인 추천 알고리즘. 유효 차원 개념으로 샘플 복잡도 개선 [(원문)](https://arxiv.org/abs/2604.18420)
+- **2026-04-21**: DiffTSP는 discrete diffusion으로 knowledge graph triple set prediction 수행 [(원문)](https://arxiv.org/abs/2604.18344)
+- **2026-04-21**: multi-relation 상호작용 그래프로 주제별 논증 커뮤니티 자동 감지 [(원문)](https://arxiv.org/abs/2604.16852)
 - **2026-04-20**: 그래프와 LLM 통합을 목적별(추론, 검색, 생성, 추천) 및 전략별(프롬프팅, 증강, 훈련, 에이전트 기반)로 분류 [(원문)](https://arxiv.org/abs/2604.15951)
 - **2026-04-20**: 공간 네트워크에서 라우팅 로직을 통한 origin-destination 흐름 분배 [(원문)](https://arxiv.org/abs/2604.15782)
 - **2026-04-17**: Temporal KG forecasting에서 persistent entity state로 장기 의존성 유지 (Entity State Tuning) [(원문)](https://arxiv.org/abs/2602.12389)
@@ -26,7 +32,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agentic AI]] | [[Multi-Agent Systems]] | [[Knowledge Graph Question Answering]] | [[Semantic Graph Learning]] | [[Agent Communication]]
+[[Vision-Language Models]] | [[Graph Neural Networks]]
 
 
 ## 모순/논쟁

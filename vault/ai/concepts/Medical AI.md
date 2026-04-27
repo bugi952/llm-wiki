@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,88 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-01-10**: Foundation Model 기반 다중모달 폐암 생존 예측 시스템에서 불완전한 modality를 native하게 처리, 환자 드롭 없이 모든 데이터 활용 가능 [(원문)](https://arxiv.org/abs/2601.10386)
+- **2025-09-20**: 심장 초음파 제거에 Nuclear Diffusion 방법 적용, 명암 향상(gCNR) 및 신호 보존(KS) 개선 [(원문)](https://arxiv.org/abs/2509.20886)
+- **2025-08-09**: DiaData 통합 데이터셋: 2510명 혈당 5분 단위 1.49억 건으로 저혈당 예측 모델 개발 가능 [(원문)](https://arxiv.org/abs/2508.09160)
+- **2026-04-27**: 비선형 dimensionality reduction (t-SNE, UMAP)은 ECG 신호의 개인 간 변동 및 labeling 표준 불일치를 극복하고, 임상적으로 의미 있는 심장 부정맥 패턴을 unsupervised learning으로 자동 발견 가능 [(원문)](https://arxiv.org/abs/2506.16494)
+- **2024-11-07**: 중국 NMPA 규제 데이터베이스 분석: 2,174건 의료기기 소프트웨어 중 43건이 AI 활용 (호흡기계 20.5% 점유율 최고) [(원문)](https://arxiv.org/abs/2411.07378)
+- **2026-04-27**: 망막 OCT 이미지의 비지도 이상 탐지로 전문가 레이블 의존도 제거 [(원문)](https://arxiv.org/abs/2604.22139)
+- **2026-04-21**: DARPA PTG 프로젝트 EgoMAGIC: 50개 의료 작업, 3,355 egocentric 비디오, 124개 의료 객체 탐지 YOLO 모델 40개 [(원문)](https://arxiv.org/abs/2604.22036)
+- **2026-04-21**: 기초 모델의 신경질환(ASD, ADHD, AD) 진단에서 모델 성능과 바이오마커 robust성 분리. RE-CONFIRM 프레임워크로 검증 필요 [(원문)](https://arxiv.org/abs/2604.22018)
+- **2026-04-22**: Action-Conditioned JEPA: 심장 병리를 동적 전이 벡터로 학습, 정적 해부학과 동적 병리 현상 명시적 분리 [(원문)](https://arxiv.org/abs/2604.22618)
+- **2026-04-27**: 불규칙한 임상 시계열 처리에 LLM 기반 도구 프로그래밍 적용 [(원문)](https://arxiv.org/abs/2604.22534)
+- **2026-04-27**: Transformer-DMM 다중모달 융합으로 1,666명 TADPOLE 환자 데이터에서 알츠하이머 인지 궤적 개인별 예측 (인구통계학적 공정성 및 결측치 견고성 검증) [(원문)](https://arxiv.org/abs/2604.22428)
+- **2026-04-26**: 일본 519개 병원 230만 환자 청구 데이터로 2.2M~101M 파라미터 규모 파운데이션 모델 검증 [(원문)](https://arxiv.org/abs/2604.22348)
+- **2026-04-22**: Sum-of-Checks 프레임워크로 외과 안전성(CVS) 판정을 전문가 정의 체크항목으로 분해, LVLM 신뢰성 및 감사 가능성 향상 [(원문)](https://arxiv.org/abs/2604.22156)
+- **2026-04-27**: RAG 기반 환자-임상시험 매칭으로 장시간 EHR 처리 효율화 달성 [(원문)](https://arxiv.org/abs/2604.22061)
+- **2026-04-21**: Soft harmonic 함수 기반 조건부 이상 탐지로 임상 기록의 누락된 검사 등 비정상 라벨 탐지 [(원문)](https://arxiv.org/abs/2604.21956)
+- **2026-04-21**: Artifact 기반 에이전트: 워크플로우 상태 명시적 기록, 데이터셋별 적응형 설정, 100% 재현 가능성으로 임상 배포 시 신뢰도 확보 [(원문)](https://arxiv.org/abs/2604.21936)
+- **2025-02-01**: 캡슐 내시경 비디오 진단 기반 요약(diagnosis-driven summarization) 작업 정의 및 VideoCAP 벤치마크(240개 전체 비디오) 공개 [(원문)](https://arxiv.org/abs/2604.21814v1)
+- **2025-12**: 의료 영상 진단에서 Vision Transformer 등 복잡 모델의 설명 불확실성 측정 및 신뢰성 강화 [(원문)](https://arxiv.org/abs/2512.20288)
+- **2025-12-01**: 폐암 분할의 OOD 탐지를 위한 종양-앵커 심층 특징 랜덤포레스트 프레임워크 RF-Deep (arXiv:2512.08216) [(원문)](https://arxiv.org/abs/2512.08216)
+- **2025-10-01**: FedSurg EndoVis 2024 챌린지: 다기관 외과 영상 분석을 위한 첫 국제 연방 학습 벤치마크 개최 [(원문)](https://arxiv.org/abs/2510.04772)
+- **2026-04-24**: RETFound 파운데이션 모델 기반 망막 안구 원판·컵 자동 분할. 4개 공개 데이터셋에서 90.51% Dice 달성 (arXiv:2508.11354) [(원문)](https://arxiv.org/abs/2508.11354)
+- **2026-04-24**: CDRD 포맷으로 abstract clinical reasoning logic을 캡처하여 CDSS의 유지비 감소 및 일반화 능력 향상 [(원문)](https://arxiv.org/abs/2601.13690)
+- **2025-12**: DARPA Triage Challenge: 컴퓨터 비전 + 전문가 규칙 베이지안 네트워크로 생리학적 평가 정확도 15→42% 향상 [(원문)](https://arxiv.org/abs/2512.18908)
+- **2026-04-21**: 치료 권고에 대한 응답도(responsiveness)와 실제 효과(treatment efficacy)를 분리 모델링하면 예산·접근성 제약 하에서도 공평하고 효율적인 정책 수립 가능 [(원문)](https://arxiv.org/abs/2309.07176)
+- **2026-04-24**: 캡슐 내시경 비디오 진단 기반 요약으로 장시간 영상에서 임상 증거 프레임 자동 추출 [(원문)](https://arxiv.org/abs/2604.21814)
+- **2026-04-24**: Pathology foundation models (Prov-GigaPath)와 ABMIL로 폐암 성장 패턴 예측, κ=0.699 달성 [(원문)](https://arxiv.org/abs/2604.21530)
+- **2026-04-24**: 형식적 프라이버시 보장과 데이터 유틸리티의 균형을 위한 하이브리드 전략(NER/LLM 전처리 + DP) [(원문)](https://arxiv.org/abs/2604.21421)
+- **2026-04-24**: Open-H-Embodiment 공개 데이터셋 — 49개 기관, 7개 로봇 플랫폼(da Vinci, MIRA, Maestro, dVRK 등), 수술/초음파/내시경 절차 [(원문)](https://arxiv.org/abs/2604.21017)
+- **2026-04-24**: 확률적 췌장 조건화와 Transformer 병목으로 코호트 이동 환경에서 종양 분할 범용성 개선. 모델 효율성 유지 [(원문)](https://arxiv.org/abs/2604.20981)
+- **2026-04-21**: 타임스탬프된 임상 관찰(진단, 약물 투약)에서 논리 규칙으로 질병 에피소드와 치료 추론 [(원문)](https://arxiv.org/abs/2604.21793)
+- **2026-04-24**: Persistent homology로 눈추적 시계열 분석 통해 난독증 검출 가능 (Copenhagen Corpus, L1/L2 다국어) [(원문)](https://arxiv.org/abs/2604.21698)
+- **2026-04-24**: AnFiSA 오픈소스 플랫폼으로 유전 변이 큐레이션 시 규제 요건(FDA, EU AI Act) 충족 입증 [(원문)](https://arxiv.org/abs/2604.21263)
+- **2026-04-21**: 임상 시계열의 시간적 진화: 비대칭 기록 프로세스와 Bayesian 필터링 결합 [(원문)](https://arxiv.org/abs/2604.21235)
+- **2026-04-24**: 멀티 에이전트 시스템으로 환자 맞춤형 재활 운동 생성 및 실시간 자세 교정 제공 [(원문)](https://arxiv.org/abs/2604.21154)
+- **2026-04-24**: FHIR 임상 사례: 8B 이하 모델은 Clinical Narrative 포맷이 Raw JSON 대비 F1 +19점 우월. 70B에서는 역전 [(원문)](https://arxiv.org/abs/2604.21076)
+- **2026-04-21**: LLM-guided 시간적 생리 역학 시뮬레이션으로 sepsis 조기 경고의 임상 해석 가능성과 예측 정확도 동시 확보 [(원문)](https://arxiv.org/abs/2604.20924)
+- **2026-04-21**: EHR 정보만으로 glaucoma 위험 예측 (AUROC 0.883, PPV 0.657) [(원문)](https://arxiv.org/abs/2604.20921)
+- **2026-04-22**: 환자 임상 궤적에서 누락된 modality 처리를 위해 LLM 기반 causal decoder와 미싱니스 인식 contrastive pretraining 제안. MIMIC-IV, eICU에서 baseline 초과 [(원문)](https://arxiv.org/abs/2604.18753)
+- **2026-04-21**: LG AI연구원, 조직 병리 AI '엑사원 패스'로 암 에이전트 개발 (AACR 2026 발표) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209523)
+- **2026-04-21**: 병리학에서 기초 모델이 조직의 조합론적 복잡성을 밀집 임베딩으로 표현하지 못해 성능 부족 [(원문)](https://arxiv.org/abs/2510.23807)
+- **2026-04-21**: Principlism 철학 기반의 PrinciplismQA로 의료 AI의 윤리적 추론 능력을 전문가 검증된 3648개 문항으로 평가 [(원문)](https://arxiv.org/abs/2508.05132)
+- **2026-04-21**: AACE (Annotation-Assisted Causal Estimation)로 multimodal EHR (tabular + clinical text)에서 인과적 치료 정책 학습, confounding information 보존 [(원문)](https://arxiv.org/abs/2507.20993)
+- **2026-04-21**: 신경퇴행성 질환(알츠하이머) 치료제 개발을 위한 AI 기반 화합물 예측 모델. 조기 진단 및 약물 중재 시스템 [(원문)](https://arxiv.org/abs/2604.18316)
+- **2026-04-21**: SAM3 pathology: text-only prompt는 핵심 개념 활성화 실패, few-shot 학습 효과 제한적, visual prompt noise 취약 [(원문)](https://arxiv.org/abs/2604.18225)
+- **2026-04-21**: 3D 의료 영상(PET/CT) 리포트 자동 생성에 RoI 그래프 기반 프레임워크 HiRRA 적용 [(원문)](https://arxiv.org/abs/2604.18145)
+- **2026-04-21**: GAN 기반 MRI-CT 도메인 변환으로 라벨링 부족 문제 우회한 전척추 세분화 [(원문)](https://arxiv.org/abs/2604.17846)
+- **2026-04-21**: 혈액 도말(PBS) WSI 해석용 PBSBench 프레임워크 개발: 353개 PBS WSI, 29k 세포 수준 어노테이션, 27k QA 쌍 (arXiv:2604.17570) [(원문)](https://arxiv.org/abs/2604.17570)
+- **2026-04-21**: 당뇨병성 망막병증: Dual-Resolution EfficientNet + Ordinal Regression(CORAL)으로 도메인 간 일반화 성능 개선 [(원문)](https://arxiv.org/abs/2604.17341)
+- **2026-04-21**: Few-Shot Learning에서 logistic chaos map 주입(15%)으로 뇌종양 분류 시 노이즈 불변성 표현 달성 [(원문)](https://arxiv.org/abs/2604.17300)
+- **2026-04-21**: Deep Ultraviolet 형광 현미경과 Region-Affinity Attention으로 유방암 진단 정확도 향상 [(원문)](https://arxiv.org/abs/2604.17222)
+- **2026-04-21**: VLM 기반 망막 이미지 분석을 위한 DREAM 프레임워크 발표 (두단계 fusion: Abstractor + Adaptor) [(원문)](https://arxiv.org/abs/2604.17209)
+- **2026-04-21**: 2단계 DenseNet 프레임워크(DenseNet201-UNet++→ROI, DenseNet121-SelfONN-UNet→기관별 패치)로 MRE에서 10개 위장기관 자동 분할, IBD 진단 자동화 [(원문)](https://arxiv.org/abs/2604.17118)
+- **2026-04-21**: HBR-Net-18: Hadamard U-Net 기반 편향 보정 + ResNet-18 패치 분류로 다중 차원 MRI에서 전립선암 자동 탐지 가능 [(원문)](https://arxiv.org/abs/2604.17107)
+- **2026-04-21**: 뇌 MRI 자동 분석: 두개골 벗김, 등록, 병리 분할(신경교종, 뇌막종)을 단일 파이프라인으로 실행. GPT-5.1, Gemini 3 Pro, Claude Sonnet 4.5 모두 검증 [(원문)](https://arxiv.org/abs/2604.16729)
+- **2025-02-01**: Two-stage multimodal MRI framework로 태아~노년까지 뇌 성숙도를 unified 평가. T1/T2 morphology + white matter organization의 coordinated macro/microstructural changes 포착 [(원문)](https://arxiv.org/abs/2604.16655)
+- **2026-04-21**: PA-TCNet: 뇌졸중 환자 motor imagery EEG 디코딩용 pathology-aware state space model, cross-subject generalization 향상 [(원문)](https://arxiv.org/abs/2604.16554)
+- **2026-04-21**: 의료 영상 분석 모델의 적대적 섭동 취약성 평가에서 ASR 단일 지표의 한계 지적; CNN/ViT 간 아키텍처별 차이 고려 필요 [(원문)](https://arxiv.org/abs/2604.16532)
+- **2026-04-16**: Claude-4.6-Opus 57.2%, Gemini-3-Pro 55.3%, GPT-5.2-xhigh 54.9% (다중 이미지 진단) [(원문)](https://arxiv.org/abs/2604.16506)
+- **2026-04-16**: DINOv2 + 멀티헤드 주의 LSTM으로 제한된 배아 타임랩스 이미지에서 발달 단계 예측 [(원문)](https://arxiv.org/abs/2604.16505)
+- **2026-04-16**: Claude Sonnet 4.6이 날짜/숫자 필드 처리에서 최고 성능 기록 [(원문)](https://arxiv.org/abs/2604.16504)
+- **2026-04-21**: 음성 신호 분석을 통한 ALS 등 신경퇴행성질환 조기 진단 (SAND Challenge) [(원문)](https://arxiv.org/abs/2604.16445)
+- **2026-04-21**: Sleepal AI Lamp (contactless radar): 1022건 overnight 데이터에서 sleep-wake 92.8% accuracy, 4-stage 78.5% accuracy (PSG 대비) [(원문)](https://arxiv.org/abs/2604.16442)
+- **2026-04-21**: 고성능 speech BCI 경험 인원 전 세계 22~31명 → 신경해석 정확도 및 실무 인터페이스 설계가 주 장벽 [(원문)](https://arxiv.org/abs/2604.16441)
+- **2026-04-21**: AF 검출 CNN-LSTM 모델: 중간 샘플링 주파수(100-250Hz)에서 최적 성능 및 안정적 calibration (PTB-XL, 1-D CNN 기준선보다 우수) [(원문)](https://arxiv.org/abs/2604.16437)
+- **2026-04-21**: 2026-04 TRACE: EHR 메타데이터 기반 임상 기록 중복 제거로 47.3% 텍스트 감소 후 정보 추출 성능 유지 (530만 기록, 4개 임상 코호트 검증) [(원문)](https://arxiv.org/abs/2604.16364)
+- **2026-04-21**: Apollo: 7.2M 환자, 25B 레코드, 28개 의료 모달, 12개 전문 분야, 3십년 longitudinal 데이터 [(원문)](https://arxiv.org/abs/2604.18570)
+- **2026-04-21**: Zero-shot 흉부 X선 분류: CLIP 기반 prototype alignment와 병렬 병리 distillation으로 co-occurrence bias 감소, AUC 2-10% 향상 [(원문)](https://arxiv.org/abs/2604.18444)
+- **2026-04-21**: 양쪽 손목 IMU 신호로 파킨슨병 vs 건강인 93.12% 정확도, 질환 간 구별 87.04% 달성 (PADS 데이터셋) [(원문)](https://arxiv.org/abs/2604.18372)
+- **2026-04-21**: PhysioLite로 wearable에서 프라이버시 보존 실시간 생리 신호 분석 가능. Offline inference 기반 clinician support [(원문)](https://arxiv.org/abs/2604.18067)
+- **2026-04-21**: 3.77M 파라미터 경량 모델로 wearable on-device inference 실현. 14-arm evaluation에서 fall-risk prediction과 cross-cohort generalization 입증 [(원문)](https://arxiv.org/abs/2604.18058)
+- **2026-04-21**: 약학역학 프로토콜 평가에서 GPT-4o + LTM prompting이 일반/특화 생의학 LLM을 상회. 프롬프트 전략이 도메인 특화보다 효과적. [(원문)](https://arxiv.org/abs/2604.17988)
+- **2026-04-21**: 의료 연합 학습에서 RuleFit 프레임워크로 해석 가능성과 개인정보 보호 동시 달성 [(원문)](https://arxiv.org/abs/2604.17956)
+- **2026-04-21**: Prior-Fitted Functional Flow: 약동학 희소 시계열로부터 zero-shot 환자 궤적 예측 + 보정된 불확실성 정량화. 실제 데이터 SOTA 성과 [(원문)](https://arxiv.org/abs/2604.17670)
+- **2026-04-21**: 도메인 적응과 불확실성 정량화를 통한 웨어러블 센서 신호 분석 신뢰도 개선 (2026-04-21) [(원문)](https://arxiv.org/abs/2604.17480)
+- **2026-04-21**: Clinical Reasoning Blueprints(CRB) 기반 7개 의료 QA 소스에서 고품질 평가 데이터 생성으로 의료 안전성 검증 체계 수립 [(원문)](https://arxiv.org/abs/2604.17282)
+- **2026-04-21**: LLaMA3 모델이 18개 임상 카테고리의 세분화된 엔티티 인식에서 경쟁 수준 성능 달성 (zero-shot, few-shot, LoRA fine-tuning) [(원문)](https://arxiv.org/abs/2604.17214)
+- **2026-04-21**: 영상(CT/MRI/CXR) + 임상 노트 + 검사 결과 + 생체신호 종합 평가로 진단 정확도, 감별 진단 품질, 추론 능력, 환자 안전성 측정 [(원문)](https://arxiv.org/abs/2604.16980)
+- **2026-04-21**: 임상 이벤트 토큰화 방식(code-value fusion)이 의료 모델 성능에 직결: mortality AUROC 0.891→0.915 개선(p<0.001) [(원문)](https://arxiv.org/abs/2604.16775)
+- **2026-04-21**: 의료 작업의 거래비용 강도는 임상가(높음) > 비임상가(낮음). AI 도입은 자동화보다 작업 할당 최적화에 초점 [(원문)](https://arxiv.org/abs/2604.16465)
+- **2026-04-21**: UMLS 메타시소러스 기반 340만 개념 지식 그래프로 바이오메디컬 LM 적응 연구 (GraphRAG vs 연속 사전훈련) [(원문)](https://arxiv.org/abs/2604.16422)
+- **2026-04-21**: RCT: 의료 데이터에서 LLM과 Random Forest의 상호학습으로 양쪽 성능 향상 [(원문)](https://arxiv.org/abs/2604.16378)
+- **2026-04-21**: 슬관절 골관절염의 구조적 손상과 환자 증상 불일치(discordance) 문제를 다중 에이전트 임상 추론으로 해결 [(원문)](https://arxiv.org/abs/2604.16333)
 - **2026-04-20**: 한국 과학기술부 AI 특화 병원 AX-레디 시범사업: 100억원 2년 지원, 진단·치료·행정 전 영역 AI 패키지 구현 목표 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209488)
 - **2026-03-01**: 의료 영상에서 차등 프라이버시 효과를 인코더 기하학 변위와 스펙트럼 차원으로 분해해 분석 가능(DP-RGMI 프레임) [(원문)](https://arxiv.org/abs/2603.01098)
 - **2026-04-20**: 청진음 분류에서 LLM 정렬 기반 다중모달 접근으로 SOTA 달성 [(원문)](https://arxiv.org/abs/2512.04847)
@@ -57,7 +139,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Deployment]]
+[[Medical Imaging with Deep Learning]] | [[Multimodal AI]] | [[Foundation Models for Physical Systems]]
 
 
 ## 모순/논쟁

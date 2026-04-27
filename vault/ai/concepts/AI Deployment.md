@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: 제조 현장 AI 전환의 핵심과제: 복잡한 환경 대응, 데이터 확보, 성능 검증 및 운영 안정성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209786)
+- **2026-04-22**: Google GDC 기반 온프레미스 Gemini 배포 솔루션 (Cirrascale): 기업/정부 데이터 독립성 확보 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209678)
+- **2026-04-21**: 산돌이 AI 기반 콘텐츠 생산 플랫폼을 Web3.0 기술과 결합한 신사업 조직 '산돌스퀘어' 신설 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209517)
+- **2026-04-21**: 저지연 재해 대응에 위성-지상간 분산 추론 적용 [(원문)](https://arxiv.org/abs/2511.10834)
+- **2026-04-21**: 기업 AI 투자 $252.3B(2024)에도 6%만 수익 창출: 실패는 기술 부족이 아닌 조직(문화, 리더십, 거버넌스, 인-AI 학습) 결함에서 비롯됨 [(원문)](https://arxiv.org/abs/2604.16369)
+- **2026-04-17**: 배포된 LLM의 성능 변화를 추적하는 데이터 중심 평가 방법론으로, 자연적 프롬프트 분포 변화가 신뢰성에 미치는 영향 규명 [(원문)](https://arxiv.org/abs/2604.17650)
+- **2026-04-21**: Edge LLM 배포에서 요청의 컨텍스트 기반 어댑터 효용이 사전 미지이므로 LinUCB 라우터로 온라인 학습 수행 [(원문)](https://arxiv.org/abs/2604.16583)
 - **2026-04-20**: Hyatt 사례: ChatGPT Enterprise로 직원 생산성·운영 효율성·고객 경험 개선 [(원문)](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)
 - **2026-04-20**: 한국 기업의 에이전틱 AI 채택: 금융(카카오뱅크), 미디어(CJ ENM), 클라우드(메가존소프트) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209475)
 - **2026-04-20**: 제조 공정 데이터 기반 휴머노이드 로봇의 산업 환경 최적화 및 양산 계획 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209502)
@@ -48,7 +55,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OpenAI]]
+[[Physical Intelligence]] | [[AI Infrastructure]] | [[Robotic Manipulation]]
 
 
 ## 모순/논쟁

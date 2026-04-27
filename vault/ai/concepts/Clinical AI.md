@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,54 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-02-15**: Multimodal neural operators(FNO, DeepONet)를 외상성 뇌손상(TBI) 바이오메카닉스에 적용, 유한요소 해석 대비 추론 시간 대폭 단축 (arXiv:2510.03248) [(원문)](https://arxiv.org/abs/2510.03248)
+- **2025-08-09**: 개인별 패턴·트렌드 분석으로 저혈당 예방 및 인슐린 용량 최적화 지원 [(원문)](https://arxiv.org/abs/2508.09160)
+- **2026-04-22**: MIMIC-IV-ECG에서 완전 지도학습 능가. 자기지도 패러다임으로 임상 진단 정확도 향상 [(원문)](https://arxiv.org/abs/2604.22618)
+- **2026-04-27**: MIMIC-IV 415K 입원 데이터로 재입원 예측 시 공정성 평가 16개 인구집단 분석 필요 [(원문)](https://arxiv.org/abs/2604.22535)
+- **2026-04-27**: LLM이 스키마 기반 특성 생성으로 EHR 개인정보 노출 최소화 가능 (FeatEHR-LLM, 2026-04) [(원문)](https://arxiv.org/abs/2604.22534)
+- **2026-04-22**: 자해 위험 스크리닝 등 행동 건강 분야에서 다중 에이전트 LLM 파이프라인, DAG 기반 통계 프레임워크로 신뢰성 보증 [(원문)](https://arxiv.org/abs/2604.22154)
+- **2026-04-25**: Answer Set Programming(ASP)으로 환자 기록의 시계열 데이터에서 질병 에피소드·치료·합병증 고수준 이벤트 자동 추론 [(원문)](https://arxiv.org/abs/2604.21793v1)
+- **2025-11-01**: 수술 VQA에서 질문-답변 정렬도를 고려한 불확실성 추정 QA-SNNE로 임상 안전성 개선 (arXiv:2511.01458) [(원문)](https://arxiv.org/abs/2511.01458)
+- **2026-04-24**: 음성 특징 기반 dementia 조기 진단의 비침습적 스크리닝 방법 [(원문)](https://arxiv.org/abs/2502.03484)
+- **2026-04-24**: 다중 에이전트 반사실적 추론으로 감별진단의 명시적 가설검증과 해석가능성 강화 [(원문)](https://arxiv.org/abs/2603.27820)
+- **2026-04-24**: Dr. Assistant는 CDRD(Clinical Diagnostic Reasoning Data) 구조와 RL을 결합해 진단 추론 및 문진 능력 강화 [(원문)](https://arxiv.org/abs/2601.13690)
+- **2026-04-24**: 진단 주도 비디오 요약 태스크(VideoCAP 데이터셋)로 위장관 선별 AI 진단 정확도 향상 [(원문)](https://arxiv.org/abs/2604.21814)
+- **2026-04-24**: 네덜란드 임상 기록의 차분 프라이버시, NER, LLM 기반 자동 개인정보 제거 방식 비교 평가 [(원문)](https://arxiv.org/abs/2604.21421)
+- **2026-04-21**: OncoBrain: graph RAG + hallucination detection (CHECK layer)으로 oncology treatment planning 지원. 5개 암 종류 173 케이스 검증 [(원문)](https://arxiv.org/abs/2604.20869)
+- **2026-04-24**: 메타-프레디케이트 기반 에피스테몰로지적 타입 시스템으로 증거 유형의 적절성 자동 검증 [(원문)](https://arxiv.org/abs/2604.21263)
+- **2026-04-21**: 다중 모드 임상 기록(구조 측정값+임상노트)의 정보를 담은 결측치(informative missingness) 활용 학습 [(원문)](https://arxiv.org/abs/2604.21235)
+- **2026-04-21**: VLM 기반 의료 보고서 자동 생성에서 임상 중요도 기반 토큰 손실 함수 재가중화 방법 [(원문)](https://arxiv.org/abs/2604.21082)
+- **2026-04-24**: DWT 기반 문서 요약으로 임상 텍스트의 의미적 충실도 향상 (BERTScore +2%) [(원문)](https://arxiv.org/abs/2604.21070)
+- **2026-04-24**: Lorentzian 임베딩 기반 HypEHR으로 EHR-QA 벤치마크에서 LLM 접근 성능을 훨씬 적은 파라미터로 달성. ICD 온톨로지 계층 구조를 쌍곡 기하학으로 직접 모델링 (2026-04-24) [(원문)](https://arxiv.org/abs/2604.21027)
+- **2026-04-20**: 2026-04-20: 과기부-복지부, 공공 병원정보시스템 AI-SaaS 전환 사업 추진 (2027년 국립중앙의료원, 서울의료원 완료 목표) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209536)
+- **2025-12-10**: 취약성 프로필별 맞춤 평가로 context-blind 평가자 대비 더 정확한 실제 해 측정 [(원문)](https://arxiv.org/abs/2512.10687)
+- **2025-10-09**: DyReMe: 임상 근거 혼동요인 포함 동적 생성 케이스로 진단 견고성 스트레스 테스트 - 공개시험 기반 contamination bias 방지 [(원문)](https://arxiv.org/abs/2510.09275)
+- **2026-04-21**: Multimodal representation의 causal bias 문제를 annotation-assisted 방식으로 해결, treatment benefit 최대 환자 우선 선정으로 의료자원 할당 효율화 [(원문)](https://arxiv.org/abs/2507.20993)
+- **2026-04-21**: 5개 주요 LLM의 임상 추론에서 racial bias 발견; DeepSeek V3가 differential diagnosis에서 최강 성과 [(원문)](https://arxiv.org/abs/2604.18038)
+- **2026-04-21**: 외부 검증 성공이 다른 코호트에서의 일반화를 보장하지 않음; KL divergence 기반 코호트 간 분포 유사도 평가로 모델 선택성 개선 [(원문)](https://arxiv.org/abs/2604.16537)
+- **2026-04-21**: 배아 선택의 AI: 형태학적 평가 자동화 및 환자 설명 가능성 강화 [(원문)](https://arxiv.org/abs/2604.16528)
+- **2026-04-16**: 단일 뷰 해석에서 교차 증거 통합 다중 이미지 진단 추론으로 현실 임상 프로세스 반영 [(원문)](https://arxiv.org/abs/2604.16506)
+- **2026-04-21**: 임상 예측 모델의 교차적 편향 감시 및 반사실 진단 분석 (All of Us 데이터셋) [(원문)](https://arxiv.org/abs/2604.16450)
+- **2026-04-21**: 다학제 임상팀과 ML 전문가의 협력으로 음성 기반 진단 알고리즘 개발 및 검증 [(원문)](https://arxiv.org/abs/2604.16445)
+- **2026-04-21**: 의료 응답 완성도 평가에서 LLM Judge의 AUC가 0.49-0.66으로 낮음: 의사와 LLM의 판단 이유가 일치하지 않아 자동 평가 활용 불가 [(원문)](https://arxiv.org/abs/2604.16383)
+- **2026-04-21**: 2026-04 임상 의사결정 지원 LLM 배포 시 템플릿/복사-붙여넣기로 인한 '노트 팽창'이 계산 비용 증가 + 신호 희석. TRACE 파이프라인으로 효율화 검증 [(원문)](https://arxiv.org/abs/2604.16364)
+- **2026-04-21**: 노인 돌봄 플랫폼에서 장기 메모리 모듈을 통해 personality drift를 감소시켜 임상 신뢰성 향상 [(원문)](https://arxiv.org/abs/2604.16343)
+- **2026-04-21**: Virtual patient representation으로 100K+ 의료 이벤트 + 이미지/텍스트의 통합 임상 개념 학습 [(원문)](https://arxiv.org/abs/2604.18570)
+- **2026-04-21**: 정신 진단 표준화를 위한 미세조정 LLM 컨소시엄 모델, 클라우드 기반에서 로컬 실행으로 전환 [(원문)](https://arxiv.org/abs/2604.18302)
+- **2026-04-21**: RePrompT: 시간 정보와 코드 정체성을 보존한 구조화 EHR-LLM 통합 프레임워크 [(원문)](https://arxiv.org/abs/2604.17725)
+- **2026-04-21**: O-information을 이용한 고차 뇌 상호작용 분석으로 정신 질환 진단 정확도 향상 [(원문)](https://arxiv.org/abs/2604.17713)
+- **2026-04-21**: Neuro-Symbolic framework: multi-agent system과 SAT solver로 multimorbidity guidelines의 conflict 자동 탐지 [(원문)](https://arxiv.org/abs/2604.17340)
+- **2026-04-21**: MedPRMBench: 의료 추론의 14가지 세밀한 오류 유형(단순성/건전성/감수성)을 4단계 심각도로 분류하여 평가하는 첫 의료 PRM 벤치마크 [(원문)](https://arxiv.org/abs/2604.17282)
+- **2026-04-21**: 의료 자연어처리: 입원 기록, 퇴원 요약, 응급 사례 등 비정형 임상 내러티브에서 세분화된 엔티티 추출의 임상적 필요성 [(원문)](https://arxiv.org/abs/2604.17214)
+- **2026-04-21**: 연속 혈당 모니터링(CGM) 데이터 기반 개인화 Q&A 에이전트로 자가관리 지원 (arXiv:2604.17133) [(원문)](https://arxiv.org/abs/2604.17133)
+- **2026-04-21**: Frontier LLM이 임상적으로 정확하지만 인용은 조작/무관(최고 15.3% 관련 PubMed ID). HEG-TKG(4,512 PubMed 기반 시간적 지식그래프, 1,280개 질병-궤적 마일스톤)로 100% 검증 가능한 인용 달성. 기준 대비 피처 커버리지 동일 유지 [(원문)](https://arxiv.org/abs/2604.17114)
+- **2026-04-21**: Tree of Concepts로 개념 의미론을 유지하면서 distribution shift에 대응 가능. 의료 데이터의 비정상성(non-stationary) 문제 해결 (arXiv:2604.17089) [(원문)](https://arxiv.org/abs/2604.17089)
+- **2026-04-21**: 10개 multimodal LLM을 남아프리카 3차 병원 539건 입원 사례로 평가 (300건 전문가 판정, 10,000회 이상 LLM jury 채점) [(원문)](https://arxiv.org/abs/2604.16980)
+- **2026-04-21**: OC-Distill은 임상 진단 관련성을 반영한 온톨로지 기반 대조 사전학습과 임상 노트의 맥락 정보를 활용한 크로스모달 증류로 ICU 위험 예측 성능 향상. 추론 시에는 생리신호만 필요 [(원문)](https://arxiv.org/abs/2604.16878)
+- **2026-04-21**: 입력 표현(quantization, temporal encoding) 결정이 예측 성능의 상한을 결정하는 핵심 요소 [(원문)](https://arxiv.org/abs/2604.16775)
+- **2026-04-20**: EHR free-text에서 LLM으로 frailty, goals of care, mental status 같은 unmeasured confounders 추출 후 propensity score model 직접 augment가 best performance (MIMIC-IV 21,859 sepsis 환자) [(원문)](https://arxiv.org/abs/2604.16763)
+- **2026-04-21**: CT Open: 임상시험 결과 예측 live 벤치마킹 플랫폼, 연 4회 challenge로 미공개 trial만 평가 [(원문)](https://arxiv.org/abs/2604.16742)
+- **2026-04-21**: 표형 데이터(CatBoost), MRI 이미지(ResNet18), X-ray 이미지 임베딩을 통합한 불일치-인식 다중 전문가 의사결정 시스템 [(원문)](https://arxiv.org/abs/2604.16333)
 - **2026-02-01**: 프로토콜 정보 추출 자동화로 임상 연구 코디네이터(CRC)의 업무 효율성 향상 및 compliance 강화 가능 [(원문)](https://arxiv.org/abs/2602.00052)
 - **2025-09-13**: 다층 시각화와 통계 표현으로 임상 신뢰도 향상, 위치 측정 오차 80픽셀 [(원문)](https://arxiv.org/abs/2509.13590)
 - **2025-07-20**: 소규모 종단 임상 데이터에서 심층 학습이 통계 방법과 경쟁 가능, 텔레모니터링 응용 [(원문)](https://arxiv.org/abs/2507.20058)
@@ -63,7 +111,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[RAG (Retrieval-Augmented Generation)]] | [[Medical AI]]
+[[Medical AI]] | [[Physics-Informed Neural Networks]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,40 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 전통금융 기업의 대규모 채택 가속화 [(원문)](https://thedefiant.io/news/markets/microstrategy-buys-3273-bitcoin-255-million-ptqepo)
+- **2026-04-27**: 주류 금융 ETF를 통한 채택은 확대 중이나 온체인 수요는 부정적 평가 [(원문)](https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags)
+- **2026-04-27**: 암호화폐 투자 상품으로 주간 $1.2B 유입, 4주 연속 상승 추세 지속 [(원문)](https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-27**: 선물시장 약세는 가격 상승 국면에서 정상적인 시장 신호 [(원문)](https://www.coindesk.com/markets/2026/04/27/as-the-bitcoin-price-rises-futures-may-look-bearish-but-they-re-not-analyst-says)
+- **2026-04-27**: Fidelity Digital Assets, Bitcoin이 암호화폐 시장 안정화를 주도하고 있다고 평가 [(원문)](https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization)
+- **2026-04-27**: 기관 자산화 가속. Treasury yield 9.6% 환경에서도 지속적 매입 [(원문)](https://bitcoinmagazine.com/news/strategy-mstr-expands-bitcoin-holdings)
+- **2026-04-21**: Strive Asset Management, $61.4M 투자로 BTC 789개 추가 매입, 총 14,557 BTC 보유 [(원문)](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury)
+- **2026-04-21**: Block이 Bitkey 지갑·Cash App Bitcoin 기능·Proof of Reserves 통합 출시 [(원문)](https://bitcoinmagazine.com/news/block-bitcoin-ecosystem-with-bitkey-wallet)
+- **2026-04-27**: Satoshi coins 재배분 제안 및 커뮤니티 저항 - blockchain 합의의 한계 노출 [(원문)](https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft)
+- **2026-04-26**: 560만 BTC 동결 제안 시 역사상 최악의 단일 재평가 위험 [(원문)](https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing)
+- **2026-04-26**: 고래 대량 매수 포지션 구축 중, 펀딩 비율 심하게 부정적 [(원문)](https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative)
+- **2026-04-26**: BlackRock 비트코인 ETF가 거대 마일스톤 달성 - 주류 채택 가속화 [(원문)](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)
+- **2026-04-25**: 2026-04-25 현물 ETF 9일 연속 유입 $2.12B, 기관 투자자 강한 신뢰 신호 [(원문)](https://cointelegraph.com/news/spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: 양자 컴퓨팅 발전 시 Satoshi 100만 BTC 포함 총 620만 BTC 탈취 가능성 - 대응 시간 제한 [(원문)](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)
+- **2026-04-21**: Paul Sztorc가 eCash 하드포크 제안 (새 layer-1 + 7개 layer-2 스케일링 솔루션) [(원문)](https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: 미국 주 단위 Bitcoin ATM 규제 강화, Tennessee 사례 [(원문)](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)
+- **2026-04-25**: Nakamoto, Bitwise, Kraken 파트너십으로 Bitcoin derivatives 옵션 프리미엄 생성 및 treasury 헤징 프로그램 런칭 [(원문)](https://cointelegraph.com/news/nakamoto-taps-bitwise-kraken-bitcoin-options-strategy-hedge-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: 암호화폐 주식과의 강한 상관관계 (BMNR이 pre-market 선두) [(원문)](https://news.google.com/rss/articles/CBMiuANBVV95cUxQdllHd0REenBIZkRmTDRRWWgyZjJQWUtBUGpsVGxkcTJoSm9tLUhsVlE4MEFxdml4dVhhNFlZejBHYVJGQnc1TDBxQ084UHBidmxsQjJ0cGt1R1RuZF92RUh6YzdSQVNmSUlLc09sTU9oU3JfUWZRSXMxdWw1RXItcERDNS1TNHZwNmRNbWdvdTFEMEpRdTJ3eGlzdC1sbHhDUG9TTXlpRGxCLXVuMzRmenZyT0ZuRlByLU9OaUhXT2xMWWRoVFAzaF92S0FVZE8wZUg2Q3czdnlMUmVjeHUzcWthaXFpVTJmUmxWak5pdTJkeG9SV2tRcFBDellZSE00dlpRTGR3SGhJVUJPM21PVkl2dHpLWHRvZzJRVDFTWFFRVl9qcnEwdXhxdWNfNWM2UWtxQk1temxOUHhDdkJGZ3V6ZXdFbGNyazBTWjl3MHowaXEwVllzYVFzeVFWX0lfT0V5WlhOUTg1UkxrVm1Hc0xYeEN1T0pjQ2xIX1c5YmxZYWtnenJDNjlsOVRNTTJUNTNzVkhib0ZPX1dKUjN5enVlRnJWbVlSUWNQWTlTcDFGU3dqcm1MZA?oc=5)
+- **2026-04-21**: Project Eleven의 양자 컴퓨터, 15-bit 타원곡선 키 파괴 공개 시연 (이탈리아 연구자, 1 BTC 수상) [(원문)](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+- **2026-04-21**: 2024년 4분기 이후 최대 월간 수익률 달성, 월말 종가 $77.5K 목표 [(원문)](https://cointelegraph.com/markets/bitcoin-price-set-for-best-gains-since-q4-2024-with-77-5k-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: Michael Saylor 주도 '비트코인 겨울 종료' 선언, 전문가 일부 동의하되 보수 의견도 병행 [(원문)](https://www.coindesk.com/markets/2026/04/23/michael-saylor-says-the-bitcoin-winter-is-over-some-experts-agree-with-caveats)
+- **2026-04-24**: Bitcoin과 USD 간 근 4년 만에 최대 규모 역상관 관계 형성 [(원문)](https://www.coindesk.com/daybook-us/2026/04/24/bitcoin-dollar-move-in-near-perfect-opposition-it-hasn-t-been-this-extreme-in-almost-4-years)
+- **2026-04-24**: Metaplanet, 혁신적 펀딩 구조(무이자 채권)를 통한 대규모 Bitcoin 매입 확대 [(원문)](https://bitcoinmagazine.com/news/metaplanet-issues-50m-bonds-bitcoin)
+- **2026-04-24**: Nakamoto Inc., 변동성 소득 창출 + 하방 리스크 헤지 목표의 Bitcoin 파생상품 프로그램 출시 [(원문)](https://bitcoinmagazine.com/news/nakamoto-bitcoin-derivatives-program)
+- **2026-04-24**: MSTR의 대량 보유 Bitcoin 판매 가능성으로 인한 시장 변동성 우려 [(원문)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2ozNXJnb2xJbDI5eGlKaWY0YXVPZk9zcEU5eXhtVjhNZUJnUFpmMUtseTRLU0s3SzNfc2R0TjBJMGtHX2NwN3VDN3p6WGppTVhUR3FzdElidG1vdlk5c0FKRWdHdUhZamVoX2lZSUZNLUh2Z0lpR0tjX3pRa29XRUpuaHpVYnZ3?oc=5)
+- **2026-04-24**: 일본 인플레이션과 이란 전쟁 관련 지정학적 불안정이 가격 조정 압력 [(원문)](https://www.coindesk.com/markets/2026/04/24/bitcoin-rally-is-stalling-as-japan-macro-adds-to-iran-war-driven-market-jitters)
+- **2026-04-22**: 바이낸스 유입량이 2023년 이후 최저 수준, 강세 신호 [(원문)](https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: Warsh 청문회 및 US-Iran 협상 교착으로 인한 가격 정체 [(원문)](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)
+- **2026-04-21**: 고래들이 45,000 BTC 축적, 기관 자금 유입 증가. 가격 ~$76,000 [(원문)](https://bitcoinmagazine.com/news/bitcoin-whales-accumulate-45000-btc)
+- **2026-04-21**: 마이크로스트래티지(Michael Saylor 회장), $2.54B 추가 매수 [(원문)](https://decrypt.co/365006/morning-minute-saylors-2-54b-buy-buoys-bitcoin)
+- **2026-04-21**: Morgan Stanley 현물 ETF 출시 - 제도권 금융 기관의 직접 진출 [(원문)](https://bitcoinmagazine.com/news/morgan-stanleys-spot-bitcoin-etf-tops-139m-in-assets-within-nine-days)
+- **2026-04-21**: Admiral Samuel Paparo(인도-태평양사령부 사령관), Senate Armed Services Committee에서 비트코인을 '국가 전력 투사의 유효한 컴퓨터과학 도구'로 공식 평가 [(원문)](https://bitcoinmagazine.com/news/pacific-commander-calls-bitcoin-valuable)
+- **2026-04-21**: 현재 변동성이 한국 KOSPI보다 낮음 (기관 채택 증가 배경) [(원문)](https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now)
+- **2026-04-21**: 기관 포트폴리오에서 MSTR이 주요 자산운용사 초과 [(원문)](https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying)
 - **2026-04-20**: 2026-04-20: 화석연료 인프라의 폐기 에너지를 활용한 마이닝 프로젝트 확산. 채산성과 환경 간의 균형 모델 [(원문)](https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin)
 - **2026-04-20**: 트럼프 대통령의 정책 성명 5건이 가격 움직임 주도 [(원문)](https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week)
 - **2026-04-20**: KelpDAO 해킹 후 $76K 대 반등, DeFi 유동성 이탈과 역상관 [(원문)](https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack)
@@ -68,5 +102,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Mining Supply Pressure]]
+[[Strategy (MSTR)]] | [[Polymarket]] | [[Mainstream Adoption]] | [[Asset Allocation]] | [[Prediction Markets]]
 

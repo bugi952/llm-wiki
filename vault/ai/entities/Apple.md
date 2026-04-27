@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-19
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-21**: Apple Neural Engine(ANE)은 모든 Apple Silicon 칩에 탑재된 전용 신경 처리 장치 [(원문)](https://arxiv.org/abs/2604.18788)
 - **2026-04-19**: WebAssembly 기반 zero-copy GPU 추론 기술 공개 [(원문)](https://news.ycombinator.com/item?id=47820195)
 - **2026-04-23**: ICLR 2026(4월 23-27, 리오데자네이루)에 AI 연구 논문 발표 예정 [(원문)](https://machinelearning.apple.com/updates/apple-at-iclr-2026)
 - **2026-04-17**: Darkbloom으로 Mac 유휴 GPU를 활용한 개인 정보 보호 추론 기술 개발 [(원문)](https://news.ycombinator.com/item?id=47788542)
@@ -18,5 +19,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Private Inference]] | [[On-Device LLM Inference]] | [[Model Efficiency]] | [[AI Deployment]]
+[[Mixture of Experts]] | [[On-Device LLM Inference]] | [[Model Efficiency]]
 

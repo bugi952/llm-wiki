@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,23 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-05**: Western Union USDPT 5월 출시 (디지털 지갑 + Stable Card 통합) [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
+- **2026-05-01**: Western Union USDPT: agent-to-agent 정산 전용, 소비자 거래 미지원 [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
+- **2026-04-27**: 유럽의 은행권 스테이블코인 경쟁 심화: SocGen, Sygnum, 12개 은행 유로 컨소시엄과 경쟁 [(원문)](https://cointelegraph.com/news/mica-licensed-banking-circle-joins-bank-stablecoin-settlement-race-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-27**: B2B 국경 간 스테이블코인 결제 시장이 2035년까지 5조 달러로 성장할 전망 (Juniper Research) [(원문)](https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035)
+- **2026-04-27**: Western Union, USDPT 스테이블코인으로 송금 서비스 디지털화 추진 [(원문)](https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-25**: 월스트리트 기관의 stablecoin 채택 확대: 모건스탠리 MMF 출시로 기관투자 수요 증가 [(원문)](https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers)
+- **2026-04-24**: Morgan Stanley의 펀드 기반 스테이블코인 지원 구조 도입, 최소 $10M 투자 진입 요건 [(원문)](https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: Morgan Stanley, stablecoin 산업 준비금 관리자 위치 구축 추진 [(원문)](https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry)
+- **2026-04-24**: Aave의 USDC 유동성 문제로 Stablecoin-DeFi 상호작용의 리스크 노출 [(원문)](https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis)
+- **2026-04-24**: MoonPay, 뉴욕에서 fiat-to-stablecoin 가상계좌 서비스 출시 [(원문)](https://cointelegraph.com/news/moonpay-launches-fiat-to-stablecoin-virtual-accounts-in-new-york?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 규제 위험: 스테이블코인 발행자가 미국 법 집행 요청에 응하여 자산 동결 가능 [(원문)](https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-22**: DoorDash 같은 주류 소비자 플랫폼이 스테이블코인 결제를 공식 채택 [(원문)](https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra)
+- **2026-04-22**: USDT 시가총액 사상 최고치 달성. DeFi 사용자들이 산업 위험에서 벗어나기 위해 USDT 선호도 증가 [(원문)](https://decrypt.co/365049/tether-stablecoin-dominance-over-circle-usdc-major-crypto-hacks)
+- **2026-04-22**: Nium이 Coinbase 인프라를 통해 USDC 국제 송금 기능 추가 [(원문)](https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: DoorDash, Stripe, Paradigm 등이 Tempo stablecoin 결제 협력 [(원문)](https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: 영국, 스테이블코인 및 토큰화 예금 관련 결제 규칙 개편 추진 [(원문)](https://cointelegraph.com/news/uk-plans-payments-rule-changes-for-stablecoins-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-21**: DoorDash가 Stripe 기반 블록체인으로 대중용 stablecoin 결제 제공 [(원문)](https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain)
 - **2026-04-20**: Tangem Pay로 USDC 기반 소매 결제 서비스 Polygon에서 출시 [(원문)](https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay)
 - **2026-04-20**: Mastercard, SoFiUSD를 통한 카드 결제 시스템 테스트로 메인스트림 결제 사용 사례 확대 [(원문)](https://cointelegraph.com/news/mastercard-stablecoin-settlement-sofiusd-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 글로벌 규제 조화 부재로 시장 분열 위험 증가 (BIS 경고) [(원문)](https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks)
@@ -25,7 +42,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tangem]] | [[Polygon]] | [[Mainstream Adoption]]
+[[Traditional Finance Integration]] | [[CBDC]]
 
 
 ## 모순/논쟁

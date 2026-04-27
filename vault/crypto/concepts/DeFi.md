@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,13 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: NFT 시장 거래량 및 활동 사용자 수 감소, 상위 컬렉션으로 집중화 [(원문)](https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall)
+- **2026-04-21**: UTXO Management, 이중 클래스 디지털 신용 소득 펀드 출시 [(원문)](https://bitcoinmagazine.com/news/utxo-management-dual-class-digital-credit)
+- **2026-04-26**: 2026년 대규모 익스플로잇으로 $13B 손실 후에도 생존력 유지 [(원문)](https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus)
+- **2026-04-21**: 'DeFi United' 연합이 rsETH 백킹 복구를 위해 43K ETH 약속 (Mantle, EtherFi, Golem, Lido, Ethena, LayerZero 등) [(원문)](https://cointelegraph.com/news/defi-protocols-pledge-43500-eth-kelp-exploit-rseth-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-24**: 시장이 48시간 내에 DeFi 전체 평가 재정렬 [(원문)](https://www.coindesk.com/opinion/2026/04/23/the-market-repriced-defi-in-just-48-hours)
+- **2026-04-22**: 크로스-프로토콜 익스플로잇: 브릿지 공격이 다른 프로토콜의 이차 공격으로 전파 [(원문)](https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit)
+- **2026-04-21**: 기관 담보 구조의 정규화: 오프체인 담보 모델로 암호화폐 파생상품과 기존 금융의 융합 진행 [(원문)](https://cointelegraph.com/news/bitmex-zodia-custody-tighten-post-ftx-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 해킹 그룹의 새로운 집중 공략 대상, 보안 위협 증대 [(원문)](https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit)
 - **2026-04-20**: KelpDAO 사건 후 TVL 130억 달러 급락, DeFi 보안 취약점 재조명 [(원문)](https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit)
 - **2026-04-20**: Kelp 해킹으로 리스크 재인식, 사용자 신뢰도 하락 [(원문)](https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters)
@@ -34,7 +41,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Lazarus Group]] | [[Exchange Security Incidents]] | [[Geopolitical Security Threats]]
+[[Yield Farming Strategy]]
 
 
 ## 모순/논쟁

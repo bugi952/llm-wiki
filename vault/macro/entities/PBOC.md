@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,29 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 중단된 정부채 거래 재개 선언 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXVwMFpjdllKWUJLUUhMTlN4ME9CX0NLMmZjak1FU3Q3b25NWTlqZVRmZU9WMjRkNS03czNtb3NzLWpKbzdlbGVzZjluakxEeUZHOV9lY3NCcXJ5X21sVGdXTWdOQXU4QUhBN0Q2VjlkN1lZRXRrVWRFUWFkamR2S0RYaGl2cE1RdHJULWpzU2xTR21vNTBTZzlvMk91czJTM3NoTXdhXzdyTGhNM3c?oc=5)
+- **2026-04-27**: USD/CNY 중심가 7.0230 설정 (전일 7.0288) [(원문)](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDlaRUoyVWZrSXdpalRfUmpYeDJMZTFtR1U1Z3lyTTk1M3NVbXJiazc4R1NFaDNIWVN3UzVNSlJzVGNYZV9DT0xOT2ZqMG5rajI0eHQ4TGpxeTA0Yk4yTzdfeVljeEpVVEFQNnh2czRPZ3cxSlQ4YTFTSTFJQWw2SEZOdzJHVU83dExMWURvUjdPZlZwVUdnb0xzUDNFeE1BVEdMLWF4YlRFNExoMjBFcVlsYUhCR1JDR1lrOU9QOTlvVlljLVE?oc=5)
+- **2026-04-27**: 시장 유동성 과잉 제거를 위해 다층 정책 도구 동원 중 [(원문)](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVFtQk03MnFXV1plTnZreWtrNG1WUTgyTlZCZ3dWZTF1S2RhdVRqaWM3cUNPQnZoSjVfaEFUQW1rOERJUTVOTDVhb2w2WWcyT2R3WktCSnpZQmJUUTc2WWRXUGdzMDhrakZFTGc4emMzck53dXpWTlZZc2JfUDVpUEpja2hUa21OYmgtZnJtVWp3R1phR0NNaTN4NzU5dGdGUlZRY3ZBMWNjUXlacEctOHFDT1lrdw?oc=5)
+- **2026-04-27**: 공개시장조작으로 20억 위안 유동성을 흡수하여 금융 안정성 유지 [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHQklCSjF4dUhHVGxlYTUwdWRmakpDa3JlbXFqdk5fQUhTeGpocWRYOWh0SlBELURiUHVIVkYtVmRJNU4wMkdSSU05aHF6MXNXYlBJTG1qNXU?oc=5)
+- **2026-04-27**: 디지털 위안화 강화 액션 플랜 발표 (2026년 1월 시행) [(원문)](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnNZY1l1eGwzODJ6b0NHdVJ2RXNVYmpfb1o4a2pJNk5pWm1yc1VrNXFSR1ppODNUdloyWF9Cdmd6WE1FVUFPLUtMU0pqWDd3Vlo0R0lQTDh2Q1BzYmNyakJDb0Z6U3piYnlyZWR2YW11OFdUbnpBUjBmc0R2Vzg3aQ?oc=5)
+- **2026-04-27**: 역입찰 218.5억 위안 순증액 주입 [(원문)](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOEYxVldXd1EtMXhQUGw4cG5qeGdWek9JUHQwbzJTcUtVbFhGTWkxV2IxLVNnd0U1dTBQT0R2V3RQZHdRYVdha01IZHJQYWwzV0VlRDlpZU5YdV9uT3hUWXRlS1cxcFlzMko0MS0za1A?oc=5)
+- **2026-04-27**: HKMA와 협력해 Payment Connect 결제 시스템 출시 [(원문)](https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3pmbmJDSjNmUkNOLUNzNlFqOFBEYS13eEVXQndqN1hYMURQOEVkVkgtUG81NDJCMU9aY2hBSGpWajZqUlBGRTZQRUljaDcwV3l4RllSS2pjbmlGbENLNVcwYzVSN01mMXE4WjQ4b2E5ZWZsR1N2bTdZdXZ3ZGVXY01VVQ?oc=5)
+- **2026-04-27**: 기준금리 동결로 경제 안정성 중시 신호 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PN3hjSFFqd0lqZDNhdXdIUXZCOFN0eHl5blZCVTdTLTZHNG05TmE5QjRBZEFKUXhfRjhCeG5Gc3Y3dUlSYVVqRVlVdllyaDJYSmpsTERxeTYzZVVYTmfSAWNBVV95cUxOQ19VVTlGTzZ1bV9tWXMwVFhfa0dORlZoYVhDY2JLci01b2lTY2tYcFVyd00zbmdSYW5KdjFYTzdTTmRGSFVBdDJMdTlldFo3Q2ZZWjBWS2hoLTZLUzAwY2FHSWM?oc=5)
+- **2026-04-27**: 적당히 느슨한 통화정책 기조 유지 약속 (국무원 공식) [(원문)](https://news.google.com/rss/articles/CBMifEFVX3lxTE5pMEhla0VseEhIN2pibVF6dGNILTdxeTF4MHhXTmotaWpTMm1UbWRZQWdxUkpPYmNCMW13R2pfWmJNQ21PM29rMDVDOU92N3JfUy1IaHE5QkQtLUFRNWtFc2lxWjNXZXEzbEhRZXFqa21VZk5KcThzYzMyUno?oc=5)
+- **2026-04-26**: 6월 역매입 재무오퍼레이션 제2차 실시로 현금 유동성 공급 계획 [(원문)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0o5dVBoQlNkTEhqcnAyWWF6VktpQVJHQU5Mbmx1Y3liZDBWeFZQb0N1MGJMUllFOFE2REdzdDZhVXFYSVB4TjBRUEt4eHJLV1p0YXNtOFVZS2N3RzZuQU9rRHJQbWZUVHBuaUc0MVBGaGFDdTRLdFY4ZDZCYk4xRkFuTUYyT0l3clJqVXU2aU16eFdvc05CcGk1NmVWQXhydXNGaGJEX3RvTEVqLXkzYzZJdjBXeW9XRjgxdg?oc=5)
+- **2026-04-26**: USD/CNY 기준환율을 6.8648로 조정 (통화정책 신호) [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zbTlSVXFXamFwcjByZm5QUFZyRWVxLU9OTEhoOXdRYXNYRWx3NmJIbjRFMTIxdmZ1YW9taHBja2FSNXhueGgxcXA1eFVqbk0?oc=5)
+- **2026-04**: FX 리스크 예비금 비율 0%로 인하 [(원문)](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGgwVEpqcVZYSnEyZ01vNFVnbHNKTWgzbVhnRVlTQ1QyMVdCcWtyYzgwVXFxT0xIR0hIdk5fZm5qZHRkXzNuTENHMTFPY0hlSjZJMXRpQXk2eFp2amdxOTFmVjlKUUV1Ynk3d2RaamdfRktEQmtNeDNFVVJ2aS0tdmk2UWdjUdIBiwFBVV95cUxONW9NQWVHV1hsUTc4NHd5aVY5d2ZYa0dYc0FmRVFndUtQZVdLNHJyMW5ocEtmWnZuQkN2eGNNekdGUHRFaFpPN3pCZDBDalpLbUVqcEg4aU5FZVNyVlYwdVNMTEZ5SXU1cFZMaTRkbTM0SERxZ25aZy14VldIZGtpdWFtNzJha01oYVRZ?oc=5)
+- **2026-04-25**: 중국 중앙은행, 경제 성장 지원을 위한 충분한 유동성 유지 정책 발표 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUpDQmJleDFnVGp1OWI3TEhJTGVsQ1Fudjh5b1FueEVHa21uNkhyd1dUdmZsOTRuSUNidjNleWFLNkNpQTlURlNoeC1RZGJURHNDcElldER1clRja2ZNOTltZXRsR1c0WEpZMWR0M2VrZXJDS29zYnBqSVJTd29RODdwbTFrSmZsSGNBNDN2eEJuY2lCRWdyY2FDdVBaZ0hCX3doWWpsems5Wjg1aTBFcUtCZzVpbzFLSjNrOWM5ZVc?oc=5)
+- **2026-04-24**: PBOC, 가파른 수익률곡선(steepening) 편향 정책 지속. 중국 산업 활동 안정적 수준 유지 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZVFZfUjI3clZMamZBbTZYYldpTU1iYURiVFh2dU1HOUZqRG5WRjVHV2hkOWx3b0RDOGRDMWV0OTlFOVdKeGpiSw?oc=5)
+- **2026-07**: 7월 금 매입으로 9개월 연속 보유량 확대 [(원문)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXJzdk1jM21sTzBSbHFaMGJZRWwyazNTdzBJWFQ4MGU5dlZVaDlLRjhNTklJYTBlZGRtMFBsUXFOaklRblhlOTJNRmlZWnpUR00tMXJZeUo4QV9qNXVZMUdsWlUxVmdRcXp6X1pGMUZRaENsWFpZTzViTGF1Rno1cmh1Tkx4YjZ1aTNaNW94VW95UDdyazliZWlYLXJla2tMSC1IUnotVDBPcVRoM2o5d0UyQkk2d09Z?oc=5)
+- **2026-04-21**: 2026년 초 중단했던 국채 매입 재개. 완화적 정책 기조 복귀 신호 [(원문)](https://news.google.com/rss/articles/CBMif0FVX3lxTE03U0UwYkdwWElrOG9qWUJ2bW1qSHhQUnJQTWFDSlVmalBOUE5lV1lwMEYwN0NDSzFrbFhZTE5DT0NBeWswaGN6SGU2TktLMEJhLTZlRWRFQ2pwTVhaWVRkWGh6dlFKNXJCcG1TZ0ozbGdSazJtVWc0aS1TOEk0ZUk?oc=5)
+- **2026-04-21**: 2025년 통화정책: 전략적 표적 완화가 광범위한 인하를 압도 [(원문)](https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQ1YySVVCdlpmQ0lKMy1FdEE2aDZwMVFvenZ0OEw0WENvRXVNdUpKRnkyeG81ZFZZYVZwcVdiTHNZU0NOUzRjdHFONTE1bV9uYndsOGdEbHFoc1JvbXJMbUVuMVVhaWJCU2FHMEo3cDNOQzhxcWd2aHFVTzlUUlE?oc=5)
+- **2026-04-21**: 2026년 1분기 재정지출 가속화로 경제 성장 견인 추진 [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGtabjBYaEJxY1Y4WXllVUNqalFZTmxIeG54Vm5uOVljeEtFTmtjVmV6cHduZDlWeGtMOFNFZFRVMmVQeXZMMHJfeHV3cWIwZ3ZDbUdxM3Qwa09RVEt2TjBPSmJPenV5c1ljSHlwUGNmdE9KalJVaWhlbmJfMDd5THdfZ19kTlVGd3BYY09IaGJOcWtTSTQ2ZGJheEQyLUpFRE1ra0l0T2Y5ME85SlI2ZnhkME1hVUtBY2hIYXZCMUlrNkU?oc=5)
+- **2026-04-21**: 유동성 과잉 상황에서도 현금 주입으로 채권 시장 부양 [(원문)](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXMGhJT0piZ0RjSnAzME1VTFBYb01NbHBWSXpBVVJVRlRSYlF3YUpzcHNpa3VEdlZKWkMwOVFMTHR2cUZpXzRZZTR5X0tTdFptSV84?oc=5)
+- **2026-04-24**: 2026년 4월까지 17개월 연속 금 매입 진행 중 [(원문)](https://news.google.com/rss/articles/CBMiwwJBVV95cUxNU1ZvUHR4TnBaYnNIYnpKOUxHR0hBTFNCNkYxTlBtaF9SM3dUUk0wSHdfTy03VkNtZ0hjV0NGUnVKbF9tbm9DU3FaR0tqVm1VOUVnQ3ZSX1hJQlBDSFFSOEpvZjV0dlp0WFFOc0kwTGxoNmRMVFZJaldoeV96NTROMXJKMy00TmlmNjlTbU9YMzlHWFZIdUxaMXBabU5pOElFUUFKaUl5dTgtTnJLZTJGTFMwUUlzQUNUbnF1TU43MXVzWlpUWnVoeHI1WWl0M1NpU3EzaUJyUUNSWXRvckhXbmx6SGV0YWZrRWZNX3JOYmRPTklvcUdmWnNTa080SlMtRWlqLW1ZeER0cjFLZ2wycjh3YjdMUjVTTWlxWHpYQzBjcGhVNW5NZW53aTA1cDJNWDVCZ3hzYTNxckJtdWs3STloUQ?oc=5)
+- **2026-04-21**: 2026-04-21 기준금리 3% 유지 결정 [(원문)](https://news.google.com/rss/articles/CBMizgFBVV95cUxPXzd0V1U4TUkxMUVxV3owNGUxZlN4cnpxb0tEaFozMW0xaXBNTVFzRU9RRzkwS2pBa00zOXB2TmpxQ0VfeHRoaFBfelp6TlVhSmtQNGZsU2Z0alJodkVrTUZNRDBOUV9fX2NMaGxxOHBYWXRobkdyMDhGUzJFRlpRUHljeGpEYjZyN0F3QWdXWUNDZF9YX1dnSDN2UlJ3SWlzSjFfWnFlRDlyY25vN0ZqREEyZWg0Nm5Ta19ZWV9xcFJwUVQteXVKM1NOLUNWQQ?oc=5)
+- **2026-04-21**: 2026-04-21 유동성 흡수(drain) 조치 시행 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUTlVX3ZiZUNmQVJHbVRQMjc5dVFrT0FKNU90eXhZQ21QWWRmdHA3WDZsQkJTaFh2a3BqTEgtNnd1WTVEbDkzamstOXlQaFlHZWFFZkJ3QUYwVWhObWxXazlyRVlEME42NDJaSHEySi1CaWxTSXQtZzZ2Z21EQUp4engxVy1CTzhIV2FN?oc=5)
+- **2026-04-21**: PBOC, 연속 2일 역레포로 통화 유동성 충분함을 시장에 신호 [(원문)](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSXBOMFB2QnZCNHgwT0Z1eEU2bURFQ0tZMHNrY095em9FaEpFa0Z2YWwyWFY4cVRNZVJTVW03dnpGMnp2ajRlWDhzZnMzbHVYcXNYSThUNHpkVm9hVXdBMVZicDFDbGtjNldsczJ1UHZJV3pEWGIwNVkzM29uNlF1dE5va0p1Q3pQUkJnV1dqM1huOEgyUDY4LVE4RUNNd2lEREJRQ2JZdW5hTGJPbGxOYQ?oc=5)
 - **2026-04-20**: 2026-04-20: 통화정책만으로 디플레이션 해결 불가능 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRCdG9pY2dhbXhDREs0Rjc2bE9kdjBBMlpYLUV4MDB6U2FlY1d3TWYwUnZEbkh0VVZoUlhpZm9zWUdIcnJuNWxaUy0zSDRVU3hBQXE1WktuLXNzaG1zekk5OWFEbUdCQ0xYblJ3Uko4ZmJUNW80cVVLZ3JiVmxnSGVTVFlhX2xJaUZXYy1ucTdaelJTYzRDY3NYVEpSeFNjcWF1YWwwS3JBVVZPaHhnXzV0TDHSAboBQVVfeXFMTVBaa2xsaEtySC1HLUpRdkU4VE03UHRrVHVFcnBVdnYxRzZURHpPM0g2YTV1T2l4X3B1WVZlWVpPcDVKdHRIQnBfSDZxUGI2Q05XSWRwZjRlczRqbkFzdkZmdXN1VkZCV3JBZ2UwTHFnSWlNNkd2OUtGQXpDZGJKYlBmQ29oNWdibGRMd25jRHk5RGJzUE1FQVdNTlNzZHprZjBIZ2JKN3VrdjdaeXNEaFdpdjRLcjNXbV9B?oc=5)
 - **2026-04-20**: 금 매입 연장을 통한 외환보유 다양화 전략 지속 [(원문)](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHNNY1FRYXNNVkpyMUxaTjA2NFNQcHhHMHFuenlMajh3M3F4WnpjSUtib0lRWUhZRVJqcUtYMndPcEpDUEhPSG43cFQxdnE5MGlnNFBGRzliWDdjRGU2NUd4TjEzV0QzSXQzdE5nbk9qZ2ZsNFI4VDVpNTNMbFhPSXpLRThyZw?oc=5)
 - **2026-04-20**: 발표 이후 NZD/USD가 0.5900 근처까지 회복, PBOC 정책의 환율 영향 확인 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFByak4xai04NjZfVlVqYU1fa3R2Z0szbWFHbVFsemtFZFJvWkFzSzYwazVWVF8xNjRsaHgzWUhkbnphNjhQMWduUVpWMlE1X2NXQ3RjVVRXQ2ttX3FoZXfSAWNBVV95cUxQUjhiZmU0OGFlZ01tTWNIYkd5ZjBJSl82WUVJYThyOEVIOHZRSnN5VzRyMDBzN005X0JIY084OGk5Sm92ajJQc1NMam1iVFVGRjFfUWxQTzhwWnR3NmZnRnhwYXM?oc=5)
@@ -38,5 +61,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Monetary Policy Transmission]] | [[Financial Stability]]
+[[Monetary Policy Transmission]]
 

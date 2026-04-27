@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-21
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-21**: 2026-04-21: HIP4 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xqeEx4YVQ1YjRnQkpMVkdPcjM5cGNoTHVJem80dTZhdllHaUdWZmk5TC1wekoyQ1IxcXBNYlYyTmc1Y29vWU96ZUVaUDIzSzFxYlBwQlhoeVo5LXBmTGExUGluTXNDNjhGaWpsVlh0eEVJQzQ1bnlrdHdxSm5iZ29tRUUyN0FNV0NMTkQ2NXBxQ0E2YndxNWtXTGplbWI1LVhqb1dvR2JheHhNZ2pGc01lRlpSSVpWb2lKdlR3?oc=5)
 - **2026-04-20**: HYPE 토큰 목표가를 $150으로 예측 [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmdzTkxhNVJ2ZkhVUFg0dVNpOWlxS0RUQTgwMk5TLU5nTWs2MWxRbnVPaVl6UnlIVzNtQXcySDZoZXRPOW05OVFPeTVlVTg2ekloOTcxV0dvMUdQcFFwMFVHZ0lrMnU4MG02aVd4OTNKMFVaanNsUmNRLWxXaXJEVXVrekFseGtZdmVOSV9VNG1EZlVuZzFMcG5ycFlBYkF1anpqMGtWS2MwM2J5NjB1eGtkM0JnZHRyS0U0MGRzN000cWVtVVhhUXJSNHJDY3NfTEpweEc3UkFVdFVybmQw?oc=5)
 - **2026-04-19**: Hyperliquid에 $1.1M 투자 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CVW1Lc3ByV0hHV0tHaEp2b3M1aExSTldHMlZtTU9rMmctbVF2OV9LWW5LNnI5WlJiM2ZhY3pOYk9UZjdOVkdnOA?oc=5)
 - **2026-04-19**: HYPE 토큰을 유일한 매수 대상으로 공개 입장 표명 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNjOEhmMmVLM0wtZXhvQXpuY0FneENRdHN5N2hzSlhObHNuT0VyVVVYcDV1YVlPYWY5S3pXUjhYVlNHalFoSmRwaTNEcjA0VUI0TXZ4YnpYZTkxTjhSWUs1c1Z1SGRsQXRnMUJqNkFzWHpSdlgxOWh5amhvOEp0NU9nbEg1TV9jbHdId2ZFOERKZ0IwX2fSAZsBQVVfeXFMUFNvQWhOM05LQ3lrdEMwWEFKRGRWOVhzMW1SMFdsb2hla0VRWllRVlI0YmNpaGExN2p0TEFqdC1uMnFqTFRBQzdMVVoxa1R0NzFMOHJEYVQxQlU0T3RPaG9mOXRlR18zODVHbUstTkRtX05ORXlCbmdLYVRXUk5RQ0JMZy1TYWtTR0thUGdJYTNHYUtabjhSSUEtd1k?oc=5)
@@ -21,5 +22,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]] | [[Chainlink]] | [[Mainstream Adoption]]
+[[Hyperliquid]] | [[HIP4]]
 

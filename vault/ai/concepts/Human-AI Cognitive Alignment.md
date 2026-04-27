@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2025-02-01**: 행동과학, ML, 인터페이스 설계 통합으로 사용자의 점진적 의도 형성 지원 필요 [(원문)](https://arxiv.org/abs/2604.21827v1)
+- **2026-04-24**: Cognitive Amplification Index (CAI*), Dependency Ratio (D), Human Reliance Index (HRI), Human Cognitive Drift Rate (HCDR) — 하이브리드 성능과 인간 역량 유지도 측정 [(원문)](https://arxiv.org/abs/2603.18677)
+- **2026-04-21**: 행동 과학 기반 사용자 의도 형성 지원이 정렬의 필수 구성요소 [(원문)](https://arxiv.org/abs/2604.21827)
+- **2024-11-06**: Generative AI 기반 human-AI interaction은 social cognition에 더 가까운 hybrid cognitive process 형태 [(원문)](https://arxiv.org/abs/2411.06812)
+- **2026-04-21**: 사용자는 LLM과의 협업에서 오해 진단, 암묵적 가정 재구성, 반복적 응답 수리 필요 [(원문)](https://arxiv.org/abs/2604.18096)
 - **2026-04-20**: GIST PREFAB: 핵심 감정 기록만으로 전체 감정 흐름 복원, CHI 2026 Honorable Mention 수상 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209461)
 - **2026-04-20**: 2026년 AI-HCI 연구에서 인간 인식론적 주권 방어 연구가 13.1%로 급락, 자율 에이전트 최적화(19.6%) 추세에 의해 억압 [(원문)](https://arxiv.org/abs/2603.21735)
 - **2026-02-11**: 저자 전문성과 응답 전략을 피어리뷰 응답 생성에 반영하는 author-in-the-loop 패러다임 도입 [(원문)](https://arxiv.org/abs/2602.11173)
@@ -22,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Safety]] | [[LLM Safety Alignment]] | [[AI Regulation]]
+[[LLM Safety Alignment]]
 
 
 ## 모순/논쟁

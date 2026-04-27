@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-20
+last_updated: 2026-04-27
 source_count: 0
 ---
 
@@ -11,6 +11,12 @@ source_count: 0
 
 
 ## 주요 발전
+- **2024-10-16**: 다국어 CFT에서 Phase 간 작업 유사성에 따라 망각 정도 결정됨 [(원문)](https://arxiv.org/abs/2410.16006)
+- **2026-04-21**: Tree Generation으로 SFT 단계에서 기존 코퍼스로부터 합성 교육 데이터 생성, 모델 무관으로 지식 보존 가능 [(원문)](https://arxiv.org/abs/2406.11354)
+- **2025-11-27**: In Situ 압축: 스케칭을 명시적 정규화로 활용하면 기존 학습 데이터의 정확도 유지 [(원문)](https://arxiv.org/abs/2511.02659)
+- **2026-04-21**: 과제 간 데이터 분포 변동을 명시적으로 모델링하면 추정 오차 상한 도출 가능 [(원문)](https://arxiv.org/abs/2604.17578)
+- **2026-04-21**: Forget-Me-Not 프레임워크: 정책 재생과 오프정책 작업 데이터 혼합으로 기본 능력 보존 [(원문)](https://arxiv.org/abs/2604.17429)
+- **2026-04-21**: Eigenspace 분해 기반 task-variant direction 억제로 task-invariant semantic structure 유지 [(원문)](https://arxiv.org/abs/2604.17257)
 - **2026-04-20**: SLE-FNO 아키텍처로 유체역학 모델의 기하/경계조건 변화 대응 시 재앙적 망각 완화 [(원문)](https://arxiv.org/abs/2603.20410)
 - **2026-01-05**: CLewR: 다중 반복 커리큘럼(쉬운→어려운)으로 쉬운 예제의 망각 완화 (Gemma2, Qwen2.5, Llama3.1) [(원문)](https://arxiv.org/abs/2601.05858)
 - **2026-04-20**: 얼굴 합성 위변조 탐지에서 의미론적 앵커(Artifact-Driven Semantic Prior)로 catastrophic forgetting 해결 [(원문)](https://arxiv.org/abs/2604.16207)
@@ -24,7 +30,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Continual Learning]]
+[[Fine-tuning]] | [[Continual Learning]] | [[Low-Resource Language AI]]
 
 
 ## 모순/논쟁
