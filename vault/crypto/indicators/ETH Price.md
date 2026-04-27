@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # ETH Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-27
 
 
 ## 이력
+- **2026-04-28**: BitMine의 대규모 ETH 보유가 가격 $2,200 이상 지지 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdsNHVZbzVvLXo1cXAyZGVrdzFGX0Y1WlQ4OFgtekRfQmFWbkpubkhQeTN4RnpVVy00LTBxM0YyWkt3b05PODMtYUpXZnFlSXlsWnZ3MnhkRjN5ZDE4b3lnOWJsMm1qbTl1R0FTRkVjWmpneUFyek93T3RjX0RjbmxVRzRESDdud09SeEJyclhIcE11eVJpQWJPZFBmWFFtUEVTaG9SYldRUUhDaFBJbjBJakxEdUFKRGM4ZUVfUWNYbl84a2RweXZ3YVhYN0wzUFlnVWhvVlNCT084bmIycl9ENGFnQQ?oc=5)
 - **2026-04-27**: 4월 10% 상승했으나 Ethereum Foundation의 판매 압력으로 향후 15% 이상 하락 신호 [(원문)](https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-24**: 2026년 4월 현물 ETH ETF 10일 연속 유입 $633M, $3K 돌파 가능성 [(원문)](https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 기관 자산 집중화로 인한 유동성 감소, 시장 분산화 저해 가능성 [(원문)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcS03cElUdkl0bXVMSWxfcnNaVFpDMU01bWx5ZjZOZTM4blJHNmVkNWtjS211UFB4UC1LWWh0aUVsQl9QNWFGLTJ0OFVFaVV6RTZxbzBiTVVWQ2x5ZjYyQVpQRWltU3N1V2htU2kyaHJYZGtEWGk0TjJaeDYycWg2V3FCekFPbkk?oc=5)

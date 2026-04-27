@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-27**: Solana 개발팀, 양자 내성 암호화 도입 로드맵 발표 [(원문)](https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats)
+- **2026-04-28**: Marathon Digital Holdings가 비트코인 양자위협 및 네트워크 복원력 대응 재단 설립 [(원문)](https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation)
 - **2026-04-25**: 비트코인 채굴량의 약 33%에 해당하는 620만 BTC가 양자 공격 취약성 노출 [(원문)](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)
 - **2026-04-25**: 양자컴퓨터가 15비트 타원곡선 암호 키 파괴 성공. 암호 관련성 비트코인 커뮤니티 논쟁 재개 [(원문)](https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 양자 컴퓨터의 15-bit ECC 키 파괴 성공 - 비트코인 Q-Day 현실화 신호 [(원문)](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
@@ -23,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Quantum Security]] | [[Quantum-Resistant Cryptography]]
+[[Solana]] | [[Quantum-Resistant Cryptography]]
 
 
 ## 모순/논쟁

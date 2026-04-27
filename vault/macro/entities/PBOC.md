@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: RMB218.5B 규모의 역레포 공급으로 같은 날 RMB218.0B 순유동성 증가 [(원문)](https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNDBVOEplU3FaaVRPQTA5LU5BeVZKYjlHT0doQXY3ZTlZNEMzN2ZyMTczN3BWUVM0eXRjYjNUV0E5TUNQU1B5OUw1SE9wb25WMEZqNjA0YWlaekl4dWRLa1J0WlJXY1NCRFNyVTJVSQ?oc=5)
 - **2026-04-27**: 중단된 정부채 거래 재개 선언 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXVwMFpjdllKWUJLUUhMTlN4ME9CX0NLMmZjak1FU3Q3b25NWTlqZVRmZU9WMjRkNS03czNtb3NzLWpKbzdlbGVzZjluakxEeUZHOV9lY3NCcXJ5X21sVGdXTWdOQXU4QUhBN0Q2VjlkN1lZRXRrVWRFUWFkamR2S0RYaGl2cE1RdHJULWpzU2xTR21vNTBTZzlvMk91czJTM3NoTXdhXzdyTGhNM3c?oc=5)
 - **2026-04-27**: USD/CNY 중심가 7.0230 설정 (전일 7.0288) [(원문)](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDlaRUoyVWZrSXdpalRfUmpYeDJMZTFtR1U1Z3lyTTk1M3NVbXJiazc4R1NFaDNIWVN3UzVNSlJzVGNYZV9DT0xOT2ZqMG5rajI0eHQ4TGpxeTA0Yk4yTzdfeVljeEpVVEFQNnh2czRPZ3cxSlQ4YTFTSTFJQWw2SEZOdzJHVU83dExMWURvUjdPZlZwVUdnb0xzUDNFeE1BVEdMLWF4YlRFNExoMjBFcVlsYUhCR1JDR1lrOU9QOTlvVlljLVE?oc=5)
 - **2026-04-27**: 시장 유동성 과잉 제거를 위해 다층 정책 도구 동원 중 [(원문)](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVFtQk03MnFXV1plTnZreWtrNG1WUTgyTlZCZ3dWZTF1S2RhdVRqaWM3cUNPQnZoSjVfaEFUQW1rOERJUTVOTDVhb2w2WWcyT2R3WktCSnpZQmJUUTc2WWRXUGdzMDhrakZFTGc4emMzck53dXpWTlZZc2JfUDVpUEpja2hUa21OYmgtZnJtVWp3R1phR0NNaTN4NzU5dGdGUlZRY3ZBMWNjUXlacEctOHFDT1lrdw?oc=5)
@@ -61,5 +62,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Monetary Policy Transmission]]
+[[Monetary Policy Transmission]] | [[Targeted Easing]]
 

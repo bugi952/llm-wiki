@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 챗봇 생성 콘텐츠의 법적 책임성 이슈 대두 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209799)
 - **2026-04-26**: 캐나다 매니토바주, 청소년 대상 AI 챗봇 사용 금지 정책 추진. 소셜미디어와 AI의 주의력 '해킹'에 대한 규제 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209766)
 - **2026-04-26**: 중국, 모델 출시 일정을 국가 기술 자립 정책의 일환으로 운영하는 신호 제시 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209785)
 - **2026-04-27**: 한국 정부, Google DeepMind와 기술·인프라·인재 양성 협력 (생명과학, 기상·기후 분야) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209809)
@@ -63,7 +64,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Safety]] | [[AI in Education]]
+[[Legal AI]] | [[Jailbreak Detection]]
 
 
 ## 모순/논쟁

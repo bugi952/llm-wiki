@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 미국 주 정부 AI 규제 지지 입장 표명 (xAI와 상반) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209768)
 - **2026-04-22**: Claude Opus 4.6: EIR ~0.2%로 자가 교정 통해 +0.6pp 성능 개선 (7개 모델 중 유일한 non-degrading 사례) [(원문)](https://arxiv.org/abs/2604.22273)
 - **2026-04-25**: Google로부터 총 최대 400억달러 투자 계약, 기업가치 3500억~3800억달러 평가, 컴퓨팅 인프라 확장에 집중 투입 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209736)
 - **2026-04-24**: Claude Opus 4.7: Vending-Bench Arena 벤치마크 평가 참여 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209711)
@@ -52,5 +53,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[OpenAI]] | [[Self-Correction]] | [[Prompt Engineering Framework]] | [[Cost-Aware Model Selection]]
+[[xAI]] | [[AI Regulation]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Tether, 분산된 mining 시스템 통합을 위한 오픈소스 프레임워크 공개 [(원문)](https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: Lightning Network가 온라인 게임 수익 정산의 실시간 레일로 사용 중 (Voltage 보고서) [(원문)](https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts)
 - **2026-04-27**: 전통금융 기업의 대규모 채택 가속화 [(원문)](https://thedefiant.io/news/markets/microstrategy-buys-3273-bitcoin-255-million-ptqepo)
 - **2026-04-27**: 주류 금융 ETF를 통한 채택은 확대 중이나 온체인 수요는 부정적 평가 [(원문)](https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags)
 - **2026-04-27**: 암호화폐 투자 상품으로 주간 $1.2B 유입, 4주 연속 상승 추세 지속 [(원문)](https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -102,5 +104,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Polymarket]] | [[Mainstream Adoption]] | [[Asset Allocation]] | [[Prediction Markets]]
+[[Tether]] | [[Mining Supply Pressure]]
 

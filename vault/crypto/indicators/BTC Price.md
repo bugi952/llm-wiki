@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # BTC Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-27
 
 
 ## 이력
+- **2026-04-28**: 핵심 기술적 지표 약세 전환으로 랠리 피로 신호 포착 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish)
 - **2026-04-27**: Bitcoin ETF 9일 연속 순유입 $2.1B (9월 이후 최장 기록, 2026년) [(원문)](https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags)
 - **2026-04-21**: 2026년 4월 암호화폐 ETF 누적자산 최고치 갱신, $933M 순유입 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february)
 - **2026-04-25**: 4월 월간 최고 수익률 경신, USDT 유입 $5B 주도 (2026-04-25) [(원문)](https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound)

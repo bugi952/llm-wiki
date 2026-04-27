@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 # HYPE Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-27
 
 
 ## 이력
+- **2026-04-27**: 예측 시장 계획 발표 후 20% 가격 급등 [(원문)](https://news.google.com/rss/articles/CBMikANBVV95cUxPN2pYd3IxTkE4ZVRoNmVSTmNfWE1hSjFmZE45UGRmbE5pRmQxWFVhVUFNV2puOFBQZ0tfZUpKLXpGVHlhNlZGOURZSHFQR3RyUzV2dV82bmtQOXN3RnA4SjhscXR0LXdYcVhDMXhBRHlUaGNhdEhQMHlJM2dEUkJKOHN6TTVWT0VxZW1JMm5mNnZaZkhrbE9WRml5Y1Q1bG9uTTNPdEVJUU50am9JUjRZZjkwdVluMWx4Sk9UNF9ZN1pYc0lFX0VmT2JCME5MZmVsOGloWnJFNEFVTkJSRC1CRUFiYWdDYnhlQkNkMmY5UFVaNnB4M2tGaHFBaVRUZklmUXNickI4aHNfRTRKSVVZRXJNczVkbDFrMnl1S1VpRFV2MmdFX3V3WFpBejU1SHJwdzBiSFo3ZUVFMF81bS1vbEYzbkQ1aU45cG5yNWg2bnpVMC13M08zS0tsb2xWYkZnaWIzZmtvZGtwZkZEbXRWWTV6MUhHeXQzeXBhRWVIbWs5VlA3d09RdW5MWTdxLXNw?oc=5)
 - **2026-04-27**: HYPE 토큰이 $50 저항선 근처에서 Golden Cross 패턴 형성 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kb3ptX0RCeGdMN0VVTE9NM2hWd0NtQnBCLUpKc1o1QVlyMzYtNVhfUFpCX3lMazVJTWMzTUJuMGtSN2dUQ2tkMlpWOWNrVzdMX2k2c3NjWmpxMkh2aWM3UlFkYUs?oc=5)
 - **2026-04-27**: 고래가 72K HYPE ($30.6M) 축적 - 시장 강세 신호 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZjF5c29qMXBjRE1uVVlrdmRLdk8wSVlwa19tN0Z3MUY1WFNtSFlFdmtwQS1BdWFQSDRxbHFEbVAtMDYtdW9NZWZnTVo5TE42M3gxaUJTZmJkbXk0VVdKRlE1LXhURkhfRE9v?oc=5)
 - **2026-04-27**: $40 이상 유지 중. Leverage 증가로 청산 위험 상존 [(원문)](https://news.google.com/rss/articles/CBMiVEFVX3lxTE90NlNFbmZaOXU1M1U2Sl8ybzZXX2JnWG1UOGNTQVcwZ3FzQjdiRFVra1dqRHltQlFxQUQ1VFBQaTFrS2FHN1ByWE5fRE1NNFB0dXJyYQ?oc=5)

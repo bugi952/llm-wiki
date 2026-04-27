@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Gemini 거래소에서 AI agents 직접 거래 실행 사례 (Claude 포함) [(원문)](https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents)
+- **2026-04-28**: OpenAgents가 Bitcoin 기반 분산 컴퓨팅 네트워크 Pylon 구축 중 ($1.3M 펀딩) [(원문)](https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network)
 - **2026-04-27**: Solana에서 연속 청취/해석/거래 실행 가능 (Elfa AI) [(원문)](https://thedefiant.io/news/blockchains/elfa-ai-solana-agent-execution-36pr2y)
 - **2026-05-01**: Western Union USDPT가 agent settlement를 명시적 목표로 설계 [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
 - **2026-04-26**: Alchemy CEO: 암호화폐는 인간이 아닌 AI agents를 위해 본래 설계됨 [(원문)](https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo)
@@ -21,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Solana]] | [[AI Infrastructure]]
+[[Gemini]] | [[Claude Models]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,14 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 101,000 ETH 추가 취득. 발생 손실 $6.5B 상황에서도 자산 축적 지속 [(원문)](https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: ETH 보유량 444만 개, 암호자산 및 현금 보유액 99억 달러 [(원문)](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTk9HVXQtR3FiVTJQcVBxbzdzcE1iOUp5b2tyTjhsWEJFNkRRUjZmUk9Uamh6UWprQ0xVMjVsRFRzYU03OTF6a2NuWEM5N1A3NHZRUEYzWldycmI3Tmp2TGtJcjROdTBEbjB2RHpFZHZGakdMNHJNRGhPcTJxV2ZSSjVBcDh0dGZrMFlQLVF2Y3dmZjRHdkc1ZjhiRG1TSGdWQzNyNjBKU2tycFJrbHhoTEJrQ0RLQVFGZE5IVXpsMk9CUkp4WVN1bURXSEYyMXI4b3FPNTJ1YWtiOEpod3d4RF9YemF3MUdieDN4UEV4SEdZSVA0bGx3SnduMFpIeDU4Z0JHYW11ZDZUYzZra0p4TGhOb0ZoVGR6eGYxeEtRMGNuVnVmMTVGb0FB?oc=5)
+- **2026-04-28**: 2026년 최대 규모 ETH 매입, 누적 500만 ETH 도달 [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOE9lV1FUclBfUGVsZzMzd2NNTEJPUmIyWmZZOWlWMlRFQXJxZUFGR2NodW1hOUtPbUR6X3JxcW9NSnA5d2ZROEJKeEZKUDA3Mldqdnh2VVVWZw?oc=5)
+- **2026-04-28**: 101,000 ETH 추가 매입, 미실현 손실 $6.5B 보유 중 [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1pNcC1WNG4yN2JqSmE5d3BFRWhiaWxEem1ZQ2JadExMQXdLXzFrdnpnQnF5NHVwQzROQnY4UkFTdFpLVnJENkNGSlFSMklZMW9NXzVaY1R3RFJxVWJsR01ZZEVnV0Y4Z1M4NzZkbEVCZnJDTk5CWjdTbUUzWjFoVDUyTDl4TmlvQTZhZDNmMVg5TjNnOFpBZVhFUmFNcmFxYTdFSWl3bHoyTHdZYllmQlhKNC15N1lBRHFSWFBvdk9lWDRV?oc=5)
+- **2026-04-28**: Tom Lee가 5M ETH 달성을 'wartime 자산 보호' 전략의 성공사례로 평가 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DczY5VWlKWExocU94cHlnUnZSdm8xMUMwZG9pem1vNGNTNnBfQmtqdDJCdTc4WTVYTXBOZUplQU5tSGpHcUhUZg?oc=5)
+- **2026-04-28**: December 이후 최대 규모 ETH 매수를 통해 5.078M 보유 달성 [(원문)](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWVRRWhDeE5XUi1GSVJiODZTTi00czFTX2lpaWViR19yekd5MzhuRkQzV2dodFVWajNkNVpSRXdqOGRxanUxaUtMbExPMXg0RndhR3FWd09HNTNfbmlnczdobVFQQ0VfN3RzalZLWEdtMFg2U3JHdDJFa2VzbU04alo5QUxYU0JrRFV5ZkJ4aGZBeTdIaVA2dkxQS2M1X0NmcTlfakxEMmM1aEk2cFpqaTZYV0tVZw?oc=5)
+- **2026-04-28**: $13.3B 자산 기반의 ETH 스테이킹 규모 성장 확인 [(원문)](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZZbHNzNFNib0ZZLS1TcEpxSVpVUzNNeUh1UDVoYXV2eDVmNEJwV0YwckJ2bnZIMVZKcGJYOGNUeFdZU0hwSGtmTFFXd0RzdTdfTXZQbC1CNXgzeHZGZU44eTBBTVRxLXR0RFJMRlFPTVhHd3dpNGJtdDhEelU4Z0ZFYmtyN0tSdWk3MTNCMXJLaWM?oc=5)
+- **2026-04-28**: 5.08M ETH 보유, 총 자산 규모 $13.3B 달성 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjR4OWpreUVlaGZwbGJRU3BidElVc0xMQmlGdDFaMnYxQlZMSUlJX2VORnI2Z083TnRJcHpPbWZmR3p2OFItTUswS0dGRXBPUTlpWVpPOWV6OTQ3TXFzemJFT0RuaHgyV2JEU1VuMFdZYjkxaHJDX0p2SkhGbnQzNVpSdzlicjdsbEpHWUVSUmtSRmV1S1NfSWZDSDJnMG95Q0tMNTBDZVFxcWJyVlZaMHZaZ1JvUmYwd2d3TVVkay0?oc=5)
 - **2026-04-27**: 5M ETH 보유 달성 (2026년 최대 단일 매입) [(원문)](https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone)
 - **2026-04-27**: $236M 규모 이더리움 매입 [(원문)](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)
 - **2026-04-21**: 분석가 Tom Lee, ETH를 '전시 저축 수단 최고'로 평가; BitMine 매입 가속화 중 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEVRVU9yYkNxbVNOQ1RqWkFmY2xqZlRVMnZTd1dfaUh1d1lJRWpPTl9TRkxHUXJMcDlOUXVoV2s1T2szSk5FckJKcDBwbFRPa1VzVHlmQ1dQMHFTSk04ci1kQm5tRGo1NUl6cmlpakhfTVJaT3l6RW10eEZqSHVUNktveERiZTM2Xy01NUVWLXJkZnlsTEFHbHRQYWlfSUNDQ2RqbkdQU0NPdw?oc=5)
@@ -143,5 +151,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Mainstream Adoption]] | [[Asset Allocation]]
+[[Bitcoin Treasury Companies]] | [[Asset Allocation]] | [[Ethereum Staking]]
 

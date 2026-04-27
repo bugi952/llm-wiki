@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: AI 챗봇 응답이 법정 증거로 인정되는 기준에 관한 법적 논쟁 발생 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209799)
 - **2026-04-25**: 국내 모텔 약물 살인 사건에서 ChatGPT 대화 기록이 범행 고의성 증거로 활용됨 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209505)
 - **2026-04-24**: Multimodal Chain-of-Thought와 RAG로 법적 지식을 통합한 MLLM(AITP)이 교통사고 책임 배분에 활용 가능 [(원문)](https://arxiv.org/abs/2604.20878)
 - **2026-04-22**: LegalBench-BR: 브라질 법률 텍스트 분류 벤치마크 (3,105개 판례). BERTimbau-LoRA 87.6% vs GPT-4o mini의 행정법 F1=0.00 격차로 상용 LLM의 구조적 편향 노출. [(원문)](https://arxiv.org/abs/2604.18878)
@@ -23,7 +24,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Regulation]] | [[LLM Detection]]
+[[AI Regulation]] | [[Jailbreak Detection]]
 
 
 ## 모순/논쟁

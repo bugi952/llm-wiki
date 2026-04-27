@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: FedRAMP Moderate 인증 획득 (ChatGPT Enterprise, OpenAI API 대상) [(원문)](https://openai.com/index/openai-available-at-fedramp-moderate)
 - **2026-04-27**: Microsoft와의 독점 및 수익분배 계약 종료 [(원문)](https://news.ycombinator.com/item?id=47921248)
 - **2026-04-27**: ChatGPT Edu 출시: 교육기관 전용, 강의자료 생성·맞춤형 튜터링·데이터분석 지원, 학습 데이터 활용 제외로 프라이버시 강화 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209760)
 - **2026-04-22**: o3-mini: +3.4pp (EIR=0%), o4-mini: ±0pp, GPT-5: -1.8pp 하락 (자가 교정 적용 시) [(원문)](https://arxiv.org/abs/2604.22273)
@@ -39,5 +40,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Microsoft]] | [[Agent Economics]] | [[AI Fairness & Economics]] | [[AI Deployment]]
+[[AI Regulation]] | [[AI Deployment]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 네트워크 양자 위협 보호 계획 개발팀 공개 [(원문)](https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats)
 - **2026-04-27**: Elfa AI: 실시간 모니터링 + 조건부 거래 자동 실행 플랫폼 출시 [(원문)](https://thedefiant.io/news/blockchains/elfa-ai-solana-agent-execution-36pr2y)
 - **2026-05-01**: Western Union, USDPT 스테이블코인 5월 출시 (Solana 기반, SWIFT 대체) [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
 - **2026-04-25**: 2026년 4월 MACD 지표가 강세 신호 발생, 저항선 $90 [(원문)](https://cointelegraph.com/markets/solana-confirms-bullish-signal-last-sparked-100-sol-price-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,5 +26,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Autonomous Onchain Agents]] | [[AI Infrastructure]]
+[[Quantum Threat]] | [[Quantum-Resistant Cryptography]]
 

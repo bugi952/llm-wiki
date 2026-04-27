@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 상원의원 Cynthia Lummis: 명확한 규제 부재 시 '게임 오버', 정치 변화에 따른 규제 복귀 우려 [(원문)](https://bitcoinmagazine.com/news/lawmakers-warn-crypto-clarity-usa)
+- **2026-04-28**: 공화당 의원들, 미국의 암호자산 약점이 중국 경쟁력 우위를 초래한다고 경고 (Bitcoin 2026 컨퍼런스) [(원문)](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)
 - **2026-04-26**: Trump, Mike Tyson, Tether CEO와의 프라이빗 이벤트에서 암호화폐 입법 옹호 [(원문)](https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo)
 - **2026-04-25**: 스테이블코인 발행자의 정부 요청 동결 권한 행사 (테더 사례) [(원문)](https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: Trump 정부, Federal Reserve 임명 장애 제거 - 암호화폐 친화 정책 신호 (2026-04-25) [(원문)](https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve)
@@ -39,7 +41,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tether]] | [[Crypto Regulation]]
+[[Bitcoin]]
 
 
 ## 모순/논쟁

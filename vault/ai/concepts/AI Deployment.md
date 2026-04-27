@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: GitHub Copilot 사용량 기반 요금제 도입으로 개발자 도구 상용화 모델 전환 [(원문)](https://news.ycombinator.com/item?id=47923357)
 - **2026-04-27**: 제조 현장 AI 전환의 핵심과제: 복잡한 환경 대응, 데이터 확보, 성능 검증 및 운영 안정성 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209786)
 - **2026-04-22**: Google GDC 기반 온프레미스 Gemini 배포 솔루션 (Cirrascale): 기업/정부 데이터 독립성 확보 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209678)
 - **2026-04-21**: 산돌이 AI 기반 콘텐츠 생산 플랫폼을 Web3.0 기술과 결합한 신사업 조직 '산돌스퀘어' 신설 [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209517)
@@ -55,7 +56,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Physical Intelligence]] | [[AI Infrastructure]] | [[Robotic Manipulation]]
+[[Agentic Software Engineering]] | [[Financial AI]]
 
 
 ## 모순/논쟁

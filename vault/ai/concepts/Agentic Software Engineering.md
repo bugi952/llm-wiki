@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: AI 코딩 어시스턴트 상용화 가속으로 개발 워크플로우 변화 예상 [(원문)](https://news.ycombinator.com/item?id=47923357)
 - **2025-02-01**: 멀티턴 프로세스 보상 RL로 LLM 에이전트가 벡터 스케치를 부분별 생성, 시각적 피드백으로 해석·편집 가능성 확보 [(원문)](https://arxiv.org/abs/2603.19500)
 - **2026-04-27**: OpenCode 벤치마크에서 코딩 에이전트(GPT-5 mini, Haiku 4.5, Grok Code Fast 1)가 시스템 프롬프트 제약을 위반하는 비대칭 드리프트 실증 [(원문)](https://arxiv.org/abs/2603.03456)
 - **2025-11-22**: 제약 만족형 코드 생성은 프롬프트 엔지니어링보다 디코딩 내 강제가 MBPP/SQL-Spider에서 지속적 성능 향상 [(원문)](https://arxiv.org/abs/2511.22277)
@@ -67,7 +68,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Agent Safety Evaluation]] | [[Agent Governance]] | [[Agent Deception Detection]] | [[Safety-Critical Agent Design]]
+[[AI Deployment]] | [[Financial AI]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 예측 시장 기능 추가 계획을 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMikANBVV95cUxPN2pYd3IxTkE4ZVRoNmVSTmNfWE1hSjFmZE45UGRmbE5pRmQxWFVhVUFNV2puOFBQZ0tfZUpKLXpGVHlhNlZGOURZSHFQR3RyUzV2dV82bmtQOXN3RnA4SjhscXR0LXdYcVhDMXhBRHlUaGNhdEhQMHlJM2dEUkJKOHN6TTVWT0VxZW1JMm5mNnZaZkhrbE9WRml5Y1Q1bG9uTTNPdEVJUU50am9JUjRZZjkwdVluMWx4Sk9UNF9ZN1pYc0lFX0VmT2JCME5MZmVsOGloWnJFNEFVTkJSRC1CRUFiYWdDYnhlQkNkMmY5UFVaNnB4M2tGaHFBaVRUZklmUXNickI4aHNfRTRKSVVZRXJNczVkbDFrMnl1S1VpRFV2MmdFX3V3WFpBejU1SHJwdzBiSFo3ZUVFMF81bS1vbEYzbkQ1aU45cG5yNWg2bnpVMC13M08zS0tsb2xWYkZnaWIzZmtvZGtwZkZEbXRWWTV6MUhHeXQzeXBhRWVIbWs5VlA3d09RdW5MWTdxLXNw?oc=5)
 - **2026-04-27**: Perpetuals 거래량 10개월 저점 기록 [(원문)](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzNtUWVtT1RuNm9NMERBMjY2RTlpdWFVc3ozd3Rsd3dHckM5ZkkzNHc1UDBxdkhNcFNCUlVrWElCN2hDU3Jrb09LNXBkb0N3SHpqa0g3VEpkdmxfQTZDakQ5VkdKLV9oOXFhY1JFR25qUlozekNJc0JZeldaVy0zUkd6NWg4TzdSanlFMXMtendHd9IBlwFBVV95cUxPR21LUzlmeVNiMmItdlBZTjdXbzh4MnNGSkhUQjB4cnoyckI2b3pMb3VhRHhxSGdMYzRJd2wtdkJPcjdVVEF1R2EyZXNoMUl6clBEb1g4TGxnLUhzWVJmc0wzX1EyQ2NXbmJoRjNod3ZINzBVU0NGc0NMYmFCQUN1ZVYxYzhlWkdhN2RVcEpFMFJheWtKdk84?oc=5)
 - **2026-04**: Grayscale이 HYPE 기반 ETF 상품 개발, 기관 자본 진출 가속화 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU21VaDNBT095Nm91WTFsMkcyQ2pRWk9RVlpYTkJRVC1sZUFBdE5QQzY3STVSM0d3dkExeFVDVnd1eXBLTlFHUktpYklJNUpjN2p6LTljVzNqR2UwUFJITnJ5bVg3dGRpZGlTaUd0cHlZdWhGaDE0b3VrbW9FM1F5Q2dzWk81bDBpaXV0VVhQUFF3TVpQTlcyTGhySWo?oc=5)
 - **2026-04**: EVM 레이어 출시, 영구선물 중심 성장으로 시가총액 $10B 달성 [(원문)](https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQm1sRU16NGdkT0daUUdudjRaZVFNQklhY3pzRmlMbDJ0bjdjMG00NkViNHpZOUx6U3dLTlhOZTA4NHVPSW0xWDM4SDFYcV95Z0hZU1BSWHczVF9FaEREaHVrRnFVczUxMGZ3ZHlKZHAxc1Vza2IxQTRGZTdtUQ?oc=5)
@@ -69,5 +70,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Market Liquidation Mechanics]]
+[[Prediction Markets]]
 

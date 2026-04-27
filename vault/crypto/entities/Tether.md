@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Bitcoin mining 인프라 통일 위해 오픈소스 mining framework 출시 [(원문)](https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: 미 정부 요청에 따라 이란 관련 3억 4,400만 달러 USDT 동결 [(원문)](https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: 미국 정부 지시로 Iran 관련 $344M USDT 동결 (2026-04-25) [(원문)](https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime)
 - **2026-04-24**: 2026년 4월 미국 법 집행 요청으로 $344M USDT 동결, 불법 활동 관련 [(원문)](https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,5 +23,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Geopolitical Security Threats]] | [[Government Digital Asset Policy]]
+[[Bitcoin]] | [[Mining Supply Pressure]]
 

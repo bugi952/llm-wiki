@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 암호자산 정책 약화를 국가 경쟁력 위협으로 인식하는 정부 입장 표현 [(원문)](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)
 - **2026-04-27**: 프랑스, 2023년 이후 암호 관련 135건 사건 기록, wrench attack 급증 (88명 기소) [(원문)](https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown)
 - **2026-04-27**: 중국의 AI 섹터 외국 투자 제한 강화, 크로스보더 AI M&A 리스크 증가 [(원문)](https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus)
 - **2026-04-21**: EU, 러시아 제재 강화 일환으로 암호화폐 규제 조치 발표 [(원문)](https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion)
@@ -42,7 +43,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI-Powered Attacks]]
+[[Bitcoin]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

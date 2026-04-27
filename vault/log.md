@@ -1,105 +1,105 @@
 # 변경 이력
-최종 갱신: 2026-04-21 00:13
+최종 갱신: 2026-04-28 00:14
 
-## [2026-04-20]
+## [2026-04-27]
 
-- append: **Bybit** ← Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform
-- append: **Government Digital Asset Policy** ← Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform
-- append: **Paul Atkins** ← One year under Paul Atkins, SEC's crypto stance shows break with past
-- append: **Crypto Regulation** ← One year under Paul Atkins, SEC's crypto stance shows break with past
-- append: **Tether** ← Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha
-- append: **Mining Supply Pressure** ← Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha
-- append: **BTC Price** ← Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops
-- append: **Strategy (MSTR)** ← Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops
-- append: **Mining Supply Pressure** ← UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin
-- append: **Bitcoin** ← UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin
-- append: **Government AI Policy** ← Palantir Faces Backlash Over AI-Driven Military Doctrine
-- append: **Prediction Markets** ← Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big
-- append: **Geopolitical Security Threats** ← Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big
-- append: **AI-Generated Content Authentication** ← Nearly Half of New Streaming Music Is AI-Generated, Says Deezer—But Nobody’s Listening
-- append: **RAVE** ← RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation
-- append: **Claude Models** ← NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report
-- append: **Government AI Policy** ← NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report
-- append: **BTC Price** ← Crypto Funds Add $1.4B as Bitcoin Clears Two-Month Range
-- append: **Polymarket** ← Polymarket in Talks to Raise $400M at $15B Valuation: Report
-- append: **Quantum Threat** ← The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing
-- append: **Ripple** ← The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing
-- append: **Aave** ← Aave Models $124M to $230M in Bad Debt From Kelp Exploit
-- append: **Kelp DAO** ← Aave Models $124M to $230M in Bad Debt From Kelp Exploit
-- append: **LayerZero** ← Aave Models $124M to $230M in Bad Debt From Kelp Exploit
-- append: **Bridge Security** ← Aave Models $124M to $230M in Bad Debt From Kelp Exploit
-- append: **LayerZero** ← Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack
-- append: **Bridge Security** ← Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack
-- append: **Claude Code** ← Figma's woes compound with Claude Design
-- append: **AI Infrastructure** ← I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs
-- append: **Model Evaluation** ← I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs
-- append: **US Employment** ← [US] ADP Employment Change Weekly
-- append: **Vision-Language Models** ← What Do Your Logits Know? (The Answer May Surprise You!)
-- append: **Mechanistic Interpretability** ← What Do Your Logits Know? (The Answer May Surprise You!)
-- append: **BitMine (BMNR)** ← Tom Lee says ‘crypto winter is much closer to ending’ as Bitmine buys another 101,627 ETH - The Block
-- append: **BitMine (BMNR)** ← Bitmine Now Controls 4.21% of Ethereum's Supply to Power Wall Street's AI Nodes - TradingView
-- append: **BitMine (BMNR)** ← Ethereum Price Forecast: BitMine lifts holdings to 4.97 million ETH, says crypto winter is ending - FXStreet
-- append: **Ethereum** ← Ethereum Price Forecast: BitMine lifts holdings to 4.97 million ETH, says crypto winter is ending - FXStreet
-- append: **BitMine (BMNR)** ← Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026 - Cryptonews.net
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.976 Million Tokens, and Total C - AD HOC NEWS
-- append: **Ethereum** ← Ethereum will be 'the chain you can rely on,' Vitalik Buterin reveals 4-year plan - MSN
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.661 Million Tokens, and Total Crypto and Total Cash Holdings of $11.0 Billion - Morningstar
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion - Nasdaq
-- append: **Strategy (MSTR)** ← Is It Time To Reassess Strategy (MSTR) After A 51.9% One Year Share Price Decline - Yahoo Finance
-- append: **Strategy (MSTR)** ← As MicroStrategy Buys $109 Million of Bitcoin, Should You Buy MSTR Stock? - Yahoo Finance
-- append: **Iris Energy (IREN)** ← Iris Energy stock rating reiterated at Market Outperform by Citizens - Investing.com
-- append: **Iris Energy (IREN)** ← Bernstein raises Iris Energy price target to $125 on Microsoft deal - Investing.com Australia
-- append: **Iris Energy (IREN)** ← Iris Energy Faces Outrage As JPMorgan Slaps Stock With 'Underweight' Tag - International Business Times UK
-- append: **JPMorgan** ← Iris Energy Faces Outrage As JPMorgan Slaps Stock With 'Underweight' Tag - International Business Times UK
-- append: **Iris Energy (IREN)** ← H.C. Wainwright maintains Sell rating on Iris Energy stock despite Microsoft deal - Investing.com Australia
-- append: **ECB** ← Christine Lagarde: The energy shock: where we stand and what we need to know
-- append: **China Interest Rates** ← China’s PBoC Holds Key Lending Rates Steady for 11th Month in Crucial Economic Signal - Cryptonews.net
-- append: **BTC Price** ← Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty
-- append: **Geopolitical Security Threats** ← Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty
-- append: **Alcoa** ← Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use
-- append: **NYDIG** ← Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use
-- append: **Mining Supply Pressure** ← Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use
-- append: **Government Digital Asset Policy** ← Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise
-- append: **Geopolitical Security Threats** ← Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise
-- append: **Bitcoin** ← Capital B Buys 12 Bitcoin, Expands Treasury to 2,937 BTC
-- append: **Mainstream Adoption** ← Capital B Buys 12 Bitcoin, Expands Treasury to 2,937 BTC
-- append: **Arthur Hayes** ← Best Crypto to Buy Now: Hyperliquid and Chainlink Gain as Hayes Predicts $150 HYPE While Traders Load Pepeto Before Listings - Blockonomi
-- append: **Hyperliquid** ← Best Crypto to Buy Now: Hyperliquid and Chainlink Gain as Hayes Predicts $150 HYPE While Traders Load Pepeto Before Listings - Blockonomi
-- append: **Lazarus Group** ← North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit
-- append: **DeFi** ← North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit
-- append: **Kelp DAO** ← Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos
-- append: **Aave** ← Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos
-- append: **Bridge Security** ← Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos
-- append: **Bitcoin** ← Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack
-- append: **KelpDAO** ← Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack
-- append: **Bitcoin** ← Five times President Trump made a statement that moved bitcoin, and why it might happen again this week
-- append: **Government Digital Asset Policy** ← Five times President Trump made a statement that moved bitcoin, and why it might happen again this week
-- append: **Coinbase** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
-- append: **Tokenized Stocks** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
-- append: **Traditional Finance Integration** ← Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks
-- append: **Aave** ← CoinDesk 20 performance update: AAVE price plummets 22.9% over weekend
-- append: **BitMine (BMNR)** ← Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026
-- append: **Ethereum** ← Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026
-- append: **Strategy (MSTR)** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record
-- append: **Bitcoin** ← Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record
-- append: **Geopolitical Security Threats** ← U.S.-Iran ceasefire ends, Tesla earnings: Crypto Week Ahead
-- append: **Bitcoin** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
-- append: **Kelp DAO** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
-- append: **DeFi** ← Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters
-- append: **BitMine (BMNR)** ← Bitmine buys 101,627 ETH in largest purchase since December 2025
-- append: **Ethereum** ← Bitmine buys 101,627 ETH in largest purchase since December 2025
-- append: **Tokenization** ← Japan to test government bonds as digital collateral on Canton
-- append: **Government Digital Asset Policy** ← Japan to test government bonds as digital collateral on Canton
-- append: **Mizuho** ← Japan to test government bonds as digital collateral on Canton
-- append: **Nomura** ← Japan to test government bonds as digital collateral on Canton
-- append: **Strategy (MSTR)** ← Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC
-- append: **Bitcoin** ← Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC
-- append: **Coinbase** ← Coinbase rolls out UK crypto-backed loans as FCA shapes rules
-- append: **Crypto Regulation** ← Coinbase rolls out UK crypto-backed loans as FCA shapes rules
-- append: **BTC Price** ← Crypto fund inflows hit $1.4B in second-strongest week since January
-- append: **Aave** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
-- append: **Kelp DAO** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
-- append: **LayerZero** ← LayerZero says Kelp setup enabled exploit, as Aave loss questions mount
-- append: **Stablecoin** ← How Mastercard plans to settle card payments with stablecoins
-- append: **Traditional Finance Integration** ← How Mastercard plans to settle card payments with stablecoins
-- append: **AI Infrastructure** ← Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs
+- append: **Solana** ← Solana developers outline plan to protect network from quantum threats
+- append: **Quantum Threat** ← Solana developers outline plan to protect network from quantum threats
+- append: **Crypto Regulation** ← Tennessee crypto kiosk ban set to go into effect July 1
+- append: **BitMine (BMNR)** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses
+- append: **Ethereum** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses
+- append: **Crypto Regulation** ← EU sanctions target Russian crypto exchanges, stablecoins and CBDC
+- append: **Bank of Russia** ← EU sanctions target Russian crypto exchanges, stablecoins and CBDC
+- append: **Iris Energy (IREN)** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
+- append: **AI Infrastructure** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
+- append: **Mining Supply Pressure** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
+- append: **Tether** ← Tether launches open-source mining framework to unify Bitcoin infrastructure
+- append: **Bitcoin** ← Tether launches open-source mining framework to unify Bitcoin infrastructure
+- append: **Kelp Exploit** ← Ethereum backers pledge up to 30,000 ETH to rsETH recovery after bridge incident
+- append: **DeFi United** ← Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses
+- append: **Aave** ← Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses
+- append: **AI Infrastructure** ← OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report
+- append: **AI-Generated Content Authentication** ← Taylor Swift Seeks Trademarks for Her Voice and Image to Fight AI Fakes
+- append: **Government AI Policy** ← Fed Confirms What Tech Developers Have Feared for Two Years
+- append: **AI-Powered Attacks** ← Malicious Web Pages Are Hijacking AI Agents, And Some Are Going After Your PayPal
+- append: **Government AI Policy** ← Google Employees Demand CEO Block Military AI Contracts in Open Letter
+- append: **Strive** ← Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit
+- append: **Prediction Markets** ← Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them
+- append: **Gemini** ← Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents
+- append: **Autonomous Onchain Agents** ← Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents
+- append: **Litecoin** ← Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts
+- append: **Block Reorganization Attack** ← Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts
+- append: **Sky** ← Sky Proposes to Streamline Treasury Management
+- append: **DeFi United** ← DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support
+- append: **AI Deployment** ← GitHub Copilot is moving to usage-based billing
+- append: **Agentic Software Engineering** ← GitHub Copilot is moving to usage-based billing
+- append: **Financial AI** ← GitHub Copilot is moving to usage-based billing
+- append: **OpenAI** ← OpenAI available at FedRAMP Moderate
+- append: **Google DeepMind** ← 허사비스, 이 대통령 접견...K-문샷 지원·서울 AI 캠퍼스 개소 등 합의
+- append: **xAI** ← [4월27일] "알고리즘의 자유 vs 기업의 책임"...머스크의 소송이 던진 근본적인 질문
+- append: **Anthropic** ← [4월27일] "알고리즘의 자유 vs 기업의 책임"...머스크의 소송이 던진 근본적인 질문
+- append: **Legal AI** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
+- append: **AI Regulation** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
+- append: **BitMine (BMNR)** ← Bitmine (NYSE: BMNR) holds 5.08M ETH and $13.3B in assets - Stock Titan
+- append: **BitMine (BMNR)** ← Bitmine (BMNR) Stock: $13.3B Asset Base Grows With Massive ETH Stake - CoinCentral
+- append: **BitMine (BMNR)** ← BitMine's ether holdings top 5.078 million after largest purchase since December - The Block
+- append: **Bitcoin Treasury Companies** ← BitMine's ether holdings top 5.078 million after largest purchase since December - The Block
+- append: **Tom Lee** ← Bitmine (BMNR) Surpasses 5 Million ETH Milestone as Tom Lee Touts ‘Wartime Store of Value’ Narrative - MEXC
+- append: **BitMine (BMNR)** ← Bitmine (BMNR) Surpasses 5 Million ETH Milestone as Tom Lee Touts ‘Wartime Store of Value’ Narrative - MEXC
+- append: **Tom Lee** ← Bitmine (BMNR): Tom Lee Calls ETH the Best ‘Wartime Store of Value’ as Buys Accelerate - MEXC
+- append: **ETH Price** ← Ethereum Price Forecast: BitMine's accumulation and institutional demand hold ETH above $2,200 - FXStreet
+- append: **BitMine (BMNR)** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses - TradingView
+- append: **Ethereum Foundation** ← Ethereum Foundation Sells $34M ETH to Bitmine, More Selloff Incoming? - Cryptonews.net
+- append: **BitMine (BMNR)** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Cryptonews.net
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.474 Million Tokens, and Total Crypto and Total Cash Holdings of $9.9 Billion - PR Newswire
+- append: **PBOC** ← PBOC Conducts RMB218.5 Billion Reverse Repo, Net Injects RMB218.0 Billion in Single Day - AASTOCKS.com
+- append: **Government Digital Asset Policy** ← House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China
+- append: **Geopolitical Security Threats** ← House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China
+- append: **Government Digital Asset Policy** ← Lawmakers Warn Crypto Clarity Will Decide U.S. Leadership as 2026 Election Looms
+- append: **Kalshi** ← Kalshi Says Bitcoin Payments and Prediction Markets Are Building a New Exchange for Big Money
+- append: **Aven** ← Aven Launches Bitcoin-Backed Visa Card Offering Up to $1 Million Credit Lines Without Asset Sales
+- append: **Paul Atkins** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
+- append: **Mike Selig** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
+- append: **Crypto Regulation** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
+- create: **Paystand** ← Paystand Launches USDb Stablecoin on Bitcoin Layers for $100T B2B Payments
+- append: **B2B Stablecoin Payments** ← Paystand Launches USDb Stablecoin on Bitcoin Layers for $100T B2B Payments
+- append: **Todd Blanche** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
+- append: **Kash Patel** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
+- append: **Crypto Regulation** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
+- append: **Crypto Regulation** ← Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act
+- append: **Bitcoin** ← Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report
+- append: **Autonomous Onchain Agents** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
+- append: **AI Infrastructure** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
+- append: **Hyperliquid** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
+- append: **Prediction Markets** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
+- append: **HYPE Price** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
+- append: **Aave** ← Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack
+- append: **BTC Price** ← Bitcoin rally shows signs of fatigue as key indicators turn bearish
+- append: **Western Union** ← Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says
+- append: **Stablecoin** ← Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says
+- append: **Quantum Threat** ← MARA Holdings targets bitcoin quantum threat and network resilience with new foundation
+- append: **Curve Finance** ← Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout
+- append: **Aave** ← Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout
+- append: **On-Device LLM Inference** ← Running Local LLMs Offline on a Ten-Hour Flight
+- append: **AI Infrastructure** ← [게시판]  SKT, 베트남에 AI 데이터센터 구축 등 단신
+- append: **Sustainable AI** ← [게시판]  SKT, 베트남에 AI 데이터센터 구축 등 단신
+- append: **xAI** ← xAI, '그록' 글쓰기 성능 향상 위해  최상급 전문 작가 채용
+- append: **Abstention in AI** ← KAIST “AI도 모른다고 말할 수 있어야…‘노이즈 예열 학습’으로 해결”
+- append: **Uncertainty Quantification** ← KAIST “AI도 모른다고 말할 수 있어야…‘노이즈 예열 학습’으로 해결”
+- append: **Renewable Energy Policy** ← 프랑스 재생에너지 볼탈리아, 1분기 매출 25% 급증…‘서비스 중심 사업 재편’
+- append: **Energy Market Policy** ← 프랑스 재생에너지 볼탈리아, 1분기 매출 25% 급증…‘서비스 중심 사업 재편’
+- append: **Renewable Energy Policy** ← 인도, ‘태양·풍력’의 역습… 화석연료 발전량 사상 첫 감소
+- append: **Energy Market Policy** ← 인도, ‘태양·풍력’의 역습… 화석연료 발전량 사상 첫 감소
+- append: **Physical Intelligence** ← 아이벡스, 피지컬 AI 데이터 올인원 플랫폼 공개
+- append: **AI Deployment** ← 아이벡스, 피지컬 AI 데이터 올인원 플랫폼 공개
+- append: **DeepSeek** ← 중국, 딥시크 띄우기에 나서..."V4 출시 지연은 '기술 굴기' 위한 것"
+- append: **AI Regulation** ← 중국, 딥시크 띄우기에 나서..."V4 출시 지연은 '기술 굴기' 위한 것"
+- append: **AI Infrastructure** ← 씨이랩, GPU 낭비 비용 시각화한 '아스트라몬' 출시
+- append: **Model Efficiency** ← 씨이랩, GPU 낭비 비용 시각화한 '아스트라몬' 출시
+- append: **Renewable Energy Policy** ← 호주, 데이터 기반 배전망 현대화 착수
+- append: **Agent-Aided Design** ← 메이사, 신세계건설 건설현장에 ‘드론 공간정보 솔루션’ 공급
+- append: **Agentic AI** ← 과기부, '에이전틱 AI 얼라이언스' 워크숍에 NC·LG·카카오 총출동
+- append: **Agent Governance** ← 과기부, '에이전틱 AI 얼라이언스' 워크숍에 NC·LG·카카오 총출동
+- append: **AI Regulation** ← 캐나다 매니토바주, 청소년 대상 AI 사용 금지 정책 발표
+- append: **AI Infrastructure** ← 정부 2조원 GPU 사업 5파전 돌입...'베라 루빈' 도입 여부가 승부처
+- append: **Synthetic Data Generation** ← 700만명 가상 한국인 탄생... 엔비디아, 소버린 AI 핵심 데이터셋 공개

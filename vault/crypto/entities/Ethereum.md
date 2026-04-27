@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: BitMine, 101,000 ETH 취득하며 ETH 스테이킹 보상 수익화 [(원문)](https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: 주요 treasury 플레이어 BitMine이 5M ETH 보유 달성, 생태계 집중도 증가 [(원문)](https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone)
 - **2026-04-27**: Foundation의 보유 자산 판매 단행, 가격 상승과 역행하는 내부자 신호 발생 [(원문)](https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: 톰 리가 '전쟁 시대의 가치저장 수단'으로 평가 [(원문)](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)
@@ -58,5 +59,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Mainstream Adoption]] | [[Asset Allocation]]
+[[BitMine (BMNR)]] | [[Bitcoin Treasury Companies]] | [[Asset Allocation]] | [[Ethereum Staking]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: AI 개발 도구 수익화 전략 다각화 추세 [(원문)](https://news.ycombinator.com/item?id=47923357)
 - **2026-02-01**: LLM을 behavioral parameters(loss aversion, herding, extrapolation) 측정 도구로 calibrate: baseline은 인간 벤치마크 대비 약화, profile-based calibration으로 보정 가능 (24,000 scenarios) [(원문)](https://arxiv.org/abs/2602.01022)
 - **2026-04-27**: CB-APM(합의 기반 자산가격결정 모델): analyst consensus를 bottleneck으로 사용해 해석가능성-by-design 및 out-of-sample 예측성능 향상 [(원문)](https://arxiv.org/abs/2512.16251)
 - **2025-02-17**: CausalGAN + SAC RL과 Qwen2.5-7B LLM을 통한 채권 수익률 예측 프레임워크 (신텍틱 데이터 12개 거시경제 변수 포함) [(원문)](https://arxiv.org/abs/2502.17011)
@@ -27,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Cognitive Bias in LLMs]] | [[Agent Economics]]
+[[AI Deployment]] | [[Agentic Software Engineering]]
 
 
 ## 모순/논쟁

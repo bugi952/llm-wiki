@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: EU, 러시아 암호 거래소, stablecoin, CBDC 대상 제재 실시 [(원문)](https://cointelegraph.com/news/eu-sanctions-russia-crypto-exchanges-stablecoins-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-07-01**: Tennessee 암호화폐 ATM 금지령 7월 1일 시행 [(원문)](https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: Cynthia Lummis 상원의원이 Clarity Act 5월 마크업 추진 공식화 [(원문)](https://bitcoinmagazine.com/news/senator-lummis-puts-congress-on-the-clock)
+- **2026-04-28**: 2026년 4월 FBI/DOJ 리더십 교체 후 개발자가 아닌 범죄 중심 정책 추진 신호 [(원문)](https://bitcoinmagazine.com/news/bitcoin-isnt-going-anywhere-fbi-discuss)
+- **2026-04-28**: 2026년 4월 SEC/CFTC chiefs 협력으로 onshore crypto development 새로운 규제 방향 신호 [(원문)](https://bitcoinmagazine.com/news/sec-cftc-chiefs-signal-new-day-for-crypto)
 - **2026-04-27**: CFTC, prediction market sector 규제 표준화 추진 (information discovery, hedging 가치 인정) [(원문)](https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a)
 - **2026-04-27**: MiCA 개선안: 준비금 및 보상 제도 개선 필요 (Blockchain for Europe) [(원문)](https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: EU, 블록체인 기반 제재 회피 차단을 위한 암호화폐 정책 강화 [(원문)](https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion)
@@ -77,7 +82,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Prediction Markets]] | [[Government Digital Asset Policy]]
+[[Bank of Russia]] | [[Geopolitical Security Threats]] | [[CBDC]] | [[Stablecoin]]
 
 
 ## 모순/논쟁

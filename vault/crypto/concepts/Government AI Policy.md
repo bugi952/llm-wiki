@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Google 직원 580명이 CEO에게 군사용 AI 계약 차단 요청 공개 편지 발송 [(원문)](https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter)
+- **2026-04-28**: 연방 준비제도 공식 연구: ChatGPT 출시 이후 미국 프로그래머 일자리 성장 반감 확인 [(원문)](https://decrypt.co/365693/fed-confirms-tech-developers-fears-ai-jobs)
 - **2026-04-27**: OpenAI-Microsoft 배타성 조항 폐기로 AI 제공자 생태계 다층화 [(원문)](https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions)
 - **2026-04-27**: 중국, Meta의 AI 스타트업 Manus 인수($2B) 차단으로 외국 AI 기술 이전 제한 강화 [(원문)](https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus)
 - **2026-04-25**: 미국 정부: 선거 보안을 위해 AI 모델의 정치적 중립성 평가 의무화 추진 [(원문)](https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms)
@@ -25,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Infrastructure]]
+[[AI Legal Risk]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: OpenAI가 Qualcomm, MediaTek과 협력해 스마트폰 칩 개발 (연 4억 대 목표) [(원문)](https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek)
+- **2026-04-28**: Iris Energy, $3.7B 규모 AI cloud 사업으로 확장. 기존 mining 역량 활용 [(원문)](https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 개인 PC/게이머 GPU를 활용한 분산 AI 컴퓨팅 모델, Bitcoin 직접 보상 (OpenAgents/Pylon) [(원문)](https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network)
 - **2026-04-25**: DeepSeek V4: Pro 버전이 GPT-5.5 Pro 대비 98% 저렴. AI 모델 가격 경쟁 가속화 [(원문)](https://decrypt.co/365455/deepseek-v4-launch-pro-version-costs-less-gpt-5-pro)
 - **2026-04-24**: Meta-Amazon AI 칩 다년 계약 (수십억달러 규모) [(원문)](https://decrypt.co/365441/meta-agrees-deploy-millions-amazon-ai-chips-deal-worth-billions)
 - **2026-04-24**: 미 정부, Intel 지분으로부터 $265억 이익 실현, 반도체 보안 전략 재확인 [(원문)](https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22)
@@ -30,7 +33,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]] | [[Amazon]]
+[[OpenAI]] | [[Qualcomm]] | [[MediaTek]] | [[Semiconductor Supply Chain Security]]
 
 
 ## 모순/논쟁

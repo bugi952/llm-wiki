@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: DeFi United 연합 주도로 $300M Kelp DAO 보상 기금 모금 [(원문)](https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses)
+- **2026-04-27**: Curve와 대조되는 지원자 구제 방식으로 DeFi 거버넌스 차이 드러남 [(원문)](https://www.coindesk.com/markets/2026/04/27/curve-founder-pitches-market-based-fix-for-usd700k-bad-debt-in-contrast-to-aave-bailout)
+- **2026-04-28**: 대규모 해킹 사건으로 업계 리더들이 구제 자금 지원 [(원문)](https://www.coindesk.com/tech/2026/04/27/industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-users-after-massive-crypto-hack)
 - **2026-04-27**: Kelp 익스플로이트 피해자 구제를 위해 Arbitrum에 30K ETH 이체 요청 [(원문)](https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: Kelp DAO exploit 피해 규모 $200M 보상금 조성 주도, 80% 모금 달성 [(원문)](https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit)
 - **2026-04-25**: Kelp DAO rsETH 복구를 위해 25,000 ETH 펀드에 기여하는 DAO 투표 진행 [(원문)](https://thedefiant.io/news/defi/aave-dao-rseth-kelp-funding-proposal-pbrxrh)
@@ -33,5 +36,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Kelp Exploit]]
+[[DeFi United]] | [[DeFi]] | [[Kelp Exploit]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: ai
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-27**: 한국 정부와 AI 협력 합의 (K-문샷 AI 지원, 서울 AI 캠퍼스 개소) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209815)
 - **2026-04-27**: 2026년 4월 27일 한국 과학기술정보통신부와 K-문샷 프로젝트 협력 MOU 체결 (데미스 허사비스 CEO) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209809)
 - **2026-04-24**: Vision Banana 모델 발표: 이미지 생성 유지하면서 의미론적 분할, 객체 분할, 깊이 추정 등 다중 시각 작업 통합 (2026-04-24) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209749)
 - **2026-04-17**: 구글이 미국 국방부와 Gemini의 기밀 환경 활용 방안을 협상 중 (정책 기조 변화) [(원문)](https://www.aitimes.com/news/articleView.html?idxno=209388)
@@ -105,5 +106,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Regulation]] | [[AI Infrastructure]]
+[[AI Regulation]] | [[AI Governance]]
 
