@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-28 06:08
+최종 갱신: 2026-04-28 12:09
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -53,6 +53,7 @@
 - [[entities/Deezer|Deezer]]
 - [[entities/Deutsche Bank|Deutsche Bank]]
 - [[entities/Dogecoin|Dogecoin]]
+- [[entities/Donald Trump|Donald Trump]]
 - [[entities/DoorDash|DoorDash]]
 - [[entities/Drift|Drift]]
 - [[entities/Drift Protocol|Drift Protocol]]
@@ -64,6 +65,7 @@
 - [[entities/EtherFi|EtherFi]]
 - [[entities/Ethereum|Ethereum]]
 - [[entities/Ethereum Foundation|Ethereum Foundation]]
+- [[entities/FDIC|FDIC]]
 - [[entities/Figure|Figure]]
 - [[entities/Fireblocks|Fireblocks]]
 - [[entities/Flow Capital|Flow Capital]]
@@ -117,7 +119,9 @@
 - [[entities/Nium|Nium]]
 - [[entities/Nomura|Nomura]]
 - [[entities/OCBC|OCBC]]
+- [[entities/OCC|OCC]]
 - [[entities/Ocean Network|Ocean Network]]
+- [[entities/Ondo Finance|Ondo Finance]]
 - [[entities/Onramp|Onramp]]
 - [[entities/OpenAI|OpenAI]]
 - [[entities/OpenAgents|OpenAgents]]
@@ -155,6 +159,7 @@
 - [[entities/Tangem|Tangem]]
 - [[entities/Tempo|Tempo]]
 - [[entities/Tether|Tether]]
+- [[entities/Thom Tillis|Thom Tillis]]
 - [[entities/Todd Blanche|Todd Blanche]]
 - [[entities/Tom Lee|Tom Lee]]
 - [[entities/USDC|USDC]]
@@ -164,6 +169,7 @@
 - [[entities/World Liberty Financial|World Liberty Financial]]
 - [[entities/X|X]]
 - [[entities/ZKsync|ZKsync]]
+- [[entities/ZetaChain|ZetaChain]]
 - [[entities/Zipangcoin|Zipangcoin]]
 - [[entities/Zodia Custody|Zodia Custody]]
 - [[entities/Zonda|Zonda]]
@@ -184,6 +190,7 @@
 - [[concepts/Bitcoin Custody Rivalry|Bitcoin Custody Rivalry]]
 - [[concepts/Bitcoin Education|Bitcoin Education]]
 - [[concepts/Bitcoin Governance|Bitcoin Governance]]
+- [[concepts/Bitcoin Proof of Reserves|Bitcoin Proof of Reserves]]
 - [[concepts/Bitcoin Treasury Companies|Bitcoin Treasury Companies]]
 - [[concepts/Bitcoin Upgrade Strategy|Bitcoin Upgrade Strategy]]
 - [[concepts/Bitcoin Whale Accumulation|Bitcoin Whale Accumulation]]
@@ -199,9 +206,11 @@
 - [[concepts/Deposit Tokens|Deposit Tokens]]
 - [[concepts/Ethereum 4-Year Roadmap|Ethereum 4-Year Roadmap]]
 - [[concepts/Ethereum Staking|Ethereum Staking]]
+- [[concepts/Ethereum Treasury Companies|Ethereum Treasury Companies]]
 - [[concepts/Euro Stablecoin|Euro Stablecoin]]
 - [[concepts/European Blockchain Policy|European Blockchain Policy]]
 - [[concepts/Exchange Security Incidents|Exchange Security Incidents]]
+- [[concepts/Falcon Post-Quantum Signature|Falcon Post-Quantum Signature]]
 - [[concepts/Geopolitical Security Threats|Geopolitical Security Threats]]
 - [[concepts/Government AI Policy|Government AI Policy]]
 - [[concepts/Government Digital Asset Policy|Government Digital Asset Policy]]

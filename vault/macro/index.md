@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-28 06:08
+최종 갱신: 2026-04-28 12:09
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -29,10 +29,13 @@
 
 ## 💡 개념
 - [[concepts/AI and Central Banking|AI and Central Banking]]
+- [[concepts/Bank Lending Survey|Bank Lending Survey]]
 - [[concepts/Business Development Company|Business Development Company]]
 - [[concepts/Central Bank Currency Swaps|Central Bank Currency Swaps]]
 - [[concepts/China-Hong Kong Financial Integration|China-Hong Kong Financial Integration]]
 - [[concepts/Climate and Central Banking|Climate and Central Banking]]
+- [[concepts/Consumer Inflation Expectations|Consumer Inflation Expectations]]
+- [[concepts/Credit Conditions|Credit Conditions]]
 - [[concepts/Deflation Risk|Deflation Risk]]
 - [[concepts/Digital Euro|Digital Euro]]
 - [[concepts/Digital RMB (e-CNY)|Digital RMB (e-CNY)]]

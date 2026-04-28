@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: ETH 매입 속도가 Strategy의 BTC 축적 속도에 근접 중 [(원문)](https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace)
+- **2026-04-28**: 5.078M ETH 보유 달성(이더리움 역사상 최대 기관 보유량), 총 암호자산+현금 $13.3B [(원문)](https://news.google.com/rss/articles/CBMizAJBVV95cUxNeTE0OHZpdUIyN3JqUHpEMnczTkVuaHlEZVpHTWJrZ29TekwwRjl0S0tYazA3QXdVQzh6NGlETFVpU0FwYVVFcmlWZHBfaVAxOVA2ajhpTzNNQUlCcnRIRXo3dW1pVlNyOUEzYXU3T1diT3NIa2FSRTJyV1JSNFhQMkpldzNRZGdxX2tvOWJHa3AzaGlBM0ZXNktHcjkwYVlYM1I0bmdFbjNLY1BYcDFDM1BNM3dDTEZKenlqeE9MZWQ4YW9pZTh1bTBGc1R5a2EyVTB4SlBWUUU3MlZ1T0pxbEJQdFFmcnVHWVJEdGh4TmRqaURBSG90WWgwSkhuOEtqbVdqNXlEdEJYZHB5QjZxeTVPUVBLM0VIVFhXWEdldWlvcWlKZjlpcjFiOVl4RnhiUUZHMXpyNV8yd1c2NzZyT3ppVDRkVEhDdDVxWtIB0gJBVV95cUxPR1NkeEU3WkVhcmtsaEJYOV81MEFQTXpHS0lkSlh5d0EyZWxPT2dPeXR1UXdBTTNvc0JqcHZVNlJsS0lhOEdWbVBVcG5ESzcwNVlFdXV3eUt3RDRZckdZUzQ3d1drUm1PUDlKc3k2OHRveEpFVV95VExVTkJ3UGVKZThfYlBMY1Z3SnhOMVpFejB0WHp4THRIa3VEc1ExcXFYWm51cnVqS0dfRXFlYVlpWW9nYVlqSlVNZ19jUDJjVmpyekhEUThMNFZ6MG9sWEV1ekpOT2VvX2hWMDJ6enloMU9LQ2h0TjV0SW5XbTBuV0lic1VybXFyamVNNUFSdlhBalV1R3RPNGtjTEhDZF9qSjRkQkVCNnZZSng4dGpyVjNNMkFBOXBiTzVGMjNvQ3dRYk15OWlSOFVmUHdsU3g2elZSUGxhbHltM192dURGNjNKdw?oc=5)
+- **2026-04-28**: Ethereum treasury와 staking position의 수익화가 valuation의 핵심 요소 [(원문)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1FhYlpXQjAxQ3gzbDlEem1wT1NwYnFKaXdNYnljSXUtOTQxMktKRkp2a1NadkR6SGsxRFhIM0JMb0VHa04ybG01QzNOT2h6RnJMY3FNZExjTm5odmg0ZE9ua1lSc3hmd2pjMXI0R01rWmkzM2VfVkw3RmtCczNtVHI5cDZ6MDdLclJtaGtXRlVpNU1FQmUzaDVfVm05Wk1ZbWNDdnBmcjg?oc=5)
+- **2026-04-28**: Ethereum 축적 속도가 Strategy의 Bitcoin 축적 페이스에 근접 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUhhdzBnM2xlZHVJSm9lVGFrbjBBVUlveGtjUWQ3QUtqSTF6ZEwtY2ZxUnNVTXB1T3ZrNUZsSUlOY1RVQzBqUTdpZ1c2Y2JOQzVkZFpERXpSZVp5bXVMLWpZMU5OcDFiQ0VIcG9iVGc2aGdtMk5NM2xsSHU0VWFqcEZlV1ZBbl9YRWlMdnJRWGRtZ2o5am1LVERVenhDS1lSVkdYODJvUjJNQllPUHU3MTg3UmhZQkVheW5LSm9B?oc=5)
 - **2026-04-28**: 5M 이더리움 마일스톤 달성, $241M 투자 [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDFNaFczUFozc0o5YkZxekNvRkhqcXZoVDFjZzV1Tnh1bDVXR1JkcjQxbHJGY041dHRsZnNsLTlVYklpbU9uMlRkeUd2eVJ4T3hCamlPNDZMQmlIeXdZU092aEZWb2pGVHVETG12alVxRFkza25vd0QycUZDemtmejV0TXY0UXJwTzVEaG9QeDlNM21zU0pVV3pSVFhNdFQw?oc=5)
 - **2026-04-28**: Ethereum staking 전략 확대로 수익성과 리스크 프로필 동시 변화 [(원문)](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUllTNzVLLTRHSXRzanhkLS1nX09MSm5JckQ4WlNwU2NlRVg5WktyRWJ6YWRLMXVwZW9xQUY3bkZHdXZhZEhqdmpzVjRQWlVENTExbTlWellnNzduT2c2QUFWSlRxQUtUakxRdVk2YjZkVm5yLU01SXh6U0M5bHhTR0Jfclctc2ZNRDNQNzJ5SHBHaXhjOE9CbGJRemNkOUJESWdnY1dWaFhiRy14ZkRjb3dTSVJ3Q19RRV9aT1VJOHZvU29GTG5QSWNmR1ZtaUswTmlXX0VsZWM5X3RMb29ZZU1B?oc=5)
 - **2026-04-28**: Ethereum $236M 매입 공표 - 'wartime store of value' 전략 기반 [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN1JkZlVNbG95X3BVYm5acVVZY2VxUWxXOFlMamhuV2N1akdwRTlTTEhadF9Bd2U2cXVfcno1MnkyVGxPMXczMWZaeXBIN0x1RzBFcThlSFNLZw?oc=5)
@@ -156,5 +160,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Mining Supply Pressure]] | [[Ethereum Staking]]
+[[Strategy (MSTR)]] | [[Bitcoin Treasury Companies]] | [[Asset Allocation]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **None**: 2026-04 은행 대출 조사 발표. 신용 조건과 대출 기준 변화 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html)
+- **None**: 2026-03 소비자 기대치 조사 발표 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html)
 - **2026-04-21**: 유럽 표준 제정자와 디지털 유로 결제 촉진을 위한 협약 체결 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260424~202f9d832b.en.html)
 - **2026-04-17**: Christine Lagarde가 IMFC에서 유로존 금융 상황 성명 발표 [(원문)](https://www.bis.org/review/r260421b.htm)
 - **2026-04-20**: Christine Lagarde 총재: 에너지 충격이 인플레이션 및 금리 결정에 영향 [(원문)](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260420~cdf674023e.en.html)
@@ -24,5 +26,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Digital Euro]]
+[[Monetary Policy Transmission]]
 

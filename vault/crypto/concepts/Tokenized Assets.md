@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Ondo Finance가 $700M tokenized equity holder 대상 proxy voting 추가 [(원문)](https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities)
 - **2026-04-25**: Aurelion, XAUE 프로토콜으로 tokenized gold에서 yield farming 서비스 출시 [(원문)](https://cointelegraph.com/news/aurelion-allocates-48m-in-tokenized-gold-to-newly-launched-xaue-yield-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 거래소 수준의 pre-IPO 토큰 거래 구현 시작(SpaceX 포함) [(원문)](https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana)
 - **2026-04-21**: OCBC, Ethereum·Solana에서 토큰화 금 펀드 출시로 공개 블록체인 기반 RWA 실현 가속 [(원문)](https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Aurelion]] | [[Yield Farming Strategy]]
+[[Ondo Finance]] | [[Tokenized Stocks]]
 
 
 ## 모순/논쟁

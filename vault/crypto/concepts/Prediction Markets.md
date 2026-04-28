@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 2026-04-28: Trump, 미국의 예측시장 경쟁력 강조며 규제 우호 입장 표현. 며칠 전 부정적 발언에서 정책 180도 전환 [(원문)](https://cointelegraph.com/news/trump-changes-stance-after-saying-he-disliked-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Trump이 비판 입장에서 지지로 전환. 미국의 규제 환경 개선 신호 [(원문)](https://decrypt.co/365657/trump-prediction-markets-smart-people-like-them)
 - **2026-04-27**: Hyperliquid이 예측 시장 기능 통합 계획 발표 [(원문)](https://news.google.com/rss/articles/CBMikANBVV95cUxPN2pYd3IxTkE4ZVRoNmVSTmNfWE1hSjFmZE45UGRmbE5pRmQxWFVhVUFNV2puOFBQZ0tfZUpKLXpGVHlhNlZGOURZSHFQR3RyUzV2dV82bmtQOXN3RnA4SjhscXR0LXdYcVhDMXhBRHlUaGNhdEhQMHlJM2dEUkJKOHN6TTVWT0VxZW1JMm5mNnZaZkhrbE9WRml5Y1Q1bG9uTTNPdEVJUU50am9JUjRZZjkwdVluMWx4Sk9UNF9ZN1pYc0lFX0VmT2JCME5MZmVsOGloWnJFNEFVTkJSRC1CRUFiYWdDYnhlQkNkMmY5UFVaNnB4M2tGaHFBaVRUZklmUXNickI4aHNfRTRKSVVZRXJNczVkbDFrMnl1S1VpRFV2MmdFX3V3WFpBejU1SHJwdzBiSFo3ZUVFMF81bS1vbEYzbkQ1aU45cG5yNWg2bnpVMC13M08zS0tsb2xWYkZnaWIzZmtvZGtwZkZEbXRWWTV6MUhHeXQzeXBhRWVIbWs5VlA3d09RdW5MWTdxLXNw?oc=5)
 - **2026-04-27**: CFTC 의장, 예측시장 규제 표준 수립 약속 (정부 공식 승인) [(원문)](https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a)
@@ -41,7 +42,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Prediction Market Regulatory Risk]]
+[[Donald Trump]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

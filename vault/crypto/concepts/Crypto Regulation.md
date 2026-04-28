@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Thom Tillis 상원의원이 윤리 조항 없으면 암호화폐 법안 미지지 표명 [(원문)](https://cointelegraph.com/news/sen-tillis-wont-support-senate-crypto-bill-without-ethics-provision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 2026-04-28: OCC/FDIC, 은행 감시 규칙에서 'reputation risk' 제거 공식화. 암호화폐 기업과의 거래 법제 개선 [(원문)](https://cointelegraph.com/news/blockchain-association-supports-reputation-risk-removal-from-supervisory-programs-to-end-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 캐나다 의회, 암호화폐 정치 기부금 금지 법안 추진 + 스테이블코인 감시 강화 [(원문)](https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 이스라엘 규제 당국 BILS 셰켈 페그 스테이블코인 공식 승인 후 2년 파일럿 완료 [(원문)](https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: EU, 러시아 암호 거래소, stablecoin, CBDC 대상 제재 실시 [(원문)](https://cointelegraph.com/news/eu-sanctions-russia-crypto-exchanges-stablecoins-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -84,7 +86,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Political Interference in Crypto Regulation]]
+[[Thom Tillis]] | [[Political Interference in Crypto Regulation]]
 
 
 ## 모순/논쟁

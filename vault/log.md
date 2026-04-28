@@ -1,8 +1,37 @@
 # 변경 이력
-최종 갱신: 2026-04-28 06:08
+최종 갱신: 2026-04-28 12:09
 
 ## [2026-04-28]
 
+- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - CoinDesk
+- append: **BitMine (BMNR)** ← A Look At Bitmine Immersion Technologies (BMNR) Valuation As It Builds A Major Ethereum Treasury And Staking Position - Yahoo Finance
+- append: **BitMine (BMNR)** ← EQS-News: Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion - boerse.de - boerse.de
+- append: **Bitcoin Treasury Companies** ← MicroStrategy Vs BitMine: Who Wins the Crypto Treasury Game? - BeInCrypto
+- append: **Strategy (MSTR)** ← Strategy (MSTR) Is Down 7.4% After Leveraged $2.13 Billion Bitcoin Buy - Has The Bull Case Changed? - Yahoo Finance
+- append: **Strategy (MSTR)** ← MicroStrategy claims it can survive Bitcoin crash to $8,000 - Yahoo Finance
+- append: **ECB** ← ECB Consumer Expectations Survey results – March 2026
+- append: **Monetary Policy Transmission** ← ECB Consumer Expectations Survey results – March 2026
+- append: **ECB** ← April 2026 euro area bank lending survey
+- append: **Monetary Policy Transmission** ← April 2026 euro area bank lending survey
+- append: **PBOC** ← China’s central bank guides banks to step up lending in April: sources - businesstimes.com.sg
+- append: **CNY-USD** ← PBOC USD/CNY Reference Rate Shift to 6.8589 Signals Surprising Policy Tightening - MEXC
+- append: **ZetaChain** ← ZetaChain halts transfers as DefiLlama reports $300K loss - crypto.news
+- append: **Bridge Security** ← ZetaChain halts transfers as DefiLlama reports $300K loss - crypto.news
+- append: **Hyperliquid** ← Why Hyperliquid $HYPE Could Be the Next BNB – Key Bullish Fractal Setup in Play - Binance
+- append: **Hyperliquid** ← Hyperliquid (HYPE) Hits All-Time High Against Coinbase, Reaches $8.28 Billion Volume - Cryptonews.net
+- append: **Block** ← Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition
+- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace
+- append: **Strategy (MSTR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace
+- append: **Tokenized Assets** ← Ondo Finance adds proxy voting for holders of its $700 million tokenized equities
+- append: **Prediction Markets** ← Trump changes tune on prediction markets days after saying he disliked them
+- append: **Crypto Regulation** ← Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations
+- append: **Todd Blanche** ← Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot
+- append: **Block** ← Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move
+- append: **Bitcoin Proof of Reserves** ← Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move
+- append: **Solana** ← Solana clients Anza and Firedancer introduce post-quantum solution Falcon
+- append: **Robinhood** ← Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam
+- append: **Crypto Regulation** ← Tillis won’t support Senate crypto bill without ethics provision
+- append: **Marathon Digital Holdings** ← MARA forms foundation to support Bitcoin network health, adoption
 - append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Proxy Filing Summary - Quartr
 - append: **BitMine (BMNR)** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
 - append: **Ethereum** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
@@ -76,32 +105,3 @@
 - append: **Legal AI** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
 - append: **AI Regulation** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
 - append: **BitMine (BMNR)** ← Bitmine (NYSE: BMNR) holds 5.08M ETH and $13.3B in assets - Stock Titan
-- append: **BitMine (BMNR)** ← Bitmine (BMNR) Stock: $13.3B Asset Base Grows With Massive ETH Stake - CoinCentral
-- append: **BitMine (BMNR)** ← BitMine's ether holdings top 5.078 million after largest purchase since December - The Block
-- append: **Bitcoin Treasury Companies** ← BitMine's ether holdings top 5.078 million after largest purchase since December - The Block
-- append: **Tom Lee** ← Bitmine (BMNR) Surpasses 5 Million ETH Milestone as Tom Lee Touts ‘Wartime Store of Value’ Narrative - MEXC
-- append: **BitMine (BMNR)** ← Bitmine (BMNR) Surpasses 5 Million ETH Milestone as Tom Lee Touts ‘Wartime Store of Value’ Narrative - MEXC
-- append: **Tom Lee** ← Bitmine (BMNR): Tom Lee Calls ETH the Best ‘Wartime Store of Value’ as Buys Accelerate - MEXC
-- append: **ETH Price** ← Ethereum Price Forecast: BitMine's accumulation and institutional demand hold ETH above $2,200 - FXStreet
-- append: **BitMine (BMNR)** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses - TradingView
-- append: **Ethereum Foundation** ← Ethereum Foundation Sells $34M ETH to Bitmine, More Selloff Incoming? - Cryptonews.net
-- append: **BitMine (BMNR)** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Cryptonews.net
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.474 Million Tokens, and Total Crypto and Total Cash Holdings of $9.9 Billion - PR Newswire
-- append: **PBOC** ← PBOC Conducts RMB218.5 Billion Reverse Repo, Net Injects RMB218.0 Billion in Single Day - AASTOCKS.com
-- append: **Government Digital Asset Policy** ← House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China
-- append: **Geopolitical Security Threats** ← House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China
-- append: **Government Digital Asset Policy** ← Lawmakers Warn Crypto Clarity Will Decide U.S. Leadership as 2026 Election Looms
-- append: **Kalshi** ← Kalshi Says Bitcoin Payments and Prediction Markets Are Building a New Exchange for Big Money
-- append: **Aven** ← Aven Launches Bitcoin-Backed Visa Card Offering Up to $1 Million Credit Lines Without Asset Sales
-- append: **Paul Atkins** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
-- append: **Mike Selig** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
-- append: **Crypto Regulation** ← SEC, CFTC Chiefs Signal ‘New Day’ for U.S. Onshore Crypto, Tokenization and Future‑Proof Rules
-- create: **Paystand** ← Paystand Launches USDb Stablecoin on Bitcoin Layers for $100T B2B Payments
-- append: **B2B Stablecoin Payments** ← Paystand Launches USDb Stablecoin on Bitcoin Layers for $100T B2B Payments
-- append: **Todd Blanche** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
-- append: **Kash Patel** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
-- append: **Crypto Regulation** ← ‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers
-- append: **Crypto Regulation** ← Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act
-- append: **Bitcoin** ← Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report
-- append: **Autonomous Onchain Agents** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
-- append: **AI Infrastructure** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
