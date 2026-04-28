@@ -8,6 +8,7 @@ the separate router.py CLI call during ingest.
 import json
 import logging
 import os
+from datetime import datetime, timezone
 
 from config import get_config
 from llm import claude_call
@@ -29,14 +30,18 @@ def _load_index_md(domain):
 
 def _build_batch_prompt(sources, index_context, page_list, max_len):
     """Build a single prompt that evaluates multiple sources at once."""
+    today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     source_block = []
-    for i, (sid, domain, title, content) in enumerate(sources):
+    for i, (sid, domain, title, content, published_at) in enumerate(sources):
+        pub_str = (published_at or "")[:10]
         source_block.append(
-            f"[{i}] id={sid}\n제목: {title}\n내용: {(content or '')[:max_len]}"
+            f"[{i}] id={sid}\n발행일: {pub_str}\n제목: {title}\n내용: {(content or '')[:max_len]}"
         )
     sources_text = "\n---\n".join(source_block)
 
     return f"""품질 평가 + 위키 라우터 (배치 모드). 아래 소스들을 각각 평가하라.
+
+오늘 날짜 (UTC): {today_utc}
 
 기존 Wiki 인덱스:
 {index_context}
@@ -75,6 +80,7 @@ JSON 배열만 출력. 설명 없이 JSON만:
 - entities/concepts: 기존 페이지와 정확히 같은 이름 사용
 - new_pages: 기존에 없는 중요한 엔티티/개념만. 사소한 것은 만들지 마
 - facts: 각 대상 페이지에 추가할 타임라인 항목. 간결하게
+- facts의 date: 반드시 해당 기사의 **발행일**을 사용. 기사 내용에 언급된 미래 예정일이 아님. 발행일 없으면 오늘 날짜({today_utc}) 사용
 - average < 3.0이면 라우팅 필드(entities~whats_new)는 빈 값으로"""
 
 
@@ -105,7 +111,7 @@ def filter_quality(conn, threshold=None):
     max_len = get_config()["filter"]["max_content_length_quality"]
 
     cursor = conn.execute(
-        "SELECT id, domain, title, content FROM sources WHERE status = 'topic_pass'"
+        "SELECT id, domain, title, content, published_at FROM sources WHERE status = 'topic_pass'"
     )
     rows = cursor.fetchall()
 
@@ -114,8 +120,8 @@ def filter_quality(conn, threshold=None):
 
     # Group by domain for shared index context
     by_domain = {}
-    for sid, domain, title, content in rows:
-        by_domain.setdefault(domain, []).append((sid, domain, title, content))
+    for sid, domain, title, content, published_at in rows:
+        by_domain.setdefault(domain, []).append((sid, domain, title, content, published_at))
 
     passed = 0
     failed = 0
@@ -139,7 +145,7 @@ def filter_quality(conn, threshold=None):
                 logger.error("Batch quality eval failed for %s[%d:%d]: %s",
                              domain, i, i + len(batch), e)
                 # Mark entire batch as failed
-                for sid, _, title, _ in batch:
+                for sid, _, title, _, _ in batch:
                     conn.execute(
                         "UPDATE sources SET status = 'quality_fail' WHERE id = ?",
                         (sid,),
@@ -154,7 +160,7 @@ def filter_quality(conn, threshold=None):
                 if rid is not None:
                     result_by_id[int(rid)] = r
 
-            for sid, _, title, _ in batch:
+            for sid, _, title, _, _ in batch:
                 result = result_by_id.get(sid)
                 if not result:
                     logger.warning("No result for source %d in batch response", sid)
