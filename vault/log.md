@@ -1,8 +1,70 @@
 # 변경 이력
-최종 갱신: 2026-04-28 18:14
+최종 갱신: 2026-04-29 00:13
 
 ## [2026-04-28]
 
+- append: **Prediction Markets** ← Your Bank is Becoming a Casino: River CEO Frames Bitcoin as the Alternative
+- append: **Block** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
+- append: **Block** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
+- append: **Bitcoin Treasury Companies** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
+- append: **Hyperliquid** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
+- append: **Prediction Markets** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
+- append: **Arthur Hayes** ← $HYPE Man - by Arthur Hayes - Crypto Trader Digest | Arthur Hayes
+- append: **Hyperliquid** ← $HYPE Man - by Arthur Hayes - Crypto Trader Digest | Arthur Hayes
+- append: **Robinhood** ← Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting
+- append: **Bitcoin** ← Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks
+- append: **Prediction Market Regulatory Risk** ← CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority
+- append: **AI Agent Trading** ← The age of Agentic Commerce has arrived. Consensus 2026 is where you can experience it IRL
+- append: **Polymarket** ← Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders
+- append: **Bitcoin** ← Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M
+- append: **BTC Price** ← Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M
+- append: **DeFi** ← RedStone launches settlement layer to address RWA liquidity gap in DeFi lending
+- append: **Tokenized Assets** ← RedStone launches settlement layer to address RWA liquidity gap in DeFi lending
+- append: **Tether** ← Canaan, Tether deepen partnership on immersion-cooled mining systems
+- append: **Mining Supply Pressure** ← Canaan, Tether deepen partnership on immersion-cooled mining systems
+- append: **BitMart** ← BitMart x EAT Trade-to-Feed competition to pay out $4.4m USDT to traders in May 2026
+- append: **Traditional Finance Integration** ← Liquid raises $18M as platforms move toward 24/7 cross-asset trading
+- append: **Liquid** ← Liquid raises $18M as platforms move toward 24/7 cross-asset trading
+- append: **Bybit** ← Bybit Pay enters South Africa through MoneyBadger integration
+- append: **Paystand** ← Paystand launches Bitcoin-based stablecoin USDb for enterprise payments
+- append: **B2B Stablecoin Payments** ← Paystand launches Bitcoin-based stablecoin USDb for enterprise payments
+- append: **AI Infrastructure** ← OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped
+- append: **CFTC** ← CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State
+- append: **Prediction Market Regulatory Risk** ← CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State
+- create: **AI-Generated Content** ← Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford
+- append: **Robinhood** ← Robinhood Shares Slide on 34% Decrease in Crypto Revenue
+- append: **AI Infrastructure** ← Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data
+- append: **Polymarket** ← Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty
+- append: **Prediction Market Regulatory Risk** ← Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty
+- append: **Google** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
+- append: **Government AI Policy** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
+- append: **Geopolitical Security Threats** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
+- append: **Iris Energy (IREN)** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
+- append: **AI Infrastructure** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
+- append: **Mining Supply Pressure** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
+- append: **Kelp Exploit** ← Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack
+- append: **Aave** ← Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack
+- append: **Tether** ← Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware
+- append: **Mining Supply Pressure** ← Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware
+- append: **Kelp Exploit** ← DeFi United Outlines Technical Path To Make Kelp's rsETH Whole
+- append: **DeFi United** ← DeFi United Outlines Technical Path To Make Kelp's rsETH Whole
+- append: **Autonomous Onchain Agents** ← Developers of Telegram's Crypto Wallet Launch Agentic Wallets
+- append: **Arbitrum** ← Ostium Launches Institutional Hedging Layer
+- append: **Prediction Market Regulatory Risk** ← CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets
+- append: **CFTC** ← CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets
+- append: **Polymarket** ← Polymarket Seeks Full CFTC Approval for Its Main Platform: Report
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (NYSE: BMNR) registers 501,545 resale shares after Pier Two deal - Stock Titan
+- append: **Tom Lee** ← How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum - Yahoo Finance
+- append: **Ethereum Treasury Companies** ← How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum - Yahoo Finance
+- append: **BitMine (BMNR)** ← BitMine stock analysis: what next for this future free cash flow machine? - Invezz
+- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - Cryptonews.net
+- append: **Strategy (MSTR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - Cryptonews.net
+- append: **BitMine (BMNR)** ← MBitmine Immersion Technologies Reports ETH Holdings of 5.078M Tokens, Total Assets at $13.3B - Yellow.com
+- append: **Strategy (MSTR)** ← Bitcoin Pullback Exposes MicroStrategy to Around $1 Billion in Paper Losses - Yahoo Finance
+- append: **Government Digital Asset Policy** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy
+- append: **Czech National Bank** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy
+- append: **Lightning Network** ← Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System
+- append: **Lightspark** ← Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System
 - append: **Quantum Threat** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
 - append: **Quantum-Resistant Cryptography** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
 - append: **Tether** ← Visa is teaming up with a Tether co-founder to build onchain banks
@@ -41,65 +103,3 @@
 - append: **Bitcoin** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
 - append: **Government Digital Asset Policy** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
 - append: **Bitcoin Governance** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
-- append: **Block** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
-- append: **Bitcoin Treasury Companies** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
-- append: **Bitcoin Proof of Reserves** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
-- append: **Ondo Finance** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
-- append: **Tokenized Stocks** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
-- append: **Traditional Finance Integration** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
-- append: **Strategy (MSTR)** ← Michael Saylor's Strategy (MSTR) keeps buying bitcoin, so why isn’t the price moving? - CoinDesk
-- append: **Bitcoin Whale Accumulation** ← Michael Saylor's Strategy (MSTR) keeps buying bitcoin, so why isn’t the price moving? - CoinDesk
-- append: **Iris Energy (IREN)** ← Iris Energy Secures Funding for Major AI Infrastructure Expansion - AD HOC NEWS
-- append: **Bank of Finland** ← Olli Rehn: A European safe asset - from crisis pragmatism to strategic necessity
-- append: **AI and Central Banking** ← Chiara Scotti: From analysis to action - AI in financial markets
-- append: **Monetary Policy Transmission** ← Martin Schlegel: Comments on Swiss monetary policy
-- append: **Digital Euro** ← Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future
-- append: **Bank of Italy** ← Sergio Nicoletti Altimari: The Italian financial system - stability, innovation, and the road ahead
-- append: **HKMA** ← Eddie Yue: Opening remarks - International Conference "Climate, capital, and policy: advancing sustainable economic frameworks"
-- append: **Climate and Central Banking** ← Eddie Yue: Opening remarks - International Conference "Climate, capital, and policy: advancing sustainable economic frameworks"
-- append: **Deutsche Bundesbank** ← Michael Theurer: The environment and the banking sector - a new set of challenges from climate change and loss of biodiversity
-- append: **Bank of France** ← Michael Theurer: The environment and the banking sector - a new set of challenges from climate change and loss of biodiversity
-- append: **ECB** ← Philip R Lane: Expanding the supply of euro safe assets
-- append: **Financial Stability** ← Philip R Lane: Expanding the supply of euro safe assets
-- append: **Euro Safe Assets** ← Philip R Lane: Expanding the supply of euro safe assets
-- append: **Deutsche Bundesbank** ← Joachim Nagel: Central bank independence - why it matters
-- append: **Central Bank Independence** ← Joachim Nagel: Central bank independence - why it matters
-- append: **PBOC** ← China’s Draft Financial Law and Key Regulatory Insights - WilmerHale
-- append: **Bitcoin Custody Rivalry** ← Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security
-- append: **Blockstream** ← Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security
-- append: **Lightning Network** ← Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning
-- append: **Hyperliquid** ← HYPE Surges 5% as Hyperliquid Tops $1.4B in Oil Perpetuals Volume - CoinMarketCap
-- append: **Hyperliquid** ← Hyperliquid Owns 13% Of All Perp Volume, So Why Is Nobody Asking How - Yellow.com
-- append: **Hyperliquid** ← Hyperliquid Price Prediction: HYPE’s $60 Dream Fades As $100B Daily Perp Market Welcomes ‘Live Streaming’ Platform TradeView - Bitget
-- append: **Aave** ← A crypto coalition releases technical proposal to save Aave users from a massive token exploit
-- append: **Exchange Security Incidents** ← A crypto coalition releases technical proposal to save Aave users from a massive token exploit
-- append: **Market Transparency** ← Every blockchain transaction is a gift to your competition
-- append: **Bitcoin Governance** ← Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins
-- append: **AI Infrastructure** ← Galaxy Digital delivers first data center tranche to CoreWeave after narrowing Q1 loss
-- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - CoinDesk
-- append: **BitMine (BMNR)** ← A Look At Bitmine Immersion Technologies (BMNR) Valuation As It Builds A Major Ethereum Treasury And Staking Position - Yahoo Finance
-- append: **BitMine (BMNR)** ← EQS-News: Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion - boerse.de - boerse.de
-- append: **Bitcoin Treasury Companies** ← MicroStrategy Vs BitMine: Who Wins the Crypto Treasury Game? - BeInCrypto
-- append: **Strategy (MSTR)** ← Strategy (MSTR) Is Down 7.4% After Leveraged $2.13 Billion Bitcoin Buy - Has The Bull Case Changed? - Yahoo Finance
-- append: **Strategy (MSTR)** ← MicroStrategy claims it can survive Bitcoin crash to $8,000 - Yahoo Finance
-- append: **ECB** ← ECB Consumer Expectations Survey results – March 2026
-- append: **Monetary Policy Transmission** ← ECB Consumer Expectations Survey results – March 2026
-- append: **ECB** ← April 2026 euro area bank lending survey
-- append: **Monetary Policy Transmission** ← April 2026 euro area bank lending survey
-- append: **PBOC** ← China’s central bank guides banks to step up lending in April: sources - businesstimes.com.sg
-- append: **CNY-USD** ← PBOC USD/CNY Reference Rate Shift to 6.8589 Signals Surprising Policy Tightening - MEXC
-- append: **ZetaChain** ← ZetaChain halts transfers as DefiLlama reports $300K loss - crypto.news
-- append: **Bridge Security** ← ZetaChain halts transfers as DefiLlama reports $300K loss - crypto.news
-- append: **Hyperliquid** ← Why Hyperliquid $HYPE Could Be the Next BNB – Key Bullish Fractal Setup in Play - Binance
-- append: **Hyperliquid** ← Hyperliquid (HYPE) Hits All-Time High Against Coinbase, Reaches $8.28 Billion Volume - Cryptonews.net
-- append: **Block** ← Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition
-- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace
-- append: **Strategy (MSTR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace
-- append: **Tokenized Assets** ← Ondo Finance adds proxy voting for holders of its $700 million tokenized equities
-- append: **Prediction Markets** ← Trump changes tune on prediction markets days after saying he disliked them
-- append: **Crypto Regulation** ← Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations
-- append: **Todd Blanche** ← Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot
-- append: **Block** ← Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move
-- append: **Bitcoin Proof of Reserves** ← Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move
-- append: **Solana** ← Solana clients Anza and Firedancer introduce post-quantum solution Falcon
-- append: **Robinhood** ← Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam

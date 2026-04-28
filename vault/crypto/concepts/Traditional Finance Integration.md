@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Liquid이 $18M 펀딩으로 24/7 크로스 자산(암호화폐+주식 파생상품) 통합 거래 플랫폼 구축 중 [(원문)](https://cointelegraph.com/news/liquid-raises-18m-seed-to-build-always-on-trading-across-crypto-and-traditional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 토큰화 주식 보유자의 proxy voting 및 거버넌스 권리 구현 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity)
 - **2026-04-28**: Tokenized securities의 proxy voting 기능 추가로 온체인 자산이 전통금융 증권과 동등한 지배구조 권리 확보 [(원문)](https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Visa가 Tether와 온체인 뱅킹 서비스 개발 [(원문)](https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi)
@@ -49,7 +50,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Ondo Finance]] | [[Broadridge]] | [[Tokenized Stocks]] | [[Tokenization]]
+[[DeFi]]
 
 
 ## 모순/논쟁

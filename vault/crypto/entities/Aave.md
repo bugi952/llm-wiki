@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Kelp DAO 해킹 대응 기술 계획 공개 [(원문)](https://decrypt.co/365847/aave-compound-unveil-technical-plan-to-address-fallout-from-290m-kelp-dao-hack)
 - **2026-04-28**: 대규모 토큰 exploit 발생, 크립토 커뮤니티 기술 제안 발표 [(원문)](https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit)
 - **2026-04-28**: DeFi United 연합 주도로 $300M Kelp DAO 보상 기금 모금 [(원문)](https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses)
 - **2026-04-27**: Curve와 대조되는 지원자 구제 방식으로 DeFi 거버넌스 차이 드러남 [(원문)](https://www.coindesk.com/markets/2026/04/27/curve-founder-pitches-market-based-fix-for-usd700k-bad-debt-in-contrast-to-aave-bailout)
@@ -37,5 +38,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Exchange Security Incidents]]
+[[Compound]] | [[KelpDAO]] | [[Kelp Exploit]] | [[DeFi]]
 

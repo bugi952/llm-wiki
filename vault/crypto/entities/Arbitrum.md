@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,9 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Ostium RWA perps 프로토콜 론칭, Jump·prime broker와 협력해 directional flow 라우팅 [(원문)](https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer)
 - **2026-04-21**: Security Council의 자산 동결 능력이 보안 강점으로 평가되면서 동시에 L2 탈중앙화 모순 논쟁 발생 [(원문)](https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit)
 
 
 ## 연관 페이지
-[[Kelp Exploit]] | [[Crypto Regulation]]
+[[DeFi]] | [[Layer 2]]
 

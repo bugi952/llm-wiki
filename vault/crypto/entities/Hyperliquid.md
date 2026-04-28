@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-03-09**: Arthur Hayes가 HYPE의 투자 가치 분석 [(원문)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ib3FTMUV5Y0ttV0Zqc1JCcGg3a0VmMks4MXN6Y2NMQ1lVWndwWmthclIyTGRaMjd5TEZCM05pN0I1WmxDamlibGprVV9kWERjZGJ3RFFR?oc=5)
+- **2026-04-26**: Hyperliquid 팀이 예측시장 기능 개발 발표, HYPE 20% 상승 [(원문)](https://news.google.com/rss/articles/CBMijwNBVV95cUxQUFFyeUNYVUg3djMwQUpWQS1TX09Ucnd4RC1XcHlIQmRKYkJIRE1SaElRVkthNTEzWHBRcDVkeHBFcW1UUlR6Y01IczhYT3Z1RUVneTB1dUFqRnVOMXlYVTNkS2dMQ21JazlPSmxncUE4bFRtWWgtVkNDR19UaENiR0Z1QWUzMENIWUpzblp4aHBxOUc2MU9MMnBQWDNMTGFiNUlkT28xdy1DbkRRa25XZ21sX1BhWllYdFlzNTl2ak4yNWtzQXBPSVFVMkVodFoxX0JUS3NvVG1mdW44TlRtazA2UnJMemdPd25JaHJxZWVKR1pjZjE5bHIxUm5BcU5LOHlMX2JXeGxiU2dJd28zdlMzR1pUQlZ0elNZUldRNTB3WlJsUTlwaGs2QUlOWXoyRm1PNXUxX0VoUmt4VmZaX1lZdV9aZ1h4RGliWnVlbHhLSUR4WWhyQlVLeUVzTnN0QVFUREJRdURCZ3ptOE0yM1F0V0lMRTl5aXgzYWNaN25Md1NlZ1pvLTlpbzYzYzA?oc=5)
 - **2026-04-28**: Galaxy Digital의 Q1 손실을 일부 상쇄하는 성과 창출 [(원문)](https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital)
 - **2026-04-22**: $100B 일일 거래량 규모, TradeView 라이브 스트리밍 플랫폼 통합 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE15R0lFSGhzdEluZW1UQ0ludVAyOGdNZVVwbWhIX0JOWUlXYlQydUxWZWM1QzRQOWdqNl9zZWlrMTVpQ1VON0RRMEp2c2NvbDZGTDNKQkdsaWRnNGM4Z1Z6THNWeUbSAWpBVV95cUxPd1V1WFB0RGZxc0V1YWZ5cF9Ra21lMWFGMjFLYmE1UFc5c1VjbV9EOWxRLURNT3Jub1Z1LV9famJveGdid1Z3UW95Qjg5V3J1RHVwaE5sTjJYTDBHTkxfM2JveEdGYnZLY2dn?oc=5)
 - **2026-04-27**: 2026-04-27: 글로벌 Perpetuals 시장의 13% 점유율 기록 [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sZURRQjJ1ZFJjZVRPVThtMTVQVjV0OHZkbHFCdElWZmJRcDdkX3BQSldfQVpnX0NuSnlVUjE2b25KRHRGTU5lT0FKMHRJUU10T2lhMzFYa3FvN1ctVjdCWGhsUi04TUlmZEJ6a2FkSy02M2pocVpzem93?oc=5)
@@ -78,5 +80,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Galaxy Digital]] | [[Mike Novogratz]] | [[Bitcoin Treasury Companies]]
+[[Arthur Hayes]]
 

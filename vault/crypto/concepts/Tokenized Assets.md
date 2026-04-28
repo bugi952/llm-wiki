@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: RedStone settlement layer는 빠른 DeFi 청산과 느린 자산 상환 간 미스매치 해소 [(원문)](https://cointelegraph.com/news/redstone-settlement-layer-rwa-liquidity-gap-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 온체인 tokenized assets이 전통 증권의 기업 지배구조 기능을 갖춤으로써 기능 동등성 한 단계 진전 [(원문)](https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Ondo Finance가 $700M tokenized equity holder 대상 proxy voting 추가 [(원문)](https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities)
 - **2026-04-25**: Aurelion, XAUE 프로토콜으로 tokenized gold에서 yield farming 서비스 출시 [(원문)](https://cointelegraph.com/news/aurelion-allocates-48m-in-tokenized-gold-to-newly-launched-xaue-yield-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,7 +24,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Ondo Finance]] | [[Tokenized Stocks]] | [[Traditional Finance Integration]]
+[[RedStone]] | [[DeFi]]
 
 
 ## 모순/논쟁

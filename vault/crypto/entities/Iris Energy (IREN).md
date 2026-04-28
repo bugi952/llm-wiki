@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Bernstein, 비트코인 채굴 사업 폐기 및 AI 클라우드로 완전 전환 예상 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
 - **2026-01-13**: IREN, Bitcoin 채굴에서 AI infrastructure expansion으로 사업 전환 추진. 펀딩 확보로 본격 확장 단계 [(원문)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnI1U3ROLXBKYlBkZVhLejdYUUxIUFhBenBucmJmYXR2b1hQcXp3Zm9zaDJ2SF9CeUVkcFlnQkRQSWNtV0RBSkxqTGpRdl82WGF2YVVINlE2TFNNQjBWamhOb1hzY2twX013WTUzRi1qa0N4QmlOSS1MeGQ0dWRaeUc1YjV5SENBbFlfNVYtWVE1TFVIU1NCbnJNVW9WT2dJZ2hDUldKZUZmVzY0bl8yRk41S25HRkMxc1Uwbzd0Smcydw?oc=5)
 - **2026-04-28**: 비트코인 자산을 기반으로 한 AI 인프라 구축 중 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFVSUmM1NXF4QlVYWGVpbWNCTTJJNzktM1RYQ0kzVTluZVhPbkxfQzh6RUlUekI4S0pVRU9UQzJFZkx3QWJCWFRVN2FtYm0yZ0dpcG5zNDZ6Nm90YjFHYnB0QVhKZ0NyOUcyU09LcXlocFFiQWcxaDNBdTFSSXJPdldFNzg1ckdSR1Z6VFdEVXh6SjZUcjBjQVV4VHZVMF9RZWdaMWp1OWtYQTNmRU9tTjVscVpJejlWdEU1UDFMcw?oc=5)
 - **2026-04-28**: 광업 사업을 AI 인프라 제공자로 전환하는 공식 전략 발표 [(원문)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRuOHdfN3F1SGNUMzFzODIxVkpPUTdndHF4czVPVXg1WlJvbl9oRDZUYUZjVWtCZ2pGMzk3RU9mSksxNTNKSy1JZEt4OWlOc1luWXFvN0U0T01pZ3FpcjhfSWFzYURXSHltLXY4cFpYTFR1WG9sQUY3eUxfLVQwcGcwal9RT3UwUDJHMU5fR2YwNWdpZjF0c1hkLVZ6RER0RjMwMS1Md0tIM0dLeUh2NTN6RG85Ny1VanJBR1pMWnNkTkpWVWh2LUtKSWZhb0QxY0E?oc=5)
@@ -36,5 +37,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Infrastructure]]
+[[AI Infrastructure]] | [[Mining Supply Pressure]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 5.078M ETH 토큰 보유, 총자산 $13.3B [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUVplYXZMOXdmWVNLSXVRZVpnd2tuTTlrWkEtMTY5d1g3Q2tXSHlBVE9GanpyYnBGcHZaUExja3pPOENCYVVIbHdwZUtmZGNEWnlTR2xkRHo1RWhqdzUzbFFhU0NrX0ZaQjdLQ2pYbmM3UWFMdFpZTUZ4a3pFaG9qRWNBdE1fTVVDWV9Fbi1kSzVOZDVBZEh0QUt1aTZpMjNKb2FOVmJpRGNZdnh4dHdsMHl1Uk5xdmRVbzlSbnBRdHBvREk?oc=5)
+- **2026-04-28**: ethereum 구매 속도가 Strategy의 bitcoin 축적 속도에 근접(2026-04-28 시점) [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE45UlN2ejRlLXFYUmNVUTIxdE9TTGR0Q1dUd2d6Z1kwUkpPZDJfOEprNklyU0ctcm9tRUxCTkwtbWMxUmRrcWxQaGZJRkJMemt5WDZNNnhOaUs?oc=5)
+- **2026-04-28**: 미래 자유 현금 흐름 창출 기업으로 평가되며 ethereum 축적을 통한 가치 창출 모델 검증 단계 [(원문)](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2pDVnYyMHNxWkJiRFhsX2JCVnhCbE54RUlCek1mOWpVZHQtcWk0OC1OTTByYWhzQWRieGV4bzZfUTVWT1I1NnMwWWl1R1JLQ29mSm5DWkNVcV9jVDQtT0RvLVF5RXYwWFZ5XzVfdUZnN2JrWFoydGlTWXpaSF9BRXVoVzF3RFlEWENtVTdIOVUyTXlrVDE3eFdyenNJY0N6b01wcC1MOXVwWjg?oc=5)
+- **2026-04-28**: Pier Two 딜 이후 501,545주 리셀 주식 등록 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY194N09HZzRwNmVNWl9RY3F0TEVCTzE5N19NNUNicGlWbjFZM05Ubm5GT0tUTnJ6OUN5dkVNbk9UTk96OHZVVkNGUEZSbzlYZTVrWFcyZFN6QWV6MEZhdmp6OFQzdU5wLXRHUXh6Z1hrZEtZcnpNTUVtelJ6dVVEUGRNMTRLbHZ6dDVxbVlVWjRJU2FoOUwxaGZmSVRoNU5ZXzdROTdnMjd4QWdvaDdMNGZ4WUw?oc=5)
 - **2026-04-28**: ETH 매입 속도가 Strategy의 BTC 축적 속도에 근접 중 [(원문)](https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace)
 - **2026-04-28**: 5.078M ETH 보유 달성(이더리움 역사상 최대 기관 보유량), 총 암호자산+현금 $13.3B [(원문)](https://news.google.com/rss/articles/CBMizAJBVV95cUxNeTE0OHZpdUIyN3JqUHpEMnczTkVuaHlEZVpHTWJrZ29TekwwRjl0S0tYazA3QXdVQzh6NGlETFVpU0FwYVVFcmlWZHBfaVAxOVA2ajhpTzNNQUlCcnRIRXo3dW1pVlNyOUEzYXU3T1diT3NIa2FSRTJyV1JSNFhQMkpldzNRZGdxX2tvOWJHa3AzaGlBM0ZXNktHcjkwYVlYM1I0bmdFbjNLY1BYcDFDM1BNM3dDTEZKenlqeE9MZWQ4YW9pZTh1bTBGc1R5a2EyVTB4SlBWUUU3MlZ1T0pxbEJQdFFmcnVHWVJEdGh4TmRqaURBSG90WWgwSkhuOEtqbVdqNXlEdEJYZHB5QjZxeTVPUVBLM0VIVFhXWEdldWlvcWlKZjlpcjFiOVl4RnhiUUZHMXpyNV8yd1c2NzZyT3ppVDRkVEhDdDVxWtIB0gJBVV95cUxPR1NkeEU3WkVhcmtsaEJYOV81MEFQTXpHS0lkSlh5d0EyZWxPT2dPeXR1UXdBTTNvc0JqcHZVNlJsS0lhOEdWbVBVcG5ESzcwNVlFdXV3eUt3RDRZckdZUzQ3d1drUm1PUDlKc3k2OHRveEpFVV95VExVTkJ3UGVKZThfYlBMY1Z3SnhOMVpFejB0WHp4THRIa3VEc1ExcXFYWm51cnVqS0dfRXFlYVlpWW9nYVlqSlVNZ19jUDJjVmpyekhEUThMNFZ6MG9sWEV1ekpOT2VvX2hWMDJ6enloMU9LQ2h0TjV0SW5XbTBuV0lic1VybXFyamVNNUFSdlhBalV1R3RPNGtjTEhDZF9qSjRkQkVCNnZZSng4dGpyVjNNMkFBOXBiTzVGMjNvQ3dRYk15OWlSOFVmUHdsU3g2elZSUGxhbHltM192dURGNjNKdw?oc=5)
 - **2026-04-28**: Ethereum treasury와 staking position의 수익화가 valuation의 핵심 요소 [(원문)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1FhYlpXQjAxQ3gzbDlEem1wT1NwYnFKaXdNYnljSXUtOTQxMktKRkp2a1NadkR6SGsxRFhIM0JMb0VHa04ybG01QzNOT2h6RnJMY3FNZExjTm5odmg0ZE9ua1lSc3hmd2pjMXI0R01rWmkzM2VfVkw3RmtCczNtVHI5cDZ6MDdLclJtaGtXRlVpNU1FQmUzaDVfVm05Wk1ZbWNDdnBmcjg?oc=5)
@@ -160,5 +164,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Bitcoin Treasury Companies]] | [[Asset Allocation]]
+[[Ethereum Treasury Companies]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 체코 중앙은행(Governor Aleš Michl), 비트코인을 1% 준비금에 편입하는 '보수적이면서도 혁신적' 전략 공식 발표 [(원문)](https://bitcoinmagazine.com/news/czech-central-bank-chief-backs-bitcoin)
 - **2026-04-28**: 미국 정부의 비트코인 전략 비축금 정책 추진 중, 재무부 및 상원 입법 진행 중 [(원문)](https://decrypt.co/365801/white-house-crypto-adviser-hints-at-breakthrough-bitcoin-reserve-move)
 - **2026-04-28**: Trump 행정부가 암호화폐 업계 지도자들과 정책 논의 진행 [(원문)](https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago)
 - **2026-04-28**: 상원의원 Cynthia Lummis: 명확한 규제 부재 시 '게임 오버', 정치 변화에 따른 규제 복귀 우려 [(원문)](https://bitcoinmagazine.com/news/lawmakers-warn-crypto-clarity-usa)
@@ -43,7 +44,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Bitcoin Governance]]
+[[Bitcoin Treasury Companies]]
 
 
 ## 모순/논쟁

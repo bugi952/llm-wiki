@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Canaan, ACME Swisstech와 모듈식 비트코인 마이닝 하드웨어 개발 [(원문)](https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware)
+- **2026-04-28**: Canaan과 협력하여 모듈형 몰입형 냉각 마이닝 시스템 확보 [(원문)](https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Visa와 온체인 은행 구축 협력 [(원문)](https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi)
 - **2026-04-28**: Bitcoin mining 인프라 통일 위해 오픈소스 mining framework 출시 [(원문)](https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: 미 정부 요청에 따라 이란 관련 3억 4,400만 달러 USDT 동결 [(원문)](https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -24,5 +26,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Traditional Finance Integration]] | [[B2B Stablecoin Payments]]
+[[Canaan]] | [[Mining Supply Pressure]] | [[Bitcoin]]
 

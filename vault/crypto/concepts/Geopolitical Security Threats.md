@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Google Pentagon AI 협력 - 미국 AI 능력 강화 [(원문)](https://decrypt.co/365857/google-ai-deal-pentagon-classified-work)
 - **2026-04-28**: 암호자산 정책 약화를 국가 경쟁력 위협으로 인식하는 정부 입장 표현 [(원문)](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)
 - **2026-04-27**: 프랑스, 2023년 이후 암호 관련 135건 사건 기록, wrench attack 급증 (88명 기소) [(원문)](https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown)
 - **2026-04-27**: 중국의 AI 섹터 외국 투자 제한 강화, 크로스보더 AI M&A 리스크 증가 [(원문)](https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus)
@@ -43,7 +44,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Government Digital Asset Policy]]
+[[Google]] | [[Government AI Policy]]
 
 
 ## 모순/논쟁

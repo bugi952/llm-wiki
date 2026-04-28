@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Tether가 비트코인 마이닝 장비 시장에 진출 [(원문)](https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware)
+- **2026-04-28**: IREN 비트코인 채굴 사업 축소 전망 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
+- **2026-04-28**: 스테이블코인 발행사가 데이터센터 스타일 마이닝 인프라 직접 운영 추세 확대 [(원문)](https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 비트코인 채굴업체의 AI 인프라로의 사업 전환 사례 증가 (Core Scientific) [(원문)](https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: IREN 같은 주요 광부들의 AI infra 피벗으로 Bitcoin 공급 압력 감소 추세 [(원문)](https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: 채굴사 BitMNR의 Ethereum Foundation 10,000 ETH 매수로 채굴 자본력 강화 [(원문)](https://thedefiant.io/news/markets/ethereum-foundation-sells-10000-eth-to-bitmnr-otc-ss1db6)
@@ -26,7 +29,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Core Scientific]] | [[AI Infrastructure]]
+[[Tether]] | [[Canaan]] | [[Bitcoin]]
 
 
 ## 모순/논쟁

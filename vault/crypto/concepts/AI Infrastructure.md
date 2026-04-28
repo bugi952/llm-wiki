@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: IREN 등 채굴업체의 AI 클라우드 전환 추세 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
+- **2026-04-28**: Ineffable Intelligence, RLHF 없이 강화학습만으로 AI 학습 접근 ($1.1B 자금 조달) [(원문)](https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data)
+- **2026-04-28**: Tank OS: Red Hat 엔지니어의 AI 에이전트 컨테이너 샌드박싱 및 자격증명 격리 도구 [(원문)](https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security)
 - **2026-04-28**: Meta의 우주 기반 태양광 에너지 1GW 도입, AI 전력 수급 전략의 기술 혁신 [(원문)](https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers)
 - **2026-04-28**: 비트코인 채굴 설비를 AI 데이터센터로 재활용하는 사례 등장 (Core Scientific) [(원문)](https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Galaxy Digital이 CoreWeave에 데이터 센터 공급 [(원문)](https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss)
@@ -36,7 +39,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]]
+[[Iris Energy (IREN)]] | [[Mining Supply Pressure]]
 
 
 ## 모순/논쟁
