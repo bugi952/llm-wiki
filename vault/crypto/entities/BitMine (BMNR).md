@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 5M 이더리움 마일스톤 달성, $241M 투자 [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDFNaFczUFozc0o5YkZxekNvRkhqcXZoVDFjZzV1Tnh1bDVXR1JkcjQxbHJGY041dHRsZnNsLTlVYklpbU9uMlRkeUd2eVJ4T3hCamlPNDZMQmlIeXdZU092aEZWb2pGVHVETG12alVxRFkza25vd0QycUZDemtmejV0TXY0UXJwTzVEaG9QeDlNM21zU0pVV3pSVFhNdFQw?oc=5)
+- **2026-04-28**: Ethereum staking 전략 확대로 수익성과 리스크 프로필 동시 변화 [(원문)](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUllTNzVLLTRHSXRzanhkLS1nX09MSm5JckQ4WlNwU2NlRVg5WktyRWJ6YWRLMXVwZW9xQUY3bkZHdXZhZEhqdmpzVjRQWlVENTExbTlWellnNzduT2c2QUFWSlRxQUtUakxRdVk2YjZkVm5yLU01SXh6U0M5bHhTR0Jfclctc2ZNRDNQNzJ5SHBHaXhjOE9CbGJRemNkOUJESWdnY1dWaFhiRy14ZkRjb3dTSVJ3Q19RRV9aT1VJOHZvU29GTG5QSWNmR1ZtaUswTmlXX0VsZWM5X3RMb29ZZU1B?oc=5)
+- **2026-04-28**: Ethereum $236M 매입 공표 - 'wartime store of value' 전략 기반 [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN1JkZlVNbG95X3BVYm5acVVZY2VxUWxXOFlMamhuV2N1akdwRTlTTEhadF9Bd2U2cXVfcno1MnkyVGxPMXczMWZaeXBIN0x1RzBFcThlSFNLZw?oc=5)
+- **2026-04-28**: 2026년 최대 규모 Ethereum 매입으로 5M ETH 보유량 달성 [(원문)](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQi1ZVlZPYnpDUFdCeFREanU0MUtZeWo3VVQyYlhZMWo0c01NOUFydDhGSU43bTk0X19QaVJYSFpBZy14UVU3T2Y1Z3NyRmxyaFVSWFR0WE9GZk1MUzVFWUNmU3g1NWRxNHVyWHdCU0JoVVhvYTJoc3hOVE53NjljQU5fVlhwRUV0ZndjWnJrS1M4SnEzV3dHaktEdw?oc=5)
+- **2026-04-28**: Bitmine Immersion Technologies SEC proxy filing 공개 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMEdLZUFiX05CWVVxVFd5bmVWWjFMYmxGQk5MZjlyMy1SaVl3TUtCNDhjZnFKZXc4LVhoaVpvWU5jTWwxZXMtVnBJSnNDb0hmVmRMUmRhb0N2TDFDV1BmVjB3bkNaMWhya01pR0ROWll1WElTbWVWamRoT3RWTGdtNmJCU2NfWlJxSlBN?oc=5)
 - **2026-04-28**: 101,000 ETH 추가 취득. 발생 손실 $6.5B 상황에서도 자산 축적 지속 [(원문)](https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: ETH 보유량 444만 개, 암호자산 및 현금 보유액 99억 달러 [(원문)](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTk9HVXQtR3FiVTJQcVBxbzdzcE1iOUp5b2tyTjhsWEJFNkRRUjZmUk9Uamh6UWprQ0xVMjVsRFRzYU03OTF6a2NuWEM5N1A3NHZRUEYzWldycmI3Tmp2TGtJcjROdTBEbjB2RHpFZHZGakdMNHJNRGhPcTJxV2ZSSjVBcDh0dGZrMFlQLVF2Y3dmZjRHdkc1ZjhiRG1TSGdWQzNyNjBKU2tycFJrbHhoTEJrQ0RLQVFGZE5IVXpsMk9CUkp4WVN1bURXSEYyMXI4b3FPNTJ1YWtiOEpod3d4RF9YemF3MUdieDN4UEV4SEdZSVA0bGx3SnduMFpIeDU4Z0JHYW11ZDZUYzZra0p4TGhOb0ZoVGR6eGYxeEtRMGNuVnVmMTVGb0FB?oc=5)
 - **2026-04-28**: 2026년 최대 규모 ETH 매입, 누적 500만 ETH 도달 [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOE9lV1FUclBfUGVsZzMzd2NNTEJPUmIyWmZZOWlWMlRFQXJxZUFGR2NodW1hOUtPbUR6X3JxcW9NSnA5d2ZROEJKeEZKUDA3Mldqdnh2VVVWZw?oc=5)
@@ -151,5 +156,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin Treasury Companies]] | [[Asset Allocation]] | [[Ethereum Staking]]
+[[Mining Supply Pressure]] | [[Ethereum Staking]]
 

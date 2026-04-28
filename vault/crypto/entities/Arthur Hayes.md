@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Hyperliquid를 top pick으로 지정, $375M 토큰 언락 예정 [(원문)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmpDX3hjN2FJSl9FNTAtSlJqbURlNExjekJYRzZ2c1ZZOU90cGpkZTRfd0hkVzdLbnYxeGlOY1ZKT0JOSVFFY0dtTlN0emlqbXRNQm1PbE1fWWlONV93TG05ZGNrdXAxR3ZLbWxSUHNwS0hYaU4wWEV5VTUwSkpDMmpZWE5xNFlqVVhVVHRQWXkyZWxydU1ZTU5JRnN0dVFSS1BnWC1mZGN6TVYzSkRURXQtbDVoMVl1azdCR2lGR1RIOGJ4UUVqNXNWVmNKc1lyOFhKa0ZlUmp5Ti13?oc=5)
 - **2026-04-21**: 2026-04-21: HIP4 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xqeEx4YVQ1YjRnQkpMVkdPcjM5cGNoTHVJem80dTZhdllHaUdWZmk5TC1wekoyQ1IxcXBNYlYyTmc1Y29vWU96ZUVaUDIzSzFxYlBwQlhoeVo5LXBmTGExUGluTXNDNjhGaWpsVlh0eEVJQzQ1bnlrdHdxSm5iZ29tRUUyN0FNV0NMTkQ2NXBxQ0E2YndxNWtXTGplbWI1LVhqb1dvR2JheHhNZ2pGc01lRlpSSVpWb2lKdlR3?oc=5)
 - **2026-04-20**: HYPE 토큰 목표가를 $150으로 예측 [(원문)](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmdzTkxhNVJ2ZkhVUFg0dVNpOWlxS0RUQTgwMk5TLU5nTWs2MWxRbnVPaVl6UnlIVzNtQXcySDZoZXRPOW05OVFPeTVlVTg2ekloOTcxV0dvMUdQcFFwMFVHZ0lrMnU4MG02aVd4OTNKMFVaanNsUmNRLWxXaXJEVXVrekFseGtZdmVOSV9VNG1EZlVuZzFMcG5ycFlBYkF1anpqMGtWS2MwM2J5NjB1eGtkM0JnZHRyS0U0MGRzN000cWVtVVhhUXJSNHJDY3NfTEpweEc3UkFVdFVybmQw?oc=5)
 - **2026-04-19**: Hyperliquid에 $1.1M 투자 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CVW1Lc3ByV0hHV0tHaEp2b3M1aExSTldHMlZtTU9rMmctbVF2OV9LWW5LNnI5WlJiM2ZhY3pOYk9UZjdOVkdnOA?oc=5)
@@ -22,5 +23,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]] | [[HIP4]]
+[[Hyperliquid]] | [[AI Agent Trading]] | [[Autonomous Onchain Agents]]
 

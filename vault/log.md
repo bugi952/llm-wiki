@@ -1,6 +1,41 @@
 # 변경 이력
-최종 갱신: 2026-04-28 00:14
+최종 갱신: 2026-04-28 06:08
 
+## [2026-04-28]
+
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Proxy Filing Summary - Quartr
+- append: **BitMine (BMNR)** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
+- append: **Ethereum** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
+- append: **Tom Lee** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
+- append: **BitMine (BMNR)** ← Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value' - Cryptonews.net
+- append: **Ethereum** ← Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value' - Cryptonews.net
+- append: **BitMine (BMNR)** ← How Bitmine’s Expanding Ethereum Stash and Staking Strategy Could Reshape Risk for BMNR Investors - Sahm
+- append: **Ethereum Staking** ← How Bitmine’s Expanding Ethereum Stash and Staking Strategy Could Reshape Risk for BMNR Investors - Sahm
+- append: **BitMine (BMNR)** ← BitMine Crosses 5M ETH Milestone With $241M Purchase - CoinMarketCap
+- append: **Strategy (MSTR)** ← Strategy (MSTR) adds $255 million more bitcoin to its treasury which now holds 818,334 - CoinDesk
+- append: **Strategy (MSTR)** ← Michael Saylor's Strategy buys $1.25 billion bitcoin, largest purchase since July - CoinDesk
+- append: **Iris Energy (IREN)** ← Iris Energy Earnings Call: Pivoting From Mining to AI - The Globe and Mail
+- append: **Iris Energy (IREN)** ← How IREN is Building an AI Powerhouse on a Bitcoin Foundation - TradingView
+- append: **BOJ** ← Outlook for Economic Activity and Prices (April 2026, The Bank's View)
+- append: **BOJ** ← Statement on Monetary Policy
+- append: **HYPE Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
+- append: **ETH Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
+- append: **BTC Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
+- append: **Hyperliquid** ← Hyperliquid – Whales increase long exposure, but can HYPE’s price hit $50? - Cryptonews.net
+- append: **HYPE Price** ← Hyperliquid – Whales increase long exposure, but can HYPE’s price hit $50? - Cryptonews.net
+- append: **Arthur Hayes** ← Arthur Hayes’ Top Pick Hyperliquid To Unlock $375M In Tokens - Stocktwits
+- append: **Hyperliquid** ← Arthur Hayes’ Top Pick Hyperliquid To Unlock $375M In Tokens - Stocktwits
+- append: **Bitcoin** ← Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?
+- append: **Market Liquidation Mechanics** ← Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?
+- append: **Ethereum** ← Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change
+- append: **ETH Price** ← Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change
+- append: **Stablecoin** ← Israeli regulators approve shekel-pegged stablecoin
+- append: **Crypto Regulation** ← Israeli regulators approve shekel-pegged stablecoin
+- append: **Crypto Regulation** ← Canada advances bill to ban crypto political donations
+- append: **Political Interference in Crypto Regulation** ← Canada advances bill to ban crypto political donations
+- append: **Bitcoin** ← Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?
+- append: **Government AI Policy** ← Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions
+- append: **AI Legal Risk** ← Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions
 ## [2026-04-27]
 
 - append: **Solana** ← Solana developers outline plan to protect network from quantum threats
@@ -70,36 +105,3 @@
 - append: **Bitcoin** ← Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report
 - append: **Autonomous Onchain Agents** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
 - append: **AI Infrastructure** ← $1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network
-- append: **Hyperliquid** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
-- append: **Prediction Markets** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
-- append: **HYPE Price** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
-- append: **Aave** ← Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack
-- append: **BTC Price** ← Bitcoin rally shows signs of fatigue as key indicators turn bearish
-- append: **Western Union** ← Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says
-- append: **Stablecoin** ← Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says
-- append: **Quantum Threat** ← MARA Holdings targets bitcoin quantum threat and network resilience with new foundation
-- append: **Curve Finance** ← Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout
-- append: **Aave** ← Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout
-- append: **On-Device LLM Inference** ← Running Local LLMs Offline on a Ten-Hour Flight
-- append: **AI Infrastructure** ← [게시판]  SKT, 베트남에 AI 데이터센터 구축 등 단신
-- append: **Sustainable AI** ← [게시판]  SKT, 베트남에 AI 데이터센터 구축 등 단신
-- append: **xAI** ← xAI, '그록' 글쓰기 성능 향상 위해  최상급 전문 작가 채용
-- append: **Abstention in AI** ← KAIST “AI도 모른다고 말할 수 있어야…‘노이즈 예열 학습’으로 해결”
-- append: **Uncertainty Quantification** ← KAIST “AI도 모른다고 말할 수 있어야…‘노이즈 예열 학습’으로 해결”
-- append: **Renewable Energy Policy** ← 프랑스 재생에너지 볼탈리아, 1분기 매출 25% 급증…‘서비스 중심 사업 재편’
-- append: **Energy Market Policy** ← 프랑스 재생에너지 볼탈리아, 1분기 매출 25% 급증…‘서비스 중심 사업 재편’
-- append: **Renewable Energy Policy** ← 인도, ‘태양·풍력’의 역습… 화석연료 발전량 사상 첫 감소
-- append: **Energy Market Policy** ← 인도, ‘태양·풍력’의 역습… 화석연료 발전량 사상 첫 감소
-- append: **Physical Intelligence** ← 아이벡스, 피지컬 AI 데이터 올인원 플랫폼 공개
-- append: **AI Deployment** ← 아이벡스, 피지컬 AI 데이터 올인원 플랫폼 공개
-- append: **DeepSeek** ← 중국, 딥시크 띄우기에 나서..."V4 출시 지연은 '기술 굴기' 위한 것"
-- append: **AI Regulation** ← 중국, 딥시크 띄우기에 나서..."V4 출시 지연은 '기술 굴기' 위한 것"
-- append: **AI Infrastructure** ← 씨이랩, GPU 낭비 비용 시각화한 '아스트라몬' 출시
-- append: **Model Efficiency** ← 씨이랩, GPU 낭비 비용 시각화한 '아스트라몬' 출시
-- append: **Renewable Energy Policy** ← 호주, 데이터 기반 배전망 현대화 착수
-- append: **Agent-Aided Design** ← 메이사, 신세계건설 건설현장에 ‘드론 공간정보 솔루션’ 공급
-- append: **Agentic AI** ← 과기부, '에이전틱 AI 얼라이언스' 워크숍에 NC·LG·카카오 총출동
-- append: **Agent Governance** ← 과기부, '에이전틱 AI 얼라이언스' 워크숍에 NC·LG·카카오 총출동
-- append: **AI Regulation** ← 캐나다 매니토바주, 청소년 대상 AI 사용 금지 정책 발표
-- append: **AI Infrastructure** ← 정부 2조원 GPU 사업 5파전 돌입...'베라 루빈' 도입 여부가 승부처
-- append: **Synthetic Data Generation** ← 700만명 가상 한국인 탄생... 엔비디아, 소버린 AI 핵심 데이터셋 공개

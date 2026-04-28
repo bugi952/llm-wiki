@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Arthur Hayes의 주요 포트폴리오 선택지, $375M 토큰 언락 이벤트 예정 [(원문)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmpDX3hjN2FJSl9FNTAtSlJqbURlNExjekJYRzZ2c1ZZOU90cGpkZTRfd0hkVzdLbnYxeGlOY1ZKT0JOSVFFY0dtTlN0emlqbXRNQm1PbE1fWWlONV93TG05ZGNrdXAxR3ZLbWxSUHNwS0hYaU4wWEV5VTUwSkpDMmpZWE5xNFlqVVhVVHRQWXkyZWxydU1ZTU5JRnN0dVFSS1BnWC1mZGN6TVYzSkRURXQtbDVoMVl1azdCR2lGR1RIOGJ4UUVqNXNWVmNKc1lyOFhKa0ZlUmp5Ti13?oc=5)
+- **2026-04-28**: 고래 투자자들의 장기 포지션 증가 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FTWlTcWlmWUJPR1B5QU40NmZZTzJhZTdjOHpQLWIzOU5SazhSeFRLTTdZcXQzN3pMNTFQRmxuZHNhTU5BUzZhZ3p3U3NOX3VMN1FlYldDSUpLTEE?oc=5)
 - **2026-04-27**: 예측 시장 기능 추가 계획을 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMikANBVV95cUxPN2pYd3IxTkE4ZVRoNmVSTmNfWE1hSjFmZE45UGRmbE5pRmQxWFVhVUFNV2puOFBQZ0tfZUpKLXpGVHlhNlZGOURZSHFQR3RyUzV2dV82bmtQOXN3RnA4SjhscXR0LXdYcVhDMXhBRHlUaGNhdEhQMHlJM2dEUkJKOHN6TTVWT0VxZW1JMm5mNnZaZkhrbE9WRml5Y1Q1bG9uTTNPdEVJUU50am9JUjRZZjkwdVluMWx4Sk9UNF9ZN1pYc0lFX0VmT2JCME5MZmVsOGloWnJFNEFVTkJSRC1CRUFiYWdDYnhlQkNkMmY5UFVaNnB4M2tGaHFBaVRUZklmUXNickI4aHNfRTRKSVVZRXJNczVkbDFrMnl1S1VpRFV2MmdFX3V3WFpBejU1SHJwdzBiSFo3ZUVFMF81bS1vbEYzbkQ1aU45cG5yNWg2bnpVMC13M08zS0tsb2xWYkZnaWIzZmtvZGtwZkZEbXRWWTV6MUhHeXQzeXBhRWVIbWs5VlA3d09RdW5MWTdxLXNw?oc=5)
 - **2026-04-27**: Perpetuals 거래량 10개월 저점 기록 [(원문)](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzNtUWVtT1RuNm9NMERBMjY2RTlpdWFVc3ozd3Rsd3dHckM5ZkkzNHc1UDBxdkhNcFNCUlVrWElCN2hDU3Jrb09LNXBkb0N3SHpqa0g3VEpkdmxfQTZDakQ5VkdKLV9oOXFhY1JFR25qUlozekNJc0JZeldaVy0zUkd6NWg4TzdSanlFMXMtendHd9IBlwFBVV95cUxPR21LUzlmeVNiMmItdlBZTjdXbzh4MnNGSkhUQjB4cnoyckI2b3pMb3VhRHhxSGdMYzRJd2wtdkJPcjdVVEF1R2EyZXNoMUl6clBEb1g4TGxnLUhzWVJmc0wzX1EyQ2NXbmJoRjNod3ZINzBVU0NGc0NMYmFCQUN1ZVYxYzhlWkdhN2RVcEpFMFJheWtKdk84?oc=5)
 - **2026-04**: Grayscale이 HYPE 기반 ETF 상품 개발, 기관 자본 진출 가속화 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU21VaDNBT095Nm91WTFsMkcyQ2pRWk9RVlpYTkJRVC1sZUFBdE5QQzY3STVSM0d3dkExeFVDVnd1eXBLTlFHUktpYklJNUpjN2p6LTljVzNqR2UwUFJITnJ5bVg3dGRpZGlTaUd0cHlZdWhGaDE0b3VrbW9FM1F5Q2dzWk81bDBpaXV0VVhQUFF3TVpQTlcyTGhySWo?oc=5)
@@ -70,5 +72,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Prediction Markets]]
+[[Arthur Hayes]] | [[AI Agent Trading]] | [[Autonomous Onchain Agents]]
 

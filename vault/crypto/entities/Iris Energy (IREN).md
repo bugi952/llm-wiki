@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 비트코인 자산을 기반으로 한 AI 인프라 구축 중 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFVSUmM1NXF4QlVYWGVpbWNCTTJJNzktM1RYQ0kzVTluZVhPbkxfQzh6RUlUekI4S0pVRU9UQzJFZkx3QWJCWFRVN2FtYm0yZ0dpcG5zNDZ6Nm90YjFHYnB0QVhKZ0NyOUcyU09LcXlocFFiQWcxaDNBdTFSSXJPdldFNzg1ckdSR1Z6VFdEVXh6SjZUcjBjQVV4VHZVMF9RZWdaMWp1OWtYQTNmRU9tTjVscVpJejlWdEU1UDFMcw?oc=5)
+- **2026-04-28**: 광업 사업을 AI 인프라 제공자로 전환하는 공식 전략 발표 [(원문)](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRuOHdfN3F1SGNUMzFzODIxVkpPUTdndHF4czVPVXg1WlJvbl9oRDZUYUZjVWtCZ2pGMzk3RU9mSksxNTNKSy1JZEt4OWlOc1luWXFvN0U0T01pZ3FpcjhfSWFzYURXSHltLXY4cFpYTFR1WG9sQUY3eUxfLVQwcGcwal9RT3UwUDJHMU5fR2YwNWdpZjF0c1hkLVZ6RER0RjMwMS1Md0tIM0dLeUh2NTN6RG85Ny1VanJBR1pMWnNkTkpWVWh2LUtKSWZhb0QxY0E?oc=5)
 - **2026-04-28**: Bitcoin mining에서 AI cloud infrastructure로 비즈니스 모델 전환. Microsoft 파트너십으로 GPU 확대 [(원문)](https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: AI 인프라 사업으로의 전략적 방향 전환 및 자금 조달 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUtdUNtMGNLeEZDeEJ6dmljaXp3NjFnN01qTTBZWUgyQXdHVVg5SWJCR2VwY2FZNlBRNTlQLUxXSXlnUHJ6ejFKU3ZBYllUQ3pmMG1hdVROTWNxSG82Y2VlVXpRZW5vV1B0a05vSVBTa1JDbnBzUG9lZ3dXRF9NR2xzMFo0WUtlMkZ6bG03dEdOdHBMRmtDcEpOZ25ZdVd3MzhBcmhETnRjcjRiSFZha0RacE5uQ1l5eXlTcHhfSQ?oc=5)
 - **2026-04-25**: Microsoft GPU 딜 발표로 Canaccord Genuity가 주가 목표를 $70으로 상향 조정 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUl4VkszNmZ1bGpYbnB3cVlCRW5CRWo4RUp6SGFuZXBySUFQVGJ3MUpVdmthRU56Y01iWXpVV1hEQUg1SFJucUc0R3FqNkRjNm4tdkQzcEFYUHo2S0FrS29USW1ua29acXB3dkNiTkM1Z0ZyNkhZRjI2cjYwUWpGRTJlMHhDRUI3VkdNZDBLWUVPY3hzdnA2dGhGUWNxQVRLblY4SklqZnJiQnpTUXVUXzY1UlRISXpabFkyRzhIcHA3X0puS1o2aHFSU0ltS0dOSVlyMGZJSQ?oc=5)
@@ -33,5 +35,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Infrastructure]] | [[Mining Supply Pressure]]
+[[Bitcoin]] | [[AI Infrastructure]] | [[Bitcoin Treasury Companies]]
 

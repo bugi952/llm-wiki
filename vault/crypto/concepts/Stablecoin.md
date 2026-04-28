@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 이스라엘 BILS(셰켈 페그) 스테이블코인 규제 승인, Bits of Gold 발행, Solana 기반 [(원문)](https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 서방 전신송금 업체 스테이블코인 도입 검토 중 [(원문)](https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says)
 - **2026-05**: Western Union USDPT 5월 출시 (디지털 지갑 + Stable Card 통합) [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
 - **2026-05-01**: Western Union USDPT: agent-to-agent 정산 전용, 소비자 거래 미지원 [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
@@ -43,7 +44,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Western Union]] | [[Traditional Finance Integration]]
+[[Solana]] | [[Crypto Regulation]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: July 이후 최대 규모인 $1.25B 투자로 BTC 대규모 축적 [(원문)](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkRSMzVDQjJISTNvSEpPNTlKUE5qZk5qeTB4bWlRRXdBT0wxd24zRWFnNmlUdzNwd0tHTVBTZmlxNE00Y2ppNl8tSktvRmMyT21CeGRPQXdTYk05SlhMbG84YXJDWXNtUVFXR3MwTUx0ekNremZ4aVZDM3JPOEdRWWZ4cHh1QjE5SUFJYlZ3ZUJfVTRmM19BWmpiTjlFcURpRWpETHJSS2tOaHZOMVZF?oc=5)
+- **2026-04-28**: $255M 투자로 BTC 보유량 818,334개 달성 [(원문)](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSHhQWTJZLTkxRXNZZjFmQWtscWhmcWduSllfUnJkYmVqeENIS2twYVh4QUppbFFLM1RpS0pwREQyby1Vc29jY21nOEQzZkZiVHZuQVB6MUNxdlFjMGFwOWpiellEMHphVG9sNUF1UVBNdkg4ZzJIYjBrdDRiR0hWN2lFaWF4ako5MkQ1eW9mbVczTk9NeGhILVpjbU1WLXk3QkEtUUdhNEs5SndrTk9kaXBaRWM4bnFGcGY4b0RTdmFwOHQ1bUFGa2dXcTk?oc=5)
 - **2026-04-27**: 2026-04: 3,273 BTC 추가 매입 (~$255M) [(원문)](https://thedefiant.io/news/markets/microstrategy-buys-3273-bitcoin-255-million-ptqepo)
 - **2026-04-27**: STRC 쿨다운으로 구매 페이스 91% 감소, 자본 조달 수단 다각화 [(원문)](https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown)
 - **2026-04-26**: 2026년 4월 3,273 BTC 추가 매수 (총 818,334 BTC 보유) [(원문)](https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -64,5 +66,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Polymarket]] | [[Mainstream Adoption]] | [[Asset Allocation]] | [[Prediction Markets]]
+[[Bitcoin Treasury Companies]] | [[Mainstream Adoption]]
 

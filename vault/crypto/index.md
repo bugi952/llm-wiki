@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-28 00:14
+최종 갱신: 2026-04-28 06:08
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -15,6 +15,7 @@
 - [[entities/Aurelion|Aurelion]]
 - [[entities/Avalanche|Avalanche]]
 - [[entities/Aven|Aven]]
+- [[entities/BILS|BILS]]
 - [[entities/BIS|BIS]]
 - [[entities/Bank of Korea|Bank of Korea]]
 - [[entities/Bank of Russia|Bank of Russia]]
@@ -167,6 +168,7 @@
 - [[entities/Zodia Custody|Zodia Custody]]
 - [[entities/Zonda|Zonda]]
 - [[entities/dYdX|dYdX]]
+- [[entities/xAI|xAI]]
 
 ## 💡 개념
 - [[concepts/AI Agent Trading|AI Agent Trading]]
@@ -184,6 +186,7 @@
 - [[concepts/Bitcoin Governance|Bitcoin Governance]]
 - [[concepts/Bitcoin Treasury Companies|Bitcoin Treasury Companies]]
 - [[concepts/Bitcoin Upgrade Strategy|Bitcoin Upgrade Strategy]]
+- [[concepts/Bitcoin Whale Accumulation|Bitcoin Whale Accumulation]]
 - [[concepts/Block Reorganization Attack|Block Reorganization Attack]]
 - [[concepts/Bridge Security|Bridge Security]]
 - [[concepts/CBDC|CBDC]]

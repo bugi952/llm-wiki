@@ -14,6 +14,8 @@ last_updated: 2026-04-28
 
 
 ## 이력
+- **2026-04-28**: $2.4K에서 삼중 저항 패턴 확인, 약세 심화 가능성 [(원문)](https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 다운트렌드 진입 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRdIBY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRQ?oc=5)
 - **2026-04-28**: BitMine의 대규모 ETH 보유가 가격 $2,200 이상 지지 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdsNHVZbzVvLXo1cXAyZGVrdzFGX0Y1WlQ4OFgtekRfQmFWbkpubkhQeTN4RnpVVy00LTBxM0YyWkt3b05PODMtYUpXZnFlSXlsWnZ3MnhkRjN5ZDE4b3lnOWJsMm1qbTl1R0FTRkVjWmpneUFyek93T3RjX0RjbmxVRzRESDdud09SeEJyclhIcE11eVJpQWJPZFBmWFFtUEVTaG9SYldRUUhDaFBJbjBJakxEdUFKRGM4ZUVfUWNYbl84a2RweXZ3YVhYN0wzUFlnVWhvVlNCT084bmIycl9ENGFnQQ?oc=5)
 - **2026-04-27**: 4월 10% 상승했으나 Ethereum Foundation의 판매 압력으로 향후 15% 이상 하락 신호 [(원문)](https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-24**: 2026년 4월 현물 ETH ETF 10일 연속 유입 $633M, $3K 돌파 가능성 [(원문)](https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

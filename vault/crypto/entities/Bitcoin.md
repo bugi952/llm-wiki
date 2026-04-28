@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Whale holdings 5개월 최고 기록, 공급 감소로 $80K 가격 전망 [(원문)](https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: $1.4B 공매도 포지션이 $80K에서 청산 위험 직면, 베어 트랩 신호 가능성 [(원문)](https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Tether, 분산된 mining 시스템 통합을 위한 오픈소스 프레임워크 공개 [(원문)](https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Lightning Network가 온라인 게임 수익 정산의 실시간 레일로 사용 중 (Voltage 보고서) [(원문)](https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts)
 - **2026-04-27**: 전통금융 기업의 대규모 채택 가속화 [(원문)](https://thedefiant.io/news/markets/microstrategy-buys-3273-bitcoin-255-million-ptqepo)
@@ -104,5 +106,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Tether]] | [[Mining Supply Pressure]]
+[[Mining Supply Pressure]] | [[Mainstream Adoption]]
 

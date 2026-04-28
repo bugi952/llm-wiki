@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: xAI, Colorado AI bias law 소송 제기, 주정부 규정 수정 검토 중 [(원문)](https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions)
 - **2026-04-28**: Google 직원 580명이 CEO에게 군사용 AI 계약 차단 요청 공개 편지 발송 [(원문)](https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter)
 - **2026-04-28**: 연방 준비제도 공식 연구: ChatGPT 출시 이후 미국 프로그래머 일자리 성장 반감 확인 [(원문)](https://decrypt.co/365693/fed-confirms-tech-developers-fears-ai-jobs)
 - **2026-04-27**: OpenAI-Microsoft 배타성 조항 폐기로 AI 제공자 생태계 다층화 [(원문)](https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions)
@@ -27,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[AI Legal Risk]]
+[[xAI]] | [[AI Legal Risk]]
 
 
 ## 모순/논쟁

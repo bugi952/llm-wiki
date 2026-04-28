@@ -14,6 +14,7 @@ last_updated: 2026-04-28
 
 
 ## 이력
+- **2026-04-28**: 1주일 내 주요 움직임 임박 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRdIBY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRQ?oc=5)
 - **2026-04-28**: 핵심 기술적 지표 약세 전환으로 랠리 피로 신호 포착 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish)
 - **2026-04-27**: Bitcoin ETF 9일 연속 순유입 $2.1B (9월 이후 최장 기록, 2026년) [(원문)](https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags)
 - **2026-04-21**: 2026년 4월 암호화폐 ETF 누적자산 최고치 갱신, $933M 순유입 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february)

@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 캐나다 의회, 암호화폐 정치 기부금 금지 법안 추진 + 스테이블코인 감시 강화 [(원문)](https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 이스라엘 규제 당국 BILS 셰켈 페그 스테이블코인 공식 승인 후 2년 파일럿 완료 [(원문)](https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: EU, 러시아 암호 거래소, stablecoin, CBDC 대상 제재 실시 [(원문)](https://cointelegraph.com/news/eu-sanctions-russia-crypto-exchanges-stablecoins-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-07-01**: Tennessee 암호화폐 ATM 금지령 7월 1일 시행 [(원문)](https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Cynthia Lummis 상원의원이 Clarity Act 5월 마크업 추진 공식화 [(원문)](https://bitcoinmagazine.com/news/senator-lummis-puts-congress-on-the-clock)
@@ -82,7 +84,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bank of Russia]] | [[Geopolitical Security Threats]] | [[CBDC]] | [[Stablecoin]]
+[[Political Interference in Crypto Regulation]]
 
 
 ## 모순/논쟁
