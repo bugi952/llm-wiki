@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 미국 정부의 비트코인 전략 비축금 정책 추진 중, 재무부 및 상원 입법 진행 중 [(원문)](https://decrypt.co/365801/white-house-crypto-adviser-hints-at-breakthrough-bitcoin-reserve-move)
+- **2026-04-28**: Trump 행정부가 암호화폐 업계 지도자들과 정책 논의 진행 [(원문)](https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago)
 - **2026-04-28**: 상원의원 Cynthia Lummis: 명확한 규제 부재 시 '게임 오버', 정치 변화에 따른 규제 복귀 우려 [(원문)](https://bitcoinmagazine.com/news/lawmakers-warn-crypto-clarity-usa)
 - **2026-04-28**: 공화당 의원들, 미국의 암호자산 약점이 중국 경쟁력 우위를 초래한다고 경고 (Bitcoin 2026 컨퍼런스) [(원문)](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)
 - **2026-04-26**: Trump, Mike Tyson, Tether CEO와의 프라이빗 이벤트에서 암호화폐 입법 옹호 [(원문)](https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo)
@@ -41,7 +43,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]]
+[[Bitcoin]] | [[Bitcoin Governance]]
 
 
 ## 모순/논쟁

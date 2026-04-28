@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-07**: MSTR, 가격 움직임과 무관하게 지속적 Bitcoin 매수 전략 유지 [(원문)](https://news.google.com/rss/articles/CBMingFBVV95cUxNRElNcHFfTE05RWp3bTB2ZGRrQkRhVFR0SWtlTW9OTDFMUXgzTWJoeTNNNDRhMWxvVnRNOXh1M0RXQnJkSzkyMGJaTUhMakEzMjZ4V1BTaEw1TDlHVkJNaktmalR1VGt2Yl9PX0Eyam1sNDVoOTk5LWFvS3c0Z0pFWDE0cWRJRks4SWFJWXBwdHdSbnFHbW0tdGpLMm9Udw?oc=5)
 - **2026-04-28**: BTC 축적 속도가 Bitmine의 ETH 매입 속도와 비교 대상 [(원문)](https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace)
 - **2026-04-28**: 비트코인 8,000달러 극단 시나리오에서 생존 가능 주장 [(원문)](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNVVBWmp4dmJxdHZILTFjM2xCd1F6X1NzUlhNSUdjNGd6U09WQmJVQnBHN3RKcVFlWWFzUWctMGRiZE1VZ29WcUY2YkE1anRBbHRqbEhaSUc1bm1XSmktNjNZU3ByR0thV0hwalliMllONHIzWUNWekZoZjdNcmtuTmJNV2NvZUJmVU90VnF5NTR2dw?oc=5)
 - **2026-04-28**: 21.3억 달러 규모 레버리지 비트코인 매입으로 주가 7.4% 하락 [(원문)](https://news.google.com/rss/articles/CBMid0FVX3lxTFBHQUdnekF1QXhkVUU3UzU1OExUZ0RmMmpqLS14OXF4ZFlRYUNEa3pKdWlyZ3l0TzY5NmhUdG14bE1QV21VMWJFRFQ3amsyLTJqdmhJVklfa3g0QnBqd0xVeGluMWV4Ry1PZG1jaXRZVUpDNFduTnBB?oc=5)
@@ -69,5 +70,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[BitMine (BMNR)]] | [[Bitcoin Treasury Companies]] | [[Asset Allocation]]
+[[Michael Saylor]] | [[Bitcoin]] | [[Bitcoin Treasury Companies]] | [[Bitcoin Whale Accumulation]]
 

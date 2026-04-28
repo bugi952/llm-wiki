@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 비트코인 채굴업체의 AI 인프라로의 사업 전환 사례 증가 (Core Scientific) [(원문)](https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: IREN 같은 주요 광부들의 AI infra 피벗으로 Bitcoin 공급 압력 감소 추세 [(원문)](https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: 채굴사 BitMNR의 Ethereum Foundation 10,000 ETH 매수로 채굴 자본력 강화 [(원문)](https://thedefiant.io/news/markets/ethereum-foundation-sells-10000-eth-to-bitmnr-otc-ss1db6)
 - **2026-04-21**: Core Scientific, $3.3B 채무 조달로 미국 AI 데이터센터 인프라 확장 [(원문)](https://cointelegraph.com/news/core-scientific-3-3b-debt-ai-data-center-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Iris Energy (IREN)]] | [[AI Infrastructure]]
+[[Core Scientific]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

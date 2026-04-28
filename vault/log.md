@@ -1,8 +1,81 @@
 # 변경 이력
-최종 갱신: 2026-04-28 12:09
+최종 갱신: 2026-04-28 18:14
 
 ## [2026-04-28]
 
+- append: **Quantum Threat** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
+- append: **Quantum-Resistant Cryptography** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
+- append: **Tether** ← Visa is teaming up with a Tether co-founder to build onchain banks
+- append: **Traditional Finance Integration** ← Visa is teaming up with a Tether co-founder to build onchain banks
+- append: **B2B Stablecoin Payments** ← Visa is teaming up with a Tether co-founder to build onchain banks
+- append: **Government AI Policy** ← CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk
+- append: **CBDC** ← A digital shekel is here: Israel approves its first regulated stablecoin
+- append: **Stablecoin** ← A digital shekel is here: Israel approves its first regulated stablecoin
+- append: **Galaxy Digital** ← Galaxy Digital posts $216M Q1 loss as crypto market slides 20%
+- append: **Crypto Regulation** ← AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report
+- append: **Tokenization** ← Crypto projects shut down as token models fail under pressure
+- append: **Crypto Regulation** ← Japan tells real estate and crypto sectors to tighten AML checks on property deals
+- append: **B2B Stablecoin Payments** ← Stablecoin payroll gets built-in yield with Paxos–Toku integration
+- append: **Kelp Exploit** ← Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit
+- append: **DeFi United** ← Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit
+- append: **Sunnyside** ← Startale to add Privacy Boost transfers to Sony-linked Soneium app
+- append: **Stablecoin** ← Stablecoin transfer volume drops 19% even as supply keeps rising: RWA.xyz
+- append: **Tokenized Stocks** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
+- append: **Tokenized Assets** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
+- append: **Traditional Finance Integration** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
+- append: **BlackRock** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
+- append: **Mainstream Adoption** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
+- append: **Tokenization** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
+- append: **Cross-chain Bridge** ← Changelly and Tonkeeper enable cross-chain deposits to TON across 13 networks
+- append: **Core Scientific** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
+- append: **Mining Supply Pressure** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
+- append: **AI Infrastructure** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
+- append: **Donald Trump** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
+- append: **Government Digital Asset Policy** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
+- append: **Political Interference in Crypto Regulation** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
+- append: **Galaxy Digital** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
+- append: **Hyperliquid** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
+- create: **Mike Novogratz** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
+- append: **Meta** ← Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth
+- append: **AI Infrastructure** ← Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth
+- append: **Bitcoin** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
+- append: **Government Digital Asset Policy** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
+- append: **Bitcoin Governance** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
+- append: **Block** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
+- append: **Bitcoin Treasury Companies** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
+- append: **Bitcoin Proof of Reserves** ← Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report
+- append: **Ondo Finance** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
+- append: **Tokenized Stocks** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
+- append: **Traditional Finance Integration** ← Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks
+- append: **Strategy (MSTR)** ← Michael Saylor's Strategy (MSTR) keeps buying bitcoin, so why isn’t the price moving? - CoinDesk
+- append: **Bitcoin Whale Accumulation** ← Michael Saylor's Strategy (MSTR) keeps buying bitcoin, so why isn’t the price moving? - CoinDesk
+- append: **Iris Energy (IREN)** ← Iris Energy Secures Funding for Major AI Infrastructure Expansion - AD HOC NEWS
+- append: **Bank of Finland** ← Olli Rehn: A European safe asset - from crisis pragmatism to strategic necessity
+- append: **AI and Central Banking** ← Chiara Scotti: From analysis to action - AI in financial markets
+- append: **Monetary Policy Transmission** ← Martin Schlegel: Comments on Swiss monetary policy
+- append: **Digital Euro** ← Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future
+- append: **Bank of Italy** ← Sergio Nicoletti Altimari: The Italian financial system - stability, innovation, and the road ahead
+- append: **HKMA** ← Eddie Yue: Opening remarks - International Conference "Climate, capital, and policy: advancing sustainable economic frameworks"
+- append: **Climate and Central Banking** ← Eddie Yue: Opening remarks - International Conference "Climate, capital, and policy: advancing sustainable economic frameworks"
+- append: **Deutsche Bundesbank** ← Michael Theurer: The environment and the banking sector - a new set of challenges from climate change and loss of biodiversity
+- append: **Bank of France** ← Michael Theurer: The environment and the banking sector - a new set of challenges from climate change and loss of biodiversity
+- append: **ECB** ← Philip R Lane: Expanding the supply of euro safe assets
+- append: **Financial Stability** ← Philip R Lane: Expanding the supply of euro safe assets
+- append: **Euro Safe Assets** ← Philip R Lane: Expanding the supply of euro safe assets
+- append: **Deutsche Bundesbank** ← Joachim Nagel: Central bank independence - why it matters
+- append: **Central Bank Independence** ← Joachim Nagel: Central bank independence - why it matters
+- append: **PBOC** ← China’s Draft Financial Law and Key Regulatory Insights - WilmerHale
+- append: **Bitcoin Custody Rivalry** ← Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security
+- append: **Blockstream** ← Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security
+- append: **Lightning Network** ← Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning
+- append: **Hyperliquid** ← HYPE Surges 5% as Hyperliquid Tops $1.4B in Oil Perpetuals Volume - CoinMarketCap
+- append: **Hyperliquid** ← Hyperliquid Owns 13% Of All Perp Volume, So Why Is Nobody Asking How - Yellow.com
+- append: **Hyperliquid** ← Hyperliquid Price Prediction: HYPE’s $60 Dream Fades As $100B Daily Perp Market Welcomes ‘Live Streaming’ Platform TradeView - Bitget
+- append: **Aave** ← A crypto coalition releases technical proposal to save Aave users from a massive token exploit
+- append: **Exchange Security Incidents** ← A crypto coalition releases technical proposal to save Aave users from a massive token exploit
+- append: **Market Transparency** ← Every blockchain transaction is a gift to your competition
+- append: **Bitcoin Governance** ← Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins
+- append: **AI Infrastructure** ← Galaxy Digital delivers first data center tranche to CoreWeave after narrowing Q1 loss
 - append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - CoinDesk
 - append: **BitMine (BMNR)** ← A Look At Bitmine Immersion Technologies (BMNR) Valuation As It Builds A Major Ethereum Treasury And Staking Position - Yahoo Finance
 - append: **BitMine (BMNR)** ← EQS-News: Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion - boerse.de - boerse.de
@@ -30,78 +103,3 @@
 - append: **Bitcoin Proof of Reserves** ← Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move
 - append: **Solana** ← Solana clients Anza and Firedancer introduce post-quantum solution Falcon
 - append: **Robinhood** ← Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam
-- append: **Crypto Regulation** ← Tillis won’t support Senate crypto bill without ethics provision
-- append: **Marathon Digital Holdings** ← MARA forms foundation to support Bitcoin network health, adoption
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Proxy Filing Summary - Quartr
-- append: **BitMine (BMNR)** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
-- append: **Ethereum** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
-- append: **Tom Lee** ← Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone - Yahoo Finance
-- append: **BitMine (BMNR)** ← Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value' - Cryptonews.net
-- append: **Ethereum** ← Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value' - Cryptonews.net
-- append: **BitMine (BMNR)** ← How Bitmine’s Expanding Ethereum Stash and Staking Strategy Could Reshape Risk for BMNR Investors - Sahm
-- append: **Ethereum Staking** ← How Bitmine’s Expanding Ethereum Stash and Staking Strategy Could Reshape Risk for BMNR Investors - Sahm
-- append: **BitMine (BMNR)** ← BitMine Crosses 5M ETH Milestone With $241M Purchase - CoinMarketCap
-- append: **Strategy (MSTR)** ← Strategy (MSTR) adds $255 million more bitcoin to its treasury which now holds 818,334 - CoinDesk
-- append: **Strategy (MSTR)** ← Michael Saylor's Strategy buys $1.25 billion bitcoin, largest purchase since July - CoinDesk
-- append: **Iris Energy (IREN)** ← Iris Energy Earnings Call: Pivoting From Mining to AI - The Globe and Mail
-- append: **Iris Energy (IREN)** ← How IREN is Building an AI Powerhouse on a Bitcoin Foundation - TradingView
-- append: **BOJ** ← Outlook for Economic Activity and Prices (April 2026, The Bank's View)
-- append: **BOJ** ← Statement on Monetary Policy
-- append: **HYPE Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
-- append: **ETH Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
-- append: **BTC Price** ← Hyperliquid (HYPE) Regains 101% in Weekly Futures, Ethereum (ETH) Suddenly in Downtrend, Bitcoin (BTC) Has 1 Week Left: Crypto Market Review - Bitget
-- append: **Hyperliquid** ← Hyperliquid – Whales increase long exposure, but can HYPE’s price hit $50? - Cryptonews.net
-- append: **HYPE Price** ← Hyperliquid – Whales increase long exposure, but can HYPE’s price hit $50? - Cryptonews.net
-- append: **Arthur Hayes** ← Arthur Hayes’ Top Pick Hyperliquid To Unlock $375M In Tokens - Stocktwits
-- append: **Hyperliquid** ← Arthur Hayes’ Top Pick Hyperliquid To Unlock $375M In Tokens - Stocktwits
-- append: **Bitcoin** ← Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?
-- append: **Market Liquidation Mechanics** ← Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?
-- append: **Ethereum** ← Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change
-- append: **ETH Price** ← Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change
-- append: **Stablecoin** ← Israeli regulators approve shekel-pegged stablecoin
-- append: **Crypto Regulation** ← Israeli regulators approve shekel-pegged stablecoin
-- append: **Crypto Regulation** ← Canada advances bill to ban crypto political donations
-- append: **Political Interference in Crypto Regulation** ← Canada advances bill to ban crypto political donations
-- append: **Bitcoin** ← Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?
-- append: **Government AI Policy** ← Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions
-- append: **AI Legal Risk** ← Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions
-## [2026-04-27]
-
-- append: **Solana** ← Solana developers outline plan to protect network from quantum threats
-- append: **Quantum Threat** ← Solana developers outline plan to protect network from quantum threats
-- append: **Crypto Regulation** ← Tennessee crypto kiosk ban set to go into effect July 1
-- append: **BitMine (BMNR)** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses
-- append: **Ethereum** ← BitMine acquires 101,000 ETH despite $6.5B in unrealized losses
-- append: **Crypto Regulation** ← EU sanctions target Russian crypto exchanges, stablecoins and CBDC
-- append: **Bank of Russia** ← EU sanctions target Russian crypto exchanges, stablecoins and CBDC
-- append: **Iris Energy (IREN)** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
-- append: **AI Infrastructure** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
-- append: **Mining Supply Pressure** ← Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business
-- append: **Tether** ← Tether launches open-source mining framework to unify Bitcoin infrastructure
-- append: **Bitcoin** ← Tether launches open-source mining framework to unify Bitcoin infrastructure
-- append: **Kelp Exploit** ← Ethereum backers pledge up to 30,000 ETH to rsETH recovery after bridge incident
-- append: **DeFi United** ← Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses
-- append: **Aave** ← Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses
-- append: **AI Infrastructure** ← OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report
-- append: **AI-Generated Content Authentication** ← Taylor Swift Seeks Trademarks for Her Voice and Image to Fight AI Fakes
-- append: **Government AI Policy** ← Fed Confirms What Tech Developers Have Feared for Two Years
-- append: **AI-Powered Attacks** ← Malicious Web Pages Are Hijacking AI Agents, And Some Are Going After Your PayPal
-- append: **Government AI Policy** ← Google Employees Demand CEO Block Military AI Contracts in Open Letter
-- append: **Strive** ← Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit
-- append: **Prediction Markets** ← Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them
-- append: **Gemini** ← Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents
-- append: **Autonomous Onchain Agents** ← Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents
-- append: **Litecoin** ← Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts
-- append: **Block Reorganization Attack** ← Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts
-- append: **Sky** ← Sky Proposes to Streamline Treasury Management
-- append: **DeFi United** ← DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support
-- append: **AI Deployment** ← GitHub Copilot is moving to usage-based billing
-- append: **Agentic Software Engineering** ← GitHub Copilot is moving to usage-based billing
-- append: **Financial AI** ← GitHub Copilot is moving to usage-based billing
-- append: **OpenAI** ← OpenAI available at FedRAMP Moderate
-- append: **Google DeepMind** ← 허사비스, 이 대통령 접견...K-문샷 지원·서울 AI 캠퍼스 개소 등 합의
-- append: **xAI** ← [4월27일] "알고리즘의 자유 vs 기업의 책임"...머스크의 소송이 던진 근본적인 질문
-- append: **Anthropic** ← [4월27일] "알고리즘의 자유 vs 기업의 책임"...머스크의 소송이 던진 근본적인 질문
-- append: **Legal AI** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
-- append: **AI Regulation** ← 챗봇에게 ‘위험한 질문’…법정에서 증거 되나
-- append: **BitMine (BMNR)** ← Bitmine (NYSE: BMNR) holds 5.08M ETH and $13.3B in assets - Stock Titan

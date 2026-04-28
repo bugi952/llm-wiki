@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-22**: 유로존 안전자산 공급 확대에 관한 정책 연설 [(원문)](https://www.bis.org/review/r260428a.htm)
 - **None**: 2026-04 은행 대출 조사 발표. 신용 조건과 대출 기준 변화 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html)
 - **None**: 2026-03 소비자 기대치 조사 발표 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html)
 - **2026-04-21**: 유럽 표준 제정자와 디지털 유로 결제 촉진을 위한 협약 체결 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260424~202f9d832b.en.html)
@@ -26,5 +27,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Monetary Policy Transmission]]
+[[Financial Stability]]
 

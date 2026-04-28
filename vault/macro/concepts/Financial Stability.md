@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: macro
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-22**: ECB의 유로 안전자산 공급 확대 정책 강조 [(원문)](https://www.bis.org/review/r260428a.htm)
 - **2026-04-25**: PBOC, 은행의 과도한 채권 매입으로 인한 금융 안정성 위험 경고 [(원문)](https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFREeWdaMXV2RWZNeEVuTlR3UzA5Z0RENDFSU2NTV0xKU3J6UmF6d19GTUpSZGpscGZBRWY2elV4elVwWmhJQXMxWXN2b2Zsd3dqME5QMmFLdDJmcnF0U1hRN0Y4aU1Rb0cwdzFwQmxKVjdybzdTN2JxaUtVRWZTak1HU1hVMHZlbHJJNVAzNzZzT3kyN09VT0djRV95NmVOTEpDbUVlZFA3MzhxaDFFczNn?oc=5)
 - **2026-04-24**: 중앙은행 통화스왑은 국제 유동성 공급 및 금융 시스템 안정성 유지의 핵심 도구 [(원문)](https://news.google.com/rss/articles/CBMickFVX3lxTE42SVQyNkhUQWM1OVVMRTNwQUJpSHhRaU4wbGJ1Y01adzMxdWxxNDRmbS1xakxvTVk2WnN4dS05ME1Kdi1hUUY0QjNsV1FmT2VhVTVkbDhKZUFZTDFmcFVjS2FpR3JYMzZSQ2FMRm9IRWVSQQ?oc=5)
 - **2026-04-21**: PBOC의 유동성 조절로 금융 안정성 관리 [(원문)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUTlVX3ZiZUNmQVJHbVRQMjc5dVFrT0FKNU90eXhZQ21QWWRmdHA3WDZsQkJTaFh2a3BqTEgtNnd1WTVEbDkzamstOXlQaFlHZWFFZkJ3QUYwVWhObWxXazlyRVlEME42NDJaSHEySi1CaWxTSXQtZzZ2Z21EQUp4engxVy1CTzhIV2FN?oc=5)
@@ -21,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[PBOC]] | [[Monetary Policy Transmission]]
+[[ECB]]
 
 
 ## 모순/논쟁

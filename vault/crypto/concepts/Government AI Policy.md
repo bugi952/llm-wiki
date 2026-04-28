@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: CFTC가 암호화폐 등록 신청 검토에 AI 시스템 도입 발표 [(원문)](https://www.coindesk.com/policy/2026/04/27/cftc-s-ai-will-review-u-s-crypto-registration-applications-chairman-tells-coindesk)
 - **2026-04-28**: xAI, Colorado AI bias law 소송 제기, 주정부 규정 수정 검토 중 [(원문)](https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions)
 - **2026-04-28**: Google 직원 580명이 CEO에게 군사용 AI 계약 차단 요청 공개 편지 발송 [(원문)](https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter)
 - **2026-04-28**: 연방 준비제도 공식 연구: ChatGPT 출시 이후 미국 프로그래머 일자리 성장 반감 확인 [(원문)](https://decrypt.co/365693/fed-confirms-tech-developers-fears-ai-jobs)
@@ -28,7 +29,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[xAI]] | [[AI Legal Risk]]
+[[Crypto Regulation]]
 
 
 ## 모순/논쟁

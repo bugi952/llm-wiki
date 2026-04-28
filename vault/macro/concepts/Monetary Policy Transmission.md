@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 스위스 중앙은행의 통화정책 방향 성명 [(원문)](https://www.bis.org/review/r260428h.htm)
 - **None**: 은행 신용 경색은 통화정책의 가장 직접적인 전파 경로 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html)
 - **None**: 기대 인플레이션의 변화는 임금-물가 악순환 리스크의 선행신호 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html)
 - **2026-04-27**: PBOC 정부채 거래 재개로 금리 전달 경로 정상화 [(원문)](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXVwMFpjdllKWUJLUUhMTlN4ME9CX0NLMmZjak1FU3Q3b25NWTlqZVRmZU9WMjRkNS03czNtb3NzLWpKbzdlbGVzZjluakxEeUZHOV9lY3NCcXJ5X21sVGdXTWdOQXU4QUhBN0Q2VjlkN1lZRXRrVWRFUWFkamR2S0RYaGl2cE1RdHJULWpzU2xTR21vNTBTZzlvMk91czJTM3NoTXdhXzdyTGhNM3c?oc=5)
@@ -19,7 +20,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[ECB]]
+[[Swiss National Bank]]
 
 
 ## 모순/논쟁

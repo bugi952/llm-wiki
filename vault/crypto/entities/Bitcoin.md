@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 미국 백악관이 비트코인 전략 비축금 정책에 대한 '획기적 발표' 임박 시사 [(원문)](https://decrypt.co/365801/white-house-crypto-adviser-hints-at-breakthrough-bitcoin-reserve-move)
 - **2026-04-28**: Whale holdings 5개월 최고 기록, 공급 감소로 $80K 가격 전망 [(원문)](https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: $1.4B 공매도 포지션이 $80K에서 청산 위험 직면, 베어 트랩 신호 가능성 [(원문)](https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Tether, 분산된 mining 시스템 통합을 위한 오픈소스 프레임워크 공개 [(원문)](https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -106,5 +107,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Mining Supply Pressure]] | [[Mainstream Adoption]]
+[[Government Digital Asset Policy]] | [[Bitcoin Governance]]
 

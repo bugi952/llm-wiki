@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Meta의 우주 기반 태양광 에너지 1GW 도입, AI 전력 수급 전략의 기술 혁신 [(원문)](https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers)
+- **2026-04-28**: 비트코인 채굴 설비를 AI 데이터센터로 재활용하는 사례 등장 (Core Scientific) [(원문)](https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: Galaxy Digital이 CoreWeave에 데이터 센터 공급 [(원문)](https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss)
 - **2026-04-28**: OpenAI가 Qualcomm, MediaTek과 협력해 스마트폰 칩 개발 (연 4억 대 목표) [(원문)](https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek)
 - **2026-04-28**: Iris Energy, $3.7B 규모 AI cloud 사업으로 확장. 기존 mining 역량 활용 [(원문)](https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 개인 PC/게이머 GPU를 활용한 분산 AI 컴퓨팅 모델, Bitcoin 직접 보상 (OpenAgents/Pylon) [(원문)](https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network)
@@ -33,7 +36,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OpenAI]] | [[Qualcomm]] | [[MediaTek]] | [[Semiconductor Supply Chain Security]]
+[[Meta]]
 
 
 ## 모순/논쟁

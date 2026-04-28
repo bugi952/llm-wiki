@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 이스라엘이 중동 최초로 규제 스테이블코인(디지털 셰켈) 승인 [(원문)](https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin)
 - **2026-04-27**: 민간 기업 stablecoin이 정부 CBDC와 경쟁 구도 형성 [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
 - **2026-04-24**: 인도, e-rupee를 복지 사업 연계로 파일럿 진행 중 (BRICS 협력) [(원문)](https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape)
 - **2026-04-21**: 한국 중앙은행 신임 총재, CBDC 우선순위 강조 (스테이블코인 규제와 대비) [(원문)](https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address)
@@ -20,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Stablecoin]] | [[Traditional Finance Integration]]
+[[Stablecoin]] | [[Crypto Regulation]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Galaxy Digital의 Q1 손실을 일부 상쇄하는 성과 창출 [(원문)](https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital)
+- **2026-04-22**: $100B 일일 거래량 규모, TradeView 라이브 스트리밍 플랫폼 통합 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE15R0lFSGhzdEluZW1UQ0ludVAyOGdNZVVwbWhIX0JOWUlXYlQydUxWZWM1QzRQOWdqNl9zZWlrMTVpQ1VON0RRMEp2c2NvbDZGTDNKQkdsaWRnNGM4Z1Z6THNWeUbSAWpBVV95cUxPd1V1WFB0RGZxc0V1YWZ5cF9Ra21lMWFGMjFLYmE1UFc5c1VjbV9EOWxRLURNT3Jub1Z1LV9famJveGdid1Z3UW95Qjg5V3J1RHVwaE5sTjJYTDBHTkxfM2JveEdGYnZLY2dn?oc=5)
+- **2026-04-27**: 2026-04-27: 글로벌 Perpetuals 시장의 13% 점유율 기록 [(원문)](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sZURRQjJ1ZFJjZVRPVThtMTVQVjV0OHZkbHFCdElWZmJRcDdkX3BQSldfQVpnX0NuSnlVUjE2b25KRHRGTU5lT0FKMHRJUU10T2lhMzFYa3FvN1ctVjdCWGhsUi04TUlmZEJ6a2FkSy02M2pocVpzem93?oc=5)
+- **2026-04-28**: 2026-04-28: Oil Perpetuals 거래량 $1.4B 달성 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDY3cmcwQ0JNRDk0a2V0X01xbXI4TVpKSzZlZ1pBZlpsNjVGbUJFZHBPRlB5TjljTFVKZkRmd3RscVFha3FGcVlDazk1bTVVcDFaTDZCRVhCTXpnWE51cU9EV1hkQ2c5NDdCQ0NSaXcyOFNicnZwR3FXOTFfdjBRUjI4SHktTjdmaVE0NkFwTkVPdE5OcXdoem5LT0UzWmpvcWRkTE9yalMyakVIcUk5bnhTaWlkMlFiSDBMaUNxMA?oc=5)
 - **2026-04-28**: 시가총액 $8.28B 달성, 사상 최고 거래량 기록 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE91OEp1VU04dnVLbXFyOS1aVnZSOGFRSzNmX3BEeXRJLVBhalRoWS1iaUNHbmdKbWdRSmtDSHZ1Mnd1dzZ1dkZFQ184UXpIYzBXLXkzMWtEdnFib0U?oc=5)
 - **2026-04-28**: BNB와 유사한 fractal 상승 패턴 분석 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUHA2dGszOEk5QlBpRGtmd3hyWFNQVHBMR1I1U05mOERVXzdFZW9jQ1RkOS1uMU5lWkVnYnpZMFdFR0pxeDRnWVZrcGxCWkQ2NFVLcUNzTENKUjdXbkhXTzdYemU?oc=5)
 - **2026-04-28**: Arthur Hayes의 주요 포트폴리오 선택지, $375M 토큰 언락 이벤트 예정 [(원문)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmpDX3hjN2FJSl9FNTAtSlJqbURlNExjekJYRzZ2c1ZZOU90cGpkZTRfd0hkVzdLbnYxeGlOY1ZKT0JOSVFFY0dtTlN0emlqbXRNQm1PbE1fWWlONV93TG05ZGNrdXAxR3ZLbWxSUHNwS0hYaU4wWEV5VTUwSkpDMmpZWE5xNFlqVVhVVHRQWXkyZWxydU1ZTU5JRnN0dVFSS1BnWC1mZGN6TVYzSkRURXQtbDVoMVl1azdCR2lGR1RIOGJ4UUVqNXNWVmNKc1lyOFhKa0ZlUmp5Ti13?oc=5)
@@ -74,5 +78,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]] | [[AI Agent Trading]] | [[Autonomous Onchain Agents]]
+[[Galaxy Digital]] | [[Mike Novogratz]] | [[Bitcoin Treasury Companies]]
 

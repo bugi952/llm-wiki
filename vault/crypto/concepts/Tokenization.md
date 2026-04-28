@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: BlackRock의 채권 펀드(BUIDL)가 거래소의 담보 자산으로 유동화 [(원문)](https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 토큰 펀딩 약화로 인한 프로젝트 구조적 실패 가속화 [(원문)](https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 기업 보상 구조를 Bitcoin으로 tokenize하는 새로운 mainstream adoption 경로 [(원문)](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)
 - **2026-04-21**: 공개 블록체인 기반 RWA 규모 $29B 이상, 30일간 10% 성장으로 주류 금융 도입 가속화 [(원문)](https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 일본 JSCC의 Canton 네트워크 기반 정부채 디지털 담보화 테스트 [(원문)](https://cointelegraph.com/news/jscc-to-test-use-of-japanese-bonds-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Mainstream Adoption]]
+[[BlackRock]] | [[OKX]] | [[Mainstream Adoption]] | [[Deposit Tokens]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

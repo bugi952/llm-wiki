@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 포크 없이 양자 위협에 대응하는 지갑 솔루션 등장 [(원문)](https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork)
 - **2026-04-27**: Solana 개발팀, 양자 내성 암호화 도입 로드맵 발표 [(원문)](https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats)
 - **2026-04-28**: Marathon Digital Holdings가 비트코인 양자위협 및 네트워크 복원력 대응 재단 설립 [(원문)](https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation)
 - **2026-04-25**: 비트코인 채굴량의 약 33%에 해당하는 620만 BTC가 양자 공격 취약성 노출 [(원문)](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Solana]] | [[Quantum-Resistant Cryptography]]
+[[Bitcoin]] | [[Quantum-Resistant Cryptography]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 온체인 tokenized assets이 전통 증권의 기업 지배구조 기능을 갖춤으로써 기능 동등성 한 단계 진전 [(원문)](https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Ondo Finance가 $700M tokenized equity holder 대상 proxy voting 추가 [(원문)](https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities)
 - **2026-04-25**: Aurelion, XAUE 프로토콜으로 tokenized gold에서 yield farming 서비스 출시 [(원문)](https://cointelegraph.com/news/aurelion-allocates-48m-in-tokenized-gold-to-newly-launched-xaue-yield-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 거래소 수준의 pre-IPO 토큰 거래 구현 시작(SpaceX 포함) [(원문)](https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana)
@@ -22,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Ondo Finance]] | [[Tokenized Stocks]]
+[[Ondo Finance]] | [[Tokenized Stocks]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

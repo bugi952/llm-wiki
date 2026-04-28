@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 일본 정부, 부동산-암호 거래의 AML 점검 강화 지시 (4개 부처 공동) [(원문)](https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: US AML 벌금 $1.06B 달성 (2025 상반기, 역대 최고) [(원문)](https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Thom Tillis 상원의원이 윤리 조항 없으면 암호화폐 법안 미지지 표명 [(원문)](https://cointelegraph.com/news/sen-tillis-wont-support-senate-crypto-bill-without-ethics-provision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 2026-04-28: OCC/FDIC, 은행 감시 규칙에서 'reputation risk' 제거 공식화. 암호화폐 기업과의 거래 법제 개선 [(원문)](https://cointelegraph.com/news/blockchain-association-supports-reputation-risk-removal-from-supervisory-programs-to-end-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 캐나다 의회, 암호화폐 정치 기부금 금지 법안 추진 + 스테이블코인 감시 강화 [(원문)](https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

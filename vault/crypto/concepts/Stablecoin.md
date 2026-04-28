@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 최근 30일간 stablecoin 전송량 19% 감소했으나 공급량과 활성 홀더는 계속 증가, 보유 위주 수요 증가 신호 [(원문)](https://cointelegraph.com/news/stablecoin-supply-grows-as-transfer-volume-drops-nearly-20-rwaxyz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: 이스라엘의 규제 스테이블코인 도입, 중앙은행 지원 모델 [(원문)](https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin)
 - **2026-04-28**: 이스라엘 BILS(셰켈 페그) 스테이블코인 규제 승인, Bits of Gold 발행, Solana 기반 [(원문)](https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 서방 전신송금 업체 스테이블코인 도입 검토 중 [(원문)](https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says)
 - **2026-05**: Western Union USDPT 5월 출시 (디지털 지갑 + Stable Card 통합) [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
@@ -44,7 +46,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Solana]] | [[Crypto Regulation]]
+[[CBDC]] | [[Crypto Regulation]]
 
 
 ## 모순/논쟁

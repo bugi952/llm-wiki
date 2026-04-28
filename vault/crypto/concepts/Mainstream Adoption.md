@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: BlackRock의 제도권 자산(BUIDL)이 암호 거래소 거래담보로 활용 개시 [(원문)](https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: Satori Coin, 미국 진출. Tamper-evident 코인에 개인 키 내장한 collectibles 출시 [(원문)](https://bitcoinmagazine.com/news/satori-coin-enters-u-s-market)
 - **2026-04-21**: 미국 암호화폐 거래자 1/3이 일상 소비 축소, 미실현 손실로 인한 가계 영향 [(원문)](https://cointelegraph.com/news/market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-26**: BlackRock ETF 성과로 기관 투자자의 대규모 채택 증명 [(원문)](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)
@@ -50,7 +51,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tokenization]]
+[[BlackRock]] | [[OKX]] | [[Tokenization]] | [[Deposit Tokens]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

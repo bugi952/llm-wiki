@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: 토큰화 주식 보유자의 proxy voting 및 거버넌스 권리 구현 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity)
+- **2026-04-28**: Tokenized securities의 proxy voting 기능 추가로 온체인 자산이 전통금융 증권과 동등한 지배구조 권리 확보 [(원문)](https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-28**: Visa가 Tether와 온체인 뱅킹 서비스 개발 [(원문)](https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi)
 - **2026-05**: Western Union: 송금 특화 금융기관 → 스테이블코인 발행사로 전환 [(원문)](https://thedefiant.io/news/cefi/western-union-usdpt-stablecoin-may-launch-umv9zw)
 - **2026-05-01**: Western Union (연 송금 1B건 규모)이 Solana에 스테이블코인 발행 [(원문)](https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month)
 - **2026-04-21**: 아시아 주요 은행의 블록체인 기반 국제송금 실도입 사례 [(원문)](https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple)
@@ -46,7 +49,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Stablecoin]] | [[CBDC]]
+[[Ondo Finance]] | [[Broadridge]] | [[Tokenized Stocks]] | [[Tokenization]]
 
 
 ## 모순/논쟁

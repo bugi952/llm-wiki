@@ -1,10 +1,11 @@
 # MACRO Wiki
-최종 갱신: 2026-04-28 12:09
+최종 갱신: 2026-04-28 18:14
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
 - [[entities/BOJ|BOJ]]
 - [[entities/Bank of England|Bank of England]]
+- [[entities/Bank of Finland|Bank of Finland]]
 - [[entities/Bank of France|Bank of France]]
 - [[entities/Bank of Greece|Bank of Greece]]
 - [[entities/Bank of Italy|Bank of Italy]]
@@ -25,6 +26,7 @@
 - [[entities/PBOC|PBOC]]
 - [[entities/Reserve Bank of India|Reserve Bank of India]]
 - [[entities/Reserve Bank of New Zealand|Reserve Bank of New Zealand]]
+- [[entities/Swiss National Bank|Swiss National Bank]]
 - [[entities/Zheshang Bank|Zheshang Bank]]
 
 ## 💡 개념
@@ -32,6 +34,7 @@
 - [[concepts/Bank Lending Survey|Bank Lending Survey]]
 - [[concepts/Business Development Company|Business Development Company]]
 - [[concepts/Central Bank Currency Swaps|Central Bank Currency Swaps]]
+- [[concepts/Central Bank Independence|Central Bank Independence]]
 - [[concepts/China-Hong Kong Financial Integration|China-Hong Kong Financial Integration]]
 - [[concepts/Climate and Central Banking|Climate and Central Banking]]
 - [[concepts/Consumer Inflation Expectations|Consumer Inflation Expectations]]
@@ -42,6 +45,9 @@
 - [[concepts/Digital Yuan|Digital Yuan]]
 - [[concepts/Digital Yuan (e-CNY)|Digital Yuan (e-CNY)]]
 - [[concepts/Energy Shock|Energy Shock]]
+- [[concepts/Euro Safe Assets|Euro Safe Assets]]
+- [[concepts/European Safe Assets|European Safe Assets]]
+- [[concepts/Financial Regulation (China)|Financial Regulation (China)]]
 - [[concepts/Financial Stability|Financial Stability]]
 - [[concepts/Green Finance|Green Finance]]
 - [[concepts/Imported Inflation Risk|Imported Inflation Risk]]
