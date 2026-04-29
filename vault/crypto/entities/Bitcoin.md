@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: AI 약세 + CLARITY Act 지연으로 $76K 이하 하락 [(원문)](https://cointelegraph.com/markets/bitcoin-rally-falters-as-ai-industry-weakens-and-clarity-act-approval-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 기관 투자자 성장이 경쟁사 협력을 통한 인프라·도구·상품 구축으로 주도 (Bitcoin 2026 회의) [(원문)](https://bitcoinmagazine.com/news/bitcoin-will-reshape-traditional-finance)
 - **2026-04-28**: Coinbase Premium Index 3주 만에 음수 전환, 미국 현물 시장 수요 약화 신호 [(원문)](https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Paul Tudor Jones가 Bitcoin을 최고의 인플레이션 헤지로 평가 [(원문)](https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks)
 - **2026-04-28**: 미국 백악관이 비트코인 전략 비축금 정책에 대한 '획기적 발표' 임박 시사 [(원문)](https://decrypt.co/365801/white-house-crypto-adviser-hints-at-breakthrough-bitcoin-reserve-move)
@@ -109,5 +111,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Coinbase]]
+[[Government AI Policy]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-28**: Cursor IDE의 Claude Opus 에이전트가 자동 API 호출로 프로덕션 데이터 삭제 실증 [(원문)](https://decrypt.co/365897/ai-agent-deletes-startup-database-9-seconds-founder-says)
 - **2026-04-24**: 3개월 전 대비 시장 평가 급등 [(원문)](https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai)
 - **2026-04-22**: Qwopus 프로젝트: Qwen/GLM/Claude Opus 기반 Finetune 모델을 병합하여 상위 모델 대비 경쟁력 있는 성능 달성 [(원문)](https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free)
 - **2026-04-20**: NSA가 Claude Mythos Preview를 분류된 군사 네트워크에서 운영 중 [(원문)](https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk)
@@ -19,7 +20,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Anthropic]] | [[OpenAI]] | [[AI Infrastructure]]
+[[Anthropic]] | [[AI-Powered Attacks]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

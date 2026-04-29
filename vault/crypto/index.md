@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-29 00:13
+최종 갱신: 2026-04-29 06:07
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -77,6 +77,7 @@
 - [[entities/Ethereum|Ethereum]]
 - [[entities/Ethereum Foundation|Ethereum Foundation]]
 - [[entities/FDIC|FDIC]]
+- [[entities/FTX|FTX]]
 - [[entities/Figure|Figure]]
 - [[entities/Fireblocks|Fireblocks]]
 - [[entities/Flow Capital|Flow Capital]]
@@ -167,6 +168,7 @@
 - [[entities/RedStone|RedStone]]
 - [[entities/Ripple|Ripple]]
 - [[entities/Robinhood|Robinhood]]
+- [[entities/Sam Bankman-Fried|Sam Bankman-Fried]]
 - [[entities/Satori Coin|Satori Coin]]
 - [[entities/Singapore Gulf Bank|Singapore Gulf Bank]]
 - [[entities/Sky|Sky]]

@@ -1,6 +1,22 @@
 # 변경 이력
-최종 갱신: 2026-04-29 00:13
+최종 갱신: 2026-04-29 06:07
 
+## [2026-04-29]
+
+- append: **BitMine (BMNR)** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
+- append: **Ethereum Treasury Companies** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
+- append: **CNY-USD** ← PBOC is expected to set the USD/CNY reference rate at 6.8347 – Reuters estimate - investingLive
+- append: **Bitcoin** ← Bitcoin is Reshaping Traditional Finance, Industry Leaders Say
+- append: **Mainstream Adoption** ← Bitcoin is Reshaping Traditional Finance, Industry Leaders Say
+- append: **Nakamoto** ← ‘This Time Is Different’: A First of Its Kind Documentary Covering Bitcoin’s Four Year Cycle, David Bailey, And Nakamoto in Production
+- append: **Strategy (MSTR)** ← Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up
+- append: **Michael Saylor** ← Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up
+- append: **FTX** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
+- append: **Sam Bankman-Fried** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
+- append: **Crypto Fraud** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
+- append: **Bitcoin** ← Bitcoin rally falters as AI industry weakens and CLARITY Act approval odds fall
+- append: **Claude Models** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says
+- append: **AI-Powered Attacks** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says
 ## [2026-04-28]
 
 - append: **Prediction Markets** ← Your Bank is Becoming a Casino: River CEO Frames Bitcoin as the Alternative
@@ -89,17 +105,3 @@
 - append: **Mainstream Adoption** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
 - append: **Tokenization** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
 - append: **Cross-chain Bridge** ← Changelly and Tonkeeper enable cross-chain deposits to TON across 13 networks
-- append: **Core Scientific** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
-- append: **Mining Supply Pressure** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
-- append: **AI Infrastructure** ← Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push
-- append: **Donald Trump** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
-- append: **Government Digital Asset Policy** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
-- append: **Political Interference in Crypto Regulation** ← Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm
-- append: **Galaxy Digital** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
-- append: **Hyperliquid** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
-- create: **Mike Novogratz** ← Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital
-- append: **Meta** ← Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth
-- append: **AI Infrastructure** ← Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth
-- append: **Bitcoin** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
-- append: **Government Digital Asset Policy** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move
-- append: **Bitcoin Governance** ← White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move

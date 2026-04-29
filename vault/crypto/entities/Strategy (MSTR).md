@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Michael Saylor가 STRC (Bitcoin-backed 신용상품) 출시 발표, $8.5B 규모로 성장 중 [(원문)](https://bitcoinmagazine.com/news/strategys-mstr-michael-saylor-says-strc)
 - **2026-02-01**: 비트코인 하락으로 약 $1B 종이손실 노출 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWhvSllRT2k0bUU1UUI4aTFYa3IzeWd4dUJiblYyRmd2NGphcE5SQnhXRHJBS1d6dWpQdFJwS3ZIQWNCdVpMRmdObEt5bDFmbmdiS01zNUVYZ2I3WTg5cktHX3UxNHVYeVlZRGFhVGZOTEEwRnNLQXdtbkYwUjhBNmVKbXhtV0tVM05EZVNQaWtRNU9XQ2c?oc=5)
 - **2026-04-28**: bitcoin 축적 속도와 유사한 ethereum 축적 회사(BitMine) 등장으로 treasury 전략의 다각화 추세 확인 [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE45UlN2ejRlLXFYUmNVUTIxdE9TTGR0Q1dUd2d6Z1kwUkpPZDJfOEprNklyU0ctcm9tRUxCTkwtbWMxUmRrcWxQaGZJRkJMemt5WDZNNnhOaUs?oc=5)
 - **2026-04-07**: MSTR, 가격 움직임과 무관하게 지속적 Bitcoin 매수 전략 유지 [(원문)](https://news.google.com/rss/articles/CBMingFBVV95cUxNRElNcHFfTE05RWp3bTB2ZGRrQkRhVFR0SWtlTW9OTDFMUXgzTWJoeTNNNDRhMWxvVnRNOXh1M0RXQnJkSzkyMGJaTUhMakEzMjZ4V1BTaEw1TDlHVkJNaktmalR1VGt2Yl9PX0Eyam1sNDVoOTk5LWFvS3c0Z0pFWDE0cWRJRks4SWFJWXBwdHdSbnFHbW0tdGpLMm9Udw?oc=5)
@@ -72,5 +73,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin Treasury Companies]]
+[[Michael Saylor]] | [[Bitcoin Treasury Companies]] | [[Tokenized Assets]]
 

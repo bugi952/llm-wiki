@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Bitcoin 보유와 함께 Ethereum 대규모 축적 전략 시행 [(원문)](https://news.google.com/rss/articles/CBMid0FVX3lxTE96Ym1hdThPbjFubHdjdHpMcjZ6aS0taHFMTkRqWUtOVWxYMVgyNUx5S2pabXZzOHNJSTVoV0ZRVzJZSUtwYm5PQnFiVGdUT1ZyZUx3V1JMNkYwV3dKYWRXRlpkRmVQX2FJMkIzQV9QXy02dFQ4M0s0?oc=5)
 - **2026-04-28**: 5.078M ETH 토큰 보유, 총자산 $13.3B [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUVplYXZMOXdmWVNLSXVRZVpnd2tuTTlrWkEtMTY5d1g3Q2tXSHlBVE9GanpyYnBGcHZaUExja3pPOENCYVVIbHdwZUtmZGNEWnlTR2xkRHo1RWhqdzUzbFFhU0NrX0ZaQjdLQ2pYbmM3UWFMdFpZTUZ4a3pFaG9qRWNBdE1fTVVDWV9Fbi1kSzVOZDVBZEh0QUt1aTZpMjNKb2FOVmJpRGNZdnh4dHdsMHl1Uk5xdmRVbzlSbnBRdHBvREk?oc=5)
 - **2026-04-28**: ethereum 구매 속도가 Strategy의 bitcoin 축적 속도에 근접(2026-04-28 시점) [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE45UlN2ejRlLXFYUmNVUTIxdE9TTGR0Q1dUd2d6Z1kwUkpPZDJfOEprNklyU0ctcm9tRUxCTkwtbWMxUmRrcWxQaGZJRkJMemt5WDZNNnhOaUs?oc=5)
 - **2026-04-28**: 미래 자유 현금 흐름 창출 기업으로 평가되며 ethereum 축적을 통한 가치 창출 모델 검증 단계 [(원문)](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2pDVnYyMHNxWkJiRFhsX2JCVnhCbE54RUlCek1mOWpVZHQtcWk0OC1OTTByYWhzQWRieGV4bzZfUTVWT1I1NnMwWWl1R1JLQ29mSm5DWkNVcV9jVDQtT0RvLVF5RXYwWFZ5XzVfdUZnN2JrWFoydGlTWXpaSF9BRXVoVzF3RFlEWENtVTdIOVUyTXlrVDE3eFdyenNJY0N6b01wcC1MOXVwWjg?oc=5)
@@ -164,5 +165,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum Treasury Companies]]
+[[Ethereum]] | [[Ethereum Treasury Companies]]
 
