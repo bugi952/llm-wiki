@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 공식 발표: 이더리움 4.732M개, 총 암호화폐+현금 자산 $10.7B 보유 [(원문)](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQSXNSd3BSUVlXUzJFVTl5M1dfdHlVWFV5ckY4WmxqcDFFNkV3Ym1IeDVzVVdQYmxnYUp6eUdzQ1lMT25OTldFdzJvaHR3NW5rSHRKUW9uczRLNlRpYzlZdzBkZFNMRno3RGNRcGY4dEVzMFV4X2VPbFFOY3EtbWdENFJ3c1FxczV2dm5UUFFPd0NmTFJkZllkMExCd1BkalVuVndvdDVRMWw1TjdDakF3RkM0NW1kQjZXdHdxcVFWa2NTQldnWW1qdWlDRDJvcGtuUlJKM1FMeDhKU3RVRE5pd3BSUDdsU1E3VVRCcVVIZzNUOXg5bmhuSDJjazFfMHJQcUhadkNPX0NiWlUxSWU1NVQ0VXQzaE1UWk96dWMwNHZBQS1LSWJYcA?oc=5)
+- **2026-04-29**: 공매도 이자 급감, 시장 심리 강세 전환 신호 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDQwQXdySzJVWkpqcExUSklHTUR3bHE4LU9OVGpIM2hOQWZVM3VCc1FBTWs4WlRrclVZcjdlaWJPWkNYQ3VJeGJod2owd21NMG44bnFmTUlhUmxSUTI1MGN0ZFltQWsyNWhmX19pNndZUjl2RVBvaEZ2Rk14dFVGd3puN19oTjJKWjJxd1hBWDAzRmhYeHVpQUQxNkMzYnJReDVXeG1HeTRNQWZrVmhyOFZJTTJ0dDl0dGJtSzhEUjJBZ3Q0SmNLUy1OUTVKLTJYbkthNFVYWQ?oc=5)
+- **2026-04-29**: Vanguard가 23.34M주(5.13%) 지분 보유 발표, 주요 기관 투자자 진입 [(원문)](https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVJCTkRDbjQ4Z2t6TkNWUVJFSTdFeVQyVEpzVVRyQUxTLU5CRHU4eGl5NERGTXdueVhWU1BvbzFHZ0dxTUxlY3R4b1JfWVBwVVlfeWo1MTg3OGRURDAtaTdfbU5xVmNFdlZ6SEk1UGhYc1ZpMWE1MHVheGFhWVJLdFV2QjBROVY3bDMyclNyZHdmZFhmR3lFV3gzVjV0S19FOTliMW5RM1JrTndYRkNKbHhSZV9tSmdKMVlpWjliWHFkaWF0aG5iYllCQQ?oc=5)
+- **2026-04-29**: Yahoo Finance에서 BMNR을 '전시 저장 자산(wartime store of value)'으로 평가 [(원문)](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTFjRUMxalhxbjdMU2ZKcF91cHFwcmlsbEVpcXhsanQzeDlKNjk4YTRtdUJISW5QN0xHUmtnZnF0LUM0b0FTZGZ0MlV2LVctSURvTm5KMHJTWmI0aF9FQlVXRW9lYjhuZ0dRcWVlYlk5MWU4cHRCZkhQUnpLakMxQzBGR21nYlRGVHNuWVFGNmxhbXpIeS1yUXJoQlJVN3k2endmWW1MTQ?oc=5)
 - **2026-04-29**: 430만 개 이상의 Ethereum 보유, 전체 공급량의 3.66% 차지 [(원문)](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFJwZ0R0VzFfeThPRXB5SUxFVFRZbW9sXzc0WEpYc0Z4QTFJY09rUmdiczFlcndfT1ZnZWdLRUVVYjBsOEV6dFV2aGl1aUQ5S3RKeGVZeFJEZ0xIb1hac183Yy1jOElJS1JVdVVIbVR2eXczT1FlUXAzRmJqbkRUa2ptQUZFY0pMb0ROMHY5WXBoTXlPaWp4QkVPbEJHd3Z0c1BLWjd3?oc=5)
 - **2026-04-29**: Bitcoin 보유와 함께 Ethereum 대규모 축적 전략 시행 [(원문)](https://news.google.com/rss/articles/CBMid0FVX3lxTE96Ym1hdThPbjFubHdjdHpMcjZ6aS0taHFMTkRqWUtOVWxYMVgyNUx5S2pabXZzOHNJSTVoV0ZRVzJZSUtwYm5PQnFiVGdUT1ZyZUx3V1JMNkYwV3dKYWRXRlpkRmVQX2FJMkIzQV9QXy02dFQ4M0s0?oc=5)
 - **2026-04-28**: 5.078M ETH 토큰 보유, 총자산 $13.3B [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUVplYXZMOXdmWVNLSXVRZVpnd2tuTTlrWkEtMTY5d1g3Q2tXSHlBVE9GanpyYnBGcHZaUExja3pPOENCYVVIbHdwZUtmZGNEWnlTR2xkRHo1RWhqdzUzbFFhU0NrX0ZaQjdLQ2pYbmM3UWFMdFpZTUZ4a3pFaG9qRWNBdE1fTVVDWV9Fbi1kSzVOZDVBZEh0QUt1aTZpMjNKb2FOVmJpRGNZdnh4dHdsMHl1Uk5xdmRVbzlSbnBRdHBvREk?oc=5)
@@ -166,5 +170,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Ethereum Treasury Companies]]
+[[Ethereum]] | [[Bitcoin Treasury Companies]] | [[Ethereum Treasury Companies]]
 

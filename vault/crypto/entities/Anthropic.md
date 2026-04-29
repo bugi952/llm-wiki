@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Trump 행정부, 연방 기관의 Anthropic Claude 사용 재개 검토 (Claude Mythos 포함) [(원문)](https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use)
 - **2026-04-26**: Mythos 모델로 암호화폐 산업의 보안 인식 변화 주도 [(원문)](https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security)
 - **2026-04-25**: 2026 US 중간선거 대비: Claude 모델 정치 중립성 벤치마크 95-96% 달성 [(원문)](https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms)
 - **2026-04-24**: Forge Global 2차 시장에서 $1T 밸류 도달, OpenAI($880B)를 추월 [(원문)](https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai)
@@ -18,5 +19,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI-Powered Attacks]] | [[Supply Chain Security in Crypto]]
+[[Government AI Policy]]
 

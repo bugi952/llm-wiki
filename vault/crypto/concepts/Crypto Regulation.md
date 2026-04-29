@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 캐나다 정부, 4,000개 암호화폐 ATM 전면 금지 추진 [(원문)](https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms)
+- **2026-04-29**: 상원 은행위 핵심 보수파 의원 Thom Tillis, Clarity Act 투표 진행 촉구 [(원문)](https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain)
+- **2026-04-29**: Clarity Act 청문회 일정 확정, 연방 차원의 암호자산 규제 틀 논의 임박 [(원문)](https://www.coindesk.com/news-analysis/2026/04/29/u-s-senator-holding-cards-on-clarity-act-s-next-move-says-it-s-ready-to-get-to-hearing)
 - **2026-04-29**: 캐나다, 사기·자금세탁 우려로 암호 ATM 규제 강화 추진 [(원문)](https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 오스트리아 규제당국이 KuCoin EU의 신규 사업 금지, MiCA 컴플라이언스 강제 [(원문)](https://cointelegraph.com/news/kucoin-eu-hires-new-aml-chief-after-austria-ban-on-new-business-under-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 캐나다, 사기 증가 대응으로 암호화폐 ATM 금지안 제안 [(원문)](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)
@@ -92,7 +95,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[KuCoin]] | [[European Blockchain Policy]]
+[[Canada]] | [[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

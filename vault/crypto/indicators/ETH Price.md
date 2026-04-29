@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-30
 ---
 
 # ETH Price
@@ -14,6 +14,8 @@ last_updated: 2026-04-28
 
 
 ## 이력
+- **2026-04-29**: ETH 주간 7% 하락, 암호화폐 ETF 유출 $350M [(원문)](https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split)
+- **2026-04-29**: Fed 금리 동결 (3연속) 영향으로 하락 [(원문)](https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time)
 - **2026-04-28**: $2.4K에서 삼중 저항 패턴 확인, 약세 심화 가능성 [(원문)](https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 다운트렌드 진입 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRdIBY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRQ?oc=5)
 - **2026-04-28**: BitMine의 대규모 ETH 보유가 가격 $2,200 이상 지지 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdsNHVZbzVvLXo1cXAyZGVrdzFGX0Y1WlQ4OFgtekRfQmFWbkpubkhQeTN4RnpVVy00LTBxM0YyWkt3b05PODMtYUpXZnFlSXlsWnZ3MnhkRjN5ZDE4b3lnOWJsMm1qbTl1R0FTRkVjWmpneUFyek93T3RjX0RjbmxVRzRESDdud09SeEJyclhIcE11eVJpQWJPZFBmWFFtUEVTaG9SYldRUUhDaFBJbjBJakxEdUFKRGM4ZUVfUWNYbl84a2RweXZ3YVhYN0wzUFlnVWhvVlNCT084bmIycl9ENGFnQQ?oc=5)

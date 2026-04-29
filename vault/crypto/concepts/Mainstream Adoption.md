@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,16 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Meta의 글로벌 stablecoin 결제 확대로 mainstream 채택 가속화 [(원문)](https://thedefiant.io/news/defi/meta-launches-stablecoin-payouts-in-colombia-and-the-philippines)
+- **2026-04-29**: Meta의 USDC 크리에이터 지급, 소셜 미디어 플랫폼 내 스테이블코인 결제의 메인스트림화 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
+- **2026-04-29**: 결제 네트워크의 블록체인 통합 가속화 — Visa 9개 체인 지원 [(원문)](https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 개인 투자자도 BTC 강세 신념. 약세장 말기 신호 [(원문)](https://cointelegraph.com/markets/more-than-70-of-institutions-and-non-institutions-respondents-see-bitcoin-as-undervalued-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Realmint으로 일반 투자자의 RWA 진입 장벽 대폭 완화 [(원문)](https://cointelegraph.com/press-releases/realmint-launches-to-give-retail-investors-a-smarter-way-into-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 업계 분석가들, tokenization이 이론에서 실행 단계로 진입했다고 인정 [(원문)](https://www.coindesk.com/opinion/2026/04/29/the-tokenization-of-everything-is-no-longer-a-theory)
+- **2026-04-29**: Meta, 주류 결제 수단으로 스테이블코인 도입 시작 [(원문)](https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support)
+- **2026-04-29**: 신규 토큰 프로젝트들의 주요 거래소 진출 가속화 [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUlnSXpkbGxFQmhZWVh4STAtcm5FMXFpSnVsWUktZ0FvVHV6dVBXRTNEUnppVDN4UWZCeXB0ZU5hVFFPQjF5bGVYdzBEWEtremIxMkE4cEpqYnpuU0JVbzRWX1lzUVpST0tZSVdYQkMwZmJkSlhENUJGR3pfOHM3VGgyZ3ZvSDhuX0ItTEdRNFVqWjcxSFdv?oc=5)
+- **2026-04-29**: Steak 'n Shake, 비트콘 결제로 수수료 50% 절감·연 $6M 절약·신규 고객 200만 명 [(원문)](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback)
+- **2026-04-29**: SALT Lending·Peoples Reserve, 비트콘 담보 주택담보대출 서비스 운영 [(원문)](https://bitcoinmagazine.com/news/how-bitcoin-backed-loans-homeownership)
 - **2026-04-29**: 주요 투자자(Paul Tudor Jones)의 BTC 인정으로 주류 자산 편입 진행 [(원문)](https://decrypt.co/365934/morning-minute-paul-tudor-jones-calls-bitcoin-strongest-inflation-hedge)
 - **2026-04-29**: MoonPay, 기관 암호자산 서비스 부문 출범, 키 관리 회사 Sodot 인수 [(원문)](https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition)
 - **2026-04-29**: GSR의 Crypto Core3 ETF 출시로 일반 투자자 진입 경로 확대 [(원문)](https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors)
@@ -56,7 +66,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Paul Tudor Jones]] | [[Bitcoin]] | [[BTC Price]] | [[Asset Allocation]] | [[Bitcoin Treasury Companies]]
+[[Meta]] | [[Stripe]] | [[Solana]] | [[Polygon]] | [[USDC]]
 
 
 ## 모순/논쟁

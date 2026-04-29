@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 주요 지분자 Christopher Harborne이 Reform UK의 Farage에게 $6.7M 선물 (미공개) [(원문)](https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding)
+- **2026-04-29**: Nigel Farage가 Tether 빌리오네어 Christopher Harborne으로부터 £5.3M 기부를 받아 윤리 조사 대상 [(원문)](https://www.coindesk.com/policy/2026/04/29/u-k-s-farage-faces-standards-probe-over-usd6-7-million-gift-from-tether-billionaire-christopher-harborne)
 - **2026-04-29**: 라틴아메리카 스테이블코인 결제 확대를 위해 Belo의 1400만 달러 펀딩 주도 [(원문)](https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america)
 - **2026-04-28**: Canaan, ACME Swisstech와 모듈식 비트코인 마이닝 하드웨어 개발 [(원문)](https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware)
 - **2026-04-28**: Canaan과 협력하여 모듈형 몰입형 냉각 마이닝 시스템 확보 [(원문)](https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[B2B Stablecoin Payments]] | [[Stablecoin]]
+[[Political Interference in Crypto Regulation]]
 

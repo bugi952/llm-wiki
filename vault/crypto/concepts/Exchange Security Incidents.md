@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Celsius 붕괴의 법적 결말, 경영진 업계 진출 금지로 규제 환경 강화 [(원문)](https://decrypt.co/366077/celsius-founder-alex-mashinsky-banned-crypto-industry-10m-ftc-settlement)
 - **2026-04-29**: DeFi 프로토콜 $292M 규모 해킹 사건 [(원문)](https://www.coindesk.com/business/2026/04/29/defi-shaken-by-usd292-million-hack-but-showing-resilience-standard-chartered-says)
 - **2026-04-29**: Polymarket 데이터 유출 의혹, 다중 플랫폼 침해 시도 보도 [(원문)](https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Aave 프로토콜 토큰 exploit (2026-04-28) [(원문)](https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit)
@@ -35,7 +36,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[DeFi]]
+[[Crypto Fraud]]
 
 
 ## 모순/논쟁

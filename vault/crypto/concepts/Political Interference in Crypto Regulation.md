@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Tether 관계자의 정치인 자금 지원, 규제 영향력 우려 [(원문)](https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding)
+- **2026-04-29**: 상원의원 Thom Tillis가 지연된 암호화폐 규제 법안의 투표 추진 주도 [(원문)](https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain)
 - **2026-04-28**: 미국 행정부의 암호화폐 정책 수립 과정에 민간 업계의 정치적 영향력 강화 [(원문)](https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago)
 - **2026-04-28**: 캐나다 선거 개혁 법안에 암호화폐 정치기부금 금지 조항 포함, 규제 주권 강화 [(원문)](https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-25**: CFTC의 예측 시장 규제 소송 범위 확대 추세 [(원문)](https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback)
@@ -20,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Donald Trump]] | [[Government Digital Asset Policy]]
+[[Tether]]
 
 
 ## 모순/논쟁

@@ -1,8 +1,93 @@
 # 변경 이력
-최종 갱신: 2026-04-29 18:12
+최종 갱신: 2026-04-30 00:13
 
 ## [2026-04-29]
 
+- append: **Tokenization** ← The ‘tokenization of everything’ is no longer a theory
+- append: **Mainstream Adoption** ← The ‘tokenization of everything’ is no longer a theory
+- append: **Crypto Regulation** ← U.S. senator holding cards on Clarity Act's next move says it's ready to get to hearing
+- append: **Tether** ← U.K.'s Farage faces standards probe over $6.7 million gift from Tether billionaire Christopher Harborne
+- append: **Robinhood** ← Robinhood, Coinbase lead crypto stock rout as Trump rejects Iran plan
+- append: **Coinbase** ← Robinhood, Coinbase lead crypto stock rout as Trump rejects Iran plan
+- append: **Bitcoin** ← Bitcoin's widely tracked Coinbase Premium turns negative as realized losses spike to $6 billion
+- append: **TRON** ← RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases
+- append: **Tokenized Assets** ← RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases
+- append: **WisdomTree** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
+- append: **Tokenized Assets** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
+- append: **Traditional Finance Integration** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
+- append: **B2B Stablecoin Payments** ← Kustodia launches smart contract escrow for LATAM's $600m fraud crisis
+- append: **Crypto Fraud** ← Kustodia launches smart contract escrow for LATAM's $600m fraud crisis
+- append: **Tokenized Assets** ← Realmint launches to give retail investors a smarter way into RWAs
+- append: **Mainstream Adoption** ← Realmint launches to give retail investors a smarter way into RWAs
+- append: **Bitcoin** ← Most crypto investors believe Bitcoin is undervalued: Coinbase survey
+- append: **Mainstream Adoption** ← Most crypto investors believe Bitcoin is undervalued: Coinbase survey
+- append: **Visa** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
+- append: **Stablecoin** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
+- append: **Mainstream Adoption** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
+- append: **Tokenized Assets** ← Gibraltar mulls allowing tokenized fund shares for some companies
+- append: **European Blockchain Policy** ← Gibraltar mulls allowing tokenized fund shares for some companies
+- append: **Bullish** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
+- append: **Ripple** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
+- append: **Traditional Finance Integration** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
+- append: **Government AI Policy** ← Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push
+- append: **AI Infrastructure** ← Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors
+- append: **Crypto Regulation** ← Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain
+- append: **Political Interference in Crypto Regulation** ← Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain
+- append: **Meta** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
+- append: **Traditional Finance Integration** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
+- append: **Mainstream Adoption** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
+- append: **B2B Stablecoin Payments** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
+- append: **Exchange Security Incidents** ← Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement
+- append: **Claude Models** ← This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future
+- append: **Anthropic** ← White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report
+- append: **Government AI Policy** ← White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report
+- append: **BTC Price** ← Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time
+- append: **ETH Price** ← Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time
+- append: **Tether** ← Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny
+- append: **Political Interference in Crypto Regulation** ← Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny
+- append: **OpenAI** ← OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting
+- append: **AI Legal Risk** ← OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting
+- append: **Crypto Regulation** ← Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs
+- append: **BTC Price** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
+- append: **ETH Price** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
+- append: **Asset Allocation** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
+- append: **Meta** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
+- append: **USDC** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
+- append: **Mainstream Adoption** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
+- append: **Polymarket** ← Polymarket Hit $25.7B in March Volume as Retail Traders Bet on Sports, Politics and Crypto
+- append: **Prediction Markets** ← Polymarket Hit $25.7B in March Volume as Retail Traders Bet on Sports, Politics and Crypto
+- append: **MoonPay** ← MoonPay Folds Sodot Into New Institutional Platform
+- append: **Caroline Pham** ← MoonPay Folds Sodot Into New Institutional Platform
+- append: **B2B Stablecoin Payments** ← MoonPay Folds Sodot Into New Institutional Platform
+- append: **Crypto Fraud** ← US Judge Bans Celsius Founder Mashinsky From Any Product Involving 'Assets'
+- append: **Tokenized Assets** ← Stable Sea Taps WisdomTree to Bring Tokenized Treasury Yield to Business Operating Cash
+- append: **B2B Stablecoin Payments** ← Stable Sea Taps WisdomTree to Bring Tokenized Treasury Yield to Business Operating Cash
+- append: **Securitize** ← Securitize Teams Up With Computershare to Tokenize U.S.-Listed Equities
+- append: **Tokenized Stocks** ← Securitize Teams Up With Computershare to Tokenize U.S.-Listed Equities
+- append: **Pump.fun** ← Pumpfun Announces 50% Revenue Buyback-and-Burn Model
+- append: **Kelp Exploit** ← Standard Chartered Calls Kelp Aftermath DeFi's 'Antifragile Moment'
+- append: **BitMine (BMNR)** ← Bitmine (BMNR) Identifies the Perfect Wartime Store of Value - Yahoo Finance
+- append: **BitMine (BMNR)** ← Vanguard reports 23.34M-share stake in BitMine (BMNR) — 5.13% ownership - Stock Titan
+- append: **BitMine (BMNR)** ← BitMine Immersion Technologies, Inc. (NYSE:BMNR) Sees Significant Decline in Short Interest - MarketBeat
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion - PR Newswire
+- append: **Ethereum Treasury Companies** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion - PR Newswire
+- append: **Strategy (MSTR)** ← MicroStrategy’s Market Cap Is Less Than Its Bitcoin Holdings and MSTR Stock Has Halved in Just the Past Year. What Gives? - Barchart.com
+- append: **Strategy (MSTR)** ← Capital Group Is Doubling Down on MicroStrategy. Should You Buy MSTR Stock Here Too? - Yahoo Finance
+- append: **Bitcoin** ← Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
+- append: **Donald Trump** ← Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
+- append: **Mainstream Adoption** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
+- append: **BTCFi** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
+- append: **Mainstream Adoption** ← Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually
+- append: **B2B Stablecoin Payments** ← Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually
+- append: **Grayscale** ← Hyperliquid News: Grayscale Updates HYPE ETF Filing While AlphaPepe's Binance Talks Open a New Retail Lane - openPR.com
+- append: **Mainstream Adoption** ← Hyperliquid News: Grayscale Updates HYPE ETF Filing While AlphaPepe's Binance Talks Open a New Retail Lane - openPR.com
+- append: **Meta** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
+- append: **Stablecoin** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
+- append: **Mainstream Adoption** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
+- append: **Traditional Finance Integration** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
+- append: **JPMorgan** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
+- append: **Tokenization** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
+- append: **Traditional Finance Integration** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
 - append: **Tokenized Stocks** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
 - append: **Traditional Finance Integration** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
 - append: **Tokenization** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
@@ -18,88 +103,3 @@
 - append: **Bitcoin** ← Bitcoin trading volume is falling fast. That rarely ends smoothly.
 - append: **Tether** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America
 - append: **B2B Stablecoin Payments** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America
-- append: **Bitcoin Treasury Companies** ← Mezo unveils institutional bitcoin yield vaults as demand grows to put idle BTC to work
-- append: **Stablecoin** ← Fake Hong Kong stablecoins start trading as real ones remain absent
-- append: **Crypto Fraud** ← Fake Hong Kong stablecoins start trading as real ones remain absent
-- append: **MEV (Maximal Extractable Value)** ← Pump.fun has been using all its revenue to burn its token. Now it’s changing course
-- append: **Crypto Regulation** ← KuCoin EU hires new AML chief after Austria ban on new business under MiCA
-- append: **European Blockchain Policy** ← KuCoin EU hires new AML chief after Austria ban on new business under MiCA
-- append: **MoonPay** ← MoonPay buys crypto security firm Sodot in $100M push into institutional crypto
-- append: **Prediction Markets** ← Monthly prediction market volume hits $25.7B as user activity shifts beyond one-off events
-- append: **DeFi** ← Andre Cronje says DeFi is ‘no longer DeFi’ as builders debate circuit breakers
-- append: **ZetaChain** ← ZetaChain dismissed bug report that could have prevented $334K exploit
-- append: **Bridge Security** ← ZetaChain dismissed bug report that could have prevented $334K exploit
-- append: **B2B Stablecoin Payments** ← Dunamu, Hana Financial take blockchain remittance system live with POSCO
-- append: **Naver-Dunamu** ← Dunamu, Hana Financial take blockchain remittance system live with POSCO
-- append: **Polymarket** ← Polymarket pushes for broader US relaunch with CFTC talks: Report
-- append: **Prediction Market Regulatory Risk** ← Polymarket pushes for broader US relaunch with CFTC talks: Report
-- append: **Crypto Fraud** ← Celsius founder Alex Mashinsky settles FTC case with $10M payment
-- append: **Crypto Regulation** ← Canada proposes crypto ATM ban over scams and money laundering
-- append: **Mainstream Adoption** ← MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot
-- append: **MoonPay** ← MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot
-- append: **Polymarket** ← Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​
-- append: **Prediction Market Regulatory Risk** ← Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​
-- append: **Visa** ← Visa Adds Base, Polygon, Canton, Arc and Tempo to Stablecoin Settlement Program
-- append: **B2B Stablecoin Payments** ← Visa Adds Base, Polygon, Canton, Arc and Tempo to Stablecoin Settlement Program
-- append: **Tokenized Stocks** ← Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street
-- append: **BlackRock** ← Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street
-- append: **Paul Tudor Jones** ← Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge
-- append: **Mainstream Adoption** ← Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge
-- append: **Ethereum** ← Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade
-- append: **Bitcoin** ← Bullish Invests 250 BTC in BTCFi Company Mezo
-- append: **Bitcoin Treasury Companies** ← Bullish Invests 250 BTC in BTCFi Company Mezo
-- append: **BitMine (BMNR)** ← Bitmine Holds 4.42M Ethereum, Now Controls 3.66% of Supply - CoinMarketCap
-- append: **Ethereum Treasury Companies** ← Bitmine Holds 4.42M Ethereum, Now Controls 3.66% of Supply - CoinMarketCap
-- append: **PBOC** ← China boosts overseas-loan quotas as ‘panda bond’ issuance hits record high - South China Morning Post
-- append: **Financial Regulation (China)** ← China boosts overseas-loan quotas as ‘panda bond’ issuance hits record high - South China Morning Post
-- append: **HYPE Price** ← Hyperliquid (HYPE) Price Drops as Two-Month Rally Comes to an End - MEXC
-- append: **Hyperliquid** ← Hyperliquid’s (HYPE) Growth Story Meets Slowing Activity: Report - Bitget
-- append: **Bitcoin** ← The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin
-- append: **Mainstream Adoption** ← The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin
-- append: **Visa** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
-- append: **B2B Stablecoin Payments** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
-- append: **Traditional Finance Integration** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
-- append: **21Shares** ← Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end
-- append: **Prediction Markets** ← Wall Street is launching the first ever prediction market ETFs for U.S. elections
-- append: **DeFi** ← DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says
-- append: **Exchange Security Incidents** ← DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says
-- append: **Bitcoin** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
-- append: **Strategy (MSTR)** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
-- append: **Sam Bankman-Fried** ← Judge Shoots Down Sam Bankman-Fried's Bid for New Trial
-- append: **PBOC** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
-- append: **Targeted Easing** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
-- append: **Credit Conditions** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
-- append: **Galaxy Digital** ← Galaxy Digital Posts $200M Quarterly Loss—Did Hyperliquid Help Avoid New Crisis? - CryptoRank
-- append: **Hyperliquid** ← Galaxy Digital Posts $200M Quarterly Loss—Did Hyperliquid Help Avoid New Crisis? - CryptoRank
-- append: **Hyperliquid** ← Hyperliquid Vs Solana: CEO Frames The Competition As Path Toward ‘Bitcoin 3.0’ - Cryptonews.net
-- append: **Solana** ← Hyperliquid Vs Solana: CEO Frames The Competition As Path Toward ‘Bitcoin 3.0’ - Cryptonews.net
-- append: **Hyperliquid** ← Hyperliquid vs Solana: Who Wins the Latency Race? - MEXC Exchange
-- append: **Solana** ← Hyperliquid vs Solana: Who Wins the Latency Race? - MEXC Exchange
-- append: **KuCoin** ← KuCoin EU hires anti-money laundering talent to appease Austrian regulator
-- append: **Crypto Regulation** ← KuCoin EU hires anti-money laundering talent to appease Austrian regulator
-- append: **Crypto Regulation** ← Canada proposes ban on crypto ATMs as fraud cases mount
-- append: **Bitcoin** ← Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block
-- append: **BTC Price** ← Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block
-- append: **Kevin Warsh** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
-- append: **Bitcoin** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
-- append: **BTC Price** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
-- append: **Polymarket** ← Polymarket denies data breach, says hacker is selling public data
-- append: **Exchange Security Incidents** ← Polymarket denies data breach, says hacker is selling public data
-- append: **ZK Privacy** ← Aptos says its new privacy coin seeks to fix one of crypto’s biggest trade-offs
-- append: **Prediction Market Regulatory Risk** ← CFTC pulls Wisconsin into fight over prediction market jurisdiction
-- append: **CFTC** ← CFTC pulls Wisconsin into fight over prediction market jurisdiction
-- append: **Robinhood** ← Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%
-- append: **BitMine (BMNR)** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
-- append: **Ethereum Treasury Companies** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
-- append: **CNY-USD** ← PBOC is expected to set the USD/CNY reference rate at 6.8347 – Reuters estimate - investingLive
-- append: **Bitcoin** ← Bitcoin is Reshaping Traditional Finance, Industry Leaders Say
-- append: **Mainstream Adoption** ← Bitcoin is Reshaping Traditional Finance, Industry Leaders Say
-- append: **Nakamoto** ← ‘This Time Is Different’: A First of Its Kind Documentary Covering Bitcoin’s Four Year Cycle, David Bailey, And Nakamoto in Production
-- append: **Strategy (MSTR)** ← Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up
-- append: **Michael Saylor** ← Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up
-- append: **FTX** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
-- append: **Sam Bankman-Fried** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
-- append: **Crypto Fraud** ← Judge rejects new trial for former FTX CEO Sam Bankman-Fried
-- append: **Bitcoin** ← Bitcoin rally falters as AI industry weakens and CLARITY Act approval odds fall
-- append: **Claude Models** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says
-- append: **AI-Powered Attacks** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says

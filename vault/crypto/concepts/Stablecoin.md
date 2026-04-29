@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Visa Prime을 통한 온체인 정산 — 연간 실행율 $7B 규모 달성 [(원문)](https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Meta가 Stripe와 협력하여 크리에이터 수익화에 스테이블코인 채택 [(원문)](https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support)
 - **2026-04-29**: 홍콩에서 위조 스테이블코인 거래 시작, 규제 공백 악용 [(원문)](https://www.coindesk.com/policy/2026/04/29/fake-hong-kong-stablecoins-start-trading-as-real-ones-remain-absent)
 - **2026-04-28**: 최근 30일간 stablecoin 전송량 19% 감소했으나 공급량과 활성 홀더는 계속 증가, 보유 위주 수요 증가 신호 [(원문)](https://cointelegraph.com/news/stablecoin-supply-grows-as-transfer-volume-drops-nearly-20-rwaxyz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 이스라엘의 규제 스테이블코인 도입, 중앙은행 지원 모델 [(원문)](https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin)
@@ -47,7 +49,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Crypto Fraud]]
+[[Visa]] | [[Polygon]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

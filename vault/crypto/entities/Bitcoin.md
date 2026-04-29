@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 대다수 암호화폐 투자자, BTC를 과소평가 자산으로 평가 (Coinbase 설문) [(원문)](https://cointelegraph.com/markets/more-than-70-of-institutions-and-non-institutions-respondents-see-bitcoin-as-undervalued-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Coinbase Premium이 음수로 전환되고 realized losses가 $6B 수준 (시장 약세 신호) [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-s-widely-tracked-coinbase-premium-turns-negative-as-realized-losses-spike-to-usd6-billion)
+- **2026-04-29**: $1M 가격 목표 제시 (Koudounis) [(원문)](https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset)
 - **2026-04-29**: Bullish가 250 BTC를 Mezo에 투자 (기관 yield vault 진출) [(원문)](https://thedefiant.io/news/tradfi-and-fintech/bullish-invests-250-btc-mezo-institutional-bitcoin-yield-vaults)
 - **2026-04-29**: 거래량 급감 추세 진행 중 - 역사적으로 이후 시장 변화 선례 있음 [(원문)](https://www.coindesk.com/daybook-us/2026/04/29/bitcoin-trading-volume-is-falling-fast-that-rarely-ends-smoothly)
 - **2026-04-29**: 첫 중앙은행이 비트코인 테스트 후 '준비금으로는 너무 위험'이라 평가 [(원문)](https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor)
@@ -118,5 +121,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin Treasury Companies]] | [[Yield Farming Strategy]]
+[[Coinbase]] | [[Mainstream Adoption]] | [[Bitcoin Whale Accumulation]]
 

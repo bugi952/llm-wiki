@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 미국 정부의 AI 정책 방향: Pentagon 제약에도 불구하고 Anthropic 복구 추진 [(원문)](https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use)
+- **2026-04-29**: 미 노동부, AI 기술 교육 허브 공식 출시 (Trump 행정부 AI 정책 추진) [(원문)](https://decrypt.co/366097/labor-department-ai-apprenticeship-portal)
 - **2026-04-28**: Google Pentagon AI 계약 - 미국 정부 AI 투자 직결 [(원문)](https://decrypt.co/365857/google-ai-deal-pentagon-classified-work)
 - **2026-04-28**: CFTC가 암호화폐 등록 신청 검토에 AI 시스템 도입 발표 [(원문)](https://www.coindesk.com/policy/2026/04/27/cftc-s-ai-will-review-u-s-crypto-registration-applications-chairman-tells-coindesk)
 - **2026-04-28**: xAI, Colorado AI bias law 소송 제기, 주정부 규정 수정 검토 중 [(원문)](https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions)
@@ -30,7 +32,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[Geopolitical Security Threats]]
+[[Anthropic]]
 
 
 ## 모순/논쟁

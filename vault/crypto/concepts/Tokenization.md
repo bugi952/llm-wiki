@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 'Tokenization of everything'이 더 이상 이론이 아닌 현실로 평가됨 [(원문)](https://www.coindesk.com/opinion/2026/04/29/the-tokenization-of-everything-is-no-longer-a-theory)
+- **2026-04-29**: JPMorgan, Kinexys 플랫폼으로 tokenization 사업 확대 및 경영진 강화 [(원문)](https://www.coindesk.com/business/2026/04/29/jpmorgan-s-new-blockchain-chief-warns-that-tokenization-does-not-equal-liquidity)
 - **2026-04-29**: $6조 규모 신용 시장의 온체인 토큰화 경로 제시 [(원문)](https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market)
 - **2026-04-29**: $70조 규모 미국 주식의 온체인 토큰화 경로 확보 [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
 - **2026-04-28**: BlackRock의 채권 펀드(BUIDL)가 거래소의 담보 자산으로 유동화 [(원문)](https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Galaxy Digital]] | [[Fence]] | [[Traditional Finance Integration]] | [[B2B Stablecoin Payments]]
+[[Tokenized Assets]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

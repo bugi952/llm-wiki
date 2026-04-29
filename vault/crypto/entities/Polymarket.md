@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 3월 거래량 $25.7B 달성 (129만 지갑, 스포츠 $10.1B 주도, 암호화폐가 주요 온보딩 게이트웨이) [(원문)](https://thedefiant.io/news/research-and-opinion/polymarket-hit-usd25-7b-in-march-volume-as-retail-traders-bet-on-sports-politics-and-crypto)
 - **2026-04-29**: CFTC 의장 Michael Selig의 단독 결정으로 미국 복귀 승인 검토 중 (CFTC 4자리 공석) [(원문)](https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval)
 - **2026-04-29**: CFTC와 협상 중 미국 시장 재진출 추진 (2025.12 스포츠 한정 롤아웃 이후) [(원문)](https://cointelegraph.com/news/polymarket-cftc-approval-main-platform-us-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 전체 지갑의 1% 미만이 시장 수익의 약 50% 차지 [(원문)](https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits)
@@ -29,5 +30,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[CFTC]] | [[Michael Selig]] | [[Prediction Markets]] | [[Crypto Regulation]] | [[Political Interference in Crypto Regulation]]
+[[Prediction Markets]] | [[Mainstream Adoption]]
 

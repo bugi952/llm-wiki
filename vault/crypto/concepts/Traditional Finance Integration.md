@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Meta가 Solana/Polygon 위 USDC 지급 시스템 도입, 대형 TradFi 기업의 블록체인 결제 통합 사례 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
+- **2026-04-29**: 기관 브로커(Ripple Prime)를 통한 Bitcoin 파생상품 접근성 확대 [(원문)](https://cointelegraph.com/news/bullish-integrates-btc-options-trading-with-ripple-prime-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: WisdomTree 같은 나스닥 상장 회사가 토큰화 상품으로 기업 금융 시장에 진입. TradFi-DeFi 경계 모호화 [(원문)](https://cointelegraph.com/news/stable-sea-integrates-wisdomtree-tokenized-treasury-fund-for-corporate-cash-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: JPMorgan, 기존 금융 인재를 Kinexys로 영입하며 tokenization 전략 본격화 [(원문)](https://www.coindesk.com/business/2026/04/29/jpmorgan-s-new-blockchain-chief-warns-that-tokenization-does-not-equal-liquidity)
+- **2026-04-29**: 주요 인터넷 기업이 스테이블코인 기반 지급 체계 구축 [(원문)](https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support)
 - **2026-04-29**: Galaxy Digital이 Fence에 $20M 투자, $6조 신용 시장 온체인화 추진 [(원문)](https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market)
 - **2026-04-29**: 미국 주식 온체인화 경로 개설 (Securitize-Computershare) [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
 - **2026-04-29**: Visa의 공식 스테이블코인 정산 확장이 TradFi-Crypto 통합 진행 입증 [(원문)](https://www.coindesk.com/business/2026/04/29/visa-expands-stablecoin-settlement-network-as-volume-hits-usd7-billion-run-rate)
@@ -53,7 +58,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Galaxy Digital]] | [[Fence]] | [[Tokenization]] | [[B2B Stablecoin Payments]]
+[[Meta]] | [[USDC]] | [[Stripe]] | [[Solana]] | [[Polygon]]
 
 
 ## 모순/논쟁

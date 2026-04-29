@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Issuer-Sponsored Tokens로 합성 래퍼가 아닌 실제 주식 소유권 토큰화 [(원문)](https://thedefiant.io/news/defi/securitize-teams-up-with-computershare-to-tokenize-u-s-listed-equities)
 - **2026-04-29**: Computershare가 Securitize와 협력해 뉴욕증권거래소에서 주식 토큰화 전담 [(원문)](https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street)
 - **2026-04-29**: Securitize & Computershare 협력, $70조 미국 주식의 온체인 경로 개설 [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
 - **2026-04-28**: Ondo-Broadridge 파트너십으로 shareholder voting 참여 가능해짐 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity)
@@ -20,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Computershare]] | [[Securitize]] | [[BlackRock]] | [[Tokenization]] | [[Tokenized Assets]]
+[[Securitize]] | [[Computershare]] | [[Tokenization]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

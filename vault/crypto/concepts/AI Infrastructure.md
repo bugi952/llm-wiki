@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Mayo Clinic AI, 의료 이미징에서 인간 의사보다 3년 먼저 췌장암 조기 진단 입증 [(원문)](https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors)
 - **2026-04-28**: IREN 등 채굴업체의 AI 클라우드 전환 추세 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
 - **2026-04-28**: Ineffable Intelligence, RLHF 없이 강화학습만으로 AI 학습 접근 ($1.1B 자금 조달) [(원문)](https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data)
 - **2026-04-28**: Tank OS: Red Hat 엔지니어의 AI 에이전트 컨테이너 샌드박싱 및 자격증명 격리 도구 [(원문)](https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security)

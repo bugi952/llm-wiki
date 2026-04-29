@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 ---
 
 # BTC Price
@@ -14,6 +14,8 @@ last_updated: 2026-04-29
 
 
 ## 이력
+- **2026-04-29**: 연준 금리 인상 신호로 BTC $76K 이하로 하락 [(원문)](https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split)
+- **2026-04-29**: Fed 금리 동결 (3연속) 영향으로 하락 [(원문)](https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time)
 - **2026-04-29**: Kevin Warsh Fed chair 임명으로 하락 압박 [(원문)](https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: $77,000 기록 [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)
 - **2026-04-28**: 주간 누적 손실 $829M 기록 [(원문)](https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

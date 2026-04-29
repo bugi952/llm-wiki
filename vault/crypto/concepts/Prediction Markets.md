@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Polymarket 3월 거래량 $25.7B로 예측시장의 mainstream 성장 증명 [(원문)](https://thedefiant.io/news/research-and-opinion/polymarket-hit-usd25-7b-in-march-volume-as-retail-traders-bet-on-sports-politics-and-crypto)
 - **2026-04-29**: 2026-04월 거래량 $25.7B 기록, 소매 사용자 주도의 반복 활동으로 전환 [(원문)](https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Polymarket 분석으로 드러난 예측시장의 극심한 수익 집중화 현상 [(원문)](https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits)
 - **2026-04-29**: 2026년 4월, Wall Street이 미국 선거 예측 시장 ETF 첫 출시 (규제 승인) [(원문)](https://www.coindesk.com/markets/2026/04/29/wall-street-is-launching-the-first-ever-prediction-market-etfs-for-u-s-elections)
@@ -47,7 +48,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitget]] | [[Polymarket]] | [[Mainstream Adoption]]
+[[Polymarket]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

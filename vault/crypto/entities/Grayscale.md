@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: HYPE ETF 파일링 업데이트 [(원문)](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUlnSXpkbGxFQmhZWVh4STAtcm5FMXFpSnVsWUktZ0FvVHV6dVBXRTNEUnppVDN4UWZCeXB0ZU5hVFFPQjF5bGVYdzBEWEtremIxMkE4cEpqYnpuU0JVbzRWX1lzUVpST0tZSVdYQkMwZmJkSlhENUJGR3pfOHM3VGgyZ3ZvSDhuX0ItTEdRNFVqWjcxSFdv?oc=5)
 - **2026-04**: Hyperliquid (HYPE) 토큰 기반 ETF 신청 [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU21VaDNBT095Nm91WTFsMkcyQ2pRWk9RVlpYTkJRVC1sZUFBdE5QQzY3STVSM0d3dkExeFVDVnd1eXBLTlFHUktpYklJNUpjN2p6LTljVzNqR2UwUFJITnJ5bVg3dGRpZGlTaUd0cHlZdWhGaDE0b3VrbW9FM1F5Q2dzWk81bDBpaXV0VVhQUFF3TVpQTlcyTGhySWo?oc=5)
 - **2026-04-21**: HYPE 스팟 ETF 신청 (Bitwise 협력) [(원문)](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEFhdjJOS0w5cUs1WXNVWHZPeFZycU9IbjBENHg0NGptOEg5WGlrRjhSYTNrLUQ0ZEJqeHdRMWp1cmhqMHdXbmJ6dk1scHlpeTcxR3pUajNFREdzWFNIY0lzM0FxVlBNaV9nd0FmTE1wbE1HNXBmZTItczZUUkQ2X3BwakJ2WFk3RHliZ3ZaMFU2ZUM2VTFtN1dnbUk?oc=5)
 - **2026-04-25**: Hyperliquid (HYPE) 스팟 ETF 신청 공시 (2026-04-25) [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGpuTWdlajFmVTdRM3BaSy1KdmpQOFBiWWhsSElVbW1pa093ZS1Ja2p6cEVrZDhEVy05MkNHLUk2VTJJYURESHJIVnhLR1ZNdUNIZ0FWa2FGc0ttSFZiRVhYVDdsOVB2YUo2cjhPRkxLUGFLT0FEUF9SRkVBNjhHdjZtMWw2UVF1djFMT1hIQUxyT3AyS2M1SktLaGxjZjZp?oc=5)
@@ -21,5 +22,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Hyperliquid]] | [[Binance]] | [[Grayscale HYPE ETF]] | [[Mainstream Adoption]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 스테이블코인 결제와 토큰화 수익 결합으로 24/7 유동성 있는 기업 자금 관리 [(원문)](https://thedefiant.io/news/defi/stable-sea-taps-wisdomtree-to-bring-tokenized-treasury-yield-to-business-operating-cash)
+- **2026-04-29**: MoonPay-Sodot 통합으로 기관 클라이언트 대상 stablecoin 발행·결제 인프라 확대 [(원문)](https://thedefiant.io/news/defi/moonpay-folds-sodot-into-new-institutional-platform)
+- **2026-04-29**: Meta-Stripe 파트너십, 대규모 콘텐츠 크리에이터 네트워크의 블록체인 기반 지급 인프라 구축 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
+- **2026-04-29**: Kustodia, 멕시코 SPEI로 $600M 사기 위험 대응 [(원문)](https://cointelegraph.com/press-releases/kustodia-launches-smart-contract-escrow-for-latams-600m-fraud-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Steak 'n Shake의 비트콘 결제 시스템 도입 (수수료 50% 절감) [(원문)](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback)
 - **2026-04-29**: Visa의 블록체인 결제 인프라 확장 진행 중 [(원문)](https://decrypt.co/365968/visa-base-polygon-canton-arc-tempo-stablecoin-settlement-program)
 - **2026-04-29**: Dunamu-Hana Financial-POSCO International 블록체인 송금 시스템 실거래 시작 [(원문)](https://cointelegraph.com/news/dunamu-hana-financial-take-blockchain-remittance-system-live-with-posco?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Tether의 라틴아메리카 B2B 결제 네트워크 확장 투자 [(원문)](https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america)
@@ -22,7 +27,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Visa]] | [[Polygon]] | [[Canton Network]] | [[Tempo]] | [[Stablecoin]]
+[[Tokenized Assets]] | [[Tokenization]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

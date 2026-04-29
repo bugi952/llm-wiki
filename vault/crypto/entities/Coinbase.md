@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Trump의 Iran 계획 거부로 주가 하락 [(원문)](https://www.coindesk.com/markets/2026/04/29/robinhood-coinbase-lead-crypto-stock-rout-as-trump-rejects-iran-plan)
 - **2026-04-22**: 뉴욕 검찰, 예측시장 플랫폼을 무허가 도박 운영으로 고소 [(원문)](https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets)
 - **2026-04-22**: NY에서 예측 시장 운영 관련 소송 피고인, 규제 리스크 증가 [(원문)](https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings)
 - **2026-04-21**: 자문위원회, 양자 컴퓨팅 위협 인정 및 대응 계획 촉구 [(원문)](https://www.coindesk.com/tech/2026/04/21/coinbase-advisory-board-says-quantum-computing-threat-is-on-the-horizon-crypto-needs-a-plan)
@@ -22,5 +23,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Prediction Markets]] | [[Crypto Regulation]]
+[[Robinhood]] | [[Government Digital Asset Policy]]
 
