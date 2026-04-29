@@ -11,11 +11,14 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Celsius 창립자 Alex Mashinsky, FTC와 1천만 달러 합의 (자산 공시 위반) [(원문)](https://cointelegraph.com/news/celsius-founder-settlement-includes-10m-payment-suspended-47b-judgment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 홍콩 위조 스테이블코인 사기 사례 발생, 사용자 자산 보호 위험 [(원문)](https://www.coindesk.com/policy/2026/04/29/fake-hong-kong-stablecoins-start-trading-as-real-ones-remain-absent)
 - **2026-04-29**: FTX CEO 새 재판 신청 거부 [(원문)](https://cointelegraph.com/news/judge-denies-new-trial-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 미국 DOJ, 2억 6,300만 달러 규모 사기 그룹 구성원에 70개월 징역형 선고. 사회공학으로 암호화폐 사용자 자산 탈취, 사치품·부동산 구매 [(원문)](https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 
 ## 핵심 주체
+[[Stablecoin]]
 
 
 ## 모순/논쟁

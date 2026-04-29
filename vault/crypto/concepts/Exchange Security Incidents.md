@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: DeFi 프로토콜 $292M 규모 해킹 사건 [(원문)](https://www.coindesk.com/business/2026/04/29/defi-shaken-by-usd292-million-hack-but-showing-resilience-standard-chartered-says)
 - **2026-04-29**: Polymarket 데이터 유출 의혹, 다중 플랫폼 침해 시도 보도 [(원문)](https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Aave 프로토콜 토큰 exploit (2026-04-28) [(원문)](https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit)
 - **2026-04-27**: $263M 규모 사회공학 기반 금전세탁 사건 (Evan Tangeman, 70개월 형) [(원문)](https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme)
@@ -34,7 +35,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Polymarket]] | [[Prediction Market Regulatory Risk]]
+[[DeFi]]
 
 
 ## 모순/논쟁

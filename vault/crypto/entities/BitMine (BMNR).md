@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 430만 개 이상의 Ethereum 보유, 전체 공급량의 3.66% 차지 [(원문)](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFJwZ0R0VzFfeThPRXB5SUxFVFRZbW9sXzc0WEpYc0Z4QTFJY09rUmdiczFlcndfT1ZnZWdLRUVVYjBsOEV6dFV2aGl1aUQ5S3RKeGVZeFJEZ0xIb1hac183Yy1jOElJS1JVdVVIbVR2eXczT1FlUXAzRmJqbkRUa2ptQUZFY0pMb0ROMHY5WXBoTXlPaWp4QkVPbEJHd3Z0c1BLWjd3?oc=5)
 - **2026-04-29**: Bitcoin 보유와 함께 Ethereum 대규모 축적 전략 시행 [(원문)](https://news.google.com/rss/articles/CBMid0FVX3lxTE96Ym1hdThPbjFubHdjdHpMcjZ6aS0taHFMTkRqWUtOVWxYMVgyNUx5S2pabXZzOHNJSTVoV0ZRVzJZSUtwYm5PQnFiVGdUT1ZyZUx3V1JMNkYwV3dKYWRXRlpkRmVQX2FJMkIzQV9QXy02dFQ4M0s0?oc=5)
 - **2026-04-28**: 5.078M ETH 토큰 보유, 총자산 $13.3B [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUVplYXZMOXdmWVNLSXVRZVpnd2tuTTlrWkEtMTY5d1g3Q2tXSHlBVE9GanpyYnBGcHZaUExja3pPOENCYVVIbHdwZUtmZGNEWnlTR2xkRHo1RWhqdzUzbFFhU0NrX0ZaQjdLQ2pYbmM3UWFMdFpZTUZ4a3pFaG9qRWNBdE1fTVVDWV9Fbi1kSzVOZDVBZEh0QUt1aTZpMjNKb2FOVmJpRGNZdnh4dHdsMHl1Uk5xdmRVbzlSbnBRdHBvREk?oc=5)
 - **2026-04-28**: ethereum 구매 속도가 Strategy의 bitcoin 축적 속도에 근접(2026-04-28 시점) [(원문)](https://news.google.com/rss/articles/CBMiWEFVX3lxTE45UlN2ejRlLXFYUmNVUTIxdE9TTGR0Q1dUd2d6Z1kwUkpPZDJfOEprNklyU0ctcm9tRUxCTkwtbWMxUmRrcWxQaGZJRkJMemt5WDZNNnhOaUs?oc=5)

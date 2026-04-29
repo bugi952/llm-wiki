@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: $6조 규모 신용 시장의 온체인 토큰화 경로 제시 [(원문)](https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market)
+- **2026-04-29**: $70조 규모 미국 주식의 온체인 토큰화 경로 확보 [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
 - **2026-04-28**: BlackRock의 채권 펀드(BUIDL)가 거래소의 담보 자산으로 유동화 [(원문)](https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 토큰 펀딩 약화로 인한 프로젝트 구조적 실패 가속화 [(원문)](https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 기업 보상 구조를 Bitcoin으로 tokenize하는 새로운 mainstream adoption 경로 [(원문)](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)
@@ -23,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[BlackRock]] | [[OKX]] | [[Mainstream Adoption]] | [[Deposit Tokens]] | [[Traditional Finance Integration]]
+[[Galaxy Digital]] | [[Fence]] | [[Traditional Finance Integration]] | [[B2B Stablecoin Payments]]
 
 
 ## 모순/논쟁

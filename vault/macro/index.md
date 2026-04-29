@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-29 12:07
+최종 갱신: 2026-04-29 18:12
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -52,6 +52,7 @@
 - [[concepts/Green Finance|Green Finance]]
 - [[concepts/Imported Inflation Risk|Imported Inflation Risk]]
 - [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
+- [[concepts/Panda Bond|Panda Bond]]
 - [[concepts/Private Debt Fund|Private Debt Fund]]
 - [[concepts/Private Equity Fund|Private Equity Fund]]
 - [[concepts/Targeted Easing|Targeted Easing]]

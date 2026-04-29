@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: CFTC 의장 Michael Selig의 단독 결정으로 미국 복귀 승인 검토 중 (CFTC 4자리 공석) [(원문)](https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval)
+- **2026-04-29**: CFTC와 협상 중 미국 시장 재진출 추진 (2025.12 스포츠 한정 롤아웃 이후) [(원문)](https://cointelegraph.com/news/polymarket-cftc-approval-main-platform-us-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 전체 지갑의 1% 미만이 시장 수익의 약 50% 차지 [(원문)](https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits)
 - **2026-04-29**: 데이터 브리치 부인하나 해커가 공개 데이터 판매, 타 prediction market도 침해 주장 [(원문)](https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 메인 플랫폼의 CFTC 정규 승인 신청, 미국 직접 운영 전환 추진 (Polymarket US 중개 구조 탈피) [(원문)](https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report)
 - **2026-04-28**: 미군 특수부대원 Gannon Ken Van Dyke, 베네수엘라 군사 작전 정보로 약 $400K 거래 이득 혐의 (불인정 항변) [(원문)](https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty)
@@ -26,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Exchange Security Incidents]] | [[Prediction Market Regulatory Risk]]
+[[CFTC]] | [[Michael Selig]] | [[Prediction Markets]] | [[Crypto Regulation]] | [[Political Interference in Crypto Regulation]]
 

@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 주요 투자자(Paul Tudor Jones)의 BTC 인정으로 주류 자산 편입 진행 [(원문)](https://decrypt.co/365934/morning-minute-paul-tudor-jones-calls-bitcoin-strongest-inflation-hedge)
+- **2026-04-29**: MoonPay, 기관 암호자산 서비스 부문 출범, 키 관리 회사 Sodot 인수 [(원문)](https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition)
+- **2026-04-29**: GSR의 Crypto Core3 ETF 출시로 일반 투자자 진입 경로 확대 [(원문)](https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors)
+- **2026-04-29**: 기관 채택 속도가 예상치 못한 수준으로 지연 중 (Pantera 의견) [(원문)](https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says)
 - **2026-04-29**: 전통금융 진출을 위한 인프라 구축이 Bitcoin 주류화의 핵심 동력 [(원문)](https://bitcoinmagazine.com/news/bitcoin-will-reshape-traditional-finance)
 - **2026-04-28**: BlackRock의 제도권 자산(BUIDL)이 암호 거래소 거래담보로 활용 개시 [(원문)](https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: Satori Coin, 미국 진출. Tamper-evident 코인에 개인 키 내장한 collectibles 출시 [(원문)](https://bitcoinmagazine.com/news/satori-coin-enters-u-s-market)
@@ -52,7 +56,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Bitcoin]] | [[Traditional Finance Integration]]
+[[Paul Tudor Jones]] | [[Bitcoin]] | [[BTC Price]] | [[Asset Allocation]] | [[Bitcoin Treasury Companies]]
 
 
 ## 모순/논쟁

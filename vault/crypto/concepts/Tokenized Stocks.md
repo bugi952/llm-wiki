@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Computershare가 Securitize와 협력해 뉴욕증권거래소에서 주식 토큰화 전담 [(원문)](https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street)
+- **2026-04-29**: Securitize & Computershare 협력, $70조 미국 주식의 온체인 경로 개설 [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
 - **2026-04-28**: Ondo-Broadridge 파트너십으로 shareholder voting 참여 가능해짐 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity)
 - **2026-04-28**: Ondo Finance가 Broadridge와 협력하여 tokenized 주식과 ETF에 proxy voting 기능 도입, 기업 지배구조 참여 가능 [(원문)](https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-20**: 거래소 간 협력을 통한 미국 주식 토큰화 서비스 상용화 [(원문)](https://www.coindesk.com/business/2026/04/20/coinbase-bybit-said-to-be-working-together-on-tokenization-custody-and-distribution-of-u-s-stocks)
@@ -18,7 +20,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Ondo Finance]] | [[Broadridge]] | [[Tokenization]] | [[Traditional Finance Integration]]
+[[Computershare]] | [[Securitize]] | [[BlackRock]] | [[Tokenization]] | [[Tokenized Assets]]
 
 
 ## 모순/논쟁

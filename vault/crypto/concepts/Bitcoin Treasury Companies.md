@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 기관 투자자들이 Bitcoin yield farming을 통한 수익 창출 시도 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/bullish-invests-250-btc-mezo-institutional-bitcoin-yield-vaults)
+- **2026-04-29**: Mezo가 기관 대상 BTC 수익 볼트 출시, 유휴 자산 활용 수요 증가 [(원문)](https://www.coindesk.com/business/2026/04/29/mezo-unveils-institutional-bitcoin-yield-vaults-as-demand-grows-to-put-idle-btc-to-work)
 - **2026-04-28**: Block의 기업 자산 다각화 전략 강화 [(원문)](https://bitcoinmagazine.com/news/blocks-xyz-miles-suter-pushes-bitcoin)
 - **2026-04-28**: Block, 제3자 감사 비트코인 보유 $2.2B 공식 공시 [(원문)](https://decrypt.co/365771/jack-dorseys-block-discloses-2-2b-bitcoin-holdings-in-q1-proof-of-reserves-report)
 - **2026-04-28**: MicroStrategy vs BitMine 재무 전략 비교 [(원문)](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDVVa3hRMWREQklZaEZGaDZtcFBXalpUb0tpTXpmSXBiMmFvMXFuMFBXQ0FzQi1lZUo2bDhJd1dKdHdkT1UxejhVY2k2RGJvenZzUkMzYnBON3ctS25SaW90cWhwZzJhbUdyaUc0YWVIdks0bTNPMGZEY19GaGgzUkJ3?oc=5)
@@ -18,7 +20,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Block]] | [[Bitcoin]] | [[Mainstream Adoption]]
+[[Bitcoin]] | [[Yield Farming Strategy]]
 
 
 ## 모순/논쟁

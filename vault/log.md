@@ -1,8 +1,68 @@
 # 변경 이력
-최종 갱신: 2026-04-29 12:07
+최종 갱신: 2026-04-29 18:12
 
 ## [2026-04-29]
 
+- append: **Tokenized Stocks** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
+- append: **Traditional Finance Integration** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
+- append: **Tokenization** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
+- append: **Mainstream Adoption** ← GSR says Crypto Core3 ETF is simple gateway for mainstream investors
+- append: **Traditional Finance Integration** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
+- append: **Galaxy Digital** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
+- append: **Tokenization** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
+- append: **MoonPay** ← MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal
+- append: **Bitcoin** ← First central bank to test bitcoin says asset is ‘too risky’ for reserves
+- append: **Government Digital Asset Policy** ← First central bank to test bitcoin says asset is ‘too risky’ for reserves
+- append: **Polymarket** ← A tiny group is winning on Polymarket as under 1% of wallets take half the profits
+- append: **Prediction Markets** ← A tiny group is winning on Polymarket as under 1% of wallets take half the profits
+- append: **Bitcoin** ← Bitcoin trading volume is falling fast. That rarely ends smoothly.
+- append: **Tether** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America
+- append: **B2B Stablecoin Payments** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America
+- append: **Bitcoin Treasury Companies** ← Mezo unveils institutional bitcoin yield vaults as demand grows to put idle BTC to work
+- append: **Stablecoin** ← Fake Hong Kong stablecoins start trading as real ones remain absent
+- append: **Crypto Fraud** ← Fake Hong Kong stablecoins start trading as real ones remain absent
+- append: **MEV (Maximal Extractable Value)** ← Pump.fun has been using all its revenue to burn its token. Now it’s changing course
+- append: **Crypto Regulation** ← KuCoin EU hires new AML chief after Austria ban on new business under MiCA
+- append: **European Blockchain Policy** ← KuCoin EU hires new AML chief after Austria ban on new business under MiCA
+- append: **MoonPay** ← MoonPay buys crypto security firm Sodot in $100M push into institutional crypto
+- append: **Prediction Markets** ← Monthly prediction market volume hits $25.7B as user activity shifts beyond one-off events
+- append: **DeFi** ← Andre Cronje says DeFi is ‘no longer DeFi’ as builders debate circuit breakers
+- append: **ZetaChain** ← ZetaChain dismissed bug report that could have prevented $334K exploit
+- append: **Bridge Security** ← ZetaChain dismissed bug report that could have prevented $334K exploit
+- append: **B2B Stablecoin Payments** ← Dunamu, Hana Financial take blockchain remittance system live with POSCO
+- append: **Naver-Dunamu** ← Dunamu, Hana Financial take blockchain remittance system live with POSCO
+- append: **Polymarket** ← Polymarket pushes for broader US relaunch with CFTC talks: Report
+- append: **Prediction Market Regulatory Risk** ← Polymarket pushes for broader US relaunch with CFTC talks: Report
+- append: **Crypto Fraud** ← Celsius founder Alex Mashinsky settles FTC case with $10M payment
+- append: **Crypto Regulation** ← Canada proposes crypto ATM ban over scams and money laundering
+- append: **Mainstream Adoption** ← MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot
+- append: **MoonPay** ← MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot
+- append: **Polymarket** ← Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​
+- append: **Prediction Market Regulatory Risk** ← Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​
+- append: **Visa** ← Visa Adds Base, Polygon, Canton, Arc and Tempo to Stablecoin Settlement Program
+- append: **B2B Stablecoin Payments** ← Visa Adds Base, Polygon, Canton, Arc and Tempo to Stablecoin Settlement Program
+- append: **Tokenized Stocks** ← Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street
+- append: **BlackRock** ← Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street
+- append: **Paul Tudor Jones** ← Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge
+- append: **Mainstream Adoption** ← Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge
+- append: **Ethereum** ← Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade
+- append: **Bitcoin** ← Bullish Invests 250 BTC in BTCFi Company Mezo
+- append: **Bitcoin Treasury Companies** ← Bullish Invests 250 BTC in BTCFi Company Mezo
+- append: **BitMine (BMNR)** ← Bitmine Holds 4.42M Ethereum, Now Controls 3.66% of Supply - CoinMarketCap
+- append: **Ethereum Treasury Companies** ← Bitmine Holds 4.42M Ethereum, Now Controls 3.66% of Supply - CoinMarketCap
+- append: **PBOC** ← China boosts overseas-loan quotas as ‘panda bond’ issuance hits record high - South China Morning Post
+- append: **Financial Regulation (China)** ← China boosts overseas-loan quotas as ‘panda bond’ issuance hits record high - South China Morning Post
+- append: **HYPE Price** ← Hyperliquid (HYPE) Price Drops as Two-Month Rally Comes to an End - MEXC
+- append: **Hyperliquid** ← Hyperliquid’s (HYPE) Growth Story Meets Slowing Activity: Report - Bitget
+- append: **Bitcoin** ← The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin
+- append: **Mainstream Adoption** ← The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin
+- append: **Visa** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
+- append: **B2B Stablecoin Payments** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
+- append: **Traditional Finance Integration** ← Visa expands stablecoin settlement network as volume hits $7 billion run rate
+- append: **21Shares** ← Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end
+- append: **Prediction Markets** ← Wall Street is launching the first ever prediction market ETFs for U.S. elections
+- append: **DeFi** ← DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says
+- append: **Exchange Security Incidents** ← DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says
 - append: **Bitcoin** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
 - append: **Strategy (MSTR)** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
 - append: **Sam Bankman-Fried** ← Judge Shoots Down Sam Bankman-Fried's Bid for New Trial
@@ -43,65 +103,3 @@
 - append: **Bitcoin** ← Bitcoin rally falters as AI industry weakens and CLARITY Act approval odds fall
 - append: **Claude Models** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says
 - append: **AI-Powered Attacks** ← AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says
-## [2026-04-28]
-
-- append: **Prediction Markets** ← Your Bank is Becoming a Casino: River CEO Frames Bitcoin as the Alternative
-- append: **Block** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
-- append: **Block** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
-- append: **Bitcoin Treasury Companies** ← Block (XYZ) Touts Bitcoin as ‘Everyday Money’ With 800,000 Merchants Now Accepting It
-- append: **Hyperliquid** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
-- append: **Prediction Markets** ← HYPE pops 20% after Hyperliquid team nods prediction markets plan - MSN
-- append: **Arthur Hayes** ← $HYPE Man - by Arthur Hayes - Crypto Trader Digest | Arthur Hayes
-- append: **Hyperliquid** ← $HYPE Man - by Arthur Hayes - Crypto Trader Digest | Arthur Hayes
-- append: **Robinhood** ← Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting
-- append: **Bitcoin** ← Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks
-- append: **Prediction Market Regulatory Risk** ← CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority
-- append: **AI Agent Trading** ← The age of Agentic Commerce has arrived. Consensus 2026 is where you can experience it IRL
-- append: **Polymarket** ← Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders
-- append: **Bitcoin** ← Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M
-- append: **BTC Price** ← Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M
-- append: **DeFi** ← RedStone launches settlement layer to address RWA liquidity gap in DeFi lending
-- append: **Tokenized Assets** ← RedStone launches settlement layer to address RWA liquidity gap in DeFi lending
-- append: **Tether** ← Canaan, Tether deepen partnership on immersion-cooled mining systems
-- append: **Mining Supply Pressure** ← Canaan, Tether deepen partnership on immersion-cooled mining systems
-- append: **BitMart** ← BitMart x EAT Trade-to-Feed competition to pay out $4.4m USDT to traders in May 2026
-- append: **Traditional Finance Integration** ← Liquid raises $18M as platforms move toward 24/7 cross-asset trading
-- append: **Liquid** ← Liquid raises $18M as platforms move toward 24/7 cross-asset trading
-- append: **Bybit** ← Bybit Pay enters South Africa through MoneyBadger integration
-- append: **Paystand** ← Paystand launches Bitcoin-based stablecoin USDb for enterprise payments
-- append: **B2B Stablecoin Payments** ← Paystand launches Bitcoin-based stablecoin USDb for enterprise payments
-- append: **AI Infrastructure** ← OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped
-- append: **CFTC** ← CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State
-- append: **Prediction Market Regulatory Risk** ← CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State
-- create: **AI-Generated Content** ← Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford
-- append: **Robinhood** ← Robinhood Shares Slide on 34% Decrease in Crypto Revenue
-- append: **AI Infrastructure** ← Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data
-- append: **Polymarket** ← Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty
-- append: **Prediction Market Regulatory Risk** ← Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty
-- append: **Google** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
-- append: **Government AI Policy** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
-- append: **Geopolitical Security Threats** ← Google Signs AI Deal With Pentagon for Classified Work as Employees Object
-- append: **Iris Energy (IREN)** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
-- append: **AI Infrastructure** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
-- append: **Mining Supply Pressure** ← IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI
-- append: **Kelp Exploit** ← Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack
-- append: **Aave** ← Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack
-- append: **Tether** ← Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware
-- append: **Mining Supply Pressure** ← Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware
-- append: **Kelp Exploit** ← DeFi United Outlines Technical Path To Make Kelp's rsETH Whole
-- append: **DeFi United** ← DeFi United Outlines Technical Path To Make Kelp's rsETH Whole
-- append: **Autonomous Onchain Agents** ← Developers of Telegram's Crypto Wallet Launch Agentic Wallets
-- append: **Arbitrum** ← Ostium Launches Institutional Hedging Layer
-- append: **Prediction Market Regulatory Risk** ← CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets
-- append: **CFTC** ← CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets
-- append: **Polymarket** ← Polymarket Seeks Full CFTC Approval for Its Main Platform: Report
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (NYSE: BMNR) registers 501,545 resale shares after Pier Two deal - Stock Titan
-- append: **Tom Lee** ← How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum - Yahoo Finance
-- append: **Ethereum Treasury Companies** ← How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum - Yahoo Finance
-- append: **BitMine (BMNR)** ← BitMine stock analysis: what next for this future free cash flow machine? - Invezz
-- append: **BitMine (BMNR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - Cryptonews.net
-- append: **Strategy (MSTR)** ← Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace - Cryptonews.net
-- append: **BitMine (BMNR)** ← MBitmine Immersion Technologies Reports ETH Holdings of 5.078M Tokens, Total Assets at $13.3B - Yellow.com
-- append: **Strategy (MSTR)** ← Bitcoin Pullback Exposes MicroStrategy to Around $1 Billion in Paper Losses - Yahoo Finance
-- append: **Government Digital Asset Policy** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy
-- append: **Czech National Bank** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy

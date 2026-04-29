@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Bullish가 250 BTC를 Mezo에 투자 (기관 yield vault 진출) [(원문)](https://thedefiant.io/news/tradfi-and-fintech/bullish-invests-250-btc-mezo-institutional-bitcoin-yield-vaults)
+- **2026-04-29**: 거래량 급감 추세 진행 중 - 역사적으로 이후 시장 변화 선례 있음 [(원문)](https://www.coindesk.com/daybook-us/2026/04/29/bitcoin-trading-volume-is-falling-fast-that-rarely-ends-smoothly)
+- **2026-04-29**: 첫 중앙은행이 비트코인 테스트 후 '준비금으로는 너무 위험'이라 평가 [(원문)](https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor)
+- **2026-04-29**: Pantera CEO: 기관들이 비트코인 기회를 과소평가하는 중 [(원문)](https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says)
 - **2026-04-29**: Strategy의 지속적 매매가 최근 가격 랠리의 주요 동인 (Bitwise CIO 분석) [(원문)](https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 새 Fed chair 임명 시 역사적으로 수개월 손실 기록, Kevin Warsh 임명으로도 약세 예상 [(원문)](https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Fed 결정 임박 중 $77,000 도달, Trump의 Hormuz 차단 구상과 연계 [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)
@@ -114,5 +118,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Strategy (MSTR)]] | [[Bitwise]] | [[Michael Saylor]] | [[Bitcoin Whale Accumulation]] | [[Bitcoin Treasury Companies]]
+[[Bitcoin Treasury Companies]] | [[Yield Farming Strategy]]
 

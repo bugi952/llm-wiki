@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-25**: 성장 스토리에도 불구하고 플랫폼 활동량 둔화 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSldPXzgzY2dsei1OMFZFX2pPMjA2Szl4clc4TzllRFRSWHUwcnlVUUo4MHlRMl9EVms4b1EycnAwU1ZBOS1SeWlYNlh0RUQzMXBscS05OHRBdjRJbWc?oc=5)
 - **2026-04-28**: Solana와의 지연시간(latency) 성능 비교 분석 (경쟁 우위) [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
 - **2026-04-29**: CEO가 Hyperliquid를 Bitcoin 3.0으로의 경로로 포지셔닝 (Solana와의 경쟁 구도) [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
 - **2026-04-29**: Galaxy Digital 투자 포트폴리오의 핵심 자산으로 손실 상황에서 영향도 분석 [(원문)](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0pfdnNrODV3dzNsQk0xcHJfUmJTbTd0WThPc1FDQXB1cE1yYlZacWFGSEF6ZDJWRDR0SjZuX19mTHNScTN4bWEzcnhSUHQ0aVViMWNPQ3U1ZXlEVmwyWWJaV2FUTk5zdlloQlFTTGtEampFOEhxbjhIMERHeHFxTDlUM291VXBVdndwZkdvX0h5QV9CcFF4MF95NUd4Z01ndUtieTBVZ1drVjYtN1ROSG85R1R2bFE?oc=5)

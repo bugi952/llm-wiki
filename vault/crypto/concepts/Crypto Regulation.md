@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 캐나다, 사기·자금세탁 우려로 암호 ATM 규제 강화 추진 [(원문)](https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 오스트리아 규제당국이 KuCoin EU의 신규 사업 금지, MiCA 컴플라이언스 강제 [(원문)](https://cointelegraph.com/news/kucoin-eu-hires-new-aml-chief-after-austria-ban-on-new-business-under-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 캐나다, 사기 증가 대응으로 암호화폐 ATM 금지안 제안 [(원문)](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)
 - **2026-04-29**: KuCoin, EU 규제 강화에 대응해 컴플라이언스 전문가 확대 채용 [(원문)](https://www.coindesk.com/policy/2026/04/29/kucoin-eu-hires-anti-money-laundering-talent-to-appease-austrian-regulator)
 - **2026-04-28**: 일본 정부, 부동산-암호 거래의 AML 점검 강화 지시 (4개 부처 공동) [(원문)](https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -90,7 +92,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Government Digital Asset Policy]]
+[[KuCoin]] | [[European Blockchain Policy]]
 
 
 ## 모순/논쟁

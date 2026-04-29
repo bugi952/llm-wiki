@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 라틴아메리카 스테이블코인 결제 확대를 위해 Belo의 1400만 달러 펀딩 주도 [(원문)](https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america)
 - **2026-04-28**: Canaan, ACME Swisstech와 모듈식 비트코인 마이닝 하드웨어 개발 [(원문)](https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware)
 - **2026-04-28**: Canaan과 협력하여 모듈형 몰입형 냉각 마이닝 시스템 확보 [(원문)](https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Visa와 온체인 은행 구축 협력 [(원문)](https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi)
@@ -26,5 +27,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Canaan]] | [[Mining Supply Pressure]] | [[Bitcoin]]
+[[B2B Stablecoin Payments]] | [[Stablecoin]]
 

@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 2026-04월 거래량 $25.7B 기록, 소매 사용자 주도의 반복 활동으로 전환 [(원문)](https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Polymarket 분석으로 드러난 예측시장의 극심한 수익 집중화 현상 [(원문)](https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits)
+- **2026-04-29**: 2026년 4월, Wall Street이 미국 선거 예측 시장 ETF 첫 출시 (규제 승인) [(원문)](https://www.coindesk.com/markets/2026/04/29/wall-street-is-launching-the-first-ever-prediction-market-etfs-for-u-s-elections)
 - **2026-04-26**: Hyperliquid이 예측시장 플랫폼 개발 계획 중 [(원문)](https://news.google.com/rss/articles/CBMijwNBVV95cUxQUFFyeUNYVUg3djMwQUpWQS1TX09Ucnd4RC1XcHlIQmRKYkJIRE1SaElRVkthNTEzWHBRcDVkeHBFcW1UUlR6Y01IczhYT3Z1RUVneTB1dUFqRnVOMXlYVTNkS2dMQ21JazlPSmxncUE4bFRtWWgtVkNDR19UaENiR0Z1QWUzMENIWUpzblp4aHBxOUc2MU9MMnBQWDNMTGFiNUlkT28xdy1DbkRRa25XZ21sX1BhWllYdFlzNTl2ak4yNWtzQXBPSVFVMkVodFoxX0JUS3NvVG1mdW44TlRtazA2UnJMemdPd25JaHJxZWVKR1pjZjE5bHIxUm5BcU5LOHlMX2JXeGxiU2dJd28zdlMzR1pUQlZ0elNZUldRNTB3WlJsUTlwaGs2QUlOWXoyRm1PNXUxX0VoUmt4VmZaX1lZdV9aZ1h4RGliWnVlbHhLSUR4WWhyQlVLeUVzTnN0QVFUREJRdURCZ3ptOE0yM1F0V0lMRTl5aXgzYWNaN25Md1NlZ1pvLTlpbzYzYzA?oc=5)
 - **2026-04-28**: 현대 금융의 카지노화로 인해 예측 시장으로의 자금 이동 증가 [(원문)](https://bitcoinmagazine.com/news/your-bank-is-a-casino-bitcoin-alternative)
 - **2026-04-28**: 2026-04-28: Trump, 미국의 예측시장 경쟁력 강조며 규제 우호 입장 표현. 며칠 전 부정적 발언에서 정책 180도 전환 [(원문)](https://cointelegraph.com/news/trump-changes-stance-after-saying-he-disliked-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,7 +47,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hyperliquid]]
+[[Bitget]] | [[Polymarket]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁
