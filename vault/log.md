@@ -1,8 +1,34 @@
 # 변경 이력
-최종 갱신: 2026-04-29 06:07
+최종 갱신: 2026-04-29 12:07
 
 ## [2026-04-29]
 
+- append: **Bitcoin** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
+- append: **Strategy (MSTR)** ← Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan
+- append: **Sam Bankman-Fried** ← Judge Shoots Down Sam Bankman-Fried's Bid for New Trial
+- append: **PBOC** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
+- append: **Targeted Easing** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
+- append: **Credit Conditions** ← Exclusive: China's central bank guides banks to step up lending in April, sources say - Reuters
+- append: **Galaxy Digital** ← Galaxy Digital Posts $200M Quarterly Loss—Did Hyperliquid Help Avoid New Crisis? - CryptoRank
+- append: **Hyperliquid** ← Galaxy Digital Posts $200M Quarterly Loss—Did Hyperliquid Help Avoid New Crisis? - CryptoRank
+- append: **Hyperliquid** ← Hyperliquid Vs Solana: CEO Frames The Competition As Path Toward ‘Bitcoin 3.0’ - Cryptonews.net
+- append: **Solana** ← Hyperliquid Vs Solana: CEO Frames The Competition As Path Toward ‘Bitcoin 3.0’ - Cryptonews.net
+- append: **Hyperliquid** ← Hyperliquid vs Solana: Who Wins the Latency Race? - MEXC Exchange
+- append: **Solana** ← Hyperliquid vs Solana: Who Wins the Latency Race? - MEXC Exchange
+- append: **KuCoin** ← KuCoin EU hires anti-money laundering talent to appease Austrian regulator
+- append: **Crypto Regulation** ← KuCoin EU hires anti-money laundering talent to appease Austrian regulator
+- append: **Crypto Regulation** ← Canada proposes ban on crypto ATMs as fraud cases mount
+- append: **Bitcoin** ← Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block
+- append: **BTC Price** ← Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block
+- append: **Kevin Warsh** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
+- append: **Bitcoin** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
+- append: **BTC Price** ← Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair
+- append: **Polymarket** ← Polymarket denies data breach, says hacker is selling public data
+- append: **Exchange Security Incidents** ← Polymarket denies data breach, says hacker is selling public data
+- append: **ZK Privacy** ← Aptos says its new privacy coin seeks to fix one of crypto’s biggest trade-offs
+- append: **Prediction Market Regulatory Risk** ← CFTC pulls Wisconsin into fight over prediction market jurisdiction
+- append: **CFTC** ← CFTC pulls Wisconsin into fight over prediction market jurisdiction
+- append: **Robinhood** ← Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%
 - append: **BitMine (BMNR)** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
 - append: **Ethereum Treasury Companies** ← Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank
 - append: **CNY-USD** ← PBOC is expected to set the USD/CNY reference rate at 6.8347 – Reuters estimate - investingLive
@@ -79,29 +105,3 @@
 - append: **Strategy (MSTR)** ← Bitcoin Pullback Exposes MicroStrategy to Around $1 Billion in Paper Losses - Yahoo Finance
 - append: **Government Digital Asset Policy** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy
 - append: **Czech National Bank** ← Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy
-- append: **Lightning Network** ← Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System
-- append: **Lightspark** ← Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System
-- append: **Quantum Threat** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
-- append: **Quantum-Resistant Cryptography** ← New wallet offers way to tackle Bitcoin’s quantum risk without a fork
-- append: **Tether** ← Visa is teaming up with a Tether co-founder to build onchain banks
-- append: **Traditional Finance Integration** ← Visa is teaming up with a Tether co-founder to build onchain banks
-- append: **B2B Stablecoin Payments** ← Visa is teaming up with a Tether co-founder to build onchain banks
-- append: **Government AI Policy** ← CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk
-- append: **CBDC** ← A digital shekel is here: Israel approves its first regulated stablecoin
-- append: **Stablecoin** ← A digital shekel is here: Israel approves its first regulated stablecoin
-- append: **Galaxy Digital** ← Galaxy Digital posts $216M Q1 loss as crypto market slides 20%
-- append: **Crypto Regulation** ← AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report
-- append: **Tokenization** ← Crypto projects shut down as token models fail under pressure
-- append: **Crypto Regulation** ← Japan tells real estate and crypto sectors to tighten AML checks on property deals
-- append: **B2B Stablecoin Payments** ← Stablecoin payroll gets built-in yield with Paxos–Toku integration
-- append: **Kelp Exploit** ← Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit
-- append: **DeFi United** ← Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit
-- append: **Sunnyside** ← Startale to add Privacy Boost transfers to Sony-linked Soneium app
-- append: **Stablecoin** ← Stablecoin transfer volume drops 19% even as supply keeps rising: RWA.xyz
-- append: **Tokenized Stocks** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
-- append: **Tokenized Assets** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
-- append: **Traditional Finance Integration** ← Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge
-- append: **BlackRock** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
-- append: **Mainstream Adoption** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
-- append: **Tokenization** ← OKX lets institutions use BlackRock’s BUIDL fund as trading collateral
-- append: **Cross-chain Bridge** ← Changelly and Tonkeeper enable cross-chain deposits to TON across 13 networks

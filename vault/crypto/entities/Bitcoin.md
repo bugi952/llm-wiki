@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Strategy의 지속적 매매가 최근 가격 랠리의 주요 동인 (Bitwise CIO 분석) [(원문)](https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: 새 Fed chair 임명 시 역사적으로 수개월 손실 기록, Kevin Warsh 임명으로도 약세 예상 [(원문)](https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: Fed 결정 임박 중 $77,000 도달, Trump의 Hormuz 차단 구상과 연계 [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)
 - **2026-04-28**: AI 약세 + CLARITY Act 지연으로 $76K 이하 하락 [(원문)](https://cointelegraph.com/markets/bitcoin-rally-falters-as-ai-industry-weakens-and-clarity-act-approval-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 기관 투자자 성장이 경쟁사 협력을 통한 인프라·도구·상품 구축으로 주도 (Bitcoin 2026 회의) [(원문)](https://bitcoinmagazine.com/news/bitcoin-will-reshape-traditional-finance)
 - **2026-04-28**: Coinbase Premium Index 3주 만에 음수 전환, 미국 현물 시장 수요 약화 신호 [(원문)](https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -111,5 +114,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Government AI Policy]]
+[[Strategy (MSTR)]] | [[Bitwise]] | [[Michael Saylor]] | [[Bitcoin Whale Accumulation]] | [[Bitcoin Treasury Companies]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: 4월 은행 대출 확대 지침 발표 (Reuters 배타 보도) [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hzd0E0YVNFUVgxZE5NeXJHcU1xVF9SeGhaTkVXa19yZk9nWUc1aWpmVEN4dGVrWjJpNy1uTE5ickk3S1kzWmR4aDhna1cwMk1Zb1l2Y1NFS2NqaXF6X0ctSk00c2JHcUlqQzlhSmk3SkxVSHRrTGNjd2xyRUtnamNpZ19iaVpjM0Y5dXVfUHZDclQtVW9wV3ZtV1NjNUVwdi1tSTd2U3ppaVpuQnN6YmVocWVPTDdndVpKNTlR?oc=5)
 - **2026-04-15**: 중국 금융법 초안 발표 (규제 개혁) [(원문)](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnhZTUFlZEIycUJVTC1MaVRtWFVLVG05ZmtUZ19pd3VWOF9GOFpVdXRRMUZUcHMxOVZHOGROenJaODJMSjllUE9WWG5RMm1WV3dzNmRjc3lxV0F2eWFJQmV6WEtzTjBtRHY4Mmh1VWRjVGNBTW1UVkRqeTI4eUZ0LWViRkRkN3VDeFRXaUlEVWNlc3B2WU9VajkwT3FOZHZKRV9zai1BNzBudG85b0VHSDZxTHVjbjg?oc=5)
 - **2026-04-28**: 4월 은행 대출 증가 가이드 제시 (정책 신호) [(원문)](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDN5bU03T1lEX0FNREVXTGE0SHRNdFBhcWoyNVdYV2NHMk5USXE0LXp5OFI0U3dzRTVuajJmb2M0Y04tRjh0YzRwUTFXVmFEUmhxMmp6OHh2N2lXSWtZOTA2TEtteGxNb0ppRG90YW1ZREYtdEoza1I2d1YxczhkWmR2UzNnMlNtc3RiZHdKUU1vNVlaNHFBaW9MczR1ci03V1pTY3hzZDMxRDRxTzltTDlwbWxkTFloaXJ1M3ZWNXZUaER1?oc=5)
 - **2026-04-28**: RMB218.5B 규모의 역레포 공급으로 같은 날 RMB218.0B 순유동성 증가 [(원문)](https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNDBVOEplU3FaaVRPQTA5LU5BeVZKYjlHT0doQXY3ZTlZNEMzN2ZyMTczN3BWUVM0eXRjYjNUV0E5TUNQU1B5OUw1SE9wb25WMEZqNjA0YWlaekl4dWRLa1J0WlJXY1NCRFNyVTJVSQ?oc=5)
@@ -64,5 +65,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Monetary Policy Transmission]] | [[Targeted Easing]]
+[[Targeted Easing]] | [[Credit Conditions]] | [[Monetary Policy Transmission]] | [[Financial Regulation (China)]]
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Hyperliquid와의 지연시간 성능 경합 비교 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
+- **2026-04-29**: Hyperliquid CEO가 Solana와의 차세대 기술 경쟁을 Bitcoin 3.0 프레임으로 언급 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
 - **2026-04-28**: Anza/Firedancer 클라이언트가 NIST 표준 Falcon 도입으로 post-quantum 보안 강화 [(원문)](https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: 네트워크 양자 위협 보호 계획 개발팀 공개 [(원문)](https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats)
 - **2026-04-27**: Elfa AI: 실시간 모니터링 + 조건부 거래 자동 실행 플랫폼 출시 [(원문)](https://thedefiant.io/news/blockchains/elfa-ai-solana-agent-execution-36pr2y)
@@ -27,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Quantum Security]] | [[Quantum-Resistant Cryptography]]
+[[Hyperliquid]] | [[AI Agent Trading]]
 

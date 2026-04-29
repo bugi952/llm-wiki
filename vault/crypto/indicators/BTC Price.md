@@ -14,6 +14,8 @@ last_updated: 2026-04-29
 
 
 ## 이력
+- **2026-04-29**: Kevin Warsh Fed chair 임명으로 하락 압박 [(원문)](https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-29**: $77,000 기록 [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)
 - **2026-04-28**: 주간 누적 손실 $829M 기록 [(원문)](https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 1주일 내 주요 움직임 임박 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRdIBY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRQ?oc=5)
 - **2026-04-28**: 핵심 기술적 지표 약세 전환으로 랠리 피로 신호 포착 [(원문)](https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish)

@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-29 06:07
+최종 갱신: 2026-04-29 12:07
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -12,6 +12,7 @@
 - [[entities/Amboss|Amboss]]
 - [[entities/Anchorage|Anchorage]]
 - [[entities/Anthropic|Anthropic]]
+- [[entities/Aptos|Aptos]]
 - [[entities/Arbitrum|Arbitrum]]
 - [[entities/Arthur Hayes|Arthur Hayes]]
 - [[entities/Aurelion|Aurelion]]
@@ -107,6 +108,7 @@
 - [[entities/Ketman Project|Ketman Project]]
 - [[entities/Kevin Warsh|Kevin Warsh]]
 - [[entities/Kraken|Kraken]]
+- [[entities/KuCoin|KuCoin]]
 - [[entities/LayerZero|LayerZero]]
 - [[entities/Lazarus Group|Lazarus Group]]
 - [[entities/Lido|Lido]]

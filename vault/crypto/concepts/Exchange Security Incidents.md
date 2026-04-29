@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Polymarket 데이터 유출 의혹, 다중 플랫폼 침해 시도 보도 [(원문)](https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Aave 프로토콜 토큰 exploit (2026-04-28) [(원문)](https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit)
 - **2026-04-27**: $263M 규모 사회공학 기반 금전세탁 사건 (Evan Tangeman, 70개월 형) [(원문)](https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme)
 - **2026-04-24**: 미국 DOJ 특별 태스크포스, 암호화폐 사기 단속에서 $701M 동결 및 503개 가짜 투자 웹사이트 폐쇄 [(원문)](https://cointelegraph.com/news/us-scam-center-task-force-restrains-crypto-in-southeast-asia-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -33,7 +34,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Aave]]
+[[Polymarket]] | [[Prediction Market Regulatory Risk]]
 
 
 ## 모순/논쟁

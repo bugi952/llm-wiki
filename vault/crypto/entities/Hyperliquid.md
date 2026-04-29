@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-28**: Solana와의 지연시간(latency) 성능 비교 분석 (경쟁 우위) [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
+- **2026-04-29**: CEO가 Hyperliquid를 Bitcoin 3.0으로의 경로로 포지셔닝 (Solana와의 경쟁 구도) [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
+- **2026-04-29**: Galaxy Digital 투자 포트폴리오의 핵심 자산으로 손실 상황에서 영향도 분석 [(원문)](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0pfdnNrODV3dzNsQk0xcHJfUmJTbTd0WThPc1FDQXB1cE1yYlZacWFGSEF6ZDJWRDR0SjZuX19mTHNScTN4bWEzcnhSUHQ0aVViMWNPQ3U1ZXlEVmwyWWJaV2FUTk5zdlloQlFTTGtEampFOEhxbjhIMERHeHFxTDlUM291VXBVdndwZkdvX0h5QV9CcFF4MF95NUd4Z01ndUtieTBVZ1drVjYtN1ROSG85R1R2bFE?oc=5)
 - **2026-03-09**: Arthur Hayes가 HYPE의 투자 가치 분석 [(원문)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ib3FTMUV5Y0ttV0Zqc1JCcGg3a0VmMks4MXN6Y2NMQ1lVWndwWmthclIyTGRaMjd5TEZCM05pN0I1WmxDamlibGprVV9kWERjZGJ3RFFR?oc=5)
 - **2026-04-26**: Hyperliquid 팀이 예측시장 기능 개발 발표, HYPE 20% 상승 [(원문)](https://news.google.com/rss/articles/CBMijwNBVV95cUxQUFFyeUNYVUg3djMwQUpWQS1TX09Ucnd4RC1XcHlIQmRKYkJIRE1SaElRVkthNTEzWHBRcDVkeHBFcW1UUlR6Y01IczhYT3Z1RUVneTB1dUFqRnVOMXlYVTNkS2dMQ21JazlPSmxncUE4bFRtWWgtVkNDR19UaENiR0Z1QWUzMENIWUpzblp4aHBxOUc2MU9MMnBQWDNMTGFiNUlkT28xdy1DbkRRa25XZ21sX1BhWllYdFlzNTl2ak4yNWtzQXBPSVFVMkVodFoxX0JUS3NvVG1mdW44TlRtazA2UnJMemdPd25JaHJxZWVKR1pjZjE5bHIxUm5BcU5LOHlMX2JXeGxiU2dJd28zdlMzR1pUQlZ0elNZUldRNTB3WlJsUTlwaGs2QUlOWXoyRm1PNXUxX0VoUmt4VmZaX1lZdV9aZ1h4RGliWnVlbHhLSUR4WWhyQlVLeUVzTnN0QVFUREJRdURCZ3ptOE0yM1F0V0lMRTl5aXgzYWNaN25Md1NlZ1pvLTlpbzYzYzA?oc=5)
 - **2026-04-28**: Galaxy Digital의 Q1 손실을 일부 상쇄하는 성과 창출 [(원문)](https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital)
@@ -80,5 +83,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]]
+[[Solana]] | [[AI Agent Trading]]
 

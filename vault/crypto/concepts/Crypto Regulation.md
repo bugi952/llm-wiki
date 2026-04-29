@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: 캐나다, 사기 증가 대응으로 암호화폐 ATM 금지안 제안 [(원문)](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)
+- **2026-04-29**: KuCoin, EU 규제 강화에 대응해 컴플라이언스 전문가 확대 채용 [(원문)](https://www.coindesk.com/policy/2026/04/29/kucoin-eu-hires-anti-money-laundering-talent-to-appease-austrian-regulator)
 - **2026-04-28**: 일본 정부, 부동산-암호 거래의 AML 점검 강화 지시 (4개 부처 공동) [(원문)](https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: US AML 벌금 $1.06B 달성 (2025 상반기, 역대 최고) [(원문)](https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Thom Tillis 상원의원이 윤리 조항 없으면 암호화폐 법안 미지지 표명 [(원문)](https://cointelegraph.com/news/sen-tillis-wont-support-senate-crypto-bill-without-ethics-provision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -88,7 +90,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Thom Tillis]] | [[Political Interference in Crypto Regulation]]
+[[Government Digital Asset Policy]]
 
 
 ## 모순/논쟁

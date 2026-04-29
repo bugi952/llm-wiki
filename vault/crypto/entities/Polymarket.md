@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: 데이터 브리치 부인하나 해커가 공개 데이터 판매, 타 prediction market도 침해 주장 [(원문)](https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: 메인 플랫폼의 CFTC 정규 승인 신청, 미국 직접 운영 전환 추진 (Polymarket US 중개 구조 탈피) [(원문)](https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report)
 - **2026-04-28**: 미군 특수부대원 Gannon Ken Van Dyke, 베네수엘라 군사 작전 정보로 약 $400K 거래 이득 혐의 (불인정 항변) [(원문)](https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty)
 - **2026-04-28**: CFTC 승인을 통한 미국 메인 거래소 재개 추진 중 [(원문)](https://www.coindesk.com/policy/2026/04/28/polymarket-seeks-cftc-approval-to-reopen-main-exchange-to-u-s-traders)
@@ -25,5 +26,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[CFTC]] | [[Prediction Markets]] | [[Crypto Regulation]]
+[[Exchange Security Incidents]] | [[Prediction Market Regulatory Risk]]
 
