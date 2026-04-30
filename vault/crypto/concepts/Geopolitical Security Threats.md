@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Iran 전쟁 불확실성이 Bitcoin 시장에 부정적 영향. Fed가 공식 우려 표현 [(원문)](https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: US-UAE-China 국제 협력을 통한 암호화폐 사기 적발 및 규제 강화 [(원문)](https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Google Pentagon AI 협력 - 미국 AI 능력 강화 [(원문)](https://decrypt.co/365857/google-ai-deal-pentagon-classified-work)
 - **2026-04-28**: 암호자산 정책 약화를 국가 경쟁력 위협으로 인식하는 정부 입장 표현 [(원문)](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)
 - **2026-04-27**: 프랑스, 2023년 이후 암호 관련 135건 사건 기록, wrench attack 급증 (88명 기소) [(원문)](https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown)
@@ -44,7 +46,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[Government AI Policy]]
+[[Bitcoin]] | [[Federal Reserve]] | [[Iran]] | [[BTC Price]] | [[Monetary Policy]]
 
 
 ## 모순/논쟁

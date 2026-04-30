@@ -14,6 +14,8 @@ last_updated: 2026-04-30
 
 
 ## 이력
+- **2026-04-29**: Fed 금리 유지로 Bitcoin이 $75,000 이하로 하락 [(원문)](https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: Long-to-short 비율 변화로 약세 신호. 거래자들의 포지셔닝 변화 심화 [(원문)](https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 연준 금리 인상 신호로 BTC $76K 이하로 하락 [(원문)](https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split)
 - **2026-04-29**: Fed 금리 동결 (3연속) 영향으로 하락 [(원문)](https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time)
 - **2026-04-29**: Kevin Warsh Fed chair 임명으로 하락 압박 [(원문)](https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

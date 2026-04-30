@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: CEO Phong Le, Bitcoin 금융 미래 비전 설명 (Bitcoin 2026 컨퍼런스) [(원문)](https://bitcoinmagazine.com/news/strategy-and-blockstream-bitcoins-future)
+- **2026-04-01**: 2026년 3월 MSTR이 월간 신규 비트코인의 94% 매입 [(원문)](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVRTaks1WlBNSGg1VnZnS2hKdjljbFNSdndXc2Rua0EwakNoNl9Cc21CZkIwNDdzd0YyYWVydHR5WkJTQVluYkZhZlBFRXRuVjV6YV9kdWZvS3pHRVJoSVBpOTdYVUpRVE1FdFVkWUJTN3pXbWlYXzNKV2g1QUxZNm9rbEstWEZhb1UwT3p1V1Vrd2FmaFdvN1lUeXI5NW1UTmdQcQ?oc=5)
 - **2026-04-23**: 캐피탈 그룹의 MSTR 투자 비중 확대 중 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVczYlptdmdIUURfS3RweHY1RWcwT3hhOGZPeFJ6Z2NCc3pfNTBDRlE0Y0lvamt4MzNaYVhUQVVuZlNKTWM1bGpCdm1GMC1XZWFRM1VDeGYwb19iZ0NPZlBJb3d6RGF3WlJsNHV0N1ZLOGpoZ1VyT0dyZXB6TnFtZVUxRHZGUVN3MmhaYWN2bHh4M3dGYl9KOUVhaFAtUFp5bEx0Rzk3X2ctQQ?oc=5)
 - **2026-04-29**: 시가총액이 비트콘 보유량보다 적은 상태 지속 [(원문)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRDBLOGdLeElWZ3FsTkZyYzB1SGFqeFNUWWVjNVVhNlBjdWxIRU1QakU3bDdzLVVzM0w3YXU4eTdXbEw2VW82anBQeEk0NDVuQUtKOHl2dnNhZC1Cb1A5b3N2ZDl3RUxOeG02dDViNUdHNUwtMVZTVVM3TThRb2g2Uy1nLUcxVjJ1X2g2c0JMcUFlOGlhZzExV3h2SjI5N1o1aURBUEJISXVjY3BWRjVDVEx4M3g0Q19aNHBpZkZvbzhVWWtKdFJLQkozOGViYW5GOEZCWUtBelUzVGdiT3Q2aWRUMmlXZ3ZEUUY4QmdtMGtkMkt5?oc=5)
 - **2026-04-29**: 2026년 4월: Bitcoin 가격 랠리의 주도적 원인으로 Bitwise에 의해 확인됨 [(원문)](https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -76,5 +78,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Capital Group]] | [[Asset Allocation]]
+[[Blockstream]] | [[Bitcoin Treasury Companies]] | [[Tokenization]]
 

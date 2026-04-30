@@ -1,6 +1,34 @@
 # 변경 이력
-최종 갱신: 2026-04-30 00:13
+최종 갱신: 2026-04-30 06:10
 
+## [2026-04-30]
+
+- append: **Strike** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
+- append: **Tether** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
+- append: **Bitcoin Proof of Reserves** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
+- append: **Strategy (MSTR)** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
+- append: **Blockstream** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
+- append: **Bitcoin Treasury Companies** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
+- append: **Morgan Stanley** ← Morgan Stanley Executive on Bitcoin: ‘We Are Still So Early on This Journey’
+- append: **Mainstream Adoption** ← Morgan Stanley Executive on Bitcoin: ‘We Are Still So Early on This Journey’
+- append: **Jack Dorsey** ← Bitcoin, WikiLeaks, and a Film the Streamers Wouldn’t Touch: Jack Dorsey and Eugene Jarecki Make Their Case
+- append: **Mainstream Adoption** ← Bitcoin, WikiLeaks, and a Film the Streamers Wouldn’t Touch: Jack Dorsey and Eugene Jarecki Make Their Case
+- append: **Tether** ← Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger
+- append: **Crypto Fraud** ← US, UAE and China joint effort dismantles 9 crypto scam centers
+- append: **Geopolitical Security Threats** ← US, UAE and China joint effort dismantles 9 crypto scam centers
+- append: **BTC Price** ← Bitcoin futures signal caution as long-to-short ratio signals positioning shift
+- append: **Monetary Policy** ← Bitcoin futures signal caution as long-to-short ratio signals positioning shift
+- append: **BTC Price** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
+- append: **Monetary Policy** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
+- append: **Geopolitical Security Threats** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
+- append: **AI Infrastructure** ← Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating
+- append: **Strategy (MSTR)** ← MicroStrategy Hoards 94% of March Bitcoin While MSTR Bleeds for 9 Months - Yahoo Finance
+- append: **Bitcoin Whale Accumulation** ← MicroStrategy Hoards 94% of March Bitcoin While MSTR Bleeds for 9 Months - Yahoo Finance
+- append: **Iris Energy (IREN)** ← IREN signs $9.7 billion GPU cloud services contract with Microsoft - Investing.com
+- append: **Iris Energy (IREN)** ← Iris Energy Ltd Stock (ISIN: KYG4672N1078) Surges on Bitcoin Mining Expansion Amid Volatility - AD HOC NEWS
+- append: **Iris Energy (IREN)** ← Iris Energy’s Strategic Pivot to AI Computing Gains Momentum - AD HOC NEWS
+- append: **CNY-USD** ← PBOC is expected to set the USD/CNY reference rate at 6.9697 – Reuters estimate - investingLive
+- append: **Digital Yuan (e-CNY)** ← China to enhance digital yuan management with deposit features starting 2026 - Xinhua
 ## [2026-04-29]
 
 - append: **Tokenization** ← The ‘tokenization of everything’ is no longer a theory
@@ -77,29 +105,3 @@
 - append: **Donald Trump** ← Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
 - append: **Mainstream Adoption** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
 - append: **BTCFi** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
-- append: **Mainstream Adoption** ← Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually
-- append: **B2B Stablecoin Payments** ← Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually
-- append: **Grayscale** ← Hyperliquid News: Grayscale Updates HYPE ETF Filing While AlphaPepe's Binance Talks Open a New Retail Lane - openPR.com
-- append: **Mainstream Adoption** ← Hyperliquid News: Grayscale Updates HYPE ETF Filing While AlphaPepe's Binance Talks Open a New Retail Lane - openPR.com
-- append: **Meta** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
-- append: **Stablecoin** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
-- append: **Mainstream Adoption** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
-- append: **Traditional Finance Integration** ← Tech giant Meta starts paying some creators in stablecoin with Stripe's support
-- append: **JPMorgan** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
-- append: **Tokenization** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
-- append: **Traditional Finance Integration** ← JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle
-- append: **Tokenized Stocks** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
-- append: **Traditional Finance Integration** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
-- append: **Tokenization** ← Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain
-- append: **Mainstream Adoption** ← GSR says Crypto Core3 ETF is simple gateway for mainstream investors
-- append: **Traditional Finance Integration** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
-- append: **Galaxy Digital** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
-- append: **Tokenization** ← Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market
-- append: **MoonPay** ← MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal
-- append: **Bitcoin** ← First central bank to test bitcoin says asset is ‘too risky’ for reserves
-- append: **Government Digital Asset Policy** ← First central bank to test bitcoin says asset is ‘too risky’ for reserves
-- append: **Polymarket** ← A tiny group is winning on Polymarket as under 1% of wallets take half the profits
-- append: **Prediction Markets** ← A tiny group is winning on Polymarket as under 1% of wallets take half the profits
-- append: **Bitcoin** ← Bitcoin trading volume is falling fast. That rarely ends smoothly.
-- append: **Tether** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America
-- append: **B2B Stablecoin Payments** ← Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America

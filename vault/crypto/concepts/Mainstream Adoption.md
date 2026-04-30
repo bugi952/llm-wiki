@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Bitcoin이 미디어 배급 인프라로 활용되는 실제 사례 등장 (Julian Assange 다큐멘터리) [(원문)](https://bitcoinmagazine.com/news/bitcoin-jack-dorsey-eugene-jarecki)
+- **2026-04-29**: TradFi의 Bitcoin adoption 병목은 규제가 아니라 클라이언트 교육임이 확인됨 [(원문)](https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin)
 - **2026-04-29**: Meta의 글로벌 stablecoin 결제 확대로 mainstream 채택 가속화 [(원문)](https://thedefiant.io/news/defi/meta-launches-stablecoin-payouts-in-colombia-and-the-philippines)
 - **2026-04-29**: Meta의 USDC 크리에이터 지급, 소셜 미디어 플랫폼 내 스테이블코인 결제의 메인스트림화 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
 - **2026-04-29**: 결제 네트워크의 블록체인 통합 가속화 — Visa 9개 체인 지원 [(원문)](https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,7 +68,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]] | [[Stripe]] | [[Solana]] | [[Polygon]] | [[USDC]]
+[[Jack Dorsey]] | [[Bitcoin Education]]
 
 
 ## 모순/논쟁

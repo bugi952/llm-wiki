@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-02-03**: AI 컴퓨팅으로의 전략적 전환이 추진력을 얻음 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSENRZm03UWszdTNGcGowdFo1RnFGaFF4YTNzOGFBZHN3OVVvTzVULTdRakc2OEtmQ0ZtOUhmd0oySU9CYTZtSmgwRXV1VHBkdm9Fd242ZjRLZUtvZVF6U0xuanRxUWdxVVhSY25ZcGEwSVRTazEzd3RUek5KdElfWlRTSk00ZXdmSURSQVdvc1phcWJCR3ZRdi1ERm1XSTJ3NHFlWnVVcUFMemVSN2ZPbDRWXzY?oc=5)
+- **2026-04-30**: 비트코인 마이닝 사업 확대 진행. 시장 변동성 속 채굴 역량 강화 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0h3NjRIbHJ2OWZuNHhmRXN2RVFGN0owS3RWOTFJb2FWTFJvYk1HekNHWVVCZE1ncHd0UDNGbnlabXZMTDM4ZE5Ld2dNX3RSckdyX1lpcnY1UEx3QlQ1aUVUdkNDUjdWV3UyUWpPWlRPUVJUcG05SzcxZDBjeEx2eE56OGdaZFdUQ2ZHeVhNY0Nab19XUHhOTFlmbGZEbnh3YVMxd3g1TlktWFVfVDl2aC1VM3ZIT0szMkE?oc=5)
+- **2026-04-30**: Microsoft와 $9.7B GPU 클라우드 서비스 계약. 비트코인 마이닝에서 AI 인프라로 비즈니스 확장 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWxPUkR5QUJsZHpfcXV0RGUwQ0pEVHN6VC1Ua1pQUndIZkp3a3Q5MmZHdEc0NmNuaUpZZXZ5d0FJSjNPQWJlbzVsbnBHYVc5akE5TVhnMENXQV9nYV9uOWJaQnJvWVRnNDhRWm5RY1pzQ2dpTGs5Z3hYSno2NE5nRVpEb0FyNGlXejBXOUZKd2w2akxzNzZ6SGp0TmRoYWVZRDVaRzc1bC1wVktHYWljMVczSEczVDhMR3k0RmdR?oc=5)
 - **2026-04-28**: Bernstein, 비트코인 채굴 사업 폐기 및 AI 클라우드로 완전 전환 예상 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
 - **2026-01-13**: IREN, Bitcoin 채굴에서 AI infrastructure expansion으로 사업 전환 추진. 펀딩 확보로 본격 확장 단계 [(원문)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnI1U3ROLXBKYlBkZVhLejdYUUxIUFhBenBucmJmYXR2b1hQcXp3Zm9zaDJ2SF9CeUVkcFlnQkRQSWNtV0RBSkxqTGpRdl82WGF2YVVINlE2TFNNQjBWamhOb1hzY2twX013WTUzRi1qa0N4QmlOSS1MeGQ0dWRaeUc1YjV5SENBbFlfNVYtWVE1TFVIU1NCbnJNVW9WT2dJZ2hDUldKZUZmVzY0bl8yRk41S25HRkMxc1Uwbzd0Smcydw?oc=5)
 - **2026-04-28**: 비트코인 자산을 기반으로 한 AI 인프라 구축 중 [(원문)](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFVSUmM1NXF4QlVYWGVpbWNCTTJJNzktM1RYQ0kzVTluZVhPbkxfQzh6RUlUekI4S0pVRU9UQzJFZkx3QWJCWFRVN2FtYm0yZ0dpcG5zNDZ6Nm90YjFHYnB0QVhKZ0NyOUcyU09LcXlocFFiQWcxaDNBdTFSSXJPdldFNzg1ckdSR1Z6VFdEVXh6SjZUcjBjQVV4VHZVMF9RZWdaMWp1OWtYQTNmRU9tTjVscVpJejlWdEU1UDFMcw?oc=5)
@@ -37,5 +40,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Infrastructure]] | [[Mining Supply Pressure]]
+[[AI Infrastructure]]
 

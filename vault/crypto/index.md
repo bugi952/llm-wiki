@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-30 00:13
+최종 갱신: 2026-04-30 06:10
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -110,6 +110,8 @@
 - [[entities/Iris Energy (IREN)|Iris Energy (IREN)]]
 - [[entities/Israel|Israel]]
 - [[entities/JPMorgan|JPMorgan]]
+- [[entities/Jack Dorsey|Jack Dorsey]]
+- [[entities/Jack Mallers|Jack Mallers]]
 - [[entities/Japanese Central Clearing House|Japanese Central Clearing House]]
 - [[entities/Jason Lowery|Jason Lowery]]
 - [[entities/John Koudounis|John Koudounis]]
@@ -142,6 +144,7 @@
 - [[entities/Metaplanet|Metaplanet]]
 - [[entities/Mezo|Mezo]]
 - [[entities/Michael Saylor|Michael Saylor]]
+- [[entities/Microsoft|Microsoft]]
 - [[entities/Mike Novogratz|Mike Novogratz]]
 - [[entities/Mike Selig|Mike Selig]]
 - [[entities/Mitsui|Mitsui]]
@@ -204,6 +207,7 @@
 - [[entities/Standard Chartered|Standard Chartered]]
 - [[entities/Steak 'n Shake|Steak 'n Shake]]
 - [[entities/Strategy (MSTR)|Strategy (MSTR)]]
+- [[entities/Strike|Strike]]
 - [[entities/Stripe|Stripe]]
 - [[entities/Strive|Strive]]
 - [[entities/Succinct|Succinct]]
@@ -220,6 +224,7 @@
 - [[entities/Toku|Toku]]
 - [[entities/Tom Lee|Tom Lee]]
 - [[entities/Tonkeeper|Tonkeeper]]
+- [[entities/Twenty One Capital|Twenty One Capital]]
 - [[entities/USDC|USDC]]
 - [[entities/Vanguard|Vanguard]]
 - [[entities/Vercel|Vercel]]

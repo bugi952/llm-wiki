@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: Jack Mallers의 Twenty One Capital에 대한 3-way merger 제안 [(원문)](https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger)
+- **2026-04-30**: Strike CEO가 Tether 인수 합병 지지 표명 [(원문)](https://bitcoinmagazine.com/news/strike-ceo-jack-mallers-bitcoin-conference)
 - **2026-04-29**: 주요 지분자 Christopher Harborne이 Reform UK의 Farage에게 $6.7M 선물 (미공개) [(원문)](https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding)
 - **2026-04-29**: Nigel Farage가 Tether 빌리오네어 Christopher Harborne으로부터 £5.3M 기부를 받아 윤리 조사 대상 [(원문)](https://www.coindesk.com/policy/2026/04/29/u-k-s-farage-faces-standards-probe-over-usd6-7-million-gift-from-tether-billionaire-christopher-harborne)
 - **2026-04-29**: 라틴아메리카 스테이블코인 결제 확대를 위해 Belo의 1400만 달러 펀딩 주도 [(원문)](https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america)
@@ -29,5 +31,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Political Interference in Crypto Regulation]]
+[[Strike]] | [[Bitcoin Proof of Reserves]]
 
