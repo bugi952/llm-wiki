@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: Chainalysis 커스텀 온체인 감지 모델 배포로 인사이더 트레이딩 감시 강화 [(원문)](https://thedefiant.io/news/defi/polymarket-taps-chainalysis-to-police-insider-trading)
+- **2026-04-30**: Chainalysis와 협력해 기관 수준의 컴플라이언스 모니터링 도구 출시 [(원문)](https://decrypt.co/366177/polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-arrest)
+- **2026-04-30**: 내부자 거래 감시 강화를 위해 Chainalysis와 파트너십 체결 [(원문)](https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: 미 군부 관계자의 인사이더 거래 적발 - 정규 당국 강화 시발점 [(원문)](https://www.coindesk.com/markets/2026/04/30/polymarket-s-military-markets-show-signs-of-insider-edge-report-suggests)
 - **2026-04-30**: Chainalysis와 협력해 Wall Street 수준의 감시 체계 도입 [(원문)](https://www.coindesk.com/business/2026/04/30/polymarket-taps-chainalysis-to-bring-wall-street-level-oversight-to-crypto-prediction-markets)
 - **2026-04-30**: Gemini의 prediction market 진입으로 경쟁 심화 [(원문)](https://www.coindesk.com/policy/2026/04/30/gemini-eyes-prediction-market-challenge-to-kalshi-polymarket-secures-derivatives-license-shares-surge)
@@ -33,5 +36,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Prediction Market Regulatory Risk]] | [[Crypto Fraud]]
+[[Prediction Markets]] | [[Market Transparency]]
 

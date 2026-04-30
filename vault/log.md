@@ -1,8 +1,58 @@
 # 변경 이력
-최종 갱신: 2026-04-30 18:17
+최종 갱신: 2026-05-01 00:10
 
 ## [2026-04-30]
 
+- append: **Hyperliquid** ← Bitcoin Whales Build Long Bias on Hyperliquid as Breakout Bets Rise - CryptoRank
+- append: **Bitcoin Whale Accumulation** ← Bitcoin Whales Build Long Bias on Hyperliquid as Breakout Bets Rise - CryptoRank
+- append: **Elizabeth Warren** ← Senator Warren questions Commerce Secretary Lutnick on Tether loan to family
+- append: **Tether** ← Senator Warren questions Commerce Secretary Lutnick on Tether loan to family
+- append: **Stablecoin** ← Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso
+- append: **Mainstream Adoption** ← Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso
+- append: **Bitcoin** ← Bitcoin’s $75K cost basis emerges as key support zone for current bull trend
+- append: **Polymarket** ← Insider trading backlash forces Polymarket to step up surveillance
+- append: **Prediction Market Regulatory Risk** ← Insider trading backlash forces Polymarket to step up surveillance
+- append: **Bitcoin** ← Bitcoin Coinbase Premium threatens bear flag repeat with BTC price at $76K
+- append: **Kraken** ← Kraken bundles crypto and tokenized stocks in pursuit of multi-asset investors
+- append: **Marathon Digital Holdings** ← MARA accelerates mining-to-AI pivot with $1.5B Ohio power plant deal
+- append: **AI Infrastructure** ← MARA accelerates mining-to-AI pivot with $1.5B Ohio power plant deal
+- append: **Stablecoin Credit Markets** ← Centrifuge brings Apollo, Janus tokenized credit to Monad
+- append: **DeFi** ← Centrifuge brings Apollo, Janus tokenized credit to Monad
+- append: **xAI** ← Elon Musk Says xAI Used OpenAI Models to Train Grok
+- append: **OpenAI** ← Elon Musk Says xAI Used OpenAI Models to Train Grok
+- append: **Bitcoin** ← Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn
+- append: **OpenAI** ← OpenAI Rolls Out Advanced Account Security for ChatGPT Users
+- append: **Prediction Markets** ← Senate Votes to Ban Senators and Staff From Using Prediction Markets
+- append: **Prediction Market Regulatory Risk** ← Senate Votes to Ban Senators and Staff From Using Prediction Markets
+- append: **Lazarus Group** ← North Korean Hackers Have Stolen $6 Billion in Crypto—Including 76% of 2026's Spoils: TRM
+- append: **Mainstream Adoption** ← Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head
+- append: **Polymarket** ← Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest
+- append: **Layer 2** ← MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested
+- append: **MegaETH** ← MegaETH Token Debuts at $2 Billion Valuation
+- append: **Anchorage** ← Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack
+- append: **Stablecoin** ← Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack
+- append: **B2B Stablecoin Payments** ← Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack
+- append: **Polymarket** ← Polymarket Taps Chainalysis to Police Insider Trading
+- append: **Market Transparency** ← Polymarket Taps Chainalysis to Police Insider Trading
+- append: **Coinbase** ← Coinbase's Institutional Investment Arm Taps Superstate to Launch Tokenized Credit Fund
+- append: **Stablecoin Credit Markets** ← Coinbase's Institutional Investment Arm Taps Superstate to Launch Tokenized Credit Fund
+- append: **PayPal** ← PayPal Elevates Crypto to Core Business in Strategic Reorganization
+- append: **Mainstream Adoption** ← PayPal Elevates Crypto to Core Business in Strategic Reorganization
+- append: **Stablecoin** ← PayPal Elevates Crypto to Core Business in Strategic Reorganization
+- append: **Circle** ← Circle Launches Gas-Free 'Nanopayments' on Mainnet Across 11 Blockchains
+- append: **Autonomous Onchain Agents** ← Circle Launches Gas-Free 'Nanopayments' on Mainnet Across 11 Blockchains
+- append: **USDC** ← Circle Launches Gas-Free 'Nanopayments' on Mainnet Across 11 Blockchains
+- append: **Meta** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
+- append: **Mainstream Adoption** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
+- append: **Average Hourly Earnings** ← [US] Average Hourly Earnings MoM
+- append: **US Inflation** ← [US] Average Hourly Earnings MoM
+- append: **Strategy (MSTR)** ← Canada’s $195 Billion Provincial Fund Buys $219 Million MicroStrategy Stake in First Bitcoin Allocation - Yahoo Finance
+- append: **Traditional Finance Integration** ← Canada’s $195 Billion Provincial Fund Buys $219 Million MicroStrategy Stake in First Bitcoin Allocation - Yahoo Finance
+- append: **Hyperliquid** ← News Explorer — Hyperliquid's HYPE Token Sets It Apart in Prediction Markets, Says Bitcoin Billionaire Arthur Hayes - Decrypt
+- append: **Prediction Markets** ← News Explorer — Hyperliquid's HYPE Token Sets It Apart in Prediction Markets, Says Bitcoin Billionaire Arthur Hayes - Decrypt
+- append: **Hyperliquid** ← New 2x Leveraged Hyperliquid ETF Brings DeFi Derivatives Exposure To Public Markets - Benzinga
+- append: **Mainstream Adoption** ← New 2x Leveraged Hyperliquid ETF Brings DeFi Derivatives Exposure To Public Markets - Benzinga
+- append: **Traditional Finance Integration** ← New 2x Leveraged Hyperliquid ETF Brings DeFi Derivatives Exposure To Public Markets - Benzinga
 - append: **Kraken** ← Kraken Launches Crypto and Tokenized Stocks Bundles
 - append: **Tokenized Stocks** ← Kraken Launches Crypto and Tokenized Stocks Bundles
 - append: **Maple Finance** ← Maple Finance's SYRUP Token Now Available on Revolut in UK and EU
@@ -53,53 +103,3 @@
 - create: **XRP** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
 - append: **Traditional Finance Integration** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
 - append: **Euro Stablecoin** ← Spain emerges as leading EURC retail market in Europe, Brighty data shows
-- append: **European Blockchain Policy** ← Spain emerges as leading EURC retail market in Europe, Brighty data shows
-- append: **Stablecoin** ← Kast hires former SEC official Stephanie Allen to lead policy communications
-- append: **Crypto Regulation** ← Kast hires former SEC official Stephanie Allen to lead policy communications
-- append: **Solana** ← Solana ecosystem expands institutional push with Europe-focused research arm
-- append: **European Blockchain Policy** ← Solana ecosystem expands institutional push with Europe-focused research arm
-- append: **Mainstream Adoption** ← Solana ecosystem expands institutional push with Europe-focused research arm
-- append: **Crypto Fraud** ← South Korea seeks 20-year sentence for Delio CEO over $169M crypto fraud
-- append: **Crypto Regulation** ← South Korea seeks 20-year sentence for Delio CEO over $169M crypto fraud
-- append: **Tokenization** ← UK regulator clears path for tokenized funds within existing rules
-- append: **Prediction Market Regulatory Risk** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
-- append: **Strategy (MSTR)** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
-- append: **Tokenized Assets** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
-- append: **Mainstream Adoption** ← THORWallet partners with Unblock to expand global non-custodial Mastercard access
-- append: **Autonomous Onchain Agents** ← OKX rolls out protocol for autonomous AI agents to pay and transact
-- append: **Exchange Security Incidents** ← Crypto hack losses top $630M in April, highest since February 2025
-- append: **DeFi** ← Crypto hack losses top $630M in April, highest since February 2025
-- append: **Iran** ← US seized $500M in Iranian crypto assets, Treasury secretary says
-- append: **Solana** ← South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments
-- append: **Mainstream Adoption** ← South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments
-- append: **Stablecoin** ← Australia draft payments vision eyes stablecoin interoperability
-- append: **X** ← Crypto becomes most muted topic on X, and AI slop may be the culprit
-- append: **AI-Generated Content** ← Crypto becomes most muted topic on X, and AI slop may be the culprit
-- append: **ETH Price** ← Ethereum to $60K? It's a 'generational play' for ETH bull Tom Lee, says analyst
-- append: **Twenty One Capital** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
-- append: **Strike** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
-- append: **Elektron** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
-- append: **Gemini** ← Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings
-- append: **Prediction Markets** ← Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings
-- append: **DeFi** ← Wasabi Loses $5M+ in Latest DeFi Exploit
-- append: **Exchange Security Incidents** ← Wasabi Loses $5M+ in Latest DeFi Exploit
-- append: **BOJ** ← Updates on the Consumption Activity Index
-- append: **PBOC** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
-- append: **Gold (indicator)** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
-- append: **PBOC** ← China's central bank pledges to safeguard financial market stability - news.cgtn.com
-- append: **Financial Stability** ← China's central bank pledges to safeguard financial market stability - news.cgtn.com
-- append: **Hyperliquid** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says - CoinDesk
-- append: **Prediction Markets** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says - CoinDesk
-- append: **Hyperliquid** ← Arthur Hayes Foresees Hyperliquid’s Dominance in Prediction Markets with HYPE - ForkLog
-- append: **Hyperliquid** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
-- append: **Prediction Markets** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
-- append: **Outcome Tokens** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
-- append: **Hyperliquid** ← HYPE token outperforms COIN stock by over 40% with Hyperliquid’s trading volume overtaking Coinbase - MSN
-- append: **HYPE Price** ← HYPE token outperforms COIN stock by over 40% with Hyperliquid’s trading volume overtaking Coinbase - MSN
-- append: **Prediction Markets** ← XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi
-- append: **Dogecoin** ← Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak
-- append: **Bitcoin** ← Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak
-- append: **World Liberty Financial** ← Trump-backed World Liberty Financial races toward 62 billion token unlock with near-unanimous vote
-- append: **Bitcoin** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
-- append: **Monetary Policy** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
-- append: **Bitcoin** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 암호화폐 채굴 기업들의 AI 인프라 전환 추세 가속화 중 [(원문)](https://cointelegraph.com/news/bitcoin-miner-mara-to-acquire-power-plant-in-15b-deal-shares-up-12?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Google Cloud Q1 성장 63%, Microsoft AI 비즈니스 run rate $37B로 Big Tech 주도의 AI 인프라 투자 확대 [(원문)](https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates)
 - **2026-04-29**: Mayo Clinic AI, 의료 이미징에서 인간 의사보다 3년 먼저 췌장암 조기 진단 입증 [(원문)](https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors)
 - **2026-04-28**: IREN 등 채굴업체의 AI 클라우드 전환 추세 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
@@ -41,7 +42,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Google]] | [[OpenAI]]
+[[Marathon Digital Holdings]] | [[Mining Supply Pressure]]
 
 
 ## 모순/논쟁

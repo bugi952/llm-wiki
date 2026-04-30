@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: PayPal PYUSD, 결제 회사의 코어 부서로 통합되어 메인스트림 결제 기반으로 활용 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization)
+- **2026-04-30**: 기업용 스테이블코인 발행 규정 준수 인프라 확대 (Anchorage-M0 파트너십) [(원문)](https://thedefiant.io/news/tradfi-and-fintech/anchorage-m0-partner-on-regulated-stablecoin-issuance-united-states)
+- **2026-04-30**: 라틴 아메리카에서 달러 연동 스테이블코인이 비트코인 추월 [(원문)](https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: 호주 정부, 국내 결제 시스템에서 스테이블코인과 토큰화 화폐의 상호운용성 추진 계획 [(원문)](https://cointelegraph.com/news/australia-payment-planners-flag-tokenized-money-as-future-rail-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Kast, $80M 펀딩 후 전 SEC 고문 Stephanie Allen 영입해 규제 준수 강화 [(원문)](https://cointelegraph.com/news/kast-appoints-former-senior-sec-advisor-for-us-policy-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Coinbase의 stablecoin credit fund 출시, credit market 창출 [(원문)](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)
@@ -54,7 +57,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tokenization]]
+[[Mainstream Adoption]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

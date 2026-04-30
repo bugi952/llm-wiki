@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Wall Street 자산이 DeFi 프로토콜을 통해 온체인 신용 시장으로 진입 시작 [(원문)](https://cointelegraph.com/news/centrifuge-brings-tokenized-credit-and-treasury-products-to-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Maple Finance institutional credit yield 상품이 Revolut 플랫폼 통해 주류 접근성 확대 [(원문)](https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob)
 - **2026-04-30**: Wasabi Protocol $5M+ 손실, 2026년 4월 DeFi hack 기록 악화 중 [(원문)](https://thedefiant.io/news/hacks/wasabi-protocol-hack)
 - **2026-04-30**: 4월 암호화폐 해킹 주요 피해 영역으로 보안 업데이트에도 공격 가속화 [(원문)](https://cointelegraph.com/news/crypto-hacks-cause-630m-losses-in-april-highest-since-february-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,7 +48,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Mainstream Adoption]]
+[[Stablecoin Credit Markets]] | [[Tokenization]]
 
 
 ## 모순/논쟁

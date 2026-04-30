@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-30 18:17
+최종 갱신: 2026-05-01 00:10
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -65,6 +65,7 @@
 - [[concepts/Tokenisation and Central Banks|Tokenisation and Central Banks]]
 
 ## 📊 지표
+- [[indicators/Average Hourly Earnings|Average Hourly Earnings]]
 - [[indicators/CNY-USD|CNY-USD]]
 - [[indicators/China Interest Rates|China Interest Rates]]
 - [[indicators/EUR-USD|EUR-USD]]

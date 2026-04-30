@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-24**: 고래들이 Long 바이어스 구축 중 [(원문)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjd6bk1xWWh1S1g1a2txSjFZTk5ScVM4ZnpfaERyTDM5MFBtVUx0OERjUlJrMkFXSTFGQjhMaGRMV3o3MzZQem9ENERFaVRvTE1Za0RwWF9DajdWRC1iSFo4QVdoRkFXaGE4SVA5LVJNY2VHTFJSQ2tXS1Z5Z3VmM0k5bWhGY3JObm5FdzBjcGVoVkJ1N05CdkZfT3ZPanE0dWZ3VjEyOHY?oc=5)
+- **2026-04-30**: 2배 레버리지 Hyperliquid ETF 공개 시장 출시, DeFi 파생상품의 주류화 진전 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnl1Z2FzbUhMWE4ydElGOERZeHBuLVBWUGhueUlCeThwU3k0dGhMX19EM3U0VENGWlMyVXRDVnNQRGtTbERKYXY4NmZ0MVRJNWdkU25JVEpIRnc0TVV2UnotZk5KX3hnd2VubXpsa21OU0NCeFh5U2k0cHNhUF84SDFIZ29RQWJmRWliYWQtVU9KZDNEQ0RGSkRLQk9nbzE3WXVQcWN4RzdRNGR0NDc3VEVFM01Hc1p1djNNektCblRCTjJLV1NpdFhha0xycjFmbkc0?oc=5)
+- **2026-04-30**: Arthur Hayes가 HYPE 토큰이 예측시장에서 경쟁 차별화한다고 평가 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON1dqaHJVdXlGYURDZTMxb3pEalZ4Yk4tR2dqb1F0VU5MN1BlenBQNHpPb3BxNHJJVm5IRGhRMzNnclNtYldmYzB6czZjY3RqRVNVOU80a1pmNHBlNldWNmU2eERPdTNiUlgtT0lEMnI4Vjc2VmNoVWJSLUVQSTlRSGttUVhPMXRRWmt4Z3JTRUpPRWpIdHQzR1NhRXZsWXZEcFJyT29VVXZXVlJYTnRmMGx5ZktpWlBMbkpXcC1sRmxTZGRGTFJfWS1iRkNmN3ZfMGx2TUloSk5HSjRaSXA3U2h3bnBoZw?oc=5)
 - **2026-04-16**: HIP-3을 통해 24/7 토큰화 주식 거래 오픈 인터레스트가 급증 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3SzRsaHI2b1l6SmxLQmxxVGlKdGlwM052Yk1VclpQVjZaNnZDeWlmNlR6eEo3N3JnRDlzd19MRXBvRVR5Z2I2S1VMOGsyUm1uQWdtdnZGbG91cHNvOExvSFFQU2NjMlJ2U09lakN5VUhLRjFGTENUcGhNYTRpbE8ycDN1R1FZZVJQcXBBZDdhU1pLLWozazZLaTdJRFlVbDloVUVGSGdRQ3dWcnE0OTFsV1JfMHp0MEdaZTQ5ZjJ1dWxDUWZfMUdjemNvc1h2M245NU1ueVRwVlZrT2Q5VXl2WURJYmhucmhiSw?oc=5)
 - **2026-04-29**: HYPE 토큰이 예측 시장 생태계에서 주요 역할을 수행할 수 있다는 Arthur Hayes의 평가 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LV0dQRmtCUmxSV1FPSDNFRjJxVDB4NWlwTjdWTERGYURhZGpwck1zSS0yTnhRa0FBbkxFbk4wUFJ3Y2hfSkgwX2RZVjd4NWhvenZnd2lKYVV4NEdBSmNBOU0xWm_SAWpBVV95cUxPR2l4Qklicnhfc05STHBMX0lBeU01RzZkeDFXazN2Mk02SXNSbjBCMTNqcldSMmhsX3BBWlJCbDlWN1Y3WTNoTnpOc3k2QVpWUHdURXRVRWxJazV4T24xTktjSHVVcU9jVUhB?oc=5)
 - **2026-04-30**: HYPE 토큰의 예측시장 프로토콜 활용 전략 제시 (Arthur Hayes 분석, 2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
@@ -91,5 +94,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Tokenized Stocks]] | [[Tokenization]] | [[Traditional Finance Integration]] | [[HIP4]]
+[[Bitcoin]] | [[Bitcoin Whale Accumulation]]
 

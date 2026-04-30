@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-29**: Meta, 직원 급여 지급 수단으로 스테이블코인 확대 (신흥국 포함) [(원문)](https://thedefiant.io/news/tradfi-and-fintech/meta-launches-stablecoin-payouts-in-colombia-and-the-philippines)
+- **2026-04-30**: PayPal, 암호화폐를 코어 비즈니스로 격상하여 전담 부서 설립 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/paypal-elevates-crypto-to-core-business-in-strategic-reorganization)
+- **2026-04-30**: X 사용자들이 암호화폐를 정치/글로벌 분쟁보다 더 뮤트하는 경향 드러남 [(원문)](https://decrypt.co/366176/crypto-most-muted-topic-elon-musk-x-product-head)
+- **2026-04-30**: 인플레이션 고가 국가에서 일상 금융용 스테이블코인 채택 확대 [(원문)](https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: 규제 준수 ETF 구조로 DeFi 거래소 접근성 대중화 시작 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnl1Z2FzbUhMWE4ydElGOERZeHBuLVBWUGhueUlCeThwU3k0dGhMX19EM3U0VENGWlMyVXRDVnNQRGtTbERKYXY4NmZ0MVRJNWdkU25JVEpIRnc0TVV2UnotZk5KX3hnd2VubXpsa21OU0NCeFh5U2k0cHNhUF84SDFIZ29RQWJmRWliYWQtVU9KZDNEQ0RGSkRLQk9nbzE3WXVQcWN4RzdRNGR0NDc3VEVFM01Hc1p1djNNektCblRCTjJLV1NpdFhha0xycjFmbkc0?oc=5)
 - **2026-04-30**: on-chain yield 상품 SYRUP이 전통 핀테크(Revolut)에서 대중 제공 [(원문)](https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob)
 - **2026-04-30**: 한국 신한카드, Solana 기반 스테이블코인 실제 결제 시범 운영 개시 [(원문)](https://cointelegraph.com/news/south-korean-credit-card-giant-partners-with-solana-for-stablecoin-payments-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: THORWallet이 Swiss-regulated Unblock과 파트너십으로 비수탁식 Mastercard 결제 글로벌 확대 [(원문)](https://cointelegraph.com/press-releases/thorwallet-partners-with-unblock-to-expand-global-non-custodial-mastercard-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,7 +78,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[DeFi]]
+[[Meta]] | [[USDC]] | [[Stripe]] | [[Solana]] | [[Polygon]]
 
 
 ## 모순/논쟁

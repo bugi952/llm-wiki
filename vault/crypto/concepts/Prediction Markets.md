@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 2026년 4월 30일 미국 상원이 상원의원과 스태프의 예측시장 사용 금지 결의안(S. Res. 708) 통과 [(원문)](https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets)
+- **2026-04-30**: Hyperliquid의 HYPE가 예측시장 인프라로서 차별성 있음을 주요 투자자가 인정 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON1dqaHJVdXlGYURDZTMxb3pEalZ4Yk4tR2dqb1F0VU5MN1BlenBQNHpPb3BxNHJJVm5IRGhRMzNnclNtYldmYzB6czZjY3RqRVNVOU80a1pmNHBlNldWNmU2eERPdTNiUlgtT0lEMnI4Vjc2VmNoVWJSLUVQSTlRSGttUVhPMXRRWmt4Z3JTRUpPRWpIdHQzR1NhRXZsWXZEcFJyT29VVXZXVlJYTnRmMGx5ZktpWlBMbkpXcC1sRmxTZGRGTFJfWS1iRkNmN3ZfMGx2TUloSk5HSjRaSXA3U2h3bnBoZw?oc=5)
 - **2026-04-30**: Gemini가 CFTC DCO 라이선스 획득으로 공식 clearinghouse 역할 확대 [(원문)](https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings)
 - **2026-04-29**: HYPE 토큰이 예측 시장의 주요 인프라로 활용될 가능성 제시 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LV0dQRmtCUmxSV1FPSDNFRjJxVDB4NWlwTjdWTERGYURhZGpwck1zSS0yTnhRa0FBbkxFbk4wUFJ3Y2hfSkgwX2RZVjd4NWhvenZnd2lKYVV4NEdBSmNBOU0xWm_SAWpBVV95cUxPR2l4Qklicnhfc05STHBMX0lBeU01RzZkeDFXazN2Mk02SXNSbjBCMTNqcldSMmhsX3BBWlJCbDlWN1Y3WTNoTnpOc3k2QVpWUHdURXRVRWxJazV4T24xTktjSHVVcU9jVUhB?oc=5)
 - **2026-04-30**: Hyperliquid의 HYPE 토큰이 예측시장 전장의 경쟁 무기로 기능 가능성 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
@@ -54,7 +56,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Gemini]] | [[CFTC]] | [[Perpetual Futures]]
+[[Prediction Market Regulatory Risk]]
 
 
 ## 모순/논쟁

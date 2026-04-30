@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Circle USDC nanopayments, API 호출/초당 작업/데이터셋 읽음 등 AI 에이전트의 micro-transaction 지원 [(원문)](https://thedefiant.io/news/defi/circle-launches-gas-free-nanopayments-on-mainnet-across-11-blockchains)
 - **2026-04-30**: OKX가 자율형 AI 에이전트의 결제·거래를 위한 개방 표준 프로토콜 출시 [(원문)](https://cointelegraph.com/news/okx-publishes-open-standard-payment-protocol-for-autonomous-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Telegram 지갑 팀이 The Open Platform과 함께 AI 에이전트용 오픈소스 지갑 표준 출시 [(원문)](https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram)
 - **2026-04-28**: Gemini 거래소에서 AI agents 직접 거래 실행 사례 (Claude 포함) [(원문)](https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents)
@@ -25,7 +26,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[OKX]] | [[AI Infrastructure]]
+[[Circle]] | [[USDC]] | [[Stablecoin]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

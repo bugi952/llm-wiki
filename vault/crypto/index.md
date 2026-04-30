@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-30 18:17
+최종 갱신: 2026-05-01 00:10
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -57,6 +57,8 @@
 - [[entities/Caroline Pham|Caroline Pham]]
 - [[entities/Cash App|Cash App]]
 - [[entities/Celsius|Celsius]]
+- [[entities/Centrifuge|Centrifuge]]
+- [[entities/Chainalysis|Chainalysis]]
 - [[entities/Chainlink|Chainlink]]
 - [[entities/Changelly|Changelly]]
 - [[entities/Charles Schwab|Charles Schwab]]
@@ -140,12 +142,14 @@
 - [[entities/Liquid|Liquid]]
 - [[entities/Litecoin|Litecoin]]
 - [[entities/Lydian|Lydian]]
+- [[entities/M0|M0]]
 - [[entities/Mantle|Mantle]]
 - [[entities/Maple Finance|Maple Finance]]
 - [[entities/Marathon Digital Holdings|Marathon Digital Holdings]]
 - [[entities/Marinade Finance|Marinade Finance]]
 - [[entities/Mastercard|Mastercard]]
 - [[entities/MediaTek|MediaTek]]
+- [[entities/MegaETH|MegaETH]]
 - [[entities/Meta|Meta]]
 - [[entities/Metaplanet|Metaplanet]]
 - [[entities/Mezo|Mezo]]
@@ -155,6 +159,7 @@
 - [[entities/Mike Selig|Mike Selig]]
 - [[entities/Mitsui|Mitsui]]
 - [[entities/Mizuho|Mizuho]]
+- [[entities/Monad|Monad]]
 - [[entities/Moody's|Moody's]]
 - [[entities/MoonPay|MoonPay]]
 - [[entities/Morgan Stanley|Morgan Stanley]]
@@ -174,6 +179,7 @@
 - [[entities/OpenAI|OpenAI]]
 - [[entities/OpenAgents|OpenAgents]]
 - [[entities/Optimism|Optimism]]
+- [[entities/PYUSD|PYUSD]]
 - [[entities/Palantir|Palantir]]
 - [[entities/Pantera|Pantera]]
 - [[entities/Paradigm|Paradigm]]
@@ -182,6 +188,7 @@
 - [[entities/Paul Sztorc|Paul Sztorc]]
 - [[entities/Paul Tudor Jones|Paul Tudor Jones]]
 - [[entities/Paxos|Paxos]]
+- [[entities/PayPal|PayPal]]
 - [[entities/Paystand|Paystand]]
 - [[entities/Payward|Payward]]
 - [[entities/Peoples Reserve|Peoples Reserve]]
@@ -219,6 +226,7 @@
 - [[entities/Strive|Strive]]
 - [[entities/Succinct|Succinct]]
 - [[entities/Sunnyside|Sunnyside]]
+- [[entities/Superstate|Superstate]]
 - [[entities/Supply Chain Security|Supply Chain Security]]
 - [[entities/THORWallet|THORWallet]]
 - [[entities/TRON|TRON]]

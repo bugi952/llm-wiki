@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Anchorage Digital, M0와 협력으로 미국 기업용 스테이블코인 발행 플랫폼 구축 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/anchorage-m0-partner-on-regulated-stablecoin-issuance-united-states)
 - **2026-04-29**: 스테이블코인 결제와 토큰화 수익 결합으로 24/7 유동성 있는 기업 자금 관리 [(원문)](https://thedefiant.io/news/defi/stable-sea-taps-wisdomtree-to-bring-tokenized-treasury-yield-to-business-operating-cash)
 - **2026-04-29**: MoonPay-Sodot 통합으로 기관 클라이언트 대상 stablecoin 발행·결제 인프라 확대 [(원문)](https://thedefiant.io/news/defi/moonpay-folds-sodot-into-new-institutional-platform)
 - **2026-04-29**: Meta-Stripe 파트너십, 대규모 콘텐츠 크리에이터 네트워크의 블록체인 기반 지급 인프라 구축 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
@@ -27,7 +28,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tokenized Assets]] | [[Tokenization]] | [[Traditional Finance Integration]]
+[[Anchorage]] | [[Stablecoin]]
 
 
 ## 모순/논쟁

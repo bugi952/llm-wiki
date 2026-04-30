@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 상원의원 예측시장 참여 금지 결의안으로 규제 강화 신호 [(원문)](https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets)
+- **2026-04-30**: 규제 감시 강화로 예측 시장 플랫폼의 자체 감시 시스템 도입 (Polymarket-Chainalysis 사례) [(원문)](https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: CFTC가 prediction market 규제 관련 4개 미국 주를 고소하며 집행 강화 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 미국 규제 진행으로 예측시장 합법화 전망 [(원문)](https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval)
 - **2026-04-29**: Polymarket, 2022년 합의 조건 하에 CFTC와 광범위한 미국 재진출 협상 추진 [(원문)](https://cointelegraph.com/news/polymarket-cftc-approval-main-platform-us-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -22,7 +24,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[CFTC]] | [[Strategy (MSTR)]] | [[Political Interference in Crypto Regulation]] | [[Tokenized Assets]]
+[[Prediction Markets]]
 
 
 ## 모순/논쟁

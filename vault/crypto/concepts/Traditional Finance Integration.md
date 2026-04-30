@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 레버리지 ETF 형태의 DeFi 노출, 기관 투자자 및 일반인 접근 가능 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnl1Z2FzbUhMWE4ydElGOERZeHBuLVBWUGhueUlCeThwU3k0dGhMX19EM3U0VENGWlMyVXRDVnNQRGtTbERKYXY4NmZ0MVRJNWdkU25JVEpIRnc0TVV2UnotZk5KX3hnd2VubXpsa21OU0NCeFh5U2k0cHNhUF84SDFIZ29RQWJmRWliYWQtVU9KZDNEQ0RGSkRLQk9nbzE3WXVQcWN4RzdRNGR0NDc3VEVFM01Hc1p1djNNektCblRCTjJLV1NpdFhha0xycjFmbkc0?oc=5)
+- **2026-04-30**: 대규모 연금기금($195B)의 Bitcoin 관련 회사 투자로 기관화 가속 [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGhlbE13Nlg5dFhPVTRhSUVDQXFaTGk3bDBmNW5qZDI5QlNXcU1KNWNKZHpJdDJZZHdlMHVYNHhNX21SVzhSSEpnSF9CZldjN1pLYlI4ejNvZ1NPWFZ5U2RDRHo3TmRvSDNwRHQtZThYd0ZvbFE5R3FaLWxxOWpMMlVXVzBaWTJvWDZXdW9JeDVRbFpPVDJFdXIxR3E0eG94?oc=5)
 - **2026-04-30**: 일본 유통사 Rakuten과 XRP 결제 통합 [(원문)](https://www.coindesk.com/markets/2026/04/30/xrp-hits-fomo-zone-as-rakuten-pay-partnership-drives-social-chatter-to-greed-levels)
 - **2026-04-16**: Hyperliquid이 블록체인 기반 24/7 주식 거래로 월스트릿의 거래 시간 제약 제거 가능성 제시 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3SzRsaHI2b1l6SmxLQmxxVGlKdGlwM052Yk1VclpQVjZaNnZDeWlmNlR6eEo3N3JnRDlzd19MRXBvRVR5Z2I2S1VMOGsyUm1uQWdtdnZGbG91cHNvOExvSFFQU2NjMlJ2U09lakN5VUhLRjFGTENUcGhNYTRpbE8ycDN1R1FZZVJQcXBBZDdhU1pLLWozazZLaTdJRFlVbDloVUVGSGdRQ3dWcnE0OTFsV1JfMHp0MEdaZTQ5ZjJ1dWxDUWZfMUdjemNvc1h2M245NU1ueVRwVlZrT2Q5VXl2WURJYmhucmhiSw?oc=5)
 - **2026-04-30**: 캐나다 주요 기관투자자 AIMCo의 MSTR 투자, 기관의 Bitcoin 자산 배치 확대 신호 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE12SDBNUlNIUS1XWUVYa3ZHUkhzNUZkWF9Gal9zTWIwVWRjbHBQWmhPQXJoZ2Q1VjdlSkc3ZmZMdHUwVzg1N2dYZ2ltQ2dQMVZUY3pMdDNUWDNNbWg4eWdwMWRUUHFfTjh4ZGMw?oc=5)
@@ -61,7 +63,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[XRP]] | [[Mainstream Adoption]]
+[[Hyperliquid]] | [[Mainstream Adoption]] | [[DeFi]]
 
 
 ## 모순/논쟁

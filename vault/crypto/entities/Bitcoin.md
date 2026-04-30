@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 2026년 4월 상승이 선물 거래 투기에 기반하며 2022년 크래시 전 패턴과 유사 [(원문)](https://decrypt.co/366267/bitcoin-crash-incoming-april-surge-built-shaky-ground-analysts-warn)
+- **2026-04-30**: Coinbase premium 약세 신호로 1월식 하락 패턴 반복 위험 경고 [(원문)](https://cointelegraph.com/markets/bitcoin-coinbase-premium-threatens-bear-flag-repeat-with-btc-price-at-76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: 비트코인 $75K 가격대가 현 강세장의 핵심 지지선으로 작용 [(원문)](https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: $75,000 근처로 하락 (석유 가격 4년 고점과 동시, 2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
 - **2026-04-30**: 미국 30년물 수익률 5% 도달, 가격 압박 신호 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price)
 - **2026-04-30**: 도지코인과 가격 분기 움직임 (2026-04-30: Dogecoin 강세) [(원문)](https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high)
@@ -124,5 +127,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Solana]] | [[Ripple]]
+[[Bitcoin Whale Accumulation]] | [[Perpetual Futures]]
 

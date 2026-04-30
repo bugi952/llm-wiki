@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 캐나다 온타리오주 교사연금기금이 MicroStrategy에 $219M 투자, Bitcoin 자산 배분 첫 사례 [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGhlbE13Nlg5dFhPVTRhSUVDQXFaTGk3bDBmNW5qZDI5QlNXcU1KNWNKZHpJdDJZZHdlMHVYNHhNX21SVzhSSEpnSF9CZldjN1pLYlI4ejNvZ1NPWFZ5U2RDRHo3TmRvSDNwRHQtZThYd0ZvbFE5R3FaLWxxOWpMMlVXVzBaWTJvWDZXdW9JeDVRbFpPVDJFdXIxR3E0eG94?oc=5)
 - **2026-04-30**: Strategy (MSTR)의 누적 BTC 보유량이 56,000개 달성 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Alberta Investment Management Corp (AIMCo)이 $219M 규모 첫 MSTR 지분 투자 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE12SDBNUlNIUS1XWUVYa3ZHUkhzNUZkWF9Gal9zTWIwVWRjbHBQWmhPQXJoZ2Q1VjdlSkc3ZmZMdHUwVzg1N2dYZ2ltQ2dQMVZUY3pMdDNUWDNNbWg4eWdwMWRUUHFfTjh4ZGMw?oc=5)
 - **2026-04-26**: Peter Schiff: MSTR 비트코인 집중 투자의 '죽음의 소용돌이' 리스크 지적 [(원문)](https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REN2UmlRcktFSGc1ZEl2SVV6Rktvd2YyZmRQUkpvMDlZX1l3QmpPYWFiOGhCanZ1czROb2pNMkgyT3VpdkVtLUd2UnJXZTU4VE1wTm0zUy1BRDZmTU5rNTlDSzlaM0lsaHBjbE94bE9CSjg?oc=5)
@@ -81,5 +82,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[CFTC]] | [[Prediction Market Regulatory Risk]] | [[Political Interference in Crypto Regulation]] | [[Tokenized Assets]]
+[[Canada]] | [[Bitcoin Treasury Companies]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
 
