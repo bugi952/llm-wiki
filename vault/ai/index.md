@@ -1,5 +1,5 @@
 # AI Wiki
-최종 갱신: 2026-04-30 06:10
+최종 갱신: 2026-04-30 12:08
 
 ## 🏢 엔티티
 - [[entities/AI Governance|AI Governance]]

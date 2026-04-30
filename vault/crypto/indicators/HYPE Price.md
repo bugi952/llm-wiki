@@ -1,7 +1,7 @@
 ---
 type: indicator
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 ---
 
 # HYPE Price
@@ -14,6 +14,7 @@ last_updated: 2026-04-29
 
 
 ## 이력
+- **2026-04-25**: COIN 주식 대비 40% 이상 아웃퍼폼 [(원문)](https://news.google.com/rss/articles/CBMiuwNBVV95cUxQa3pIQkpQMmRUTVdlZnAwbGFMdHhvdmgxRzMzZnVvdEN0SmM4VV9wVk1sMjVyMkY3TV9PYUNOTTFUQzhaZDJqOUNpQ25xYnQ0UE9UcFdNenV6aVlYM0h4RFdNSHBzeUFGMWpXbThpei13all6X0NwUi15R3QxT0NIQ3ZjS0I3RWNnZi1PNE1meXJ3dER2Unh3VzAyeE1UU05jdDdGTlpPV1d6UFI2ejVWYmhzN3p4dC1Vc1QzZUxoQ0F2blBONUFtdkU5VkJuUnRYM0pzcmFJbUduYUtxbUhUcXNhRU0tb0p6aUdHMkZnMGhiWmtnZFNBTl9RNHBfQkFKczc5WWNTSHp0S1FlMGdUQjdTSVRrLXV6YVJFaU16aEhhc1ItVUxvcmZpODFadVNoY05DQzlkMjFMR014NDZBN0xfZlVLMlhuZGZnV0VKQzljMlBhRllMMzJIMlJoa1c1dzZFLXA2WEJsNFlNZEtrSkZ4RHJ2eVpQZ1FDREM2eU9rR2V2Q0pyZnFMLTJjZnRCR0s2LVNTYXpic1k5WXhnUENNMDVaVHV4VTNMbnMwTVRCc2JLdklVbGhWcw?oc=5)
 - **2026-04-29**: 2개월 랠리 종료, 가격 하락세로 전환 [(원문)](https://news.google.com/rss/articles/CBMiSEFVX3lxTE00OTU4WEl4eWRVdnZENnBIRm5jQ3M3dHoyWWNUVU96Nm5tUm9zOG5uUTZrbm0xWXh2Z0dTNTZHT3NnZUI0WTBBbw?oc=5)
 - **2026-04-28**: $50 목표가 분석 중 (현재 가격과의 상승 여력) [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FTWlTcWlmWUJPR1B5QU40NmZZTzJhZTdjOHpQLWIzOU5SazhSeFRLTTdZcXQzN3pMNTFQRmxuZHNhTU5BUzZhZ3p3U3NOX3VMN1FlYldDSUpLTEE?oc=5)
 - **2026-04-28**: 주간 101% 상승, 고래 매수 신호 [(원문)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRdIBY0FVX3lxTE8xbGNrQXpHU1JWOVJXUGlLS3JlT0FsWTEyZUlPa2tDOEJtRHAwa0lqTDVXVm1Fc01WV0JxaE5iOGtOTXJDQmpvMUdPQktPcDNqeGxOelZaVHBwdk5jWnpva0xuRQ?oc=5)

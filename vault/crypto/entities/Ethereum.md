@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 비트코인 동반 하락 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
 - **2026-04-29**: 2015년 ICO 참여자의 지갑이 10,000 ETH 이동 (custody restructuring 추정) [(원문)](https://decrypt.co/365926/ethereum-ico-whale-who-turned-3100-into-23m-wakes-up-after-a-decade)
 - **2026-04-28**: Triple-top 차트 패턴 $2.4K 저항선 형성, 강세 전환 의심 신호 [(원문)](https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Tom Lee가 'wartime store of value'로 재평가 - 위기 자산으로서의 가치 강조 [(원문)](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN1JkZlVNbG95X3BVYm5acVVZY2VxUWxXOFlMamhuV2N1akdwRTlTTEhadF9Bd2U2cXVfcno1MnkyVGxPMXczMWZaeXBIN0x1RzBFcThlSFNLZw?oc=5)
@@ -63,5 +64,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin Whale Accumulation]]
+[[Bitcoin]] | [[Solana]] | [[Ripple]]
 

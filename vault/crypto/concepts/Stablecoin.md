@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Meta가 필리핀, 콜롬비아에서 creator 지급용 stablecoin 운영 시작 (2022년 Libra 폐기 후 처음) [(원문)](https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Visa Prime을 통한 온체인 정산 — 연간 실행율 $7B 규모 달성 [(원문)](https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Meta가 Stripe와 협력하여 크리에이터 수익화에 스테이블코인 채택 [(원문)](https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support)
 - **2026-04-29**: 홍콩에서 위조 스테이블코인 거래 시작, 규제 공백 악용 [(원문)](https://www.coindesk.com/policy/2026/04/29/fake-hong-kong-stablecoins-start-trading-as-real-ones-remain-absent)
@@ -49,7 +50,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Visa]] | [[Polygon]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Meta]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

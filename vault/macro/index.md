@@ -1,5 +1,5 @@
 # MACRO Wiki
-최종 갱신: 2026-04-30 06:10
+최종 갱신: 2026-04-30 12:08
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
@@ -51,6 +51,7 @@
 - [[concepts/Financial Stability|Financial Stability]]
 - [[concepts/Green Finance|Green Finance]]
 - [[concepts/Imported Inflation Risk|Imported Inflation Risk]]
+- [[concepts/Japan Economic Outlook|Japan Economic Outlook]]
 - [[concepts/Monetary Policy Transmission|Monetary Policy Transmission]]
 - [[concepts/Panda Bond|Panda Bond]]
 - [[concepts/Private Debt Fund|Private Debt Fund]]

@@ -1,8 +1,49 @@
 # 변경 이력
-최종 갱신: 2026-04-30 06:10
+최종 갱신: 2026-04-30 12:08
 
 ## [2026-04-30]
 
+- append: **BOJ** ← Updates on the Consumption Activity Index
+- append: **PBOC** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
+- append: **Gold (indicator)** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
+- append: **PBOC** ← China's central bank pledges to safeguard financial market stability - news.cgtn.com
+- append: **Financial Stability** ← China's central bank pledges to safeguard financial market stability - news.cgtn.com
+- append: **Hyperliquid** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says - CoinDesk
+- append: **Prediction Markets** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says - CoinDesk
+- append: **Hyperliquid** ← Arthur Hayes Foresees Hyperliquid’s Dominance in Prediction Markets with HYPE - ForkLog
+- append: **Hyperliquid** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
+- append: **Prediction Markets** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
+- append: **Outcome Tokens** ← Hyperliquid Jumps Into The Betting Boom With New ‘Outcome Tokens’ For Real-World Events - CryptoRank
+- append: **Hyperliquid** ← HYPE token outperforms COIN stock by over 40% with Hyperliquid’s trading volume overtaking Coinbase - MSN
+- append: **HYPE Price** ← HYPE token outperforms COIN stock by over 40% with Hyperliquid’s trading volume overtaking Coinbase - MSN
+- append: **Prediction Markets** ← XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi
+- append: **Dogecoin** ← Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak
+- append: **Bitcoin** ← Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak
+- append: **World Liberty Financial** ← Trump-backed World Liberty Financial races toward 62 billion token unlock with near-unanimous vote
+- append: **Bitcoin** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
+- append: **Monetary Policy** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
+- append: **Bitcoin** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
+- append: **Ethereum** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
+- append: **Solana** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
+- append: **Ripple** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
+- append: **Hyperliquid** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says
+- append: **Prediction Markets** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says
+- append: **BTC Price** ← Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022
+- append: **Monetary Policy** ← Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022
+- append: **Stablecoin** ← Meta rolls out stablecoin payouts for creators in Philippines, Colombia
+- append: **Mainstream Adoption** ← Meta rolls out stablecoin payouts for creators in Philippines, Colombia
+- append: **Crypto Regulation** ← US Senator Tillis to push Senate Banking vote on stalled crypto bill
+- append: **World Liberty Financial** ← WLFI drops 14% as controversial token unlock goes to vote
+- append: **Twenty One Capital** ← Twenty One Capital rises on proposed merger with Strike and Elektron
+- append: **Strike** ← Twenty One Capital rises on proposed merger with Strike and Elektron
+- append: **Strategy (MSTR)** ← Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy - BeInCrypto
+- append: **Bitcoin Treasury Companies** ← Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy - BeInCrypto
+- append: **Iris Energy (IREN)** ← Iren stock reaches all-time high at 49.44 USD - Investing.com
+- append: **Mining Supply Pressure** ← Iren stock reaches all-time high at 49.44 USD - Investing.com
+- append: **BOJ** ← Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (April-June 2026) (Schedule Updates)
+- append: **BOJ** ← (IMES Newsletter) 2026 BOK/ERI - BOJ/IMES Joint Research Workshop
+- append: **Bank of Korea** ← (IMES Newsletter) 2026 BOK/ERI - BOJ/IMES Joint Research Workshop
+- append: **BOJ** ← Outlook for Economic Activity and Prices (April 2026, full text)
 - append: **Strike** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
 - append: **Tether** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
 - append: **Bitcoin Proof of Reserves** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
@@ -64,44 +105,3 @@
 - append: **Meta** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
 - append: **Traditional Finance Integration** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
 - append: **Mainstream Adoption** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
-- append: **B2B Stablecoin Payments** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
-- append: **Exchange Security Incidents** ← Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement
-- append: **Claude Models** ← This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future
-- append: **Anthropic** ← White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report
-- append: **Government AI Policy** ← White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report
-- append: **BTC Price** ← Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time
-- append: **ETH Price** ← Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time
-- append: **Tether** ← Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny
-- append: **Political Interference in Crypto Regulation** ← Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny
-- append: **OpenAI** ← OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting
-- append: **AI Legal Risk** ← OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting
-- append: **Crypto Regulation** ← Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs
-- append: **BTC Price** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
-- append: **ETH Price** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
-- append: **Asset Allocation** ← Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split
-- append: **Meta** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
-- append: **USDC** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
-- append: **Mainstream Adoption** ← Meta Launches Stablecoin Payouts In Colombia And The Philippines
-- append: **Polymarket** ← Polymarket Hit $25.7B in March Volume as Retail Traders Bet on Sports, Politics and Crypto
-- append: **Prediction Markets** ← Polymarket Hit $25.7B in March Volume as Retail Traders Bet on Sports, Politics and Crypto
-- append: **MoonPay** ← MoonPay Folds Sodot Into New Institutional Platform
-- append: **Caroline Pham** ← MoonPay Folds Sodot Into New Institutional Platform
-- append: **B2B Stablecoin Payments** ← MoonPay Folds Sodot Into New Institutional Platform
-- append: **Crypto Fraud** ← US Judge Bans Celsius Founder Mashinsky From Any Product Involving 'Assets'
-- append: **Tokenized Assets** ← Stable Sea Taps WisdomTree to Bring Tokenized Treasury Yield to Business Operating Cash
-- append: **B2B Stablecoin Payments** ← Stable Sea Taps WisdomTree to Bring Tokenized Treasury Yield to Business Operating Cash
-- append: **Securitize** ← Securitize Teams Up With Computershare to Tokenize U.S.-Listed Equities
-- append: **Tokenized Stocks** ← Securitize Teams Up With Computershare to Tokenize U.S.-Listed Equities
-- append: **Pump.fun** ← Pumpfun Announces 50% Revenue Buyback-and-Burn Model
-- append: **Kelp Exploit** ← Standard Chartered Calls Kelp Aftermath DeFi's 'Antifragile Moment'
-- append: **BitMine (BMNR)** ← Bitmine (BMNR) Identifies the Perfect Wartime Store of Value - Yahoo Finance
-- append: **BitMine (BMNR)** ← Vanguard reports 23.34M-share stake in BitMine (BMNR) — 5.13% ownership - Stock Titan
-- append: **BitMine (BMNR)** ← BitMine Immersion Technologies, Inc. (NYSE:BMNR) Sees Significant Decline in Short Interest - MarketBeat
-- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion - PR Newswire
-- append: **Ethereum Treasury Companies** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion - PR Newswire
-- append: **Strategy (MSTR)** ← MicroStrategy’s Market Cap Is Less Than Its Bitcoin Holdings and MSTR Stock Has Halved in Just the Past Year. What Gives? - Barchart.com
-- append: **Strategy (MSTR)** ← Capital Group Is Doubling Down on MicroStrategy. Should You Buy MSTR Stock Here Too? - Yahoo Finance
-- append: **Bitcoin** ← Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
-- append: **Donald Trump** ← Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
-- append: **Mainstream Adoption** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
-- append: **BTCFi** ← Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation

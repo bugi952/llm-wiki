@@ -1,5 +1,5 @@
 # CRYPTO Wiki
-최종 갱신: 2026-04-30 06:10
+최종 갱신: 2026-04-30 12:08
 
 ## 🏢 엔티티
 - [[entities/21Shares|21Shares]]
@@ -81,6 +81,7 @@
 - [[entities/Drift Protocol|Drift Protocol]]
 - [[entities/ECB|ECB]]
 - [[entities/EVO FUND|EVO FUND]]
+- [[entities/Elektron|Elektron]]
 - [[entities/Elfa AI|Elfa AI]]
 - [[entities/Elizabeth Warren|Elizabeth Warren]]
 - [[entities/Ethena|Ethena]]
@@ -234,6 +235,7 @@
 - [[entities/World|World]]
 - [[entities/World Liberty Financial|World Liberty Financial]]
 - [[entities/X|X]]
+- [[entities/XO Market|XO Market]]
 - [[entities/ZKsync|ZKsync]]
 - [[entities/ZetaChain|ZetaChain]]
 - [[entities/Zipangcoin|Zipangcoin]]
@@ -297,6 +299,7 @@
 - [[concepts/Model Merging Techniques|Model Merging Techniques]]
 - [[concepts/Monetary Policy|Monetary Policy]]
 - [[concepts/NFT Market Consolidation|NFT Market Consolidation]]
+- [[concepts/Outcome Tokens|Outcome Tokens]]
 - [[concepts/Perpetual Futures|Perpetual Futures]]
 - [[concepts/Political Interference in Crypto Regulation|Political Interference in Crypto Regulation]]
 - [[concepts/Prediction Market ETFs|Prediction Market ETFs]]

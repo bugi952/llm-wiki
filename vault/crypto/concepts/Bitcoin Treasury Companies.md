@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-26**: MicroStrategy 호공격적 축적 전략에 대한 비판적 분석 제기 [(원문)](https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REN2UmlRcktFSGc1ZEl2SVV6Rktvd2YyZmRQUkpvMDlZX1l3QmpPYWFiOGhCanZ1czROb2pNMkgyT3VpdkVtLUd2UnJXZTU4VE1wTm0zUy1BRDZmTU5rNTlDSzlaM0lsaHBjbE94bE9CSjg?oc=5)
 - **2026-04-29**: Strategy, Blockstream이 Bitcoin treasury 전략과 tokenization의 경제적 중요성 강조 [(원문)](https://bitcoinmagazine.com/news/strategy-and-blockstream-bitcoins-future)
 - **2026-04-29**: 기관 투자자들이 Bitcoin yield farming을 통한 수익 창출 시도 [(원문)](https://thedefiant.io/news/tradfi-and-fintech/bullish-invests-250-btc-mezo-institutional-bitcoin-yield-vaults)
 - **2026-04-29**: Mezo가 기관 대상 BTC 수익 볼트 출시, 유휴 자산 활용 수요 증가 [(원문)](https://www.coindesk.com/business/2026/04/29/mezo-unveils-institutional-bitcoin-yield-vaults-as-demand-grows-to-put-idle-btc-to-work)
@@ -21,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Strategy (MSTR)]] | [[Blockstream]] | [[Tokenization]]
+[[Strategy (MSTR)]] | [[Asset Allocation]]
 
 
 ## 모순/논쟁

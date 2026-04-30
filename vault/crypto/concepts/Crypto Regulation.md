@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 상원의원 Thom Tillis가 CLARITY Act 상원 은행위원회 표결 추진, '상당한 진전' 달성 선언 [(원문)](https://cointelegraph.com/news/tillis-will-push-senate-banking-to-vote-on-stalled-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 캐나다 정부, 4,000개 암호화폐 ATM 전면 금지 추진 [(원문)](https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms)
 - **2026-04-29**: 상원 은행위 핵심 보수파 의원 Thom Tillis, Clarity Act 투표 진행 촉구 [(원문)](https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain)
 - **2026-04-29**: Clarity Act 청문회 일정 확정, 연방 차원의 암호자산 규제 틀 논의 임박 [(원문)](https://www.coindesk.com/news-analysis/2026/04/29/u-s-senator-holding-cards-on-clarity-act-s-next-move-says-it-s-ready-to-get-to-hearing)
@@ -95,7 +96,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Canada]] | [[Government Digital Asset Policy]]
+[[Thom Tillis]] | [[Political Interference in Crypto Regulation]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,11 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: HYPE 토큰의 예측시장 프로토콜 활용 전략 제시 (Arthur Hayes 분석, 2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
+- **2026-04-25**: 일일 거래량이 Coinbase 초과 [(원문)](https://news.google.com/rss/articles/CBMiuwNBVV95cUxQa3pIQkpQMmRUTVdlZnAwbGFMdHhvdmgxRzMzZnVvdEN0SmM4VV9wVk1sMjVyMkY3TV9PYUNOTTFUQzhaZDJqOUNpQ25xYnQ0UE9UcFdNenV6aVlYM0h4RFdNSHBzeUFGMWpXbThpei13all6X0NwUi15R3QxT0NIQ3ZjS0I3RWNnZi1PNE1meXJ3dER2Unh3VzAyeE1UU05jdDdGTlpPV1d6UFI2ejVWYmhzN3p4dC1Vc1QzZUxoQ0F2blBONUFtdkU5VkJuUnRYM0pzcmFJbUduYUtxbUhUcXNhRU0tb0p6aUdHMkZnMGhiWmtnZFNBTl9RNHBfQkFKczc5WWNTSHp0S1FlMGdUQjdTSVRrLXV6YVJFaU16aEhhc1ItVUxvcmZpODFadVNoY05DQzlkMjFMR014NDZBN0xfZlVLMlhuZGZnV0VKQzljMlBhRllMMzJIMlJoa1c1dzZFLXA2WEJsNFlNZEtrSkZ4RHJ2eVpQZ1FDREM2eU9rR2V2Q0pyZnFMLTJjZnRCR0s2LVNTYXpic1k5WXhnUENNMDVaVHV4VTNMbnMwTVRCc2JLdklVbGhWcw?oc=5)
+- **2026-04-30**: Outcome Tokens 출시: 실제 세계 사건 예측 베팅 지원 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblk1bUxDNFpwejVydDdWZzBNT2NKVjVwYUNrQlQya29JdkpjejR1TkZBTnVOOTdDTlAzMVBzOVdUd2RDaGgyQzNwbDJ5bWJzUmdXTTVyRlhFdVZ0VkNIbkhIUTlTZzZKS2R1Z1F5ZUNidFRxQThCZ05yYlpwY3YzMkNaeXZZLTdWWFVaTlNiQ1J4QjR1SjV6dlRRazVtZ0c5ZDJyWVRPU21RWGc2SzhVNlRyVXl2eklqcXM3NUtaa20?oc=5)
+- **2026-04-30**: Arthur Hayes: 예측 시장에서의 Hyperliquid 지배력 전망 [(원문)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQckhobFZCbEZ0Y1RNR1dqZUh6VEhGMm1RWFJZRXVkQnllQWVWZkZPQm1NRW1DZUVwemJUSzYwRFVibEVOMFl6NF9HSHhSYUsyS0xqbF9wdk1nRldtb293azJUa05vZVVNOHhMRWJLVENuU2hwU2w1RUtiVUdYZnU3RlI2eVdKQWxjLVR4TUJzdUp0ZmJvWmdFRHVBeDVuQml1QlE?oc=5)
+- **2026-04-30**: HYPE 토큰을 예측 시장 플랫폼의 핵심 자산으로 활용 계획 [(원문)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1V0NEhXN3RuZFFkWjNEdXljNjdnWGdtZjVod3VxYXRXb1JMTTdkTVBlanFNZUdRb3lxNFhLWUEzODNJV2t2MjFzeEc5c3JzVkhZclJRTEZCb1Fyd2pHSGxRbmFObWhid2p6cU4zdl81RTlzSm15Z2x5Ym5Cb19feW8xODBNRGE4dklqVUtfU0d4bTRzaXFrRmdMdlBYemY0RG9sTG5wTmNzMzdoOGlFYmlSQXpKMldqQjBYTTBrcll6UQ?oc=5)
 - **2026-04-25**: 성장 스토리에도 불구하고 플랫폼 활동량 둔화 [(원문)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSldPXzgzY2dsei1OMFZFX2pPMjA2Szl4clc4TzllRFRSWHUwcnlVUUo4MHlRMl9EVms4b1EycnAwU1ZBOS1SeWlYNlh0RUQzMXBscS05OHRBdjRJbWc?oc=5)
 - **2026-04-28**: Solana와의 지연시간(latency) 성능 비교 분석 (경쟁 우위) [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
 - **2026-04-29**: CEO가 Hyperliquid를 Bitcoin 3.0으로의 경로로 포지셔닝 (Solana와의 경쟁 구도) [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
@@ -84,5 +89,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Solana]] | [[AI Agent Trading]]
+[[Arthur Hayes]] | [[Prediction Markets]]
 

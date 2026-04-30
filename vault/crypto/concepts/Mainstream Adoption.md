@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 거대 플랫폼의 creator 결제 시스템에 stablecoin 통합으로 비기술 사용자층 노출 대폭 확대 [(원문)](https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Bitcoin이 미디어 배급 인프라로 활용되는 실제 사례 등장 (Julian Assange 다큐멘터리) [(원문)](https://bitcoinmagazine.com/news/bitcoin-jack-dorsey-eugene-jarecki)
 - **2026-04-29**: TradFi의 Bitcoin adoption 병목은 규제가 아니라 클라이언트 교육임이 확인됨 [(원문)](https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin)
 - **2026-04-29**: Meta의 글로벌 stablecoin 결제 확대로 mainstream 채택 가속화 [(원문)](https://thedefiant.io/news/defi/meta-launches-stablecoin-payouts-in-colombia-and-the-philippines)
@@ -68,7 +69,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Jack Dorsey]] | [[Bitcoin Education]]
+[[Meta]] | [[Stablecoin]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 주가 역사적 최고치 $49.44 달성 [(원문)](https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1FVNllMWGlSbnR4dzBucEJWUVVzb0V4N3pqQU1qVGRyLS1ZLXE1NmR6M2lkUE9qTS1CVHVMWlRldkF3OHhCZGRiazh5RS1iSjNtYnBJRmFtWm11RmxKakY5dXJwbHJDVmhlLVRCaG1Dd0lINjRnVlllSXQ1R040NXZ0WE5lWDBJMVJhVEwtZEk4R0k5VTUtWnl3ODRsZTBBWEE?oc=5)
 - **2026-02-03**: AI 컴퓨팅으로의 전략적 전환이 추진력을 얻음 [(원문)](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSENRZm03UWszdTNGcGowdFo1RnFGaFF4YTNzOGFBZHN3OVVvTzVULTdRakc2OEtmQ0ZtOUhmd0oySU9CYTZtSmgwRXV1VHBkdm9Fd242ZjRLZUtvZVF6U0xuanRxUWdxVVhSY25ZcGEwSVRTazEzd3RUek5KdElfWlRTSk00ZXdmSURSQVdvc1phcWJCR3ZRdi1ERm1XSTJ3NHFlWnVVcUFMemVSN2ZPbDRWXzY?oc=5)
 - **2026-04-30**: 비트코인 마이닝 사업 확대 진행. 시장 변동성 속 채굴 역량 강화 [(원문)](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0h3NjRIbHJ2OWZuNHhmRXN2RVFGN0owS3RWOTFJb2FWTFJvYk1HekNHWVVCZE1ncHd0UDNGbnlabXZMTDM4ZE5Ld2dNX3RSckdyX1lpcnY1UEx3QlQ1aUVUdkNDUjdWV3UyUWpPWlRPUVJUcG05SzcxZDBjeEx2eE56OGdaZFdUQ2ZHeVhNY0Nab19XUHhOTFlmbGZEbnh3YVMxd3g1TlktWFVfVDl2aC1VM3ZIT0szMkE?oc=5)
 - **2026-04-30**: Microsoft와 $9.7B GPU 클라우드 서비스 계약. 비트코인 마이닝에서 AI 인프라로 비즈니스 확장 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWxPUkR5QUJsZHpfcXV0RGUwQ0pEVHN6VC1Ua1pQUndIZkp3a3Q5MmZHdEc0NmNuaUpZZXZ5d0FJSjNPQWJlbzVsbnBHYVc5akE5TVhnMENXQV9nYV9uOWJaQnJvWVRnNDhRWm5RY1pzQ2dpTGs5Z3hYSno2NE5nRVpEb0FyNGlXejBXOUZKd2w2akxzNzZ6SGp0TmRoYWVZRDVaRzc1bC1wVktHYWljMVczSEczVDhMR3k0RmdR?oc=5)
@@ -40,5 +41,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[AI Infrastructure]]
+[[Bitcoin Treasury Companies]] | [[Mining Supply Pressure]]
 

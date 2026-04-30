@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: XRP 가격 하락 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
 - **2026-04-29**: Prime 브로커리지 서비스를 통해 기관 투자자에게 Bitcoin 옵션 거래 기능 제공 [(원문)](https://cointelegraph.com/news/bullish-integrates-btc-options-trading-with-ripple-prime-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: 한국 Kbank와 블록체인 기반 해외 송금 시험 협력 시작 [(원문)](https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: 남한 최대 규모 디지털은행, SWIFT 대체 온체인 송금 파트너십 체결 [(원문)](https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple)
@@ -24,5 +25,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bullish]] | [[Traditional Finance Integration]]
+[[Bitcoin]] | [[Ethereum]] | [[Solana]]
 

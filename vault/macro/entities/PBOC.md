@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-03-19**: 금융 시장 안정성 보장을 위한 공식 성명 발표 [(원문)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHB6OXExLWVmYkJRZXJMUjZleG1iOGdyN3V3MHFEeVlXTVNUamxaZy1OdDBkcXNGUWRWNDVZWmttT285aDZaZmRUWlhJTXZveVcydHo0bHBYa1BiSjc4aXVhUGFnZmpuNmNoVy1HX3JoRC02YkdMSW5wbmo4N3JfQjVoQ3FKa0puM3JaMEppWTVfZ3NWczBpa3BDaHU3Ri0wRDBGWGE0S2hlNy1YTWRWYXpfVUdXMVVPbkNZb1Z5RmRZUEE?oc=5)
+- **2026-04-30**: 금과 금 제품의 수입/수출 허가 행정 최적화 추진 [(원문)](https://news.google.com/rss/articles/CBMicEFVX3lxTFA3ZHcyVjlZTUQ5X0hOaHlNOXlwTENPZUVyVnFJeE1Kc0loZWhjN3dIalJUSWFEelpmeC1LQlBzQnVTSHBJSVc0VkVpWHVsenFnY3psYmdER2kwenh4ZWJZVGl3cTdlMHU1cjFLa1VRbjc?oc=5)
 - **2026-04-16**: 팬더 본드(외화 발행 중국 채권) 발행이 사상 최고치 기록 [(원문)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ1VWTVdTZWNKVUNzSFNKTzNHSXNvSFEyQ21qVlFnZGpXRzQ0aDN1Y0RxaUd5VjdCSjFoQWk4UGU5OHVUVWgtS1BZT0NZMlM1Y0N2clZBVl9ocmJtTU9pRzdhTVVoQXRYY3JDSktOLV9QTmNNSklmZE1jX1VHTHJOdHB2Z1pXYVZNVUVpaDY0bXRZaFdBc0JNa1ZzUVppSEphVkVGVkY4bmphU1FKcURDRGVPWU16cFc2cWpwY2FDbUxzVzNmMEdhZm5UME54V3ZHcGpN0gHTAUFVX3lxTE44RXNCcDdsdkZfT0JORzVuRFlrZmZ5azRSaHY3MVR2SENRX2hEZmhiV2tieVd4bWota3ZEaWhWcUdFZDRpLU9BT1J4b05pUVdMZEN3SzNpa0g1RWtjcEhWcW8tM2JuWDB2Rl9oVUo4aGNqb05IWlFrWjc5bTJxVEIweGpYTmZyalk3dlVTeFVWOGVYZUFsaEtPbWllTnBMNDJ3NzFDTHVWRkVoNmNsbjhJVWljU3h5dUlib0F1Zkh1dzdod2Y2UFc3UzFXZlBTUDBLdHM?oc=5)
 - **2026-04-28**: 4월 은행 대출 확대 지침 발표 (Reuters 배타 보도) [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hzd0E0YVNFUVgxZE5NeXJHcU1xVF9SeGhaTkVXa19yZk9nWUc1aWpmVEN4dGVrWjJpNy1uTE5ickk3S1kzWmR4aDhna1cwMk1Zb1l2Y1NFS2NqaXF6X0ctSk00c2JHcUlqQzlhSmk3SkxVSHRrTGNjd2xyRUtnamNpZ19iaVpjM0Y5dXVfUHZDclQtVW9wV3ZtV1NjNUVwdi1tSTd2U3ppaVpuQnN6YmVocWVPTDdndVpKNTlR?oc=5)
 - **2026-04-15**: 중국 금융법 초안 발표 (규제 개혁) [(원문)](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnhZTUFlZEIycUJVTC1MaVRtWFVLVG05ZmtUZ19pd3VWOF9GOFpVdXRRMUZUcHMxOVZHOGROenJaODJMSjllUE9WWG5RMm1WV3dzNmRjc3lxV0F2eWFJQmV6WEtzTjBtRHY4Mmh1VWRjVGNBTW1UVkRqeTI4eUZ0LWViRkRkN3VDeFRXaUlEVWNlc3B2WU9VajkwT3FOZHZKRV9zai1BNzBudG85b0VHSDZxTHVjbjg?oc=5)
@@ -66,5 +68,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Financial Regulation (China)]] | [[Panda Bond]]
+[[Financial Stability]] | [[Monetary Policy Transmission]]
 

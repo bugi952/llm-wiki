@@ -14,6 +14,7 @@ last_updated: 2026-04-30
 
 
 ## 이력
+- **2026-04-30**: Fed FOMC가 'years 중 가장 강경한(most hawkish)' 입장 표명, BTC 약세 지속 [(원문)](https://cointelegraph.com/markets/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Fed 금리 유지로 Bitcoin이 $75,000 이하로 하락 [(원문)](https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Long-to-short 비율 변화로 약세 신호. 거래자들의 포지셔닝 변화 심화 [(원문)](https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 연준 금리 인상 신호로 BTC $76K 이하로 하락 [(원문)](https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split)

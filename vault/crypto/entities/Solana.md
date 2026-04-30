@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 비트코인 동반 하락 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
 - **2026-04-28**: Hyperliquid와의 지연시간 성능 경합 비교 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
 - **2026-04-29**: Hyperliquid CEO가 Solana와의 차세대 기술 경쟁을 Bitcoin 3.0 프레임으로 언급 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
 - **2026-04-28**: Anza/Firedancer 클라이언트가 NIST 표준 Falcon 도입으로 post-quantum 보안 강화 [(원문)](https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -29,5 +30,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]] | [[AI Agent Trading]]
+[[Bitcoin]] | [[Ethereum]] | [[Ripple]]
 

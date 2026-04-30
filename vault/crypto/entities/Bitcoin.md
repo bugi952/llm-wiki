@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: $75,000 근처로 하락 (석유 가격 4년 고점과 동시, 2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
+- **2026-04-30**: 미국 30년물 수익률 5% 도달, 가격 압박 신호 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price)
+- **2026-04-30**: 도지코인과 가격 분기 움직임 (2026-04-30: Dogecoin 강세) [(원문)](https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high)
 - **2026-04-29**: 대다수 암호화폐 투자자, BTC를 과소평가 자산으로 평가 (Coinbase 설문) [(원문)](https://cointelegraph.com/markets/more-than-70-of-institutions-and-non-institutions-respondents-see-bitcoin-as-undervalued-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Coinbase Premium이 음수로 전환되고 realized losses가 $6B 수준 (시장 약세 신호) [(원문)](https://www.coindesk.com/markets/2026/04/29/bitcoin-s-widely-tracked-coinbase-premium-turns-negative-as-realized-losses-spike-to-usd6-billion)
 - **2026-04-29**: $1M 가격 목표 제시 (Koudounis) [(원문)](https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset)
@@ -121,5 +124,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Coinbase]] | [[Mainstream Adoption]] | [[Bitcoin Whale Accumulation]]
+[[Ethereum]] | [[Solana]] | [[Ripple]]
 

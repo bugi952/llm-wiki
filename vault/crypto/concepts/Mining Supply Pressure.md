@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: IREN 신고점: 채산성 개선 및 강세장 반영 [(원문)](https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1FVNllMWGlSbnR4dzBucEJWUVVzb0V4N3pqQU1qVGRyLS1ZLXE1NmR6M2lkUE9qTS1CVHVMWlRldkF3OHhCZGRiazh5RS1iSjNtYnBJRmFtWm11RmxKakY5dXJwbHJDVmhlLVRCaG1Dd0lINjRnVlllSXQ1R040NXZ0WE5lWDBJMVJhVEwtZEk4R0k5VTUtWnl3ODRsZTBBWEE?oc=5)
 - **2026-04-28**: Tether가 비트코인 마이닝 장비 시장에 진출 [(원문)](https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware)
 - **2026-04-28**: IREN 비트코인 채굴 사업 축소 전망 [(원문)](https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai)
 - **2026-04-28**: 스테이블코인 발행사가 데이터센터 스타일 마이닝 인프라 직접 운영 추세 확대 [(원문)](https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -29,7 +30,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Tether]] | [[Canaan]] | [[Bitcoin]]
+[[Iris Energy (IREN)]] | [[Bitcoin Treasury Companies]]
 
 
 ## 모순/논쟁

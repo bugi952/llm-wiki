@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-28
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 일본 소비활동지수(Consumption Activity Index) 정기 발표 시작 [(원문)](http://www.boj.or.jp/en/research/research_data/cai/cai260430a.htm)
+- **2026-04-30**: 2026년 4월 경제활동과 물가 전망 발표 (정책 결정 시점) [(원문)](http://www.boj.or.jp/en/mopo/outlook/gor2604b.pdf)
+- **2026-04-30**: 2026 BOK/ERI - BOJ/IMES 공동 연구 워크샵 개최 [(원문)](http://www.boj.or.jp/en/about/release_2026/rel260430a.htm)
+- **2026-04-30**: 2026년 4월-6월 일본 정부채 매입 일정표 발표 (경쟁입찰 방식) [(원문)](http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260430b.pdf)
 - **2026-04-28**: 2026년 4월 통화정책 결정 성명 발표 (Statement on Monetary Policy) [(원문)](http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260428a.pdf)
 - **2026-04-28**: 2026년 4월 경제 전망 보고서 발표 (Outlook for Economic Activity and Prices) [(원문)](http://www.boj.or.jp/en/mopo/outlook/gor2604a.pdf)
 - **2026-04-21**: BDC의 미국 직접 대출 시장 내 역할과 성장 추세 분석 [(원문)](http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e01.htm)

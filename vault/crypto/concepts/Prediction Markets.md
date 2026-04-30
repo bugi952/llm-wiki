@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Hyperliquid의 HYPE 토큰이 예측시장 전장의 경쟁 무기로 기능 가능성 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
+- **2026-04-30**: XO Market이 사용자생성 예측시장으로 시장 진입 [(원문)](https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi)
+- **2026-04-30**: Hyperliquid Outcome Tokens으로 실제 사건 기반 예측 시장 구현 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblk1bUxDNFpwejVydDdWZzBNT2NKVjVwYUNrQlQya29JdkpjejR1TkZBTnVOOTdDTlAzMVBzOVdUd2RDaGgyQzNwbDJ5bWJzUmdXTTVyRlhFdVZ0VkNIbkhIUTlTZzZKS2R1Z1F5ZUNidFRxQThCZ05yYlpwY3YzMkNaeXZZLTdWWFVaTlNiQ1J4QjR1SjV6dlRRazVtZ0c5ZDJyWVRPU21RWGc2SzhVNlRyVXl2eklqcXM3NUtaa20?oc=5)
+- **2026-04-30**: Hyperliquid, 주요 DeFi 예측 시장 플레이어로 진출 [(원문)](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1V0NEhXN3RuZFFkWjNEdXljNjdnWGdtZjVod3VxYXRXb1JMTTdkTVBlanFNZUdRb3lxNFhLWUEzODNJV2t2MjFzeEc5c3JzVkhZclJRTEZCb1Fyd2pHSGxRbmFObWhid2p6cU4zdl81RTlzSm15Z2x5Ym5Cb19feW8xODBNRGE4dklqVUtfU0d4bTRzaXFrRmdMdlBYemY0RG9sTG5wTmNzMzdoOGlFYmlSQXpKMldqQjBYTTBrcll6UQ?oc=5)
 - **2026-04-29**: Polymarket 3월 거래량 $25.7B로 예측시장의 mainstream 성장 증명 [(원문)](https://thedefiant.io/news/research-and-opinion/polymarket-hit-usd25-7b-in-march-volume-as-retail-traders-bet-on-sports-politics-and-crypto)
 - **2026-04-29**: 2026-04월 거래량 $25.7B 기록, 소매 사용자 주도의 반복 활동으로 전환 [(원문)](https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Polymarket 분석으로 드러난 예측시장의 극심한 수익 집중화 현상 [(원문)](https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits)
@@ -48,7 +52,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Polymarket]] | [[Mainstream Adoption]]
+[[Hyperliquid]] | [[Arthur Hayes]]
 
 
 ## 모순/논쟁

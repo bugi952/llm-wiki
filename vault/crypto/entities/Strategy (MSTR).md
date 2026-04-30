@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-26**: Peter Schiff: MSTR 비트코인 집중 투자의 '죽음의 소용돌이' 리스크 지적 [(원문)](https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REN2UmlRcktFSGc1ZEl2SVV6Rktvd2YyZmRQUkpvMDlZX1l3QmpPYWFiOGhCanZ1czROb2pNMkgyT3VpdkVtLUd2UnJXZTU4VE1wTm0zUy1BRDZmTU5rNTlDSzlaM0lsaHBjbE94bE9CSjg?oc=5)
 - **2026-04-29**: CEO Phong Le, Bitcoin 금융 미래 비전 설명 (Bitcoin 2026 컨퍼런스) [(원문)](https://bitcoinmagazine.com/news/strategy-and-blockstream-bitcoins-future)
 - **2026-04-01**: 2026년 3월 MSTR이 월간 신규 비트코인의 94% 매입 [(원문)](https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVRTaks1WlBNSGg1VnZnS2hKdjljbFNSdndXc2Rua0EwakNoNl9Cc21CZkIwNDdzd0YyYWVydHR5WkJTQVluYkZhZlBFRXRuVjV6YV9kdWZvS3pHRVJoSVBpOTdYVUpRVE1FdFVkWUJTN3pXbWlYXzNKV2g1QUxZNm9rbEstWEZhb1UwT3p1V1Vrd2FmaFdvN1lUeXI5NW1UTmdQcQ?oc=5)
 - **2026-04-23**: 캐피탈 그룹의 MSTR 투자 비중 확대 중 [(원문)](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVczYlptdmdIUURfS3RweHY1RWcwT3hhOGZPeFJ6Z2NCc3pfNTBDRlE0Y0lvamt4MzNaYVhUQVVuZlNKTWM1bGpCdm1GMC1XZWFRM1VDeGYwb19iZ0NPZlBJb3d6RGF3WlJsNHV0N1ZLOGpoZ1VyT0dyZXB6TnFtZVUxRHZGUVN3MmhaYWN2bHh4M3dGYl9KOUVhaFAtUFp5bEx0Rzk3X2ctQQ?oc=5)
@@ -78,5 +79,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Blockstream]] | [[Bitcoin Treasury Companies]] | [[Tokenization]]
+[[Bitcoin Treasury Companies]] | [[Asset Allocation]]
 
