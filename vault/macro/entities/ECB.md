@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: macro
-last_updated: 2026-04-28
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 2026년 4월 30일 Frankfurt 기자회견에서 통화정책 설명 [(원문)](https://www.bis.org/review/r260430c.htm)
+- **2026-04-30**: 2026년 4월 30일 통화정책 성명서 발표 [(원문)](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260430~f99cb123a8.en.html)
 - **2026-04-22**: 유로존 안전자산 공급 확대에 관한 정책 연설 [(원문)](https://www.bis.org/review/r260428a.htm)
 - **None**: 2026-04 은행 대출 조사 발표. 신용 조건과 대출 기준 변화 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html)
 - **None**: 2026-03 소비자 기대치 조사 발표 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html)
@@ -27,5 +29,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Financial Stability]]
+[[Monetary Policy Transmission]]
 

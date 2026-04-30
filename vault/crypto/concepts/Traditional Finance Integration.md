@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 일본 유통사 Rakuten과 XRP 결제 통합 [(원문)](https://www.coindesk.com/markets/2026/04/30/xrp-hits-fomo-zone-as-rakuten-pay-partnership-drives-social-chatter-to-greed-levels)
+- **2026-04-16**: Hyperliquid이 블록체인 기반 24/7 주식 거래로 월스트릿의 거래 시간 제약 제거 가능성 제시 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3SzRsaHI2b1l6SmxLQmxxVGlKdGlwM052Yk1VclpQVjZaNnZDeWlmNlR6eEo3N3JnRDlzd19MRXBvRVR5Z2I2S1VMOGsyUm1uQWdtdnZGbG91cHNvOExvSFFQU2NjMlJ2U09lakN5VUhLRjFGTENUcGhNYTRpbE8ycDN1R1FZZVJQcXBBZDdhU1pLLWozazZLaTdJRFlVbDloVUVGSGdRQ3dWcnE0OTFsV1JfMHp0MEdaZTQ5ZjJ1dWxDUWZfMUdjemNvc1h2M245NU1ueVRwVlZrT2Q5VXl2WURJYmhucmhiSw?oc=5)
+- **2026-04-30**: 캐나다 주요 기관투자자 AIMCo의 MSTR 투자, 기관의 Bitcoin 자산 배치 확대 신호 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE12SDBNUlNIUS1XWUVYa3ZHUkhzNUZkWF9Gal9zTWIwVWRjbHBQWmhPQXJoZ2Q1VjdlSkc3ZmZMdHUwVzg1N2dYZ2ltQ2dQMVZUY3pMdDNUWDNNbWg4eWdwMWRUUHFfTjh4ZGMw?oc=5)
 - **2026-04-29**: Meta가 Solana/Polygon 위 USDC 지급 시스템 도입, 대형 TradFi 기업의 블록체인 결제 통합 사례 [(원문)](https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe)
 - **2026-04-29**: 기관 브로커(Ripple Prime)를 통한 Bitcoin 파생상품 접근성 확대 [(원문)](https://cointelegraph.com/news/bullish-integrates-btc-options-trading-with-ripple-prime-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: WisdomTree 같은 나스닥 상장 회사가 토큰화 상품으로 기업 금융 시장에 진입. TradFi-DeFi 경계 모호화 [(원문)](https://cointelegraph.com/news/stable-sea-integrates-wisdomtree-tokenized-treasury-fund-for-corporate-cash-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,7 +61,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]] | [[USDC]] | [[Stripe]] | [[Solana]] | [[Polygon]]
+[[XRP]] | [[Mainstream Adoption]]
 
 
 ## 모순/논쟁

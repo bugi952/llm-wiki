@@ -1,21 +1,25 @@
 # MACRO Wiki
-최종 갱신: 2026-04-30 12:08
+최종 갱신: 2026-04-30 18:17
 
 ## 🏢 엔티티
 - [[entities/BIS|BIS]]
 - [[entities/BOJ|BOJ]]
+- [[entities/Bank of Canada|Bank of Canada]]
 - [[entities/Bank of England|Bank of England]]
 - [[entities/Bank of Finland|Bank of Finland]]
 - [[entities/Bank of France|Bank of France]]
 - [[entities/Bank of Greece|Bank of Greece]]
+- [[entities/Bank of Indonesia|Bank of Indonesia]]
 - [[entities/Bank of Italy|Bank of Italy]]
 - [[entities/Bank of Korea|Bank of Korea]]
 - [[entities/Bank of Ningbo|Bank of Ningbo]]
 - [[entities/Bank of Zambia|Bank of Zambia]]
+- [[entities/Central Bank of Cyprus|Central Bank of Cyprus]]
 - [[entities/Central Bank of Iceland|Central Bank of Iceland]]
 - [[entities/Central Bank of Ireland|Central Bank of Ireland]]
 - [[entities/Central Bank of Libya|Central Bank of Libya]]
 - [[entities/Central Bank of Uzbekistan|Central Bank of Uzbekistan]]
+- [[entities/Czech National Bank|Czech National Bank]]
 - [[entities/Deutsche Bundesbank|Deutsche Bundesbank]]
 - [[entities/ECB|ECB]]
 - [[entities/Ethiopia Central Bank|Ethiopia Central Bank]]
@@ -26,6 +30,7 @@
 - [[entities/PBOC|PBOC]]
 - [[entities/Reserve Bank of India|Reserve Bank of India]]
 - [[entities/Reserve Bank of New Zealand|Reserve Bank of New Zealand]]
+- [[entities/Sveriges Riksbank|Sveriges Riksbank]]
 - [[entities/Swiss National Bank|Swiss National Bank]]
 - [[entities/Zheshang Bank|Zheshang Bank]]
 
@@ -71,6 +76,7 @@
 - [[indicators/Oil (WTI)|Oil (WTI)]]
 - [[indicators/US Consumer Sentiment|US Consumer Sentiment]]
 - [[indicators/US Employment|US Employment]]
+- [[indicators/US GDP|US GDP]]
 - [[indicators/US Inflation|US Inflation]]
 - [[indicators/US Interest Rates|US Interest Rates]]
 

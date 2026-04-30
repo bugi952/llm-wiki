@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Real World Assets (RWA) 시장 규모가 $30 billion 돌파 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: Coinbase가 tokenized share class 포함한 stablecoin credit fund 출시 [(원문)](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)
 - **2026-04-29**: WisdomTree과 Stable Sea, 기업 현금 관리용 토큰화 재무 수익 협력 [(원문)](https://thedefiant.io/news/defi/stable-sea-taps-wisdomtree-to-bring-tokenized-treasury-yield-to-business-operating-cash)
 - **2026-04-29**: Gibraltar의 규제 펀드 토큰화 공식 입법안 추진 — 투자자 보호 + 법적 인정 [(원문)](https://cointelegraph.com/news/gibraltar-moves-to-legalize-tokenized-fund-shares-under-new-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Realmint, 소매 투자자용 RWA 데이터 기반 플랫폼 론칭 [(원문)](https://cointelegraph.com/press-releases/realmint-launches-to-give-retail-investors-a-smarter-way-into-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -29,7 +31,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[B2B Stablecoin Payments]] | [[Tokenization]] | [[Traditional Finance Integration]]
+[[CFTC]] | [[Strategy (MSTR)]] | [[Prediction Market Regulatory Risk]] | [[Political Interference in Crypto Regulation]]
 
 
 ## 모순/논쟁

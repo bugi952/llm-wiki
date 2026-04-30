@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: OKX가 자율형 AI 에이전트의 결제·거래를 위한 개방 표준 프로토콜 출시 [(원문)](https://cointelegraph.com/news/okx-publishes-open-standard-payment-protocol-for-autonomous-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-28**: Telegram 지갑 팀이 The Open Platform과 함께 AI 에이전트용 오픈소스 지갑 표준 출시 [(원문)](https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram)
 - **2026-04-28**: Gemini 거래소에서 AI agents 직접 거래 실행 사례 (Claude 포함) [(원문)](https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents)
 - **2026-04-28**: OpenAgents가 Bitcoin 기반 분산 컴퓨팅 네트워크 Pylon 구축 중 ($1.3M 펀딩) [(원문)](https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network)
@@ -24,7 +25,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Telegram]] | [[The Open Platform]] | [[AI Agent Trading]]
+[[OKX]] | [[AI Infrastructure]]
 
 
 ## 모순/논쟁

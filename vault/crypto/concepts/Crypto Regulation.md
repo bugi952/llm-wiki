@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: South Korea, 크립토 산업 단속 강화 추세 [(원문)](https://cointelegraph.com/news/south-korea-seeks-20-year-sentence-for-delio-ceo-over-169m-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: 스테이블코인 회사들, 규제 준수 강화로 전문 인력 영입 추세 [(원문)](https://cointelegraph.com/news/kast-appoints-former-senior-sec-advisor-for-us-policy-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: 미국 은행들이 스테이블코인 법안 지연 로비 중, Agora는 charter 경쟁 [(원문)](https://www.coindesk.com/coindesk-news/2026/04/29/banks-push-to-slow-stablecoin-law-as-agora-races-for-charter)
 - **2026-04-30**: 상원의원 Thom Tillis가 CLARITY Act 상원 은행위원회 표결 추진, '상당한 진전' 달성 선언 [(원문)](https://cointelegraph.com/news/tillis-will-push-senate-banking-to-vote-on-stalled-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 캐나다 정부, 4,000개 암호화폐 ATM 전면 금지 추진 [(원문)](https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms)
 - **2026-04-29**: 상원 은행위 핵심 보수파 의원 Thom Tillis, Clarity Act 투표 진행 촉구 [(원문)](https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain)
@@ -96,7 +99,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Thom Tillis]] | [[Political Interference in Crypto Regulation]]
+[[Crypto Fraud]]
 
 
 ## 모순/논쟁

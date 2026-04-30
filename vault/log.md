@@ -1,8 +1,88 @@
 # 변경 이력
-최종 갱신: 2026-04-30 12:08
+최종 갱신: 2026-04-30 18:17
 
 ## [2026-04-30]
 
+- append: **Kraken** ← Kraken Launches Crypto and Tokenized Stocks Bundles
+- append: **Tokenized Stocks** ← Kraken Launches Crypto and Tokenized Stocks Bundles
+- append: **Maple Finance** ← Maple Finance's SYRUP Token Now Available on Revolut in UK and EU
+- append: **DeFi** ← Maple Finance's SYRUP Token Now Available on Revolut in UK and EU
+- append: **Mainstream Adoption** ← Maple Finance's SYRUP Token Now Available on Revolut in UK and EU
+- append: **US GDP** ← 미국 GDP: 31856.3 (2026-01-01)
+- append: **Tom Lee** ← BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders - TipRanks
+- append: **Ethereum** ← BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders - TipRanks
+- append: **BitMine (BMNR)** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion - The Globe and Mail
+- append: **Ethereum Treasury Companies** ← Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion - The Globe and Mail
+- append: **Strategy (MSTR)** ← AIMCo Buys $219M MSTR Stake in First Bitcoin Allocation - BeInCrypto
+- append: **Traditional Finance Integration** ← AIMCo Buys $219M MSTR Stake in First Bitcoin Allocation - BeInCrypto
+- append: **ECB** ← Christine Lagarde, Luis de Guindos: Monetary policy statement
+- append: **ECB** ← Christine Lagarde, Luis de Guindos: ECB press conference - introductory statement
+- append: **Bank of Canada** ← Tiff Macklem: Release of the Monetary Policy Report
+- append: **Czech National Bank** ← Ale&#353; Michl: A central bank. And bitcoin.
+- append: **Digital Euro** ← Christodoulos Patsalides: Keynote speech - Eurofi High Level Seminar
+- append: **Bank of Greece** ← Yannis Stournaras: On the contribution of the Economic and Financial Committee to the development of the euro area and future challenges
+- append: **Central Bank Independence** ← Christina Papaconstantinou: Central banks and independence - a test for democracy
+- append: **Digital Euro** ← Burkhard Balz: Foundations of resilience - the role of cash and the digital euro
+- append: **Monetary Policy Transmission** ← Erik Thedéen: Monetary policy challenges in war related supply shocks
+- append: **PBOC** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
+- append: **Bank of Indonesia** ← Bank Indonesia launches QRIS cross-border payment system with China - ANTARA News
+- append: **PBOC** ← Bank Indonesia launches QRIS cross-border payment system with China - ANTARA News
+- append: **Arthur Hayes** ← Arthur Hayes: Hyperliquid's HYPE token may become its key weapon in the prediction market sector - bitget.com
+- append: **Hyperliquid** ← Arthur Hayes: Hyperliquid's HYPE token may become its key weapon in the prediction market sector - bitget.com
+- append: **Prediction Markets** ← Arthur Hayes: Hyperliquid's HYPE token may become its key weapon in the prediction market sector - bitget.com
+- append: **Hyperliquid** ← Hyperliquid’s HIP‑3 Open Interest Skyrockets— Is 24/7 Tokenized Equity About To Rewrite Wall Street? - TradingView
+- append: **Tokenized Stocks** ← Hyperliquid’s HIP‑3 Open Interest Skyrockets— Is 24/7 Tokenized Equity About To Rewrite Wall Street? - TradingView
+- append: **Traditional Finance Integration** ← Hyperliquid’s HIP‑3 Open Interest Skyrockets— Is 24/7 Tokenized Equity About To Rewrite Wall Street? - TradingView
+- append: **Gemini** ← Gemini eyes prediction market challenge to Kalshi, Polymarket, secures derivatives license; shares surge
+- append: **Polymarket** ← Gemini eyes prediction market challenge to Kalshi, Polymarket, secures derivatives license; shares surge
+- append: **Kalshi** ← Gemini eyes prediction market challenge to Kalshi, Polymarket, secures derivatives license; shares surge
+- append: **Polymarket** ← Polymarket taps Chainalysis to bring Wall Street-level oversight to crypto prediction markets
+- append: **Anchorage** ← Anchorage Digital and M0 team up to power next wave of regulated stablecoins
+- append: **Stablecoin** ← Anchorage Digital and M0 team up to power next wave of regulated stablecoins
+- append: **Coinbase** ← Coinbase's asset manager to offer stablecoin credit fund with tokenized share class
+- append: **Tokenized Assets** ← Coinbase's asset manager to offer stablecoin credit fund with tokenized share class
+- append: **Stablecoin** ← Coinbase's asset manager to offer stablecoin credit fund with tokenized share class
+- append: **Crypto Regulation** ← Banks push to slow stablecoin law as Agora races for charter
+- append: **Drift** ← The long con: How North Korean spies spent months in-person to drain $285 million from Drift
+- append: **Exchange Security Incidents** ← The long con: How North Korean spies spent months in-person to drain $285 million from Drift
+- append: **Marathon Digital Holdings** ← MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push
+- append: **Euro Stablecoin** ← Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction
+- append: **Solana** ← Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction
+- append: **Polymarket** ← The Green Beret was just the start: New data suggests military insider trading crisis on Polymarket
+- append: **Exchange Security Incidents** ← Wasabi Protocol drained of $4.5 million in apparent admin key compromise
+- create: **XRP** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
+- append: **Traditional Finance Integration** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
+- append: **Euro Stablecoin** ← Spain emerges as leading EURC retail market in Europe, Brighty data shows
+- append: **European Blockchain Policy** ← Spain emerges as leading EURC retail market in Europe, Brighty data shows
+- append: **Stablecoin** ← Kast hires former SEC official Stephanie Allen to lead policy communications
+- append: **Crypto Regulation** ← Kast hires former SEC official Stephanie Allen to lead policy communications
+- append: **Solana** ← Solana ecosystem expands institutional push with Europe-focused research arm
+- append: **European Blockchain Policy** ← Solana ecosystem expands institutional push with Europe-focused research arm
+- append: **Mainstream Adoption** ← Solana ecosystem expands institutional push with Europe-focused research arm
+- append: **Crypto Fraud** ← South Korea seeks 20-year sentence for Delio CEO over $169M crypto fraud
+- append: **Crypto Regulation** ← South Korea seeks 20-year sentence for Delio CEO over $169M crypto fraud
+- append: **Tokenization** ← UK regulator clears path for tokenized funds within existing rules
+- append: **Prediction Market Regulatory Risk** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
+- append: **Strategy (MSTR)** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
+- append: **Tokenized Assets** ← US gov’t sues four states, RWAs cross $30 billion: Month in Charts
+- append: **Mainstream Adoption** ← THORWallet partners with Unblock to expand global non-custodial Mastercard access
+- append: **Autonomous Onchain Agents** ← OKX rolls out protocol for autonomous AI agents to pay and transact
+- append: **Exchange Security Incidents** ← Crypto hack losses top $630M in April, highest since February 2025
+- append: **DeFi** ← Crypto hack losses top $630M in April, highest since February 2025
+- append: **Iran** ← US seized $500M in Iranian crypto assets, Treasury secretary says
+- append: **Solana** ← South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments
+- append: **Mainstream Adoption** ← South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments
+- append: **Stablecoin** ← Australia draft payments vision eyes stablecoin interoperability
+- append: **X** ← Crypto becomes most muted topic on X, and AI slop may be the culprit
+- append: **AI-Generated Content** ← Crypto becomes most muted topic on X, and AI slop may be the culprit
+- append: **ETH Price** ← Ethereum to $60K? It's a 'generational play' for ETH bull Tom Lee, says analyst
+- append: **Twenty One Capital** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
+- append: **Strike** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
+- append: **Elektron** ← Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant
+- append: **Gemini** ← Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings
+- append: **Prediction Markets** ← Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings
+- append: **DeFi** ← Wasabi Loses $5M+ in Latest DeFi Exploit
+- append: **Exchange Security Incidents** ← Wasabi Loses $5M+ in Latest DeFi Exploit
 - append: **BOJ** ← Updates on the Consumption Activity Index
 - append: **PBOC** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
 - append: **Gold (indicator)** ← PBOC and General Administration of Customs Optimize Import and Export Permit Administration for Gold and Gold Products - AASTOCKS.com
@@ -23,85 +103,3 @@
 - append: **Bitcoin** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
 - append: **Monetary Policy** ← Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price
 - append: **Bitcoin** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
-- append: **Ethereum** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
-- append: **Solana** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
-- append: **Ripple** ← Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high
-- append: **Hyperliquid** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says
-- append: **Prediction Markets** ← Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says
-- append: **BTC Price** ← Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022
-- append: **Monetary Policy** ← Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022
-- append: **Stablecoin** ← Meta rolls out stablecoin payouts for creators in Philippines, Colombia
-- append: **Mainstream Adoption** ← Meta rolls out stablecoin payouts for creators in Philippines, Colombia
-- append: **Crypto Regulation** ← US Senator Tillis to push Senate Banking vote on stalled crypto bill
-- append: **World Liberty Financial** ← WLFI drops 14% as controversial token unlock goes to vote
-- append: **Twenty One Capital** ← Twenty One Capital rises on proposed merger with Strike and Elektron
-- append: **Strike** ← Twenty One Capital rises on proposed merger with Strike and Elektron
-- append: **Strategy (MSTR)** ← Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy - BeInCrypto
-- append: **Bitcoin Treasury Companies** ← Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy - BeInCrypto
-- append: **Iris Energy (IREN)** ← Iren stock reaches all-time high at 49.44 USD - Investing.com
-- append: **Mining Supply Pressure** ← Iren stock reaches all-time high at 49.44 USD - Investing.com
-- append: **BOJ** ← Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (April-June 2026) (Schedule Updates)
-- append: **BOJ** ← (IMES Newsletter) 2026 BOK/ERI - BOJ/IMES Joint Research Workshop
-- append: **Bank of Korea** ← (IMES Newsletter) 2026 BOK/ERI - BOJ/IMES Joint Research Workshop
-- append: **BOJ** ← Outlook for Economic Activity and Prices (April 2026, full text)
-- append: **Strike** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
-- append: **Tether** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
-- append: **Bitcoin Proof of Reserves** ← Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
-- append: **Strategy (MSTR)** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
-- append: **Blockstream** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
-- append: **Bitcoin Treasury Companies** ← Strategy and Blockstream CEOs Paint Vision of Bitcoin’s Financial Future
-- append: **Morgan Stanley** ← Morgan Stanley Executive on Bitcoin: ‘We Are Still So Early on This Journey’
-- append: **Mainstream Adoption** ← Morgan Stanley Executive on Bitcoin: ‘We Are Still So Early on This Journey’
-- append: **Jack Dorsey** ← Bitcoin, WikiLeaks, and a Film the Streamers Wouldn’t Touch: Jack Dorsey and Eugene Jarecki Make Their Case
-- append: **Mainstream Adoption** ← Bitcoin, WikiLeaks, and a Film the Streamers Wouldn’t Touch: Jack Dorsey and Eugene Jarecki Make Their Case
-- append: **Tether** ← Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger
-- append: **Crypto Fraud** ← US, UAE and China joint effort dismantles 9 crypto scam centers
-- append: **Geopolitical Security Threats** ← US, UAE and China joint effort dismantles 9 crypto scam centers
-- append: **BTC Price** ← Bitcoin futures signal caution as long-to-short ratio signals positioning shift
-- append: **Monetary Policy** ← Bitcoin futures signal caution as long-to-short ratio signals positioning shift
-- append: **BTC Price** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
-- append: **Monetary Policy** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
-- append: **Geopolitical Security Threats** ← Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East
-- append: **AI Infrastructure** ← Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating
-- append: **Strategy (MSTR)** ← MicroStrategy Hoards 94% of March Bitcoin While MSTR Bleeds for 9 Months - Yahoo Finance
-- append: **Bitcoin Whale Accumulation** ← MicroStrategy Hoards 94% of March Bitcoin While MSTR Bleeds for 9 Months - Yahoo Finance
-- append: **Iris Energy (IREN)** ← IREN signs $9.7 billion GPU cloud services contract with Microsoft - Investing.com
-- append: **Iris Energy (IREN)** ← Iris Energy Ltd Stock (ISIN: KYG4672N1078) Surges on Bitcoin Mining Expansion Amid Volatility - AD HOC NEWS
-- append: **Iris Energy (IREN)** ← Iris Energy’s Strategic Pivot to AI Computing Gains Momentum - AD HOC NEWS
-- append: **CNY-USD** ← PBOC is expected to set the USD/CNY reference rate at 6.9697 – Reuters estimate - investingLive
-- append: **Digital Yuan (e-CNY)** ← China to enhance digital yuan management with deposit features starting 2026 - Xinhua
-## [2026-04-29]
-
-- append: **Tokenization** ← The ‘tokenization of everything’ is no longer a theory
-- append: **Mainstream Adoption** ← The ‘tokenization of everything’ is no longer a theory
-- append: **Crypto Regulation** ← U.S. senator holding cards on Clarity Act's next move says it's ready to get to hearing
-- append: **Tether** ← U.K.'s Farage faces standards probe over $6.7 million gift from Tether billionaire Christopher Harborne
-- append: **Robinhood** ← Robinhood, Coinbase lead crypto stock rout as Trump rejects Iran plan
-- append: **Coinbase** ← Robinhood, Coinbase lead crypto stock rout as Trump rejects Iran plan
-- append: **Bitcoin** ← Bitcoin's widely tracked Coinbase Premium turns negative as realized losses spike to $6 billion
-- append: **TRON** ← RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases
-- append: **Tokenized Assets** ← RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases
-- append: **WisdomTree** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
-- append: **Tokenized Assets** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
-- append: **Traditional Finance Integration** ← Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management
-- append: **B2B Stablecoin Payments** ← Kustodia launches smart contract escrow for LATAM's $600m fraud crisis
-- append: **Crypto Fraud** ← Kustodia launches smart contract escrow for LATAM's $600m fraud crisis
-- append: **Tokenized Assets** ← Realmint launches to give retail investors a smarter way into RWAs
-- append: **Mainstream Adoption** ← Realmint launches to give retail investors a smarter way into RWAs
-- append: **Bitcoin** ← Most crypto investors believe Bitcoin is undervalued: Coinbase survey
-- append: **Mainstream Adoption** ← Most crypto investors believe Bitcoin is undervalued: Coinbase survey
-- append: **Visa** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
-- append: **Stablecoin** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
-- append: **Mainstream Adoption** ← Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B
-- append: **Tokenized Assets** ← Gibraltar mulls allowing tokenized fund shares for some companies
-- append: **European Blockchain Policy** ← Gibraltar mulls allowing tokenized fund shares for some companies
-- append: **Bullish** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
-- append: **Ripple** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
-- append: **Traditional Finance Integration** ← Bullish brings Bitcoin options trading to Ripple Prime's institutional clients
-- append: **Government AI Policy** ← Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push
-- append: **AI Infrastructure** ← Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors
-- append: **Crypto Regulation** ← Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain
-- append: **Political Interference in Crypto Regulation** ← Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain
-- append: **Meta** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
-- append: **Traditional Finance Integration** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
-- append: **Mainstream Adoption** ← Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe

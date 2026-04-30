@@ -1,0 +1,19 @@
+---
+type: entity
+domain: macro
+last_updated: 2026-04-30
+source_count: 0
+---
+
+# Bank of Indonesia
+
+## 개요
+
+
+## 최근 동향
+- **2026-04-30**: 중국과 QRIS 국경 간 결제 시스템 출시 [(원문)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZOOHRHS3kzRFVkT2hvRXBnVnRTdmtQNVpGby1wd2ZuQTN1ZXBEcnJIVHJqVnZpaFdxck1vQVk1QVgxdElZZkVwekpjend4ejJDaDNuU0N2WWVSX3FhOXNqOXNURHBNYkp6ZTF6T3E5SHFVT1ZUU3J0Q2xObm1VR0ZrVkU3RmY2REZEY3M4bmdUTi1mUHV5QUFBTk5McXpWTHd5azFRT1TSAa4BQVVfeXFMTWNScWRlNmtSWUNOdnE5bERWWXpoQ2xKQU9oMWw5Y3pyU2RWeVVfbWtuZHRvNUM0RkpzX1dDbTRZV1NIdHlEeGtvaWE3TEstdHBSVlZINWl0b2dJNFdhV05PZERFYXRpTnU5WTZVT3IwUDV4MF9EdzJPNFBncHREOWRHZWQyOWpwaXdaRVhZVzJXd25OdFpQdDlVTkZ3N2VCSURUVUpMdWdtaDVWNm9R?oc=5)
+
+
+## 연관 페이지
+[[PBOC]]
+

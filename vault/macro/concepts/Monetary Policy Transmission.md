@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: macro
-last_updated: 2026-04-28
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-22**: Governor Erik Thedéen의 Stockholm Chamber of Commerce 공급충격 관점 금리 정책 분석 [(원문)](https://www.bis.org/review/r260428m.htm)
 - **2026-04-28**: 스위스 중앙은행의 통화정책 방향 성명 [(원문)](https://www.bis.org/review/r260428h.htm)
 - **None**: 은행 신용 경색은 통화정책의 가장 직접적인 전파 경로 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html)
 - **None**: 기대 인플레이션의 변화는 임금-물가 악순환 리스크의 선행신호 [(원문)](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html)
@@ -20,7 +21,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Swiss National Bank]]
+[[Energy Shock]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 호주 정부, 국내 결제 시스템에서 스테이블코인과 토큰화 화폐의 상호운용성 추진 계획 [(원문)](https://cointelegraph.com/news/australia-payment-planners-flag-tokenized-money-as-future-rail-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: Kast, $80M 펀딩 후 전 SEC 고문 Stephanie Allen 영입해 규제 준수 강화 [(원문)](https://cointelegraph.com/news/kast-appoints-former-senior-sec-advisor-for-us-policy-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: Coinbase의 stablecoin credit fund 출시, credit market 창출 [(원문)](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)
+- **2026-04-30**: Anchorage + M0의 regulated stablecoin 협력 [(원문)](https://www.coindesk.com/business/2026/04/30/regulated-crypto-custody-firm-anchorage-partners-with-stablecoin-tech-provider-m0)
 - **2026-04-30**: Meta가 필리핀, 콜롬비아에서 creator 지급용 stablecoin 운영 시작 (2022년 Libra 폐기 후 처음) [(원문)](https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Visa Prime을 통한 온체인 정산 — 연간 실행율 $7B 규모 달성 [(원문)](https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Meta가 Stripe와 협력하여 크리에이터 수익화에 스테이블코인 채택 [(원문)](https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support)
@@ -50,7 +54,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Tokenization]]
 
 
 ## 모순/논쟁

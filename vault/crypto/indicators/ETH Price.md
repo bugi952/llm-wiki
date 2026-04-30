@@ -14,6 +14,7 @@ last_updated: 2026-04-30
 
 
 ## 이력
+- **2026-04-30**: Tom Lee: 2030년까지 $60K 목표, generational play로 평가 (장기 support 테스트 중) [(원문)](https://cointelegraph.com/markets/ethereum-bull-tom-lee-backs-3000-eth-upside-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: ETH 주간 7% 하락, 암호화폐 ETF 유출 $350M [(원문)](https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split)
 - **2026-04-29**: Fed 금리 동결 (3연속) 영향으로 하락 [(원문)](https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time)
 - **2026-04-28**: $2.4K에서 삼중 저항 패턴 확인, 약세 심화 가능성 [(원문)](https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

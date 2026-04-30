@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Kraken이 xStocks을 통해 암호화폐와 tokenized stocks 통합 제품 제공 [(원문)](https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch)
+- **2026-04-16**: Hyperliquid의 HIP-3이 24/7 주식 토큰화 거래의 대규모 채택 견인 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3SzRsaHI2b1l6SmxLQmxxVGlKdGlwM052Yk1VclpQVjZaNnZDeWlmNlR6eEo3N3JnRDlzd19MRXBvRVR5Z2I2S1VMOGsyUm1uQWdtdnZGbG91cHNvOExvSFFQU2NjMlJ2U09lakN5VUhLRjFGTENUcGhNYTRpbE8ycDN1R1FZZVJQcXBBZDdhU1pLLWozazZLaTdJRFlVbDloVUVGSGdRQ3dWcnE0OTFsV1JfMHp0MEdaZTQ5ZjJ1dWxDUWZfMUdjemNvc1h2M245NU1ueVRwVlZrT2Q5VXl2WURJYmhucmhiSw?oc=5)
 - **2026-04-29**: Issuer-Sponsored Tokens로 합성 래퍼가 아닌 실제 주식 소유권 토큰화 [(원문)](https://thedefiant.io/news/defi/securitize-teams-up-with-computershare-to-tokenize-u-s-listed-equities)
 - **2026-04-29**: Computershare가 Securitize와 협력해 뉴욕증권거래소에서 주식 토큰화 전담 [(원문)](https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street)
 - **2026-04-29**: Securitize & Computershare 협력, $70조 미국 주식의 온체인 경로 개설 [(원문)](https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain)
@@ -21,7 +23,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Securitize]] | [[Computershare]] | [[Tokenization]] | [[Traditional Finance Integration]]
+[[Kraken]] | [[Traditional Finance Integration]]
 
 
 ## 모순/논쟁

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: CFTC가 prediction market 규제 관련 4개 미국 주를 고소하며 집행 강화 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: 미국 규제 진행으로 예측시장 합법화 전망 [(원문)](https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval)
 - **2026-04-29**: Polymarket, 2022년 합의 조건 하에 CFTC와 광범위한 미국 재진출 협상 추진 [(원문)](https://cointelegraph.com/news/polymarket-cftc-approval-main-platform-us-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: CFTC, Wisconsin을 상대로 5번째 주 소송 제기 (관할권 주장) [(원문)](https://cointelegraph.com/news/cftc-sues-wisconsin-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Polymarket]] | [[CFTC]] | [[Michael Selig]] | [[Prediction Markets]] | [[Crypto Regulation]]
+[[CFTC]] | [[Strategy (MSTR)]] | [[Political Interference in Crypto Regulation]] | [[Tokenized Assets]]
 
 
 ## 모순/논쟁

@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: South Korea Delio CEO, 20년 형 구형. $169M 사기로 2,800명 피해 [(원문)](https://cointelegraph.com/news/south-korea-seeks-20-year-sentence-for-delio-ceo-over-169m-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: US, UAE, China 국제 협력으로 9개 암호화폐 사기 센터 적발. 유럽에서도 10명 체포 및 $58M 규모 사기 사건 조사 [(원문)](https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Celsius 창립자 Mashinsky, FTC 정산으로 자산 관련 상품 금지 및 $1000만 배상 [(원문)](https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement)
 - **2026-04-29**: Kustodia escrow, LATAM 고가 거래 사기 위험 완화 메커니즘 [(원문)](https://cointelegraph.com/press-releases/kustodia-launches-smart-contract-escrow-for-latams-600m-fraud-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Geopolitical Security Threats]]
+[[Crypto Regulation]]
 
 
 ## 모순/논쟁

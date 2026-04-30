@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-29**: HYPE 토큰이 예측 시장에서 Hyperliquid의 핵심 전략 무기가 될 수 있다고 분석 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LV0dQRmtCUmxSV1FPSDNFRjJxVDB4NWlwTjdWTERGYURhZGpwck1zSS0yTnhRa0FBbkxFbk4wUFJ3Y2hfSkgwX2RZVjd4NWhvenZnd2lKYVV4NEdBSmNBOU0xWm_SAWpBVV95cUxPR2l4Qklicnhfc05STHBMX0lBeU01RzZkeDFXazN2Mk02SXNSbjBCMTNqcldSMmhsX3BBWlJCbDlWN1Y3WTNoTnpOc3k2QVpWUHdURXRVRWxJazV4T24xTktjSHVVcU9jVUhB?oc=5)
 - **2026-03-09**: HYPE(Hyperliquid) 관련 기고 발표 [(원문)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ib3FTMUV5Y0ttV0Zqc1JCcGg3a0VmMks4MXN6Y2NMQ1lVWndwWmthclIyTGRaMjd5TEZCM05pN0I1WmxDamlibGprVV9kWERjZGJ3RFFR?oc=5)
 - **2026-04-28**: Hyperliquid를 top pick으로 지정, $375M 토큰 언락 예정 [(원문)](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmpDX3hjN2FJSl9FNTAtSlJqbURlNExjekJYRzZ2c1ZZOU90cGpkZTRfd0hkVzdLbnYxeGlOY1ZKT0JOSVFFY0dtTlN0emlqbXRNQm1PbE1fWWlONV93TG05ZGNrdXAxR3ZLbWxSUHNwS0hYaU4wWEV5VTUwSkpDMmpZWE5xNFlqVVhVVHRQWXkyZWxydU1ZTU5JRnN0dVFSS1BnWC1mZGN6TVYzSkRURXQtbDVoMVl1azdCR2lGR1RIOGJ4UUVqNXNWVmNKc1lyOFhKa0ZlUmp5Ti13?oc=5)
 - **2026-04-21**: 2026-04-21: HIP4 공식 발표 [(원문)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xqeEx4YVQ1YjRnQkpMVkdPcjM5cGNoTHVJem80dTZhdllHaUdWZmk5TC1wekoyQ1IxcXBNYlYyTmc1Y29vWU96ZUVaUDIzSzFxYlBwQlhoeVo5LXBmTGExUGluTXNDNjhGaWpsVlh0eEVJQzQ1bnlrdHdxSm5iZ29tRUUyN0FNV0NMTkQ2NXBxQ0E2YndxNWtXTGplbWI1LVhqb1dvR2JheHhNZ2pGc01lRlpSSVpWb2lKdlR3?oc=5)
@@ -24,5 +25,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Hyperliquid]]
+[[Hyperliquid]] | [[Prediction Markets]]
 

@@ -1,7 +1,7 @@
 ---
 type: concept
 domain: crypto
-last_updated: 2026-04-27
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: 스페인, 유럽 EURC 소매 채택 선도국. Brighty 데이터 기반 [(원문)](https://cointelegraph.com/news/spain-leading-eurc-retail-market-europe-brighty-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: AllUnity의 EURAU가 Solana 체인으로 확장 [(원문)](https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction)
 - **2026-04-27**: Banking Circle, MiCA 라이선스(CASP 승인) 획득 후 유로 스테이블코인 정산 서비스 출시 [(원문)](https://cointelegraph.com/news/mica-licensed-banking-circle-joins-bank-stablecoin-settlement-race-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-27**: MiCA 규제로 안전성 향상, 그러나 국제 경쟁력 약화 지적 [(원문)](https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-21**: ECB, 3개 국제 표준 기구와 협력해 디지털 유로 오픈 결제 표준 채택 [(원문)](https://cointelegraph.com/news/ecb-seeks-lower-digital-euro-adoption-costs-as-banks-face-multibillion-euro-burden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,7 +22,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Stablecoin]] | [[Traditional Finance Integration]]
+[[Circle]] | [[European Blockchain Policy]] | [[Traditional Finance Integration]] | [[B2B Stablecoin Payments]]
 
 
 ## 모순/논쟁

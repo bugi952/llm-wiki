@@ -11,6 +11,10 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: on-chain yield 상품 SYRUP이 전통 핀테크(Revolut)에서 대중 제공 [(원문)](https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob)
+- **2026-04-30**: 한국 신한카드, Solana 기반 스테이블코인 실제 결제 시범 운영 개시 [(원문)](https://cointelegraph.com/news/south-korean-credit-card-giant-partners-with-solana-for-stablecoin-payments-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: THORWallet이 Swiss-regulated Unblock과 파트너십으로 비수탁식 Mastercard 결제 글로벌 확대 [(원문)](https://cointelegraph.com/press-releases/thorwallet-partners-with-unblock-to-expand-global-non-custodial-mastercard-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: Solana, 유럽 금융기관 대상 공식 지원 프로그램 론칭 [(원문)](https://cointelegraph.com/news/solana-ecosystem-expands-institutional-push-europe-focused-research-arm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: 거대 플랫폼의 creator 결제 시스템에 stablecoin 통합으로 비기술 사용자층 노출 대폭 확대 [(원문)](https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-29**: Bitcoin이 미디어 배급 인프라로 활용되는 실제 사례 등장 (Julian Assange 다큐멘터리) [(원문)](https://bitcoinmagazine.com/news/bitcoin-jack-dorsey-eugene-jarecki)
 - **2026-04-29**: TradFi의 Bitcoin adoption 병목은 규제가 아니라 클라이언트 교육임이 확인됨 [(원문)](https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin)
@@ -69,7 +73,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Meta]] | [[Stablecoin]] | [[Traditional Finance Integration]]
+[[DeFi]]
 
 
 ## 모순/논쟁

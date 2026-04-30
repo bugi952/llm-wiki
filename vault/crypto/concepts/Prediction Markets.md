@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-04-30**: Gemini가 CFTC DCO 라이선스 획득으로 공식 clearinghouse 역할 확대 [(원문)](https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings)
+- **2026-04-29**: HYPE 토큰이 예측 시장의 주요 인프라로 활용될 가능성 제시 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LV0dQRmtCUmxSV1FPSDNFRjJxVDB4NWlwTjdWTERGYURhZGpwck1zSS0yTnhRa0FBbkxFbk4wUFJ3Y2hfSkgwX2RZVjd4NWhvenZnd2lKYVV4NEdBSmNBOU0xWm_SAWpBVV95cUxPR2l4Qklicnhfc05STHBMX0lBeU01RzZkeDFXazN2Mk02SXNSbjBCMTNqcldSMmhsX3BBWlJCbDlWN1Y3WTNoTnpOc3k2QVpWUHdURXRVRWxJazV4T24xTktjSHVVcU9jVUhB?oc=5)
 - **2026-04-30**: Hyperliquid의 HYPE 토큰이 예측시장 전장의 경쟁 무기로 기능 가능성 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
 - **2026-04-30**: XO Market이 사용자생성 예측시장으로 시장 진입 [(원문)](https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi)
 - **2026-04-30**: Hyperliquid Outcome Tokens으로 실제 사건 기반 예측 시장 구현 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblk1bUxDNFpwejVydDdWZzBNT2NKVjVwYUNrQlQya29JdkpjejR1TkZBTnVOOTdDTlAzMVBzOVdUd2RDaGgyQzNwbDJ5bWJzUmdXTTVyRlhFdVZ0VkNIbkhIUTlTZzZKS2R1Z1F5ZUNidFRxQThCZ05yYlpwY3YzMkNaeXZZLTdWWFVaTlNiQ1J4QjR1SjV6dlRRazVtZ0c5ZDJyWVRPU21RWGc2SzhVNlRyVXl2eklqcXM3NUtaa20?oc=5)
@@ -52,7 +54,7 @@ source_count: 0
 
 
 ## 핵심 주체
-[[Hyperliquid]] | [[Arthur Hayes]]
+[[Gemini]] | [[CFTC]] | [[Perpetual Futures]]
 
 
 ## 모순/논쟁

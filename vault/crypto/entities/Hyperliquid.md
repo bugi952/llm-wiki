@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-16**: HIP-3을 통해 24/7 토큰화 주식 거래 오픈 인터레스트가 급증 [(원문)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3SzRsaHI2b1l6SmxLQmxxVGlKdGlwM052Yk1VclpQVjZaNnZDeWlmNlR6eEo3N3JnRDlzd19MRXBvRVR5Z2I2S1VMOGsyUm1uQWdtdnZGbG91cHNvOExvSFFQU2NjMlJ2U09lakN5VUhLRjFGTENUcGhNYTRpbE8ycDN1R1FZZVJQcXBBZDdhU1pLLWozazZLaTdJRFlVbDloVUVGSGdRQ3dWcnE0OTFsV1JfMHp0MEdaZTQ5ZjJ1dWxDUWZfMUdjemNvc1h2M245NU1ueVRwVlZrT2Q5VXl2WURJYmhucmhiSw?oc=5)
+- **2026-04-29**: HYPE 토큰이 예측 시장 생태계에서 주요 역할을 수행할 수 있다는 Arthur Hayes의 평가 [(원문)](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LV0dQRmtCUmxSV1FPSDNFRjJxVDB4NWlwTjdWTERGYURhZGpwck1zSS0yTnhRa0FBbkxFbk4wUFJ3Y2hfSkgwX2RZVjd4NWhvenZnd2lKYVV4NEdBSmNBOU0xWm_SAWpBVV95cUxPR2l4Qklicnhfc05STHBMX0lBeU01RzZkeDFXazN2Mk02SXNSbjBCMTNqcldSMmhsX3BBWlJCbDlWN1Y3WTNoTnpOc3k2QVpWUHdURXRVRWxJazV4T24xTktjSHVVcU9jVUhB?oc=5)
 - **2026-04-30**: HYPE 토큰의 예측시장 프로토콜 활용 전략 제시 (Arthur Hayes 분석, 2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says)
 - **2026-04-25**: 일일 거래량이 Coinbase 초과 [(원문)](https://news.google.com/rss/articles/CBMiuwNBVV95cUxQa3pIQkpQMmRUTVdlZnAwbGFMdHhvdmgxRzMzZnVvdEN0SmM4VV9wVk1sMjVyMkY3TV9PYUNOTTFUQzhaZDJqOUNpQ25xYnQ0UE9UcFdNenV6aVlYM0h4RFdNSHBzeUFGMWpXbThpei13all6X0NwUi15R3QxT0NIQ3ZjS0I3RWNnZi1PNE1meXJ3dER2Unh3VzAyeE1UU05jdDdGTlpPV1d6UFI2ejVWYmhzN3p4dC1Vc1QzZUxoQ0F2blBONUFtdkU5VkJuUnRYM0pzcmFJbUduYUtxbUhUcXNhRU0tb0p6aUdHMkZnMGhiWmtnZFNBTl9RNHBfQkFKczc5WWNTSHp0S1FlMGdUQjdTSVRrLXV6YVJFaU16aEhhc1ItVUxvcmZpODFadVNoY05DQzlkMjFMR014NDZBN0xfZlVLMlhuZGZnV0VKQzljMlBhRllMMzJIMlJoa1c1dzZFLXA2WEJsNFlNZEtrSkZ4RHJ2eVpQZ1FDREM2eU9rR2V2Q0pyZnFMLTJjZnRCR0s2LVNTYXpic1k5WXhnUENNMDVaVHV4VTNMbnMwTVRCc2JLdklVbGhWcw?oc=5)
 - **2026-04-30**: Outcome Tokens 출시: 실제 세계 사건 예측 베팅 지원 [(원문)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblk1bUxDNFpwejVydDdWZzBNT2NKVjVwYUNrQlQya29JdkpjejR1TkZBTnVOOTdDTlAzMVBzOVdUd2RDaGgyQzNwbDJ5bWJzUmdXTTVyRlhFdVZ0VkNIbkhIUTlTZzZKS2R1Z1F5ZUNidFRxQThCZ05yYlpwY3YzMkNaeXZZLTdWWFVaTlNiQ1J4QjR1SjV6dlRRazVtZ0c5ZDJyWVRPU21RWGc2SzhVNlRyVXl2eklqcXM3NUtaa20?oc=5)
@@ -89,5 +91,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Arthur Hayes]] | [[Prediction Markets]]
+[[Tokenized Stocks]] | [[Tokenization]] | [[Traditional Finance Integration]] | [[HIP4]]
 

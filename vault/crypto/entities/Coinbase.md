@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 자산운용사가 stablecoin credit fund 출시 (tokenized share class) [(원문)](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)
 - **2026-04-29**: Trump의 Iran 계획 거부로 주가 하락 [(원문)](https://www.coindesk.com/markets/2026/04/29/robinhood-coinbase-lead-crypto-stock-rout-as-trump-rejects-iran-plan)
 - **2026-04-22**: 뉴욕 검찰, 예측시장 플랫폼을 무허가 도박 운영으로 고소 [(원문)](https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets)
 - **2026-04-22**: NY에서 예측 시장 운영 관련 소송 피고인, 규제 리스크 증가 [(원문)](https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings)
@@ -23,5 +24,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Robinhood]] | [[Government Digital Asset Policy]]
+[[Stablecoin]] | [[Tokenized Assets]]
 

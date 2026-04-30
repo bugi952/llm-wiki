@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-18
+last_updated: 2026-04-30
 source_count: 0
 ---
 
@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: xStocks 포트폴리오 번들 출시 - 암호화폐와 US 주식/ETF 결합 [(원문)](https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch)
 - **2026-04-18**: Payward가 CFTC 규제 거래소 Bitnomial 인수 (규제 라이선스 확보) [(원문)](https://cointelegraph.com/news/kraken-parent-acquire-cftc-bitnomial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-17**: Payward(모회사)가 미국 파생상품 거래소 Bitnomial 인수 (최대 $550M) [(원문)](https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial)
 - **2026-04-17**: Bitnomial 인수 ($550M), CFTC 라이선스 파생상품 인프라 확보 [(원문)](https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million)
@@ -19,5 +20,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitnomial]] | [[Payward]] | [[Crypto Regulation]] | [[Traditional Finance Integration]]
+[[Tokenized Stocks]] | [[Traditional Finance Integration]]
 

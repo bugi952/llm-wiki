@@ -11,6 +11,9 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: 신한카드가 Solana 재단과 협력해 스테이블코인 결제 및 DeFi 기반 서비스 테스트 [(원문)](https://cointelegraph.com/news/south-korean-credit-card-giant-partners-with-solana-for-stablecoin-payments-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: 스위스 기반 유럽 제도금융 연구소 설립. 기관 채택 확대 [(원문)](https://cointelegraph.com/news/solana-ecosystem-expands-institutional-push-europe-focused-research-arm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- **2026-04-30**: AllUnity의 유로 스테이블코인 EURAU 지원 추가 [(원문)](https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction)
 - **2026-04-30**: 비트코인 동반 하락 (2026-04-30) [(원문)](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)
 - **2026-04-28**: Hyperliquid와의 지연시간 성능 경합 비교 [(원문)](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSlQxN2cyampPTVQ2XzltTmNTRnBmaWk1RFRVQk9ycjlqSkI0aE83N1hxTm1PTTB3NDdnM1gtUEZuVWs4WkNWakFpU0NKLXc?oc=5)
 - **2026-04-29**: Hyperliquid CEO가 Solana와의 차세대 기술 경쟁을 Bitcoin 3.0 프레임으로 언급 [(원문)](https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5)
@@ -30,5 +33,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Bitcoin]] | [[Ethereum]] | [[Ripple]]
+[[Stablecoin]] | [[Mainstream Adoption]] | [[B2B Stablecoin Payments]]
 
