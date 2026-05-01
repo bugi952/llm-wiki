@@ -131,7 +131,7 @@ def filter_quality(conn, threshold=None):
 
         # Load existing page list for routing context
         existing = list_pages(conn, domain=domain)
-        page_list = "\n".join(f"- {p['title']} ({p['page_type']})" for p in existing)
+        page_list = "\n".join(f"- {p['title']}" for p in existing)
         if not page_list:
             page_list = "(아직 페이지 없음)"
 

@@ -35,7 +35,8 @@ def claude_call(prompt, conn=None, timeout=None, expect_json=False):
     for attempt in range(MAX_RETRIES):
         try:
             result = subprocess.run(
-                ["claude", "-p", prompt, "--model", "haiku"],
+                ["claude", "-p", "--model", "haiku"],
+                input=prompt,
                 capture_output=True, text=True, timeout=timeout,
             )
 
