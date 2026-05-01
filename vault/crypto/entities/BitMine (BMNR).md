@@ -1,7 +1,7 @@
 ---
 type: entity
 domain: crypto
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 source_count: 0
 ---
 
@@ -11,6 +11,8 @@ source_count: 0
 
 
 ## 최근 동향
+- **2026-04-30**: $11.4B 자산 보유 중, 4.8M ETH 스택 (주식 랠리 중) [(원문)](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOUllzbWZQaGw4Z1l4RXd3ZGtaMkZuMzczcmFWR3lXT1NESkc2QnVLSWlJSThvMkFWWU9XSDJncjNQVzlueHFFbGhneFlxNHBrSjRIU3ZDOEpkdHc1QlBHMWczYVdJZmxHM2Rkc1VYNnFhUXdHQzMwaXhGOXdpei1jTmpEZXpYZnNjaTljWGdFR2ZKeG0teW5SZENLamlKQ0VHUmxscVRpbmhxRFFZdDBtZkFiNWNLY3NnZGRZd1JEdlVDTmNnMmVPYVc3VUQ0Q3dCb1c4ZDctZ1o4TFlfX1FBQVByYXdiUGdrQi0xNUtRQ3ZGTVlESFB6dDRrbUdYcHFYNE1JbFJsSDNfYnhDUERvLThiWmR4cXVoMU9sSVJDeFhJeHdrQm9ZT1loM1FvbDVSQ2tjbFdQcF9IRmNySHRHNmFHSWw3UHBDaVRpc2x6S2ozRnFJZkhISV9ScFNzakcx?oc=5)
+- **2026-04-28**: 5.078M ETH 토큰 보유 중, 총 자산 $13.3B [(원문)](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUw0QXZCWUNIb2xCZUpUY0o0Qzh4VXZMOExEQXBYR2VfRW1MQmJ5cEU1N0hjY1VIOVZYUVZrX1ZfQUUwMmVuZWl3OHBQNFowWFFrSzhoOFFfbWc1dlpPX1RvVjRpQ0FmSGp2OXBtbmJlZjFqdTI5WFc5djd5eG1mWHJCbWpLTlZBQWdhUG1NVmNTSXM4OFF5VFRlSWdsSHZicEdJTFphVFBqUlhCdXRGb1paTGhmcHlrV2Uw?oc=5)
 - **2026-04-27**: Ethereum 보유량 5.078M 토큰으로 세계 기록 수립, 총 암호화폐·현금 자산 $13.3B 달성 [(원문)](https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMXNFRzI2NUNTTFBPVEdReUZvZFltMkdFSk5tdnF4TGFPRUdXYW5xZXVrYjZzZC1iR1ZNckVsWktuczFTZGhiS2tvMXZzbkxhQllmNVVRcEo4N25sdmhiS00yX1hWN3paZGoxY2V6Yk1LVk9hQTFUV0IyZHNLdnVOVU1WY0dQSjlpVnA2RkN3eC02MkdhNm1ycTJNMEs1cUhiTUs0VVBmT2ZqOFFReXhzX3JWTThHLWgyNjVTcXQ5UWNMRUJ3dnBwNDFiazFkMmFkZ3VjYzB4aEVQbHE0cWtGZ3BqMjVHZUN4T0NBc19kVF83aHh2Z0wtWFZFUU9BSzZoSkhVMU9zbkIzUkdia05SSjVteWZiSUU0eTRjbkpUbUpvcGxKUlN0eEJudFJJX2NJcVl0QmpNV195V05XaUtvOGdkaHA1OFJCcHlYUmV5WFhjV2F0RlR5U2xYZWVEYlBxZlp5SWdGQ3QyTTBlOUpldGl3UTFlZw?oc=5)
 - **2026-04-29**: 공식 발표: 이더리움 4.732M개, 총 암호화폐+현금 자산 $10.7B 보유 [(원문)](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQSXNSd3BSUVlXUzJFVTl5M1dfdHlVWFV5ckY4WmxqcDFFNkV3Ym1IeDVzVVdQYmxnYUp6eUdzQ1lMT25OTldFdzJvaHR3NW5rSHRKUW9uczRLNlRpYzlZdzBkZFNMRno3RGNRcGY4dEVzMFV4X2VPbFFOY3EtbWdENFJ3c1FxczV2dm5UUFFPd0NmTFJkZllkMExCd1BkalVuVndvdDVRMWw1TjdDakF3RkM0NW1kQjZXdHdxcVFWa2NTQldnWW1qdWlDRDJvcGtuUlJKM1FMeDhKU3RVRE5pd3BSUDdsU1E3VVRCcVVIZzNUOXg5bmhuSDJjazFfMHJQcUhadkNPX0NiWlUxSWU1NVQ0VXQzaE1UWk96dWMwNHZBQS1LSWJYcA?oc=5)
 - **2026-04-29**: 공매도 이자 급감, 시장 심리 강세 전환 신호 [(원문)](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDQwQXdySzJVWkpqcExUSklHTUR3bHE4LU9OVGpIM2hOQWZVM3VCc1FBTWs4WlRrclVZcjdlaWJPWkNYQ3VJeGJod2owd21NMG44bnFmTUlhUmxSUTI1MGN0ZFltQWsyNWhmX19pNndZUjl2RVBvaEZ2Rk14dFVGd3puN19oTjJKWjJxd1hBWDAzRmhYeHVpQUQxNkMzYnJReDVXeG1HeTRNQWZrVmhyOFZJTTJ0dDl0dGJtSzhEUjJBZ3Q0SmNLUy1OUTVKLTJYbkthNFVYWQ?oc=5)
@@ -171,5 +173,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Ethereum]] | [[Bitcoin Treasury Companies]] | [[Ethereum Treasury Companies]]
+[[Ethereum]] | [[Ethereum Treasury Companies]]
 

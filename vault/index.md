@@ -6,7 +6,7 @@ cssclasses: [wide-page]
 
 > [!summary] 한눈에 보기
 > **10Y** 4.3
-> 최종 갱신: 2026-05-01 00:10 · 오늘 업데이트 90건
+> 최종 갱신: 2026-05-01 06:05 · 오늘 업데이트 7건
 
 ---
 
@@ -16,7 +16,7 @@ cssclasses: [wide-page]
 > - 🤖 **[[ai/entities/Google DeepMind|Google DeepMind]]** (2026-04-27) — 한국 정부와 AI 협력 합의 (K-문샷 AI 지원, 서울 AI 캠퍼스 개소)
 > - 💰 **[[crypto/entities/Bitcoin|Bitcoin]]** (2026-04-30) — 2026년 4월 상승이 선물 거래 투기에 기반하며 2022년 크래시 전 패턴과 유사
 > - 💰 **[[crypto/entities/Ethereum|Ethereum]]** (2026-04-30) — Tom Lee, Ethereum을 희귀한 투자 기회로 평가하며 3,000% 상승 가능성 제시
-> - 💰 **[[crypto/entities/Hyperliquid|Hyperliquid]]** (2026-04-24) — 고래들이 Long 바이어스 구축 중
+> - 💰 **[[crypto/entities/Hyperliquid|Hyperliquid]]** (2026-05-29) — HYPE 가격 강세는 두 가지 주요 영역에서 수요 증가 기반
 
 > [!quote]- 💹 시세 상세
 >

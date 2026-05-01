@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-05-01**: 상원 자체 베팅 금지 규칙 통과, 하원에도 유사 결의안 제출 예정 [(원문)](https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: 상원의원 예측시장 참여 금지 결의안으로 규제 강화 신호 [(원문)](https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets)
 - **2026-04-30**: 규제 감시 강화로 예측 시장 플랫폼의 자체 감시 시스템 도입 (Polymarket-Chainalysis 사례) [(원문)](https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: CFTC가 prediction market 규제 관련 4개 미국 주를 고소하며 집행 강화 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

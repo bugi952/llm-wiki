@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 최근 동향
+- **2025-12-21**: CEO Saylor가 YTD 주식 부진 와중에도 임박한 BTC 매수 시사 [(원문)](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1RlUXJKcUhTVVdqTHRrLVhvYjVlend4a3lKT2RZTG5tM1l1QTk0U3JJVlBhYWxRV3VOUVh1a2tJME8yMHZOR19EVkhheWo4ZldpLWloWXZzelJRLVIyWlpWV2RSa0Q2TTMwWDg2eDFGeURLZm9FWklwc0R2OFo0Z1BMWDFwbENtNVJIRWVoSk4xSnpZWWc?oc=5)
 - **2026-04-30**: 캐나다 온타리오주 교사연금기금이 MicroStrategy에 $219M 투자, Bitcoin 자산 배분 첫 사례 [(원문)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGhlbE13Nlg5dFhPVTRhSUVDQXFaTGk3bDBmNW5qZDI5QlNXcU1KNWNKZHpJdDJZZHdlMHVYNHhNX21SVzhSSEpnSF9CZldjN1pLYlI4ejNvZ1NPWFZ5U2RDRHo3TmRvSDNwRHQtZThYd0ZvbFE5R3FaLWxxOWpMMlVXVzBaWTJvWDZXdW9JeDVRbFpPVDJFdXIxR3E0eG94?oc=5)
 - **2026-04-30**: Strategy (MSTR)의 누적 BTC 보유량이 56,000개 달성 [(원문)](https://cointelegraph.com/features/us-govt-sues-four-states-rwas-cross-30-billion-month-in-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: Alberta Investment Management Corp (AIMCo)이 $219M 규모 첫 MSTR 지분 투자 [(원문)](https://news.google.com/rss/articles/CBMia0FVX3lxTE12SDBNUlNIUS1XWUVYa3ZHUkhzNUZkWF9Gal9zTWIwVWRjbHBQWmhPQXJoZ2Q1VjdlSkc3ZmZMdHUwVzg1N2dYZ2ltQ2dQMVZUY3pMdDNUWDNNbWg4eWdwMWRUUHFfTjh4ZGMw?oc=5)
@@ -82,5 +83,5 @@ source_count: 0
 
 
 ## 연관 페이지
-[[Canada]] | [[Bitcoin Treasury Companies]] | [[Traditional Finance Integration]] | [[Mainstream Adoption]]
+[[Michael Saylor]] | [[Bitcoin]] | [[Bitcoin Treasury Companies]]
 

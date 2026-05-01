@@ -11,6 +11,7 @@ source_count: 0
 
 
 ## 주요 발전
+- **2026-05-01**: 미 상원 의원·스태프의 예측 시장 베팅 자체 금지 규칙 만장일치 통과 [(원문)](https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - **2026-04-30**: 2026년 4월 30일 미국 상원이 상원의원과 스태프의 예측시장 사용 금지 결의안(S. Res. 708) 통과 [(원문)](https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets)
 - **2026-04-30**: Hyperliquid의 HYPE가 예측시장 인프라로서 차별성 있음을 주요 투자자가 인정 [(원문)](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON1dqaHJVdXlGYURDZTMxb3pEalZ4Yk4tR2dqb1F0VU5MN1BlenBQNHpPb3BxNHJJVm5IRGhRMzNnclNtYldmYzB6czZjY3RqRVNVOU80a1pmNHBlNldWNmU2eERPdTNiUlgtT0lEMnI4Vjc2VmNoVWJSLUVQSTlRSGttUVhPMXRRWmt4Z3JTRUpPRWpIdHQzR1NhRXZsWXZEcFJyT29VVXZXVlJYTnRmMGx5ZktpWlBMbkpXcC1sRmxTZGRGTFJfWS1iRkNmN3ZfMGx2TUloSk5HSjRaSXA3U2h3bnBoZw?oc=5)
 - **2026-04-30**: Gemini가 CFTC DCO 라이선스 획득으로 공식 clearinghouse 역할 확대 [(원문)](https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings)

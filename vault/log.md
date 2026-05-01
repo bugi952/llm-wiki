@@ -1,6 +1,16 @@
 # 변경 이력
-최종 갱신: 2026-05-01 00:10
+최종 갱신: 2026-05-01 06:05
 
+## [2026-05-01]
+
+- append: **Hyperliquid** ← Hyperliquid gains strength from 2 key areas: What this means for HYPE’s demand - AMBCrypto
+- append: **Prediction Markets** ← US Senate bans itself from betting on prediction markets
+- append: **Prediction Market Regulatory Risk** ← US Senate bans itself from betting on prediction markets
+- append: **BTC Price** ← Spot Bitcoin ETF outflows top $490M: Is BTC’s rally losing momentum?
+- append: **BitMine (BMNR)** ← MBitmine Immersion Technologies reports ETH holdings of 5.078M tokens, total assets at $13.3B - Crypto Briefing
+- append: **BitMine (BMNR)** ← Bitmine reports $11.4B holdings; stock rally fueled by 4.8M ETH stack - MSN
+- append: **Strategy (MSTR)** ← MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline - Yahoo Finance
+- append: **Michael Saylor** ← MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline - Yahoo Finance
 ## [2026-04-30]
 
 - append: **Hyperliquid** ← Bitcoin Whales Build Long Bias on Hyperliquid as Breakout Bets Rise - CryptoRank
@@ -95,11 +105,3 @@
 - append: **Crypto Regulation** ← Banks push to slow stablecoin law as Agora races for charter
 - append: **Drift** ← The long con: How North Korean spies spent months in-person to drain $285 million from Drift
 - append: **Exchange Security Incidents** ← The long con: How North Korean spies spent months in-person to drain $285 million from Drift
-- append: **Marathon Digital Holdings** ← MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push
-- append: **Euro Stablecoin** ← Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction
-- append: **Solana** ← Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction
-- append: **Polymarket** ← The Green Beret was just the start: New data suggests military insider trading crisis on Polymarket
-- append: **Exchange Security Incidents** ← Wasabi Protocol drained of $4.5 million in apparent admin key compromise
-- create: **XRP** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
-- append: **Traditional Finance Integration** ← XRP hits FOMO zone as Rakuten Pay partnership drives social chatter to greed levels
-- append: **Euro Stablecoin** ← Spain emerges as leading EURC retail market in Europe, Brighty data shows
