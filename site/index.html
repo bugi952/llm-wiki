@@ -139,6 +139,8 @@
   .digest-day .dd-date { font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--accent); font-weight:500; }
   .digest-day .dd-count { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
   .digest-day .dd-domains { display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; }
+  .digest-domain { display:block; text-decoration:none; padding:14px; border:1px solid transparent; border-radius:4px; transition:border-color .15s; }
+  .digest-domain:hover { border-color:var(--line-strong); background:var(--bg-tint); }
   .digest-domain .dd-label { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.12em; text-transform:uppercase; margin-bottom:8px; }
   .digest-domain[data-k="ai"] .dd-label { color:var(--ai); }
   .digest-domain[data-k="crypto"] .dd-label { color:var(--crypto); }

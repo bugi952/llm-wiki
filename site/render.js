@@ -199,6 +199,7 @@
   }
 
   // ---------- daily digest ----------
+  const REPO_BASE = 'https://github.com/bugi952/llm-wiki/blob/main/vault';
   function renderDigest() {
     const grid = $('#digest-grid');
     const digests = D.daily_digests;
@@ -206,7 +207,6 @@
       grid.innerHTML = '<div class="digest-empty">아직 생성된 daily digest가 없습니다.</div>';
       return;
     }
-    // Collect all dates across domains
     const allDates = new Set();
     for (const domain of Object.keys(digests)) {
       for (const d of digests[domain]) allDates.add(d.date);
@@ -218,11 +218,12 @@
         const entry = (digests[k] || []).find(d => d.date === date);
         if (!entry) return '';
         const label = {ai:'AI', crypto:'CRYPTO', macro:'MACRO'}[k];
+        const href = `${REPO_BASE}/${k}/daily/${date}.md`;
         return `
-          <div class="digest-domain" data-k="${k}">
-            <div class="dd-label">${label} · ${entry.source_count}건</div>
+          <a class="digest-domain" data-k="${k}" href="${href}" target="_blank">
+            <div class="dd-label">${label} · ${entry.source_count}건 ↗</div>
             <div class="dd-summary">${entry.summary}</div>
-          </div>`;
+          </a>`;
       }).join('');
       if (!domainBlocks.trim()) return '';
       return `
