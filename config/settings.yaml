@@ -18,9 +18,9 @@ wiki:
     - indicator
     - weekly
 
-claude:
-  model: "haiku"                        # claude -p --model haiku (Max 구독, API 키 불필요)
+codex:
   cli_timeout: 120                      # subprocess 타임아웃 (초)
+  # ChatGPT Plus 구독, codex login으로 인증
 
 hackernews:
   min_score: 50
