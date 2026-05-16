@@ -22,6 +22,7 @@ from filter.topic import filter_topic
 from filter.quality import filter_quality
 from wiki.ingest import ingest
 from wiki.indexer import update_index
+from wiki.daily import generate_daily_digest
 from wiki.dashboard_data import generate_dashboard_data
 from sync import sync_vault
 from notify import send_alert
@@ -136,7 +137,11 @@ def run_auto(conn):
         # 5. Index
         update_index(conn)
 
-        # 5b. Dashboard data
+        # 5b. Daily digest
+        daily_count = generate_daily_digest(conn)
+        result["daily_digests"] = daily_count
+
+        # 5c. Dashboard data
         generate_dashboard_data("vault", conn, "site/data.js")
 
         # 6. Sync
