@@ -198,8 +198,45 @@
     ).join('');
   }
 
+  // ---------- daily digest ----------
+  function renderDigest() {
+    const grid = $('#digest-grid');
+    const digests = D.daily_digests;
+    if (!digests || !Object.keys(digests).length) {
+      grid.innerHTML = '<div class="digest-empty">아직 생성된 daily digest가 없습니다.</div>';
+      return;
+    }
+    // Collect all dates across domains
+    const allDates = new Set();
+    for (const domain of Object.keys(digests)) {
+      for (const d of digests[domain]) allDates.add(d.date);
+    }
+    const dates = Array.from(allDates).sort().reverse();
+
+    grid.innerHTML = dates.map(date => {
+      const domainBlocks = ['ai', 'crypto', 'macro'].map(k => {
+        const entry = (digests[k] || []).find(d => d.date === date);
+        if (!entry) return '';
+        const label = {ai:'AI', crypto:'CRYPTO', macro:'MACRO'}[k];
+        return `
+          <div class="digest-domain" data-k="${k}">
+            <div class="dd-label">${label} · ${entry.source_count}건</div>
+            <div class="dd-summary">${entry.summary}</div>
+          </div>`;
+      }).join('');
+      if (!domainBlocks.trim()) return '';
+      return `
+        <div class="digest-day">
+          <div class="dd-head">
+            <span class="dd-date">${date}</span>
+          </div>
+          <div class="dd-domains">${domainBlocks}</div>
+        </div>`;
+    }).join('');
+  }
+
   // ---------- view routing ----------
-  const VIEWS = ["feed", "index", "backlinks"];
+  const VIEWS = ["feed", "digest", "index", "backlinks"];
   function showView(v) {
     if (!VIEWS.includes(v)) v = "feed";
     VIEWS.forEach(k => {
@@ -259,5 +296,6 @@
   renderHeatmap();
   renderIndex('all');
   renderBacklinks();
+  renderDigest();
   showView(localStorage.getItem('llm-wiki-view') || 'feed');
 })();

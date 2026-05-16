@@ -132,6 +132,20 @@
   .hm-stats .st .n em { font-style:italic; color:var(--accent); }
   .hm-stats .st .l { font-family:"JetBrains Mono",monospace; font-size:9px; color:var(--text-mute); letter-spacing:0.08em; text-transform:uppercase; margin-top:2px; }
 
+  /* digest */
+  .digest-grid { display:grid; gap:24px; }
+  .digest-day { border:1px solid var(--line); padding:20px 24px; background:var(--bg-elev); }
+  .digest-day .dd-head { display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid var(--line-soft); }
+  .digest-day .dd-date { font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--accent); font-weight:500; }
+  .digest-day .dd-count { font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--text-mute); }
+  .digest-day .dd-domains { display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; }
+  .digest-domain .dd-label { font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:0.12em; text-transform:uppercase; margin-bottom:8px; }
+  .digest-domain[data-k="ai"] .dd-label { color:var(--ai); }
+  .digest-domain[data-k="crypto"] .dd-label { color:var(--crypto); }
+  .digest-domain[data-k="macro"] .dd-label { color:var(--macro); }
+  .digest-domain .dd-summary { font-family:"Fraunces",serif; font-size:14px; line-height:1.6; color:var(--text); white-space:pre-line; }
+  .digest-empty { font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--text-mute); padding:40px; text-align:center; border:1px dashed var(--line); }
+
   /* views */
   .view { animation:fadein .25s ease-out; }
   @keyframes fadein { from { opacity:0; transform:translateY(4px); } to { opacity:1; } }
@@ -221,6 +235,7 @@
   <div class="sub-rule">
     <nav class="section-nav" id="viewnav">
       <a href="#feed" data-v="feed" class="on">DAILY FEED</a>
+      <a href="#digest" data-v="digest">DAILY DIGEST</a>
       <a href="#index" data-v="index">A-Z INDEX</a>
       <a href="#backlinks" data-v="backlinks">BACKLINKS</a>
     </nav>
@@ -316,6 +331,18 @@
       </div>
     </div>
     <div class="idx-wrap" id="idx-wrap"></div>
+  </div>
+
+  <!-- VIEW: DIGEST -->
+  <div class="view" id="view-digest" hidden>
+    <div class="view-head">
+      <div>
+        <div class="view-kicker">DIGEST</div>
+        <h2 class="view-title serif">Daily <em>Digest</em></h2>
+        <p class="view-sub">LLM이 생성한 도메인별 일일 핵심 요약.</p>
+      </div>
+    </div>
+    <div class="digest-grid" id="digest-grid"></div>
   </div>
 
   <!-- VIEW: BACKLINKS -->

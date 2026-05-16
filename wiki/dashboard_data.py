@@ -335,6 +335,45 @@ def _build_backlinks(pages):
     return rank_data, orphans[:15], stubs[:15]
 
 
+def _build_daily_digests(vault_dir):
+    """Read daily digest files and return structured data."""
+    digests = {}
+    for domain in DOMAINS:
+        daily_dir = os.path.join(vault_dir, domain, "daily")
+        if not os.path.isdir(daily_dir):
+            continue
+        files = sorted(
+            [f for f in os.listdir(daily_dir) if f.endswith(".md")],
+            reverse=True,
+        )[:7]  # Last 7 days
+        domain_digests = []
+        for fname in files:
+            fpath = os.path.join(daily_dir, fname)
+            fm, content = _read_frontmatter(fpath)
+            date_str = fname[:-3]  # Remove .md
+            # Extract summary (between ## 핵심 요약 and ## 상세)
+            summary = ""
+            in_summary = False
+            for line in content.split("\n"):
+                if line.startswith("## 핵심 요약"):
+                    in_summary = True
+                    continue
+                if line.startswith("## ") and in_summary:
+                    break
+                if in_summary and line.strip():
+                    summary += line.strip() + "\n"
+            # Extract item count
+            source_count = int(fm.get("source_count", 0))
+            domain_digests.append({
+                "date": date_str,
+                "summary": summary.strip(),
+                "source_count": source_count,
+            })
+        if domain_digests:
+            digests[domain] = domain_digests
+    return digests
+
+
 def generate_dashboard_data(vault_dir=VAULT_DIR, conn=None, output_path="site/data.js"):
     """Main entry point: scan vault + DB, write data.js."""
     pages = _scan_vault(vault_dir)
@@ -346,6 +385,7 @@ def generate_dashboard_data(vault_dir=VAULT_DIR, conn=None, output_path="site/da
     heatmap = _build_heatmap(conn) if conn else [0] * 140
     index = _build_index(pages)
     backlinks_rank, orphans, stubs = _build_backlinks(pages)
+    daily_digests = _build_daily_digests(vault_dir)
 
     # Today's update count
     update_count = 0
@@ -372,6 +412,7 @@ def generate_dashboard_data(vault_dir=VAULT_DIR, conn=None, output_path="site/da
         "backlinks_rank": backlinks_rank,
         "orphans": orphans,
         "stubs": stubs,
+        "daily_digests": daily_digests,
     }
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
