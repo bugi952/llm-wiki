@@ -1,3 +1,4 @@
+import fcntl
 import json
 import logging
 import os
@@ -14,7 +15,8 @@ from collector.rss import collect_rss
 from collector.hackernews import collect_hackernews
 from collector.fred import collect_fred
 from collector.ecos import collect_ecos
-from collector.finnhub import collect_finnhub
+# Finnhub disabled: free tier returns 403 for economic calendar endpoint
+# from collector.finnhub import collect_finnhub
 from collector.coingecko import collect_coingecko
 from filter.topic import filter_topic
 from filter.quality import filter_quality
@@ -22,33 +24,39 @@ from wiki.ingest import ingest
 from wiki.indexer import update_index
 from wiki.dashboard_data import generate_dashboard_data
 from sync import sync_vault
+from notify import send_alert
 
 logger = logging.getLogger(__name__)
 
 LOCK_FILE = "data/pipeline.lock"
 API_DAILY_LIMIT = 300
-STALE_LOCK_SECONDS = 3600  # 1 hour
+
+_lock_fd = None
 
 
 def acquire_lock():
-    """Try to acquire pipeline lock. Returns True if acquired."""
-    if os.path.exists(LOCK_FILE):
-        mtime = os.path.getmtime(LOCK_FILE)
-        age = time.time() - mtime
-        if age > STALE_LOCK_SECONDS:
-            logger.warning("Stale lock removed (age: %ds)", int(age))
-            os.remove(LOCK_FILE)
-        else:
-            logger.warning("Pipeline already running (lock age: %ds)", int(age))
-            return False
-
+    """Try to acquire pipeline lock using fcntl. Returns True if acquired."""
+    global _lock_fd
     os.makedirs(os.path.dirname(LOCK_FILE), exist_ok=True)
-    with open(LOCK_FILE, "w") as f:
-        f.write(str(os.getpid()))
-    return True
+    _lock_fd = open(LOCK_FILE, "w")
+    try:
+        fcntl.flock(_lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        _lock_fd.write(str(os.getpid()))
+        _lock_fd.flush()
+        return True
+    except OSError:
+        logger.warning("Pipeline already running (lock held by another process)")
+        _lock_fd.close()
+        _lock_fd = None
+        return False
 
 
 def release_lock():
+    global _lock_fd
+    if _lock_fd:
+        fcntl.flock(_lock_fd, fcntl.LOCK_UN)
+        _lock_fd.close()
+        _lock_fd = None
     if os.path.exists(LOCK_FILE):
         os.remove(LOCK_FILE)
 
@@ -81,6 +89,7 @@ def run_auto(conn):
         # API limit check
         if get_daily_api_count(conn) >= API_DAILY_LIMIT:
             logger.error("Daily API limit exceeded (%d)", API_DAILY_LIMIT)
+            send_alert(f"⚠️ 일일 API 한도 초과 ({API_DAILY_LIMIT}회). 파이프라인 중단.")
             result["error"] = "api_limit_exceeded"
             return result
 
@@ -90,13 +99,12 @@ def run_auto(conn):
         hn_count = collect_hackernews(conn)
         fred_count = collect_fred(conn)
         ecos_count = collect_ecos(conn)
-        finnhub_count = collect_finnhub(conn)
         coingecko_count = collect_coingecko(conn)
-        collected = rss_count + hn_count + fred_count + ecos_count + finnhub_count + coingecko_count
+        collected = rss_count + hn_count + fred_count + ecos_count + coingecko_count
         result["collected"] = collected
         result["collected_detail"] = {
             "rss": rss_count, "hackernews": hn_count, "fred": fred_count,
-            "ecos": ecos_count, "finnhub": finnhub_count, "coingecko": coingecko_count,
+            "ecos": ecos_count, "coingecko": coingecko_count,
         }
         log_event(conn, "collect", json.dumps(result["collected_detail"]))
 
@@ -110,9 +118,16 @@ def run_auto(conn):
             quality_passed, quality_failed = filter_quality(conn)
             result["quality_passed"] = quality_passed
             result["quality_failed"] = quality_failed
+            # Alert if failure rate is abnormally high
+            total_q = quality_passed + quality_failed
+            if total_q > 10 and quality_passed == 0:
+                send_alert(f"🚨 Filter B 전량 실패 ({quality_failed}건). CLI 또는 인증 확인 필요.")
+            elif total_q > 10 and quality_passed / total_q < 0.05:
+                send_alert(f"⚠️ Filter B 통과율 비정상: {quality_passed}/{total_q} ({quality_passed/total_q*100:.0f}%)")
         except Exception as e:
-            logger.error("Filter quality crashed, continuing to ingest: %s", e)
+            logger.error("Filter quality crashed: %s", e)
             result["quality_error"] = str(e)
+            send_alert(f"🚨 Filter B 크래시: {str(e)[:200]}")
 
         # 4. Ingest
         ingested = ingest(conn)
@@ -198,8 +213,7 @@ def main():
         hn = collect_hackernews(conn)
         fred = collect_fred(conn)
         ecos = collect_ecos(conn)
-        finnhub = collect_finnhub(conn)
-        print(f"Collected: RSS={rss} HN={hn} FRED={fred} ECOS={ecos} Finnhub={finnhub}")
+        print(f"Collected: RSS={rss} HN={hn} FRED={fred} ECOS={ecos}")
     elif mode == "filter":
         tp, tf = filter_topic(conn)
         qp, qf = filter_quality(conn)

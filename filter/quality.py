@@ -16,15 +16,22 @@ from wiki.pages import list_pages
 
 logger = logging.getLogger(__name__)
 
-BATCH_SIZE = 5
+BATCH_SIZE = 3
+
+
+MAX_INDEX_CONTEXT = 4000  # chars - prevent prompt bloat
+MAX_PAGE_LIST = 8000  # chars
 
 
 def _load_index_md(domain):
-    """Load existing index.md for context."""
+    """Load existing index.md for context (truncated to prevent prompt bloat)."""
     path = f"vault/{domain}/index.md"
     if os.path.exists(path):
         with open(path) as f:
-            return f.read()
+            content = f.read()
+        if len(content) > MAX_INDEX_CONTEXT:
+            return content[:MAX_INDEX_CONTEXT] + "\n... (이하 생략)"
+        return content
     return "(아직 인덱스 없음)"
 
 
@@ -129,11 +136,13 @@ def filter_quality(conn, threshold=None):
     for domain, domain_sources in by_domain.items():
         index_context = _load_index_md(domain)
 
-        # Load existing page list for routing context
+        # Load existing page list for routing context (truncated)
         existing = list_pages(conn, domain=domain)
         page_list = "\n".join(f"- {p['title']}" for p in existing)
         if not page_list:
             page_list = "(아직 페이지 없음)"
+        elif len(page_list) > MAX_PAGE_LIST:
+            page_list = page_list[:MAX_PAGE_LIST] + "\n... (이하 생략)"
 
         # Process in batches
         for i in range(0, len(domain_sources), BATCH_SIZE):
