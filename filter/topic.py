@@ -27,7 +27,7 @@ KNOWN_CRYPTO_FEEDS = {
 
 
 def call_haiku(title, content, conn):
-    """Call Claude CLI to classify topic. Returns dict with domain + confidence."""
+    """Call Codex CLI to classify topic. Returns dict with domain + confidence."""
     cfg = get_config()
     max_len = cfg["filter"]["max_content_length_topic"]
     prompt = (
